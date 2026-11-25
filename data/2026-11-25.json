@@ -3,6 +3,122 @@
  "date": "2026-11-25",
  "items": [
   {
+   "id": "047a11c16678dd35",
+   "title": "We’re Eyeing These Coach Handbags & Accessories This Black Friday — Especially Now That They’re Over 80% Off",
+   "url": "https://wwd.com/shop/shop-fashion/coach-black-friday-handbags-accessories-sale-2026-1239466136",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-25T18:56:17+00:00",
+   "summary": "After sifting through the markdowns, here are the Coach finds that deserve your attention (and a little room in your closet).",
+   "topics": [],
+   "retrieved_at": "2026-11-25T19:07:07+00:00",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-25T19:07:07+00:00"
+    }
+   ]
+  },
+  {
+   "id": "a7e443a4dc49eac0",
+   "title": "24 Hours with Red Bull during Latin Music’s Busiest Week",
+   "url": "https://hypebeast.com/2026/11/24-hours-with-red-bull-during-latin-grammys-2026-hypebeast-latam-info",
+   "publisher": "Hypebeast",
+   "kind": "news",
+   "published_at": "2026-11-25T18:51:49+00:00",
+   "summary": "Red Bull kept the energy flowing as Hypebeast LATAM returned to Las Vegas during Latin GRAMMY Week. From an exclusive interview suite at the Encore Tower Suites to dinner at Zero Bond, an after-hours celebration at Disco Bébé and a five-kilometer morning run, the brand joined a…",
+   "topics": [],
+   "retrieved_at": "2026-11-25T19:07:07+00:00",
+   "sightings": [
+    {
+     "source_id": "hypebeast",
+     "retrieved_at": "2026-11-25T19:07:07+00:00"
+    }
+   ]
+  },
+  {
+   "id": "8ebe90189aef8713",
+   "title": "Where to Watch the Philipp Plein Documentary Series Streaming Online for Free",
+   "url": "https://wwd.com/shop/shop-fashion/watch-philipp-plein-documentary-show-streaming-online-free-1239466135",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-25T18:49:10+00:00",
+   "summary": "In an Instagram post promoting the show, the fashion designer wrote that he was \"opening the doors to my world like never before.\"",
+   "topics": [
+    {
+     "name": "fashion",
+     "score": 0.33
+    }
+   ],
+   "retrieved_at": "2026-11-25T19:07:07+00:00",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-25T19:07:07+00:00"
+    }
+   ]
+  },
+  {
+   "id": "f70cdf0bad67cadb",
+   "title": "North-South Shipping Could Get its First Global Vessel-Sharing Alliance",
+   "url": "https://wwd.com/sourcing-journal/logistics/maersk-one-north-south-shipping-vessel-sharing-alliance-ocean-carriers-1239466190",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-25T18:32:41+00:00",
+   "summary": "Maersk and ONE are reportedly exploring an agreement covering north-south trade lanes, a break from the usual east-west cooperations.",
+   "topics": [],
+   "retrieved_at": "2026-11-25T19:07:07+00:00",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-25T19:07:07+00:00"
+    }
+   ]
+  },
+  {
+   "id": "4e7d2cbcfdac1f28",
+   "title": "Nike’s Remastered Air Force 1 Sneaker Is Getting a Limited-Edition Metallic Makeover",
+   "url": "https://wwd.com/footwear-news/sneaker-news/nike-air-force-1-01-low-qs-metallic-platinum-release-date-ja0247-001-1239466239",
+   "publisher": "Footwear News",
+   "kind": "news",
+   "published_at": "2026-11-25T18:23:04+00:00",
+   "summary": "The Air Force 1 '01 QS is expected to be released soon.",
+   "topics": [],
+   "retrieved_at": "2026-11-25T19:07:07+00:00",
+   "sightings": [
+    {
+     "source_id": "footwearnews",
+     "retrieved_at": "2026-11-25T19:07:07+00:00"
+    },
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-25T19:07:07+00:00"
+    }
+   ]
+  },
+  {
+   "id": "bb206d635b7084e3",
+   "title": "NANGA to Host Limited-Time Pop-Up Store in New York",
+   "url": "https://hypebeast.com/2026/11/nanga-host-limited-time-pop-up-store-new-york",
+   "publisher": "Hypebeast",
+   "kind": "news",
+   "published_at": "2026-11-25T18:08:35+00:00",
+   "summary": "Summary Japanese outdoor brand NANGA is opening a New York pop-up at 325 Canal Street from December 4 to 21.The store will stock NANGA’s signature down apparel, sleeping bags, comforters, accessories, and pieces from MODMNT.An accompanying exhibition will explore the brand’s…",
+   "topics": [
+    {
+     "name": "retail",
+     "score": 0.83
+    }
+   ],
+   "retrieved_at": "2026-11-25T19:07:07+00:00",
+   "sightings": [
+    {
+     "source_id": "hypebeast",
+     "retrieved_at": "2026-11-25T19:07:07+00:00"
+    }
+   ]
+  },
+  {
    "id": "74a97830a79b191c",
    "title": "Independently Verified Cashmere Gains Ground as Demand Grows",
    "url": "https://wwd.com/sourcing-journal/industry-news/good-standard-cashmere-gains-ground-as-demand-grows-1239466140",
@@ -3310,9 +3426,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2410,
-   "runs": 7,
-   "items_run": 70
+   "elapsed_ms": 2478,
+   "runs": 8,
+   "items_run": 80
   },
   {
    "id": "arxiv_video",
@@ -3320,9 +3436,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 3477,
-   "runs": 7,
-   "items_run": 105
+   "elapsed_ms": 3611,
+   "runs": 8,
+   "items_run": 120
   },
   {
    "id": "footwearnews",
@@ -3330,9 +3446,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2130,
-   "runs": 7,
-   "items_run": 70
+   "elapsed_ms": 2200,
+   "runs": 8,
+   "items_run": 80
   },
   {
    "id": "github_tryon",
@@ -3340,9 +3456,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1514,
-   "runs": 7,
-   "items_run": 70
+   "elapsed_ms": 2030,
+   "runs": 8,
+   "items_run": 80
   },
   {
    "id": "github_video",
@@ -3350,9 +3466,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 7014,
-   "runs": 7,
-   "items_run": 70
+   "elapsed_ms": 6490,
+   "runs": 8,
+   "items_run": 80
   },
   {
    "id": "glossy",
@@ -3360,9 +3476,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1059,
-   "runs": 7,
-   "items_run": 140
+   "elapsed_ms": 1071,
+   "runs": 8,
+   "items_run": 160
   },
   {
    "id": "hypebeast",
@@ -3370,9 +3486,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1164,
-   "runs": 7,
-   "items_run": 135
+   "elapsed_ms": 1123,
+   "runs": 8,
+   "items_run": 154
   },
   {
    "id": "retaildive",
@@ -3380,9 +3496,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1066,
-   "runs": 7,
-   "items_run": 70
+   "elapsed_ms": 1102,
+   "runs": 8,
+   "items_run": 80
   },
   {
    "id": "wwd",
@@ -3390,30 +3506,30 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2876,
-   "runs": 7,
-   "items_run": 70
+   "elapsed_ms": 1046,
+   "runs": 8,
+   "items_run": 80
   }
  ],
  "stats": {
-  "items": 145,
+  "items": 151,
   "by_topic": {
    "tooling": 25,
+   "fashion": 14,
    "research": 14,
-   "fashion": 13,
-   "retail": 12,
+   "retail": 13,
    "beauty": 11,
    "ai-video": 10
   },
   "by_kind": {
-   "news": 99,
+   "news": 105,
    "paper": 25,
    "repo": 21
   },
   "rules_version": "1",
-  "duplicates_in_run": 110,
+  "duplicates_in_run": 107,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-25T18:07:13+00:00",
+ "updated_at": "2026-11-25T19:07:07+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
