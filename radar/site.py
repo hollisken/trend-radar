@@ -55,6 +55,6 @@ def build(data_dir: Path, days: int = 7) -> str:
                 parts.append(f'<li><strong>{label}</strong> — <a href="{url}" rel="noopener nofollow" '
                              f'target="_blank">{title}</a> <span class="meta">{publisher}</span></li>')
             parts.append("</ul>")
-        parts.append(f'<p class="meta"><a href="digest/{date}.md">Digest · 日报</a></p>')
+        parts.append(f'<p class="meta"><a href="../digest/{date}.md">Digest · 日报</a></p>')
     parts.append("</body></html>")
     return "\n".join(parts) + "\n"
