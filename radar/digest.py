@@ -63,7 +63,7 @@ def build_digest(date: str, current: dict, previous: dict | None = None) -> str:
               f"- Items: {stats.get('items', 0)} (vs previous day: {delta or 'n/a'})",
               f"- Sources ok: {len(ok)}/{len(sources)}; failing: "
               + (", ".join(f"{row['id']} ({row['error']})" for row in failed) or "none"),
-              f"- Duplicates collapsed: {stats.get('duplicates_in_run', 0)}; "
+              f"- Re-sightings merged in the latest pass: {stats.get('duplicates_in_run', 0)}; "
               f"shared headlines kept: {stats.get('title_duplicates', 0)}",
               "- Topics: " + ", ".join(f"{TOPIC_EN.get(name, name)} {count}"
                                        for name, count in topics.items())]
@@ -81,7 +81,7 @@ def build_digest(date: str, current: dict, previous: dict | None = None) -> str:
               f"- 条目：{stats.get('items', 0)} 条（较前一日 {delta or '无对比'}）",
               f"- 正常来源：{len(ok)}/{len(sources)}；异常："
               + ("、".join(f"{row['id']}（{row['error']}）" for row in failed) or "无"),
-              f"- 合并重复：{stats.get('duplicates_in_run', 0)} 条；标题相同但链接不同："
+              f"- 最近一轮合并的重复收录：{stats.get('duplicates_in_run', 0)} 条；标题相同但链接不同："
               f"{stats.get('title_duplicates', 0)} 条",
               "- 主题分布：" + "，".join(f"{TOPIC_ZH.get(name, name)} {count}"
                                         for name, count in topics.items())]
