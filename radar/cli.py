@@ -168,7 +168,7 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--data-dir", dest="data_dir", default=str(DEFAULT_DATA))
     p.add_argument("--days", type=int, default=7)
     p.add_argument("--digest-dir", dest="digest_dir", default=str(DEFAULT_DIGEST))
-    p.add_argument("--out", default="site/index.html")
+    p.add_argument("--out", default="docs/index.html")
     p.set_defaults(func=cmd_site)
 
     args = parser.parse_args(argv)
