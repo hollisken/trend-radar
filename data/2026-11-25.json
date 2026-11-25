@@ -3,6 +3,211 @@
  "date": "2026-11-25",
  "items": [
   {
+   "id": "e5bad4b33625c222",
+   "title": "Material World: Spinnova Restarts Production",
+   "url": "https://wwd.com/sourcing-journal/sustainability/material-world-spinnova-karl-mayer-pine-needles-1239464782",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-25T16:00:00+00:00",
+   "summary": "Karl Mayer debuts a faster spacer fabric machine as a student explores whether pine needles could help capture textile microfibers.",
+   "topics": [],
+   "retrieved_at": "2026-11-25T16:07:09+00:00",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-25T16:07:09+00:00"
+    }
+   ]
+  },
+  {
+   "id": "461e944d7cabc541",
+   "title": "Gorpcore Is Men’s Biggest Fashion Trend This Month",
+   "url": "https://wwd.com/sourcing-journal/sj-denim/trendalytics-november-trend-data-gorpcore-zebra-prints-1239463163",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-25T16:00:00+00:00",
+   "summary": "Trendalytics said performance apparel continues to see gains in the men’s category.",
+   "topics": [
+    {
+     "name": "fashion",
+     "score": 0.67
+    }
+   ],
+   "retrieved_at": "2026-11-25T16:07:09+00:00",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-25T16:07:09+00:00"
+    }
+   ]
+  },
+  {
+   "id": "95a74aa20898033e",
+   "title": "Holiday marketing hits inflection point in 2026: What brands need to know",
+   "url": "https://www.retaildive.com/news/holiday-marketing-hits-inflection-point-in-2026-what-brands-need-to-know/875056",
+   "publisher": "Retail Dive",
+   "kind": "news",
+   "published_at": "2026-11-25T15:57:00+00:00",
+   "summary": "Consumers’ push-pull relationship with buzzy tactics like AI and tried-and-true strategies like creator tie-ups is challenging brands to find the right balance.",
+   "topics": [],
+   "retrieved_at": "2026-11-25T16:07:09+00:00",
+   "sightings": [
+    {
+     "source_id": "retaildive",
+     "retrieved_at": "2026-11-25T16:07:09+00:00"
+    }
+   ]
+  },
+  {
+   "id": "fe77bd038b05d06a",
+   "title": "Jennifer Barreto Becomes the First Mom to Win Miss Universe, Just Three Years After a Rule Change",
+   "url": "https://wwd.com/pop-culture/culture-news/jennifer-barreto-first-mother-miss-universe-2026-1239465715",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-25T15:53:05+00:00",
+   "summary": "The 27-year-old Puerto Rican social worker and mother of a 7-year-old daughter claimed the crown on home soil in her first year of pageant competition.",
+   "topics": [],
+   "retrieved_at": "2026-11-25T16:07:09+00:00",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-25T16:07:09+00:00"
+    }
+   ]
+  },
+  {
+   "id": "b1f9c93e5f6c6d65",
+   "title": "Stella McCartney Enlists Joan Collins for Festive Campaign",
+   "url": "https://wwd.com/fashion-news/fashion-scoops/stella-mccartney-joan-collins-festive-campaign-2026-1239465639",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-25T15:42:04+00:00",
+   "summary": "The two traded playful exchanges in an intentionally unpolished, intimate series of scenes while sporting looks from the designer’s spring 2027 collection.",
+   "topics": [
+    {
+     "name": "fashion",
+     "score": 0.33
+    }
+   ],
+   "retrieved_at": "2026-11-25T16:07:09+00:00",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-25T16:07:09+00:00"
+    }
+   ]
+  },
+  {
+   "id": "9fba8167a833d872",
+   "title": "Rick Owens Updates Moncler’s Trailgrip Boot in Newest Collab",
+   "url": "https://wwd.com/footwear-news/shoe-industry-news/rick-owens-moncler-trailgrip-pentalace-boot-release-date-1239465848",
+   "publisher": "Footwear News",
+   "kind": "news",
+   "published_at": "2026-11-25T15:41:04+00:00",
+   "summary": "The shoe was previewed in June at an event at Moncler’s new global headquarters in Milan.",
+   "topics": [],
+   "retrieved_at": "2026-11-25T16:07:09+00:00",
+   "sightings": [
+    {
+     "source_id": "footwearnews",
+     "retrieved_at": "2026-11-25T16:07:09+00:00"
+    },
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-25T16:07:09+00:00"
+    }
+   ]
+  },
+  {
+   "id": "f8cc89008c704556",
+   "title": "K-Way Beefs Up Management With Chief Product Officer Appointment",
+   "url": "https://wwd.com/business-news/human-resources/k-way-names-edouard-gros-chief-product-officer-1239465617",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-25T15:38:47+00:00",
+   "summary": "The North Face alum Edouard Gros was named to the newly created role, joining a strengthened leadership team as K-Way seeks growth.",
+   "topics": [],
+   "retrieved_at": "2026-11-25T16:07:09+00:00",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-25T16:07:09+00:00"
+    }
+   ]
+  },
+  {
+   "id": "f2373ce9e59e3edd",
+   "title": "NYC Jewelry Week Names Inaugural Here We Are High School Award Winner",
+   "url": "https://wwd.com/accessories-news/jewelry/nyc-jewelry-week-inaugural-here-we-are-high-school-winner-1239465374",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-25T15:31:03+00:00",
+   "summary": "Sponsored by Rio Grande, the award aims to nurture the next generation of jewelry talent.",
+   "topics": [],
+   "retrieved_at": "2026-11-25T16:07:09+00:00",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-25T16:07:09+00:00"
+    }
+   ]
+  },
+  {
+   "id": "268bcfa3f1b29809",
+   "title": "Zamna Will Bring 10 Days of Global Dance Music to Tulum for Landmark 10th Anniversary",
+   "url": "https://hypebeast.com/2026/11/zamna-10-anniversary-festival-event-info",
+   "publisher": "Hypebeast",
+   "kind": "news",
+   "published_at": "2026-11-25T15:30:39+00:00",
+   "summary": "The Tulum jungle in Mexico has been integral to Zamna’s rise, hosting its first music festival back in 2017. Though the culture and hospitality group has taken the festival to over 20 countries since its inception, it returns to its roots for Zamna’s 10th anniversary with a…",
+   "topics": [],
+   "retrieved_at": "2026-11-25T16:07:09+00:00",
+   "sightings": [
+    {
+     "source_id": "hypebeast",
+     "retrieved_at": "2026-11-25T16:07:09+00:00"
+    }
+   ]
+  },
+  {
+   "id": "b99a54afc5797516",
+   "title": "Nike’s Gyakusou Running Line Was Ahead of Its Time — Now It Will Release Its First Shoes in Five Years",
+   "url": "https://wwd.com/footwear-news/sneaker-news/nike-gyakusou-alphafly-4-vomero-plus-release-date-1239463981",
+   "publisher": "Footwear News",
+   "kind": "news",
+   "published_at": "2026-11-25T15:24:00+00:00",
+   "summary": "Undercover founder Jun Takahashi brings his touch to the Alphafly 4 and Vomero Plus.",
+   "topics": [],
+   "retrieved_at": "2026-11-25T16:07:09+00:00",
+   "sightings": [
+    {
+     "source_id": "footwearnews",
+     "retrieved_at": "2026-11-25T16:07:09+00:00"
+    },
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-25T16:07:09+00:00"
+    }
+   ]
+  },
+  {
+   "id": "2d974e3c60b1c670",
+   "title": "Boucheron’s U.S. Business Nearly Triples as the House Expands to Orange County",
+   "url": "https://wwd.com/accessories-news/jewelry/boucherons-business-nearly-triples-expand-orange-county-1239462882",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-25T15:12:23+00:00",
+   "summary": "The French high jewelry brand has opened its fourth American boutique at South Coast Plaza, betting on Southern California’s established wealth as its U.S. clientele broadens beyond high jewelry collectors.",
+   "topics": [],
+   "retrieved_at": "2026-11-25T16:07:09+00:00",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-25T16:07:09+00:00"
+    }
+   ]
+  },
+  {
    "id": "443a33e4a7a824d1",
    "title": "codeby-narendra/visual-try-on",
    "url": "https://github.com/codeby-narendra/visual-try-on",
@@ -2861,9 +3066,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2081,
-   "runs": 4,
-   "items_run": 40
+   "elapsed_ms": 3987,
+   "runs": 5,
+   "items_run": 50
   },
   {
    "id": "arxiv_video",
@@ -2871,9 +3076,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 3496,
-   "runs": 4,
-   "items_run": 60
+   "elapsed_ms": 2399,
+   "runs": 5,
+   "items_run": 75
   },
   {
    "id": "footwearnews",
@@ -2881,9 +3086,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2166,
-   "runs": 4,
-   "items_run": 40
+   "elapsed_ms": 2203,
+   "runs": 5,
+   "items_run": 50
   },
   {
    "id": "github_tryon",
@@ -2891,9 +3096,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1606,
-   "runs": 4,
-   "items_run": 40
+   "elapsed_ms": 1550,
+   "runs": 5,
+   "items_run": 50
   },
   {
    "id": "github_video",
@@ -2901,9 +3106,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 6974,
-   "runs": 4,
-   "items_run": 40
+   "elapsed_ms": 6899,
+   "runs": 5,
+   "items_run": 50
   },
   {
    "id": "glossy",
@@ -2911,9 +3116,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1056,
-   "runs": 4,
-   "items_run": 80
+   "elapsed_ms": 1071,
+   "runs": 5,
+   "items_run": 100
   },
   {
    "id": "hypebeast",
@@ -2921,9 +3126,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1085,
-   "runs": 4,
-   "items_run": 78
+   "elapsed_ms": 1152,
+   "runs": 5,
+   "items_run": 97
   },
   {
    "id": "retaildive",
@@ -2931,9 +3136,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1056,
-   "runs": 4,
-   "items_run": 40
+   "elapsed_ms": 1067,
+   "runs": 5,
+   "items_run": 50
   },
   {
    "id": "wwd",
@@ -2941,30 +3146,30 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1047,
-   "runs": 4,
-   "items_run": 40
+   "elapsed_ms": 1044,
+   "runs": 5,
+   "items_run": 50
   }
  ],
  "stats": {
-  "items": 121,
+  "items": 132,
   "by_topic": {
    "tooling": 24,
    "research": 14,
-   "fashion": 11,
+   "fashion": 13,
    "retail": 11,
    "ai-video": 10,
    "beauty": 10
   },
   "by_kind": {
-   "news": 75,
+   "news": 86,
    "paper": 25,
    "repo": 21
   },
   "rules_version": "1",
-  "duplicates_in_run": 108,
+  "duplicates_in_run": 100,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-25T15:07:16+00:00",
+ "updated_at": "2026-11-25T16:07:09+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
