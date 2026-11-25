@@ -2745,9 +2745,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2886,
-   "runs": 1,
-   "items_run": 10
+   "elapsed_ms": 2088,
+   "runs": 2,
+   "items_run": 20
   },
   {
    "id": "arxiv_video",
@@ -2755,9 +2755,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 3099,
-   "runs": 1,
-   "items_run": 15
+   "elapsed_ms": 3488,
+   "runs": 2,
+   "items_run": 30
   },
   {
    "id": "footwearnews",
@@ -2765,9 +2765,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2195,
-   "runs": 1,
-   "items_run": 10
+   "elapsed_ms": 2094,
+   "runs": 2,
+   "items_run": 20
   },
   {
    "id": "github_tryon",
@@ -2776,8 +2776,8 @@
    "items": 10,
    "error": "",
    "elapsed_ms": 1560,
-   "runs": 1,
-   "items_run": 10
+   "runs": 2,
+   "items_run": 20
   },
   {
    "id": "github_video",
@@ -2785,9 +2785,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 6962,
-   "runs": 1,
-   "items_run": 10
+   "elapsed_ms": 6918,
+   "runs": 2,
+   "items_run": 20
   },
   {
    "id": "glossy",
@@ -2795,9 +2795,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1063,
-   "runs": 1,
-   "items_run": 20
+   "elapsed_ms": 1069,
+   "runs": 2,
+   "items_run": 40
   },
   {
    "id": "hypebeast",
@@ -2805,9 +2805,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1171,
-   "runs": 1,
-   "items_run": 20
+   "elapsed_ms": 1099,
+   "runs": 2,
+   "items_run": 40
   },
   {
    "id": "retaildive",
@@ -2815,9 +2815,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1059,
-   "runs": 1,
-   "items_run": 10
+   "elapsed_ms": 1057,
+   "runs": 2,
+   "items_run": 20
   },
   {
    "id": "wwd",
@@ -2825,9 +2825,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1050,
-   "runs": 1,
-   "items_run": 10
+   "elapsed_ms": 1049,
+   "runs": 2,
+   "items_run": 20
   }
  ],
  "stats": {
@@ -2846,9 +2846,9 @@
    "repo": 20
   },
   "rules_version": "1",
-  "duplicates_in_run": 0,
+  "duplicates_in_run": 115,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-25T14:30:26+00:00",
+ "updated_at": "2026-11-25T14:31:59+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
