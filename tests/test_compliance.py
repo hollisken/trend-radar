@@ -10,7 +10,7 @@ sys.path.insert(0, str(ROOT))
 
 # Built from fragments so this file does not itself contain the literals it forbids.
 FORBIDDEN = [
-    "".join(["/data-4T", "/feprg"]),
+    "".join(["/data", "-4T", "/feprg"]),
     "".join(["/var/lib/", "skyeye"]),
     "".join(["/etc/", "skyeye"]),
     "".join(["/opt/", "skyeye-node"]),
