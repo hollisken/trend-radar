@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import html
 import json
+import re
 from pathlib import Path
 
 from .digest import TOPIC_EN, TOPIC_ZH, _highlights
@@ -55,6 +56,68 @@ def build(data_dir: Path, days: int = 7) -> str:
                 parts.append(f'<li><strong>{label}</strong> — <a href="{url}" rel="noopener nofollow" '
                              f'target="_blank">{title}</a> <span class="meta">{publisher}</span></li>')
             parts.append("</ul>")
-        parts.append(f'<p class="meta"><a href="../digest/{date}.md">Digest · 日报</a></p>')
+        parts.append(f'<p class="meta"><a href="digest/{date}.html">Digest · 日报</a></p>')
     parts.append("</body></html>")
     return "\n".join(parts) + "\n"
+
+
+LINK = re.compile(r"\[([^\]]+)\]\(([^)\s]+)\)")
+BOLD = re.compile(r"\*\*([^*]+)\*\*")
+
+
+def render_markdown(text: str) -> str:
+    """Render the small Markdown subset used by the digest; everything is escaped first."""
+    out: list[str] = []
+    in_list = False
+
+    def close_list() -> None:
+        nonlocal in_list
+        if in_list:
+            out.append("</ul>")
+            in_list = False
+
+    for raw in text.splitlines():
+        line = raw.rstrip()
+        escaped = html.escape(line)
+        escaped = LINK.sub(lambda m: f'<a href="{m.group(2)}" rel="noopener nofollow">{m.group(1)}</a>',
+                           escaped)
+        escaped = BOLD.sub(r"<strong>\1</strong>", escaped)
+        if not line.strip():
+            close_list()
+            continue
+        if line.startswith("## "):
+            close_list()
+            out.append(f"<h2>{escaped[3:]}</h2>")
+        elif line.startswith("# "):
+            close_list()
+            out.append(f"<h1>{escaped[2:]}</h1>")
+        elif line.strip() == "---":
+            close_list()
+            out.append("<hr>")
+        elif line.startswith("- "):
+            if not in_list:
+                out.append("<ul>")
+                in_list = True
+            out.append(f"<li>{escaped[2:]}</li>")
+        else:
+            close_list()
+            out.append(f"<p>{escaped}</p>")
+    close_list()
+    return "\n".join(out)
+
+
+def build_digest_pages(digest_dir: Path, site_dir: Path) -> int:
+    """Render every digest/*.md into site/digest/*.html so the published site is self-contained."""
+    target = site_dir / "digest"
+    target.mkdir(parents=True, exist_ok=True)
+    count = 0
+    for path in sorted(digest_dir.glob("20??-??-??.md")):
+        body = render_markdown(path.read_text(encoding="utf-8"))
+        page = ("<!doctype html>\n<html lang=\"en\"><head><meta charset=\"utf-8\">"
+                "<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\">"
+                f"<title>Trend Radar · {path.stem}</title><style>{STYLE}</style></head><body>"
+                f"{body}\n<p class=\"meta\"><a href=\"../index.html\">← Trend Radar</a></p>"
+                "</body></html>\n")
+        (target / f"{path.stem}.html").write_text(page, encoding="utf-8")
+        count += 1
+    return count

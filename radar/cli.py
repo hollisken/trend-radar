@@ -133,8 +133,10 @@ def cmd_digest(args) -> int:
 
 def cmd_site(args) -> int:
     html_text = site_mod.build(Path(args.data_dir), days=args.days)
-    _write(Path(args.out), html_text)
-    print(json.dumps({"site": str(args.out)}, ensure_ascii=False))
+    out = Path(args.out)
+    _write(out, html_text)
+    pages = site_mod.build_digest_pages(Path(args.digest_dir), out.parent)
+    print(json.dumps({"site": str(out), "digest_pages": pages}, ensure_ascii=False))
     return 0
 
 
@@ -165,6 +167,7 @@ def main(argv: list[str] | None = None) -> int:
     p = sub.add_parser("site", help="build the static index page")
     p.add_argument("--data-dir", dest="data_dir", default=str(DEFAULT_DATA))
     p.add_argument("--days", type=int, default=7)
+    p.add_argument("--digest-dir", dest="digest_dir", default=str(DEFAULT_DIGEST))
     p.add_argument("--out", default="site/index.html")
     p.set_defaults(func=cmd_site)
 
