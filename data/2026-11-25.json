@@ -3,6 +3,23 @@
  "date": "2026-11-25",
  "items": [
   {
+   "id": "ec481a449d44a470",
+   "title": "Too Much, Too Little: Bangladesh’s Wage Hike Pleases No One",
+   "url": "https://wwd.com/sourcing-journal/sustainability/bangladesh-minimum-wage-increase-garment-workers-1239466520",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-25T22:58:46+00:00",
+   "summary": "The sector's smallest percentage raise in four decades has left workers short of their demands and manufacturers pressing brands to share the cost.",
+   "topics": [],
+   "retrieved_at": "2026-11-25T23:07:18+00:00",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-25T23:07:18+00:00"
+    }
+   ]
+  },
+  {
    "id": "8be73ddc18b1f87b",
    "title": "Michael Kors Bags Are Up to 75% Off for Black Friday, With Viral ‘Hamilton’ Satchel Among Discounted Picks",
    "url": "https://wwd.com/shop/shop-fashion/michael-kors-black-friday-sale-2026-purse-tote-deal-discount-1239429104",
@@ -3631,9 +3648,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2803,
-   "runs": 11,
-   "items_run": 110
+   "elapsed_ms": 9202,
+   "runs": 12,
+   "items_run": 120
   },
   {
    "id": "arxiv_video",
@@ -3641,9 +3658,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 3764,
-   "runs": 11,
-   "items_run": 165
+   "elapsed_ms": 11802,
+   "runs": 12,
+   "items_run": 180
   },
   {
    "id": "footwearnews",
@@ -3651,9 +3668,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2098,
-   "runs": 11,
-   "items_run": 110
+   "elapsed_ms": 2193,
+   "runs": 12,
+   "items_run": 120
   },
   {
    "id": "github_tryon",
@@ -3661,9 +3678,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1549,
-   "runs": 11,
-   "items_run": 110
+   "elapsed_ms": 1632,
+   "runs": 12,
+   "items_run": 120
   },
   {
    "id": "github_video",
@@ -3671,9 +3688,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 8275,
-   "runs": 11,
-   "items_run": 110
+   "elapsed_ms": 6919,
+   "runs": 12,
+   "items_run": 120
   },
   {
    "id": "glossy",
@@ -3681,9 +3698,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1123,
-   "runs": 11,
-   "items_run": 220
+   "elapsed_ms": 1090,
+   "runs": 12,
+   "items_run": 240
   },
   {
    "id": "hypebeast",
@@ -3691,9 +3708,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1158,
-   "runs": 11,
-   "items_run": 211
+   "elapsed_ms": 7988,
+   "runs": 12,
+   "items_run": 230
   },
   {
    "id": "retaildive",
@@ -3701,9 +3718,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1091,
-   "runs": 11,
-   "items_run": 110
+   "elapsed_ms": 1060,
+   "runs": 12,
+   "items_run": 120
   },
   {
    "id": "wwd",
@@ -3711,13 +3728,13 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 3152,
-   "runs": 11,
-   "items_run": 110
+   "elapsed_ms": 1045,
+   "runs": 12,
+   "items_run": 120
   }
  ],
  "stats": {
-  "items": 162,
+  "items": 163,
   "by_topic": {
    "tooling": 25,
    "retail": 15,
@@ -3727,14 +3744,14 @@
    "ai-video": 10
   },
   "by_kind": {
-   "news": 116,
+   "news": 117,
    "paper": 25,
    "repo": 21
   },
   "rules_version": "1",
-  "duplicates_in_run": 107,
+  "duplicates_in_run": 111,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-25T22:07:18+00:00",
+ "updated_at": "2026-11-25T23:07:18+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
