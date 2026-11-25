@@ -3,6 +3,79 @@
  "date": "2026-11-25",
  "items": [
   {
+   "id": "fbc4c350b3ddd490",
+   "title": "Turning Black Friday Bargain Hunters Into Long-Term Customers",
+   "url": "https://wwd.com/sourcing-journal/industry-news/turning-bargain-hunters-into-long-term-customers-1239466291",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-25T19:51:09+00:00",
+   "summary": "AI can drive product discovery and help retailers build loyalty beyond the first discount.",
+   "topics": [
+    {
+     "name": "retail",
+     "score": 0.33
+    }
+   ],
+   "retrieved_at": "2026-11-25T20:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-25T20:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "f6790ff0c4d1656e",
+   "title": "Shuffle Board: SML Group Names Jeffrey Fielkow CEO",
+   "url": "https://wwd.com/sourcing-journal/industry-news/shuffle-board-sml-group-lululemon-next-level-apparel-1239465226",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-25T19:42:10+00:00",
+   "summary": "Fielkow succeeds Lau on Jan. 1, Lululemon hires Ralph Lauren’s Paula Conhain to lead communications and Next Level Apparel adds seven hires.",
+   "topics": [],
+   "retrieved_at": "2026-11-25T20:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-25T20:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "87a610c026e1d726",
+   "title": "Princess Diana’s Summer Outfits for Royal Ascot, Polo to Go Under the Hammer at Kerry Taylor Auctions",
+   "url": "https://wwd.com/fashion-news/fashion-scoops/princess-diana-outfits-royal-ascot-polo-kerry-taylor-sale-1239466215",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-25T19:09:36+00:00",
+   "summary": "The auction, which will take place in London on Dec. 10, features a Catherine Walker suit with pastel tulips and a silk skirt by Paul Costelloe.",
+   "topics": [],
+   "retrieved_at": "2026-11-25T20:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-25T20:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "3cd337fb43e9d96c",
+   "title": "Conquering the Holiday Gift Scramble at Lids",
+   "url": "https://hypebeast.com/2026/11/conquering-the-holiday-gift-scramble-at-lids",
+   "publisher": "Hypebeast",
+   "kind": "news",
+   "published_at": "2026-11-25T19:05:38+00:00",
+   "summary": "With the holiday season just around the corner, finding the perfect gift for coworkers can often feel like an insurmountable task. As offices prepare for end-of-year celebrations, Lids is making the dreaded holiday scramble easier by offering an endless rotation of customizable…",
+   "topics": [],
+   "retrieved_at": "2026-11-25T20:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "hypebeast",
+     "retrieved_at": "2026-11-25T20:07:15+00:00"
+    }
+   ]
+  },
+  {
    "id": "047a11c16678dd35",
    "title": "We’re Eyeing These Coach Handbags & Accessories This Black Friday — Especially Now That They’re Over 80% Off",
    "url": "https://wwd.com/shop/shop-fashion/coach-black-friday-handbags-accessories-sale-2026-1239466136",
@@ -3426,9 +3499,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2478,
-   "runs": 8,
-   "items_run": 80
+   "elapsed_ms": 2483,
+   "runs": 9,
+   "items_run": 90
   },
   {
    "id": "arxiv_video",
@@ -3436,9 +3509,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 3611,
-   "runs": 8,
-   "items_run": 120
+   "elapsed_ms": 3344,
+   "runs": 9,
+   "items_run": 135
   },
   {
    "id": "footwearnews",
@@ -3446,9 +3519,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2200,
-   "runs": 8,
-   "items_run": 80
+   "elapsed_ms": 2177,
+   "runs": 9,
+   "items_run": 90
   },
   {
    "id": "github_tryon",
@@ -3456,9 +3529,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2030,
-   "runs": 8,
-   "items_run": 80
+   "elapsed_ms": 1575,
+   "runs": 9,
+   "items_run": 90
   },
   {
    "id": "github_video",
@@ -3466,9 +3539,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 6490,
-   "runs": 8,
-   "items_run": 80
+   "elapsed_ms": 7155,
+   "runs": 9,
+   "items_run": 90
   },
   {
    "id": "glossy",
@@ -3476,9 +3549,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1071,
-   "runs": 8,
-   "items_run": 160
+   "elapsed_ms": 1065,
+   "runs": 9,
+   "items_run": 180
   },
   {
    "id": "hypebeast",
@@ -3486,9 +3559,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1123,
-   "runs": 8,
-   "items_run": 154
+   "elapsed_ms": 1127,
+   "runs": 9,
+   "items_run": 173
   },
   {
    "id": "retaildive",
@@ -3496,9 +3569,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1102,
-   "runs": 8,
-   "items_run": 80
+   "elapsed_ms": 1098,
+   "runs": 9,
+   "items_run": 90
   },
   {
    "id": "wwd",
@@ -3506,30 +3579,30 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1046,
-   "runs": 8,
-   "items_run": 80
+   "elapsed_ms": 1045,
+   "runs": 9,
+   "items_run": 90
   }
  ],
  "stats": {
-  "items": 151,
+  "items": 155,
   "by_topic": {
    "tooling": 25,
    "fashion": 14,
    "research": 14,
-   "retail": 13,
+   "retail": 14,
    "beauty": 11,
    "ai-video": 10
   },
   "by_kind": {
-   "news": 105,
+   "news": 109,
    "paper": 25,
    "repo": 21
   },
   "rules_version": "1",
-  "duplicates_in_run": 107,
+  "duplicates_in_run": 109,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-25T19:07:07+00:00",
+ "updated_at": "2026-11-25T20:07:15+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
