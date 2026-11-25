@@ -10,6 +10,8 @@ No article bodies, images or paywalled text — see [POLICY.md](POLICY.md).
 Built for cheap, interruptible CPU workers: every step is a bounded batch that can
 be killed and resumed, and the output is plain JSON in git.
 
+**Live site / 在线站点**: <https://hollisken.github.io/trend-radar/> — daily digests as HTML.
+
 ## What it collects / 采集范围
 
 | Family / 类别 | Source / 来源 | Fields / 字段 |
