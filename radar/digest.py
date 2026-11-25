@@ -67,6 +67,9 @@ def build_digest(date: str, current: dict, previous: dict | None = None) -> str:
               f"shared headlines kept: {stats.get('title_duplicates', 0)}",
               "- Topics: " + ", ".join(f"{TOPIC_EN.get(name, name)} {count}"
                                        for name, count in topics.items())]
+    updated = (current.get("updated_at") or "")[:16].replace("T", " ")
+    if updated:
+        lines.append(f"- Data updated: {updated} UTC")
     if previous:
         new_sources = [row["id"] for row in ok
                        if row["id"] not in {item["id"] for item in previous.get("sources", [])}]
@@ -81,7 +84,10 @@ def build_digest(date: str, current: dict, previous: dict | None = None) -> str:
               f"- 合并重复：{stats.get('duplicates_in_run', 0)} 条；标题相同但链接不同："
               f"{stats.get('title_duplicates', 0)} 条",
               "- 主题分布：" + "，".join(f"{TOPIC_ZH.get(name, name)} {count}"
-                                        for name, count in topics.items()),
+                                        for name, count in topics.items())]
+    if updated:
+        lines.append(f"- 数据更新时间：{updated} UTC")
+    lines += [
               "", "数据仅含标题、链接、日期与发布方摘要，不含正文或图片；详见 POLICY.md。", ""]
     return "\n".join(lines)
 

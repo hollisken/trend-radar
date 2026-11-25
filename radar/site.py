@@ -54,7 +54,7 @@ def build(data_dir: Path, days: int = 7) -> str:
                 url = html.escape(item.get("url", ""))
                 publisher = html.escape(item.get("publisher", ""))
                 parts.append(f'<li><strong>{label}</strong> — <a href="{url}" rel="noopener nofollow" '
-                             f'target="_blank">{title}</a> <span class="meta">{publisher}</span></li>')
+                             f'target="_blank">{title}</a> <span class="meta">· {publisher}</span></li>')
             parts.append("</ul>")
         parts.append(f'<p class="meta"><a href="digest/{date}.html">Digest · 日报</a></p>')
     parts.append("</body></html>")

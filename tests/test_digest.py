@@ -18,7 +18,8 @@ def sample(date="2026-11-26", items=3, ok=2, failed=1):
              "publisher": "WWD", "kind": "news", "published_at": "2026-11-26T08:00:00+00:00",
              "summary": "short summary", "topics": [{"name": "fashion", "score": 0.9}]}
             for index in range(items)]
-    return {"date": date, "sources": sources, "items": rows,
+    return {"date": date, "updated_at": "2026-11-26T09:07:12+00:00",
+            "sources": sources, "items": rows,
             "stats": {"items": items, "by_topic": {"fashion": items},
                       "duplicates_in_run": 1, "title_duplicates": 0}}
 
@@ -31,6 +32,8 @@ class DigestTest(unittest.TestCase):
         self.assertIn("Items: 3", text)
         self.assertIn("条目：3 条", text)
         self.assertIn("bad0 (http_403)", text)
+        self.assertIn("Data updated: 2026-11-26 09:07 UTC", text)
+        self.assertIn("数据更新时间：2026-11-26 09:07 UTC", text)
         self.assertIn("Headline 0", text)
 
     def test_deterministic(self):
