@@ -3,6 +3,23 @@
  "date": "2026-11-25",
  "items": [
   {
+   "id": "56dd93d7905b4e73",
+   "title": "Every Winner in Miss Universe History From the Past 75 Years",
+   "url": "https://wwd.com/pop-culture/celebrity-news/lists/miss-universe-winners-list-1235924530",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-25T14:01:00+00:00",
+   "summary": "Jennifer Barreto received the 2026 crown from Mexico's Fátima Bosch in San Juan, giving Puerto Rico its sixth Miss Universe title.",
+   "topics": [],
+   "retrieved_at": "2026-11-25T14:53:36+00:00",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-25T14:53:36+00:00"
+    }
+   ]
+  },
+  {
    "id": "69e8af00b81f7c18",
    "title": "Ariana Greenblatt Talks Feminism and What It Means to Be a Gen Z Role Model",
    "url": "https://wwd.com/pop-culture/celebrity-news/ariana-greenblatt-loreal-stand-up-feminism-gen-z-1239463929",
@@ -2745,9 +2762,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2088,
-   "runs": 2,
-   "items_run": 20
+   "elapsed_ms": 2086,
+   "runs": 3,
+   "items_run": 30
   },
   {
    "id": "arxiv_video",
@@ -2755,9 +2772,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 3488,
-   "runs": 2,
-   "items_run": 30
+   "elapsed_ms": 3489,
+   "runs": 3,
+   "items_run": 45
   },
   {
    "id": "footwearnews",
@@ -2765,9 +2782,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2094,
-   "runs": 2,
-   "items_run": 20
+   "elapsed_ms": 2134,
+   "runs": 3,
+   "items_run": 30
   },
   {
    "id": "github_tryon",
@@ -2775,9 +2792,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1560,
-   "runs": 2,
-   "items_run": 20
+   "elapsed_ms": 1551,
+   "runs": 3,
+   "items_run": 30
   },
   {
    "id": "github_video",
@@ -2785,9 +2802,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 6918,
-   "runs": 2,
-   "items_run": 20
+   "elapsed_ms": 7008,
+   "runs": 3,
+   "items_run": 30
   },
   {
    "id": "glossy",
@@ -2795,9 +2812,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1069,
-   "runs": 2,
-   "items_run": 40
+   "elapsed_ms": 1058,
+   "runs": 3,
+   "items_run": 60
   },
   {
    "id": "hypebeast",
@@ -2805,9 +2822,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1099,
-   "runs": 2,
-   "items_run": 40
+   "elapsed_ms": 1120,
+   "runs": 3,
+   "items_run": 59
   },
   {
    "id": "retaildive",
@@ -2815,9 +2832,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1057,
-   "runs": 2,
-   "items_run": 20
+   "elapsed_ms": 1128,
+   "runs": 3,
+   "items_run": 30
   },
   {
    "id": "wwd",
@@ -2825,13 +2842,13 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1049,
-   "runs": 2,
-   "items_run": 20
+   "elapsed_ms": 1047,
+   "runs": 3,
+   "items_run": 30
   }
  ],
  "stats": {
-  "items": 115,
+  "items": 116,
   "by_topic": {
    "tooling": 23,
    "research": 14,
@@ -2841,14 +2858,14 @@
    "beauty": 10
   },
   "by_kind": {
-   "news": 70,
+   "news": 71,
    "paper": 25,
    "repo": 20
   },
   "rules_version": "1",
-  "duplicates_in_run": 115,
+  "duplicates_in_run": 113,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-25T14:31:59+00:00",
+ "updated_at": "2026-11-25T14:53:36+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
