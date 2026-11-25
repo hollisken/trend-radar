@@ -3,6 +3,53 @@
  "date": "2026-11-25",
  "items": [
   {
+   "id": "8b0bf9be8ac56fd6",
+   "title": "For Shoe Brands, More Tariffs Are on the Way",
+   "url": "https://wwd.com/footwear-news/shoe-industry-news/footwear-tariffs-section-301-china-vietnam-february-2027-1239466305",
+   "publisher": "Footwear News",
+   "kind": "news",
+   "published_at": "2026-11-25T20:50:47+00:00",
+   "summary": "The new Section 301 tariffs could go as high as 20 percent, and could see implementation in late February or March.",
+   "topics": [],
+   "retrieved_at": "2026-11-25T21:07:18+00:00",
+   "sightings": [
+    {
+     "source_id": "footwearnews",
+     "retrieved_at": "2026-11-25T21:07:18+00:00"
+    },
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-25T21:07:18+00:00"
+    }
+   ]
+  },
+  {
+   "id": "f58831c2b49949dd",
+   "title": "Why Kohl’s Footwear Sales Grew in Q3 and Shoe Station’s Didn’t",
+   "url": "https://wwd.com/footwear-news/shoe-industry-news/kohls-value-shoe-station-rebanner-shoe-carnival-1239465927",
+   "publisher": "Footwear News",
+   "kind": "news",
+   "published_at": "2026-11-25T20:08:44+00:00",
+   "summary": "Kohl's focused on value, but Shoe Station's rebannering missed the needs of its value-focused Shoe Carnival customers.",
+   "topics": [
+    {
+     "name": "retail",
+     "score": 0.5
+    }
+   ],
+   "retrieved_at": "2026-11-25T21:07:18+00:00",
+   "sightings": [
+    {
+     "source_id": "footwearnews",
+     "retrieved_at": "2026-11-25T21:07:18+00:00"
+    },
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-25T21:07:18+00:00"
+    }
+   ]
+  },
+  {
    "id": "fbc4c350b3ddd490",
    "title": "Turning Black Friday Bargain Hunters Into Long-Term Customers",
    "url": "https://wwd.com/sourcing-journal/industry-news/turning-bargain-hunters-into-long-term-customers-1239466291",
@@ -3499,9 +3546,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2483,
-   "runs": 9,
-   "items_run": 90
+   "elapsed_ms": 3019,
+   "runs": 10,
+   "items_run": 100
   },
   {
    "id": "arxiv_video",
@@ -3509,9 +3556,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 3344,
-   "runs": 9,
-   "items_run": 135
+   "elapsed_ms": 2860,
+   "runs": 10,
+   "items_run": 150
   },
   {
    "id": "footwearnews",
@@ -3519,9 +3566,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2177,
-   "runs": 9,
-   "items_run": 90
+   "elapsed_ms": 2183,
+   "runs": 10,
+   "items_run": 100
   },
   {
    "id": "github_tryon",
@@ -3529,9 +3576,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1575,
-   "runs": 9,
-   "items_run": 90
+   "elapsed_ms": 2034,
+   "runs": 10,
+   "items_run": 100
   },
   {
    "id": "github_video",
@@ -3539,9 +3586,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 7155,
-   "runs": 9,
-   "items_run": 90
+   "elapsed_ms": 6851,
+   "runs": 10,
+   "items_run": 100
   },
   {
    "id": "glossy",
@@ -3549,9 +3596,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1065,
-   "runs": 9,
-   "items_run": 180
+   "elapsed_ms": 1071,
+   "runs": 10,
+   "items_run": 200
   },
   {
    "id": "hypebeast",
@@ -3559,9 +3606,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1127,
-   "runs": 9,
-   "items_run": 173
+   "elapsed_ms": 1155,
+   "runs": 10,
+   "items_run": 192
   },
   {
    "id": "retaildive",
@@ -3569,9 +3616,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1098,
-   "runs": 9,
-   "items_run": 90
+   "elapsed_ms": 1074,
+   "runs": 10,
+   "items_run": 100
   },
   {
    "id": "wwd",
@@ -3579,23 +3626,23 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1045,
-   "runs": 9,
-   "items_run": 90
+   "elapsed_ms": 1051,
+   "runs": 10,
+   "items_run": 100
   }
  ],
  "stats": {
-  "items": 155,
+  "items": 157,
   "by_topic": {
    "tooling": 25,
+   "retail": 15,
    "fashion": 14,
    "research": 14,
-   "retail": 14,
    "beauty": 11,
    "ai-video": 10
   },
   "by_kind": {
-   "news": 109,
+   "news": 111,
    "paper": 25,
    "repo": 21
   },
@@ -3603,6 +3650,6 @@
   "duplicates_in_run": 109,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-25T20:07:15+00:00",
+ "updated_at": "2026-11-25T21:07:18+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
