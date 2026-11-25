@@ -3,6 +3,216 @@
  "date": "2026-11-25",
  "items": [
   {
+   "id": "d8950567a4009cf9",
+   "title": "Veruschka, the OG Supermodel and ’60s Icon, Dies at 87",
+   "url": "https://wwd.com/eye/people/veruschka-supermodel-actress-sixties-icon-dies-87-1239465979",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-25T17:04:12+00:00",
+   "summary": "The legendary German model fronted iconic editorials of the ’60s and ’70s, with her status further cemented by movie appearances, like her cameo in Michelangelo Antonioni’s 1966 cult film “Blow-Up.”",
+   "topics": [],
+   "retrieved_at": "2026-11-25T17:07:08+00:00",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-25T17:07:08+00:00"
+    }
+   ]
+  },
+  {
+   "id": "d60bdca2a8fb9360",
+   "title": "Trump Signs Counterfeit-Busting Bill Into Law",
+   "url": "https://wwd.com/sourcing-journal/trade/trump-customs-notification-act-counterfeit-goods-cbp-1239465879",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-25T16:59:46+00:00",
+   "summary": "The Customs Notification Act expands CBP's authority to share information about suspected counterfeit imports with brands, marketplaces and shippers.",
+   "topics": [],
+   "retrieved_at": "2026-11-25T17:07:08+00:00",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-25T17:07:08+00:00"
+    }
+   ]
+  },
+  {
+   "id": "57ca86e5acc3aff0",
+   "title": "These Le Creuset Pieces Belong in Every Stylish Host’s Kitchen — and They’re Over $500 Off for Black Friday",
+   "url": "https://wwd.com/shop/shop-home/le-creuset-black-friday-deals-2026-coupons-sale-buy-1239465753",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-25T16:53:33+00:00",
+   "summary": "A feast for the eyes as much as the palate, Le Creuset’s Dutch ovens and more are enjoying generous markdowns at Macy’s.",
+   "topics": [],
+   "retrieved_at": "2026-11-25T17:07:08+00:00",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-25T17:07:08+00:00"
+    }
+   ]
+  },
+  {
+   "id": "c7cbce27e2e10df2",
+   "title": "Fragrance Giants Fined Over $600M in EU and U.K. for Antitrust Violations",
+   "url": "https://wwd.com/beauty-industry-news/fragrance/fragrance-giants-fined-over-600m-eu-uk-for-antitrust-1239465988",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-25T16:31:23+00:00",
+   "summary": "Firmenich, Givaudan and IFF face major penalties for exchanging sensitive information and breaching competition laws.",
+   "topics": [
+    {
+     "name": "beauty",
+     "score": 0.5
+    }
+   ],
+   "retrieved_at": "2026-11-25T17:07:08+00:00",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-25T17:07:08+00:00"
+    }
+   ]
+  },
+  {
+   "id": "129fb2c3fdd71611",
+   "title": "Elie Saab Residences to Land on Manhattan’s Upper East Side",
+   "url": "https://wwd.com/fashion-news/fashion-scoops/elie-saab-branded-residences-usa-new-york-upper-east-side-1239465700",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-25T16:26:26+00:00",
+   "summary": "The brand’s first luxury condominium in the U.S. will come with 24 private residences, starting at roughly $5 million.",
+   "topics": [],
+   "retrieved_at": "2026-11-25T17:07:08+00:00",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-25T17:07:08+00:00"
+    }
+   ]
+  },
+  {
+   "id": "74ebd887591c742c",
+   "title": "Shein to pay $100M in FTC settlement over deceptive practices claims",
+   "url": "https://www.retaildive.com/news/shein-to-pay-100m-in-ftc-settlement-over-deceptive-practices-claims/875748",
+   "publisher": "Retail Dive",
+   "kind": "news",
+   "published_at": "2026-11-25T16:25:00+00:00",
+   "summary": "The e-commerce company faced allegations from the federal agency over its fast shipping promises, the way it posted product reviews online and more.",
+   "topics": [],
+   "retrieved_at": "2026-11-25T17:07:08+00:00",
+   "sightings": [
+    {
+     "source_id": "retaildive",
+     "retrieved_at": "2026-11-25T17:07:08+00:00"
+    }
+   ]
+  },
+  {
+   "id": "6298ea249ad8eca1",
+   "title": "First Look: Michael Jordan’s Original Air Jordan 17 Is Coming Back for the First Time Ever",
+   "url": "https://wwd.com/footwear-news/sneaker-news/air-jordan-17-retro-college-blue-release-date-ja4259-100-1239465939",
+   "publisher": "Footwear News",
+   "kind": "news",
+   "published_at": "2026-11-25T16:23:55+00:00",
+   "summary": "Retailer images of the upcoming College Blue reissue have surfaced.",
+   "topics": [
+    {
+     "name": "retail",
+     "score": 0.33
+    }
+   ],
+   "retrieved_at": "2026-11-25T17:07:08+00:00",
+   "sightings": [
+    {
+     "source_id": "footwearnews",
+     "retrieved_at": "2026-11-25T17:07:08+00:00"
+    },
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-25T17:07:08+00:00"
+    }
+   ]
+  },
+  {
+   "id": "4566310515d66fde",
+   "title": "USTR Announces New Tariffs Up to 20% on China, the EU and 12 Other Economies",
+   "url": "https://wwd.com/sourcing-journal/trade/ustr-new-tariffs-20-percent-china-eu-section-301-1239465918",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-25T16:21:56+00:00",
+   "summary": "The White House on Wednesday announced that it would indeed target dozens of American trading partners with a fresh set of double-digit duties.",
+   "topics": [],
+   "retrieved_at": "2026-11-25T17:07:08+00:00",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-25T17:07:08+00:00"
+    }
+   ]
+  },
+  {
+   "id": "4ff091de6d61da15",
+   "title": "Hey Dude’s Secret Sauce is a Human-First Approach Along With Humor",
+   "url": "https://wwd.com/footwear-news/shoe-industry-news/hey-dude-operations-engagement-consumers-comfort-footwear-1239464652",
+   "publisher": "Footwear News",
+   "kind": "news",
+   "published_at": "2026-11-25T16:20:20+00:00",
+   "summary": "Healthy inventory and reduced discounting helped Hey Dude improve operations, and garnering high engagement from consumers has been key too.",
+   "topics": [],
+   "retrieved_at": "2026-11-25T17:07:08+00:00",
+   "sightings": [
+    {
+     "source_id": "footwearnews",
+     "retrieved_at": "2026-11-25T17:07:08+00:00"
+    },
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-25T17:07:08+00:00"
+    }
+   ]
+  },
+  {
+   "id": "3cc22acf5935db88",
+   "title": "Amanda Seyfried Styles Embellished Louboutins and Spring 2027 Carolina Herrera for ‘The Tonight Show Starring Jimmy Fallon’",
+   "url": "https://wwd.com/footwear-news/shoe-trends/amanda-seyfried-christian-louboutin-pumps-jimmy-fallon-1239465680",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-25T16:14:29+00:00",
+   "summary": "Seyfried wore a version of Christian Louboutin's Miss Z pump.",
+   "topics": [],
+   "retrieved_at": "2026-11-25T17:07:08+00:00",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-25T17:07:08+00:00"
+    }
+   ]
+  },
+  {
+   "id": "2712b7af70877941",
+   "title": "Infinix Packs Its ZClip 2 Pro Earbuds Into a Snack Bag",
+   "url": "https://hypebeast.com/2026/11/infinix-zclip-2-pro-earbuds-snack-bag",
+   "publisher": "Hypebeast",
+   "kind": "news",
+   "published_at": "2026-11-25T16:00:47+00:00",
+   "summary": "The Infinix ZClip 2 Pro comes in a foil snack pouch, a form familiar to all. Tear the notched edge, hear the crinkle, and instead of chips you get a pair of metallic open-ear earbuds.The ZClip 2 Pro ships in air-filled foil pouches modeled on real snack packaging. The thinking…",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.67
+    }
+   ],
+   "retrieved_at": "2026-11-25T17:07:08+00:00",
+   "sightings": [
+    {
+     "source_id": "hypebeast",
+     "retrieved_at": "2026-11-25T17:07:08+00:00"
+    }
+   ]
+  },
+  {
    "id": "e5bad4b33625c222",
    "title": "Material World: Spinnova Restarts Production",
    "url": "https://wwd.com/sourcing-journal/sustainability/material-world-spinnova-karl-mayer-pine-needles-1239464782",
@@ -3066,9 +3276,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 3987,
-   "runs": 5,
-   "items_run": 50
+   "elapsed_ms": 2143,
+   "runs": 6,
+   "items_run": 60
   },
   {
    "id": "arxiv_video",
@@ -3076,9 +3286,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 2399,
-   "runs": 5,
-   "items_run": 75
+   "elapsed_ms": 3773,
+   "runs": 6,
+   "items_run": 90
   },
   {
    "id": "footwearnews",
@@ -3086,9 +3296,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2203,
-   "runs": 5,
-   "items_run": 50
+   "elapsed_ms": 2137,
+   "runs": 6,
+   "items_run": 60
   },
   {
    "id": "github_tryon",
@@ -3096,9 +3306,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1550,
-   "runs": 5,
-   "items_run": 50
+   "elapsed_ms": 1764,
+   "runs": 6,
+   "items_run": 60
   },
   {
    "id": "github_video",
@@ -3106,9 +3316,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 6899,
-   "runs": 5,
-   "items_run": 50
+   "elapsed_ms": 6772,
+   "runs": 6,
+   "items_run": 60
   },
   {
    "id": "glossy",
@@ -3116,9 +3326,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1071,
-   "runs": 5,
-   "items_run": 100
+   "elapsed_ms": 1058,
+   "runs": 6,
+   "items_run": 120
   },
   {
    "id": "hypebeast",
@@ -3126,9 +3336,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1152,
-   "runs": 5,
-   "items_run": 97
+   "elapsed_ms": 1132,
+   "runs": 6,
+   "items_run": 116
   },
   {
    "id": "retaildive",
@@ -3136,9 +3346,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1067,
-   "runs": 5,
-   "items_run": 50
+   "elapsed_ms": 1078,
+   "runs": 6,
+   "items_run": 60
   },
   {
    "id": "wwd",
@@ -3146,30 +3356,30 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1044,
-   "runs": 5,
-   "items_run": 50
+   "elapsed_ms": 1057,
+   "runs": 6,
+   "items_run": 60
   }
  ],
  "stats": {
-  "items": 132,
+  "items": 143,
   "by_topic": {
-   "tooling": 24,
+   "tooling": 25,
    "research": 14,
    "fashion": 13,
-   "retail": 11,
-   "ai-video": 10,
-   "beauty": 10
+   "retail": 12,
+   "beauty": 11,
+   "ai-video": 10
   },
   "by_kind": {
-   "news": 86,
+   "news": 97,
    "paper": 25,
    "repo": 21
   },
   "rules_version": "1",
-  "duplicates_in_run": 100,
+  "duplicates_in_run": 101,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-25T16:07:09+00:00",
+ "updated_at": "2026-11-25T17:07:08+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
