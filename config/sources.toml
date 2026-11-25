@@ -1,0 +1,90 @@
+[settings]
+timeout = 15
+max_bytes = 2000000
+min_interval = 2.0
+max_items = 25
+
+# --- Publisher feeds (public RSS) -------------------------------------------------
+# Every source below was checked to return a machine-readable feed without
+# authentication. Sources that 403, require a login, or fail to parse are not kept.
+
+[sources.wwd]
+kind = "rss"
+url = "https://wwd.com/feed/"
+publisher = "WWD"
+
+[sources.retaildive]
+kind = "rss"
+url = "https://www.retaildive.com/feeds/news/"
+publisher = "Retail Dive"
+
+[sources.glossy]
+kind = "rss"
+url = "https://www.glossy.co/feed/"
+publisher = "Glossy"
+
+[sources.hypebeast]
+kind = "rss"
+url = "https://hypebeast.com/feed"
+publisher = "Hypebeast"
+
+[sources.footwearnews]
+kind = "rss"
+url = "https://footwearnews.com/feed/"
+publisher = "Footwear News"
+
+# --- Papers (arXiv API) -----------------------------------------------------------
+
+[sources.arxiv_video]
+kind = "arxiv"
+query = 'cat:cs.CV AND all:"video generation"'
+max_items = 15
+min_interval = 3.5
+
+[sources.arxiv_tryon]
+kind = "arxiv"
+query = 'all:"virtual try-on" OR all:"fashion generation"'
+max_items = 10
+min_interval = 3.5
+
+# --- Repositories (GitHub Search API, unauthenticated: keep to a few queries) ------
+
+[sources.github_video]
+kind = "github"
+query = "video generation in:name,description created:>{since}"
+since_days = 7
+max_items = 10
+min_interval = 7
+
+[sources.github_tryon]
+kind = "github"
+query = "virtual try-on in:name,description created:>{since}"
+since_days = 7
+max_items = 10
+min_interval = 7
+
+# --- Topic rules (data-driven; bump RULES_VERSION in radar/classify.py on change) --
+
+[topics.fashion]
+keywords = ["fashion", "runway", "couture", "collection", "designer", "lookbook",
+            "garment", "apparel", "textile", "luxury"]
+
+[topics.retail]
+keywords = ["retailer", "retail", "store", "sales", "revenue", "e-commerce",
+            "ecommerce", "shopper", "supply chain", "inventory"]
+
+[topics.beauty]
+keywords = ["beauty", "makeup", "cosmetic", "skincare", "fragrance"]
+
+[topics.ai-video]
+keywords = ["video generation", "text-to-video", "image-to-video", "generative video",
+            "diffusion", "cinematic", "shot synthesis"]
+
+[topics.research]
+keywords = ["benchmark", "dataset", "pretraining", "fine-tuning", "arxiv"]
+
+[topics.tooling]
+keywords = ["library", "sdk", "framework", "command-line", "cli"]
+
+[topics.sustainability]
+keywords = ["sustainable", "recycled", "circular", "carbon", "esg"]

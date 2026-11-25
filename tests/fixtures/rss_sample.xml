@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel>
+  <title>Sample Fashion Feed</title>
+  <item>
+    <title>Runway report: quiet luxury at scale</title>
+    <link>https://example.com/runway?utm_source=rss&amp;id=1</link>
+    <pubDate>Wed, 25 Nov 2026 08:30:00 +0000</pubDate>
+    <description><![CDATA[<p>Designers leaned into <b>quiet luxury</b> and textile craft.</p>]]></description>
+  </item>
+  <item>
+    <title>Retailer earnings beat forecasts</title>
+    <link>https://example.com/earnings</link>
+    <pubDate>Wed, 25 Nov 2026 07:00:00 +0000</pubDate>
+    <description>Sales and revenue rose; inventory fell.</description>
+  </item>
+  <item>
+    <title></title>
+    <link>https://example.com/no-title</link>
+  </item>
+</channel></rss>

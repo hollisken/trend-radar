@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Sample Atom Feed</title>
+  <entry>
+    <title>Beauty launch roundup</title>
+    <link rel="alternate" href="https://example.org/beauty"/>
+    <published>2026-11-25T06:00:00Z</published>
+    <summary>Skincare and fragrance launches this week.</summary>
+  </entry>
+  <entry>
+    <title>Second entry without alternate link</title>
+    <link rel="related" href="https://example.org/second"/>
+    <updated>2026-11-24T21:00:00Z</updated>
+    <summary>Sustainable packaging note.</summary>
+  </entry>
+</feed>

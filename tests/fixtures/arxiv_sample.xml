@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>arXiv Query</title>
+  <entry>
+    <id>http://arxiv.org/abs/2611.00001v1</id>
+    <published>2026-11-25T01:02:03Z</published>
+    <title>Efficient video generation with shot-level control</title>
+    <summary>We study text-to-video generation with explicit shot synthesis and a small benchmark.</summary>
+    <author><name>Ada Lovelace</name></author>
+    <author><name>Grace Hopper</name></author>
+  </entry>
+</feed>

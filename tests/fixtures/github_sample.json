@@ -1,0 +1,15 @@
+{
+  "total_count": 1,
+  "items": [
+    {
+      "full_name": "example/open-tryon",
+      "html_url": "https://github.com/example/open-tryon",
+      "description": "Virtual try-on toolkit with a small SDK.",
+      "created_at": "2026-11-24T12:00:00Z",
+      "stargazers_count": 321,
+      "language": "Rust",
+      "topics": ["virtual-try-on", "fashion"],
+      "owner": {"login": "example"}
+    }
+  ]
+}

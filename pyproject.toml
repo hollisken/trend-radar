@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "trend-radar"
+version = "0.1.0"
+description = "Metadata-only trend radar: public news, papers and repositories into daily structured signals."
+requires-python = ">=3.11"
+license = { text = "MIT" }
+dependencies = []
+
+[tool.setuptools.packages.find]
+include = ["radar*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
