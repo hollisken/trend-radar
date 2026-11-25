@@ -3,6 +3,105 @@
  "date": "2026-11-25",
  "items": [
   {
+   "id": "443a33e4a7a824d1",
+   "title": "codeby-narendra/visual-try-on",
+   "url": "https://github.com/codeby-narendra/visual-try-on",
+   "publisher": "codeby-narendra",
+   "kind": "repo",
+   "published_at": "2026-11-25T15:04:21+00:00",
+   "summary": "AI Virtual Try-On Studio",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    }
+   ],
+   "retrieved_at": "2026-11-25T15:07:16+00:00",
+   "sightings": [
+    {
+     "source_id": "github_tryon",
+     "retrieved_at": "2026-11-25T15:07:16+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 0,
+    "language": "HTML",
+    "topics": []
+   }
+  },
+  {
+   "id": "9c6dc9b65d157ee2",
+   "title": "OrthoLite Lift Insoles Have Supercritical Foaming Technology",
+   "url": "https://wwd.com/footwear-news/shoe-industry-news/ortholite-lift-insole-collection-supercritical-foam-1239464318",
+   "publisher": "Footwear News",
+   "kind": "news",
+   "published_at": "2026-11-25T15:02:27+00:00",
+   "summary": "OrthoLite Lift is the brand's new insole collection made with supercritical foaming in two formulations.",
+   "topics": [],
+   "retrieved_at": "2026-11-25T15:07:16+00:00",
+   "sightings": [
+    {
+     "source_id": "footwearnews",
+     "retrieved_at": "2026-11-25T15:07:16+00:00"
+    },
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-25T15:07:16+00:00"
+    }
+   ]
+  },
+  {
+   "id": "f44ec7b20a26f75e",
+   "title": "Why AI-Ready Commerce Infrastructure Can Be a Deciding Factor This Holiday Season",
+   "url": "https://wwd.com/sourcing-journal/industry-news/ai-commerce-dirk-hoerig-commercetools-1239464404",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-25T15:00:00+00:00",
+   "summary": "Commercetools founder Dirk Hoerig discusses how brands can turn agentic commerce into completed checkouts.",
+   "topics": [],
+   "retrieved_at": "2026-11-25T15:07:16+00:00",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-25T15:07:16+00:00"
+    }
+   ]
+  },
+  {
+   "id": "3d828512b5ab6b47",
+   "title": "Op-Ed: Why Localized Assortments Need Limits to Pay Off",
+   "url": "https://wwd.com/sourcing-journal/industry-news/op-ed-why-localized-assortments-need-limits-to-pay-off-retail-strategy-group-1239428396",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-25T15:00:00+00:00",
+   "summary": "Regional autonomy isn’t the problem with decentralized merchandising and product design.",
+   "topics": [],
+   "retrieved_at": "2026-11-25T15:07:16+00:00",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-25T15:07:16+00:00"
+    }
+   ]
+  },
+  {
+   "id": "c91cf5f253e5605b",
+   "title": "Nike ‘absolutely making the right decision with Jordan’: Dick’s Sporting Goods",
+   "url": "https://www.retaildive.com/news/nike-jordan-dicks-sporting-goods-foot-locker-q3/875628",
+   "publisher": "Retail Dive",
+   "kind": "news",
+   "published_at": "2026-11-25T14:18:00+00:00",
+   "summary": "Executive Chairman Edward Stack applauded Nike for its long-term approach with the brand, as Foot Locker sees some signs of progress.",
+   "topics": [],
+   "retrieved_at": "2026-11-25T15:07:16+00:00",
+   "sightings": [
+    {
+     "source_id": "retaildive",
+     "retrieved_at": "2026-11-25T15:07:16+00:00"
+    }
+   ]
+  },
+  {
    "id": "56dd93d7905b4e73",
    "title": "Every Winner in Miss Universe History From the Past 75 Years",
    "url": "https://wwd.com/pop-culture/celebrity-news/lists/miss-universe-winners-list-1235924530",
@@ -2762,9 +2861,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2086,
-   "runs": 3,
-   "items_run": 30
+   "elapsed_ms": 2081,
+   "runs": 4,
+   "items_run": 40
   },
   {
    "id": "arxiv_video",
@@ -2772,9 +2871,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 3489,
-   "runs": 3,
-   "items_run": 45
+   "elapsed_ms": 3496,
+   "runs": 4,
+   "items_run": 60
   },
   {
    "id": "footwearnews",
@@ -2782,9 +2881,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2134,
-   "runs": 3,
-   "items_run": 30
+   "elapsed_ms": 2166,
+   "runs": 4,
+   "items_run": 40
   },
   {
    "id": "github_tryon",
@@ -2792,9 +2891,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1551,
-   "runs": 3,
-   "items_run": 30
+   "elapsed_ms": 1606,
+   "runs": 4,
+   "items_run": 40
   },
   {
    "id": "github_video",
@@ -2802,9 +2901,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 7008,
-   "runs": 3,
-   "items_run": 30
+   "elapsed_ms": 6974,
+   "runs": 4,
+   "items_run": 40
   },
   {
    "id": "glossy",
@@ -2812,9 +2911,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1058,
-   "runs": 3,
-   "items_run": 60
+   "elapsed_ms": 1056,
+   "runs": 4,
+   "items_run": 80
   },
   {
    "id": "hypebeast",
@@ -2822,9 +2921,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1120,
-   "runs": 3,
-   "items_run": 59
+   "elapsed_ms": 1085,
+   "runs": 4,
+   "items_run": 78
   },
   {
    "id": "retaildive",
@@ -2832,9 +2931,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1128,
-   "runs": 3,
-   "items_run": 30
+   "elapsed_ms": 1056,
+   "runs": 4,
+   "items_run": 40
   },
   {
    "id": "wwd",
@@ -2843,14 +2942,14 @@
    "items": 10,
    "error": "",
    "elapsed_ms": 1047,
-   "runs": 3,
-   "items_run": 30
+   "runs": 4,
+   "items_run": 40
   }
  ],
  "stats": {
-  "items": 116,
+  "items": 121,
   "by_topic": {
-   "tooling": 23,
+   "tooling": 24,
    "research": 14,
    "fashion": 11,
    "retail": 11,
@@ -2858,14 +2957,14 @@
    "beauty": 10
   },
   "by_kind": {
-   "news": 71,
+   "news": 75,
    "paper": 25,
-   "repo": 20
+   "repo": 21
   },
   "rules_version": "1",
-  "duplicates_in_run": 113,
+  "duplicates_in_run": 108,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-25T14:53:36+00:00",
+ "updated_at": "2026-11-25T15:07:16+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
