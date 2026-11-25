@@ -3,6 +3,91 @@
  "date": "2026-11-25",
  "items": [
   {
+   "id": "8be73ddc18b1f87b",
+   "title": "Michael Kors Bags Are Up to 75% Off for Black Friday, With Viral ‘Hamilton’ Satchel Among Discounted Picks",
+   "url": "https://wwd.com/shop/shop-fashion/michael-kors-black-friday-sale-2026-purse-tote-deal-discount-1239429104",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-25T21:58:16+00:00",
+   "summary": "Shoppers can get their hands on the covet-worthy pieces at their lowest prices of the year.",
+   "topics": [],
+   "retrieved_at": "2026-11-25T22:07:18+00:00",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-25T22:07:18+00:00"
+    }
+   ]
+  },
+  {
+   "id": "3a09083e90ae9660",
+   "title": "In Acclaimed 2014 Photography Book, Veruschka Called Herself An ‘Avatar for Metamorphosis’",
+   "url": "https://wwd.com/shop/shop-fashion/veruschka-model-photography-book-biography-buy-read-online-1239465432",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-25T21:32:46+00:00",
+   "summary": "The hardcover coffee table book from Rizzoli compiles more than 3,000 never-before-seen images of Veruschka shot by fashion photographer Johnny Moncada.",
+   "topics": [],
+   "retrieved_at": "2026-11-25T22:07:18+00:00",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-25T22:07:18+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ebcf402996fa4f06",
+   "title": "Where to Watch the (Postponed) 2026 Macy’s Thanksgiving Day Parade Online for Free",
+   "url": "https://wwd.com/shop/shop-fashion/how-to-watch-2026-macys-thanksgiving-day-parade-online-free-1239465042",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-25T21:14:23+00:00",
+   "summary": "After a threat of inclement weather, the annual holiday event is being pushed to Saturday, Nov. 28.",
+   "topics": [],
+   "retrieved_at": "2026-11-25T22:07:18+00:00",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-25T22:07:18+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ad61eeb82901ba4c",
+   "title": "Macy’s Postpones Thanksgiving Parade to Saturday",
+   "url": "https://wwd.com/business-news/retail/macys-postpones-thanksgiving-parade-first-time-ever-1239466494",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-25T21:00:50+00:00",
+   "summary": "Forecasts for severe weather conditions Thanksgiving Day prompted Macy's management to reschedule the big event.",
+   "topics": [],
+   "retrieved_at": "2026-11-25T22:07:18+00:00",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-25T22:07:18+00:00"
+    }
+   ]
+  },
+  {
+   "id": "8a30463c836dfb15",
+   "title": "How Harry and Meghan Could Avoid Royal Headaches During the High-stakes Holiday Season in the U.K.",
+   "url": "https://wwd.com/pop-culture/celebrity-news/harry-meghan-royal-family-christmas-holiday-etiquette-1239427666",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-25T20:55:14+00:00",
+   "summary": "Crisis public relations specialists and royal family observers offer some unsolicited advice about how the Sussexes might navigate the holiday season.",
+   "topics": [],
+   "retrieved_at": "2026-11-25T22:07:18+00:00",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-25T22:07:18+00:00"
+    }
+   ]
+  },
+  {
    "id": "8b0bf9be8ac56fd6",
    "title": "For Shoe Brands, More Tariffs Are on the Way",
    "url": "https://wwd.com/footwear-news/shoe-industry-news/footwear-tariffs-section-301-china-vietnam-february-2027-1239466305",
@@ -3546,9 +3631,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 3019,
-   "runs": 10,
-   "items_run": 100
+   "elapsed_ms": 2803,
+   "runs": 11,
+   "items_run": 110
   },
   {
    "id": "arxiv_video",
@@ -3556,9 +3641,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 2860,
-   "runs": 10,
-   "items_run": 150
+   "elapsed_ms": 3764,
+   "runs": 11,
+   "items_run": 165
   },
   {
    "id": "footwearnews",
@@ -3566,9 +3651,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2183,
-   "runs": 10,
-   "items_run": 100
+   "elapsed_ms": 2098,
+   "runs": 11,
+   "items_run": 110
   },
   {
    "id": "github_tryon",
@@ -3576,9 +3661,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2034,
-   "runs": 10,
-   "items_run": 100
+   "elapsed_ms": 1549,
+   "runs": 11,
+   "items_run": 110
   },
   {
    "id": "github_video",
@@ -3586,9 +3671,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 6851,
-   "runs": 10,
-   "items_run": 100
+   "elapsed_ms": 8275,
+   "runs": 11,
+   "items_run": 110
   },
   {
    "id": "glossy",
@@ -3596,9 +3681,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1071,
-   "runs": 10,
-   "items_run": 200
+   "elapsed_ms": 1123,
+   "runs": 11,
+   "items_run": 220
   },
   {
    "id": "hypebeast",
@@ -3606,9 +3691,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1155,
-   "runs": 10,
-   "items_run": 192
+   "elapsed_ms": 1158,
+   "runs": 11,
+   "items_run": 211
   },
   {
    "id": "retaildive",
@@ -3616,9 +3701,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1074,
-   "runs": 10,
-   "items_run": 100
+   "elapsed_ms": 1091,
+   "runs": 11,
+   "items_run": 110
   },
   {
    "id": "wwd",
@@ -3626,13 +3711,13 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1051,
-   "runs": 10,
-   "items_run": 100
+   "elapsed_ms": 3152,
+   "runs": 11,
+   "items_run": 110
   }
  ],
  "stats": {
-  "items": 157,
+  "items": 162,
   "by_topic": {
    "tooling": 25,
    "retail": 15,
@@ -3642,14 +3727,14 @@
    "ai-video": 10
   },
   "by_kind": {
-   "news": 111,
+   "news": 116,
    "paper": 25,
    "repo": 21
   },
   "rules_version": "1",
-  "duplicates_in_run": 109,
+  "duplicates_in_run": 107,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-25T21:07:18+00:00",
+ "updated_at": "2026-11-25T22:07:18+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
