@@ -3,6 +3,40 @@
  "date": "2026-11-25",
  "items": [
   {
+   "id": "74a97830a79b191c",
+   "title": "Independently Verified Cashmere Gains Ground as Demand Grows",
+   "url": "https://wwd.com/sourcing-journal/industry-news/good-standard-cashmere-gains-ground-as-demand-grows-1239466140",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-25T17:58:00+00:00",
+   "summary": "The Good Cashmere Standard said brands are driving demand for certified cashmere.",
+   "topics": [],
+   "retrieved_at": "2026-11-25T18:07:13+00:00",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-25T18:07:13+00:00"
+    }
+   ]
+  },
+  {
+   "id": "b22e5d0e977fe755",
+   "title": "Elizabeth Debicki Embraces Animal Patterns in a Chic Tiger Print Ensemble",
+   "url": "https://wwd.com/pop-culture/celebrity-news/elizabeth-debicki-tiger-print-ensemble-1239466080",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-25T17:10:40+00:00",
+   "summary": "While promoting “The Further Mis-Adventures of Cliff Booth,” the actress was spotted wearing a tiger print cardigan and mini-skirt from the Altuzarra Spring 2027 collection.",
+   "topics": [],
+   "retrieved_at": "2026-11-25T18:07:13+00:00",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-25T18:07:13+00:00"
+    }
+   ]
+  },
+  {
    "id": "d8950567a4009cf9",
    "title": "Veruschka, the OG Supermodel and ’60s Icon, Dies at 87",
    "url": "https://wwd.com/eye/people/veruschka-supermodel-actress-sixties-icon-dies-87-1239465979",
@@ -3276,9 +3310,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2143,
-   "runs": 6,
-   "items_run": 60
+   "elapsed_ms": 2410,
+   "runs": 7,
+   "items_run": 70
   },
   {
    "id": "arxiv_video",
@@ -3286,9 +3320,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 3773,
-   "runs": 6,
-   "items_run": 90
+   "elapsed_ms": 3477,
+   "runs": 7,
+   "items_run": 105
   },
   {
    "id": "footwearnews",
@@ -3296,9 +3330,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2137,
-   "runs": 6,
-   "items_run": 60
+   "elapsed_ms": 2130,
+   "runs": 7,
+   "items_run": 70
   },
   {
    "id": "github_tryon",
@@ -3306,9 +3340,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1764,
-   "runs": 6,
-   "items_run": 60
+   "elapsed_ms": 1514,
+   "runs": 7,
+   "items_run": 70
   },
   {
    "id": "github_video",
@@ -3316,9 +3350,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 6772,
-   "runs": 6,
-   "items_run": 60
+   "elapsed_ms": 7014,
+   "runs": 7,
+   "items_run": 70
   },
   {
    "id": "glossy",
@@ -3326,9 +3360,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1058,
-   "runs": 6,
-   "items_run": 120
+   "elapsed_ms": 1059,
+   "runs": 7,
+   "items_run": 140
   },
   {
    "id": "hypebeast",
@@ -3336,9 +3370,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1132,
-   "runs": 6,
-   "items_run": 116
+   "elapsed_ms": 1164,
+   "runs": 7,
+   "items_run": 135
   },
   {
    "id": "retaildive",
@@ -3346,9 +3380,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1078,
-   "runs": 6,
-   "items_run": 60
+   "elapsed_ms": 1066,
+   "runs": 7,
+   "items_run": 70
   },
   {
    "id": "wwd",
@@ -3356,13 +3390,13 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1057,
-   "runs": 6,
-   "items_run": 60
+   "elapsed_ms": 2876,
+   "runs": 7,
+   "items_run": 70
   }
  ],
  "stats": {
-  "items": 143,
+  "items": 145,
   "by_topic": {
    "tooling": 25,
    "research": 14,
@@ -3372,14 +3406,14 @@
    "ai-video": 10
   },
   "by_kind": {
-   "news": 97,
+   "news": 99,
    "paper": 25,
    "repo": 21
   },
   "rules_version": "1",
-  "duplicates_in_run": 101,
+  "duplicates_in_run": 110,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-25T17:07:08+00:00",
+ "updated_at": "2026-11-25T18:07:13+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
