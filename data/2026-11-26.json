@@ -3,6 +3,39 @@
  "date": "2026-11-26",
  "items": [
   {
+   "id": "855335db81a5a44e",
+   "title": "SdThakur/Try-On",
+   "url": "https://github.com/SdThakur/Try-On",
+   "publisher": "SdThakur",
+   "kind": "repo",
+   "published_at": "2026-11-26T22:22:16+00:00",
+   "summary": "AI personal stylist that builds daily outfits from the clothes you already own, then shows them on you with virtual try-on. Built with Next.js, Supabase, and Gemini. No shopping, no ads.",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    }
+   ],
+   "retrieved_at": "2026-11-26T23:07:18+00:00",
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "github_tryon",
+     "collector": "us-west-3",
+     "via": "GitHub API",
+     "engine": "",
+     "retrieved_at": "2026-11-26T23:07:18+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 0,
+    "language": "JavaScript",
+    "topics": []
+   }
+  },
+  {
    "id": "f986d7a919a27607",
    "title": "fortminors/virtual-try-on",
    "url": "https://github.com/fortminors/virtual-try-on",
@@ -5609,9 +5642,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2369,
-   "runs": 22,
-   "items_run": 220
+   "elapsed_ms": 2102,
+   "runs": 23,
+   "items_run": 230
   },
   {
    "id": "arxiv_video",
@@ -5619,9 +5652,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 3895,
-   "runs": 22,
-   "items_run": 330
+   "elapsed_ms": 3473,
+   "runs": 23,
+   "items_run": 345
   },
   {
    "id": "footwearnews",
@@ -5629,9 +5662,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2216,
-   "runs": 22,
-   "items_run": 220
+   "elapsed_ms": 2182,
+   "runs": 23,
+   "items_run": 230
   },
   {
    "id": "github_tryon",
@@ -5639,9 +5672,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1555,
-   "runs": 22,
-   "items_run": 220
+   "elapsed_ms": 1435,
+   "runs": 23,
+   "items_run": 230
   },
   {
    "id": "github_video",
@@ -5649,9 +5682,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 6940,
-   "runs": 22,
-   "items_run": 220
+   "elapsed_ms": 6944,
+   "runs": 23,
+   "items_run": 230
   },
   {
    "id": "glossy",
@@ -5659,9 +5692,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1055,
-   "runs": 22,
-   "items_run": 440
+   "elapsed_ms": 1053,
+   "runs": 23,
+   "items_run": 460
   },
   {
    "id": "hypebeast",
@@ -5669,9 +5702,9 @@
    "status": "ok",
    "items": 19,
    "error": "",
-   "elapsed_ms": 1176,
-   "runs": 22,
-   "items_run": 418
+   "elapsed_ms": 1154,
+   "runs": 23,
+   "items_run": 437
   },
   {
    "id": "retaildive",
@@ -5679,9 +5712,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1059,
-   "runs": 22,
-   "items_run": 220
+   "elapsed_ms": 1055,
+   "runs": 23,
+   "items_run": 230
   },
   {
    "id": "wwd",
@@ -5690,14 +5723,14 @@
    "items": 10,
    "error": "",
    "elapsed_ms": 1043,
-   "runs": 22,
-   "items_run": 220
+   "runs": 23,
+   "items_run": 230
   }
  ],
  "stats": {
-  "items": 170,
+  "items": 171,
   "by_topic": {
-   "tooling": 31,
+   "tooling": 32,
    "ai-video": 23,
    "research": 21,
    "fashion": 15,
@@ -5707,12 +5740,12 @@
   "by_kind": {
    "news": 97,
    "paper": 45,
-   "repo": 28
+   "repo": 29
   },
   "rules_version": "1",
-  "duplicates_in_run": 112,
+  "duplicates_in_run": 111,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-26T22:07:18+00:00",
+ "updated_at": "2026-11-26T23:07:18+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
