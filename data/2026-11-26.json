@@ -3,6 +3,57 @@
  "date": "2026-11-26",
  "items": [
   {
+   "id": "a574ffeaa6336440",
+   "title": "Pasquale Bruni Opens Paris Flagship on Faubourg Saint-Honoré",
+   "url": "https://wwd.com/accessories-news/jewelry/pasquale-bruni-paris-flagship-opening-european-expansion-1239466929",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-26T15:47:13+00:00",
+   "summary": "The 1,330-square-foot boutique marks a new step in the Italian jeweler’s European expansion, with a two-step London retail development kicking off next week.",
+   "topics": [],
+   "retrieved_at": "2026-11-26T17:07:08+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-26T17:07:08+00:00"
+    }
+   ]
+  },
+  {
+   "id": "8f9bb83a7969087d",
+   "title": "Dubai-based Fragrance Brand Armaf Inks Partnership With Brazilian Soccer Player, Neymar Jr.",
+   "url": "https://wwd.com/beauty-industry-news/fragrance/armaf-fragrance-brand-neymar-jr-partnership-new-launch-2027-1239466914",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-26T15:15:55+00:00",
+   "summary": "The brand has made a name as one of the top-selling Middle Eastern fragrance brands on Amazon and TikTok Shop.",
+   "topics": [
+    {
+     "name": "beauty",
+     "score": 0.67
+    }
+   ],
+   "retrieved_at": "2026-11-26T17:07:08+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-26T17:07:08+00:00"
+    }
+   ]
+  },
+  {
    "id": "77b3da588c664f7d",
    "title": "Puma Taps Adidas Alum Will Newton to Run New Emerging Markets Region",
    "url": "https://wwd.com/footwear-news/shoe-industry-news/puma-emerging-markets-will-newton-managing-director-1239466893",
@@ -5479,9 +5530,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2107,
-   "runs": 16,
-   "items_run": 160
+   "elapsed_ms": 2468,
+   "runs": 17,
+   "items_run": 170
   },
   {
    "id": "arxiv_video",
@@ -5489,9 +5540,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 3469,
-   "runs": 16,
-   "items_run": 240
+   "elapsed_ms": 3418,
+   "runs": 17,
+   "items_run": 255
   },
   {
    "id": "footwearnews",
@@ -5499,9 +5550,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2193,
-   "runs": 16,
-   "items_run": 160
+   "elapsed_ms": 2190,
+   "runs": 17,
+   "items_run": 170
   },
   {
    "id": "github_tryon",
@@ -5509,9 +5560,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1525,
-   "runs": 16,
-   "items_run": 160
+   "elapsed_ms": 1486,
+   "runs": 17,
+   "items_run": 170
   },
   {
    "id": "github_video",
@@ -5519,9 +5570,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 7302,
-   "runs": 16,
-   "items_run": 160
+   "elapsed_ms": 7064,
+   "runs": 17,
+   "items_run": 170
   },
   {
    "id": "glossy",
@@ -5529,9 +5580,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1075,
-   "runs": 16,
-   "items_run": 320
+   "elapsed_ms": 1062,
+   "runs": 17,
+   "items_run": 340
   },
   {
    "id": "hypebeast",
@@ -5539,9 +5590,9 @@
    "status": "ok",
    "items": 19,
    "error": "",
-   "elapsed_ms": 1146,
-   "runs": 16,
-   "items_run": 304
+   "elapsed_ms": 1299,
+   "runs": 17,
+   "items_run": 323
   },
   {
    "id": "retaildive",
@@ -5549,9 +5600,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1074,
-   "runs": 16,
-   "items_run": 160
+   "elapsed_ms": 1062,
+   "runs": 17,
+   "items_run": 170
   },
   {
    "id": "wwd",
@@ -5559,30 +5610,30 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1047,
-   "runs": 16,
-   "items_run": 160
+   "elapsed_ms": 1046,
+   "runs": 17,
+   "items_run": 170
   }
  ],
  "stats": {
-  "items": 165,
+  "items": 167,
   "by_topic": {
    "tooling": 30,
    "ai-video": 23,
    "research": 21,
    "fashion": 15,
    "retail": 14,
-   "beauty": 9
+   "beauty": 10
   },
   "by_kind": {
-   "news": 93,
+   "news": 95,
    "paper": 45,
    "repo": 27
   },
   "rules_version": "1",
-  "duplicates_in_run": 111,
+  "duplicates_in_run": 110,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-26T16:07:07+00:00",
+ "updated_at": "2026-11-26T17:07:08+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
