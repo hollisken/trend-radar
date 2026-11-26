@@ -86,7 +86,7 @@ python3 -m pytest -q        # if pytest is available
 <!-- BEGIN LATEST -->
 | Date / 日期 | Items / 条目 | Top topics / 主要主题 | Sources / 来源 | Digest / 日报 |
 |---|---|---|---|---|
-| 2026-11-26 | 145 | Tooling 25, AI video 23, Research 21 | 9/9 | [EN · 中文](digest/2026-11-26.md) |
+| 2026-11-26 | 148 | Tooling 27, AI video 23, Research 21 | 9/9 | [EN · 中文](digest/2026-11-26.md) |
 | 2026-11-25 | 163 | Tooling 25, Retail 15, Fashion 14 | 9/9 | [EN · 中文](digest/2026-11-25.md) |
 <!-- END LATEST -->
 

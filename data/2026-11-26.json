@@ -3,6 +3,62 @@
  "date": "2026-11-26",
  "items": [
   {
+   "id": "5541c94072547b15",
+   "title": "thanhnghi62952-create/Virtual_try_on",
+   "url": "https://github.com/thanhnghi62952-create/Virtual_try_on",
+   "publisher": "thanhnghi62952-create",
+   "kind": "repo",
+   "published_at": "2026-11-26T07:33:29+00:00",
+   "summary": "",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    }
+   ],
+   "retrieved_at": "2026-11-26T08:07:05+00:00",
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "github_tryon",
+     "collector": "us-west-3",
+     "via": "GitHub API",
+     "engine": "",
+     "retrieved_at": "2026-11-26T08:07:05+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 0,
+    "language": null,
+    "topics": []
+   }
+  },
+  {
+   "id": "30b6bb359b917ba6",
+   "title": "Y-3 and Jeff Hamilton Celebrate Kimi Antonelli’s First F1 Title With a Bespoke Jacket",
+   "url": "https://hypebeast.com/2026/11/y-3-x-jeff-hamilton-kimi-antonelli-championship-jacket-info",
+   "publisher": "Hypebeast",
+   "kind": "news",
+   "published_at": "2026-11-26T07:32:10+00:00",
+   "summary": "Summary Y-3 and Jeff Hamilton create a custom jacket for Kimi Antonelli’s first F1 Drivers' World Champion title.The quilted black piece features stripes, Italian accents, and championship graphics.Made exclusively for Antonelli, the bespoke tribute won’t release publicly…",
+   "topics": [],
+   "retrieved_at": "2026-11-26T08:07:05+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "hypebeast",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-26T08:07:05+00:00"
+    }
+   ]
+  },
+  {
    "id": "32ae391d80229473",
    "title": "Moncler x Rick Owens FW26 Arms Quilted Outerwear With Studs and Straps",
    "url": "https://hypebeast.com/2026/11/moncler-rick-owens-fall-winter-fw-2026-collaboration-collection-release-info",
@@ -1759,6 +1815,39 @@
    },
    "collector": "us-west-3",
    "via": "GitHub API"
+  },
+  {
+   "id": "70e07686fd0ae321",
+   "title": "ghost233lism/StateWeaver",
+   "url": "https://github.com/ghost233lism/StateWeaver",
+   "publisher": "ghost233lism",
+   "kind": "repo",
+   "published_at": "2026-11-25T08:57:10+00:00",
+   "summary": "Official code for StateWeaver: Multi-Agent Coordination of Story-State Transitions for Long-Horizon Video Generation",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    }
+   ],
+   "retrieved_at": "2026-11-26T08:07:05+00:00",
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "github_video",
+     "collector": "us-west-3",
+     "via": "GitHub API",
+     "engine": "",
+     "retrieved_at": "2026-11-26T08:07:05+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 12,
+    "language": "Python",
+    "topics": []
+   }
   },
   {
    "id": "a5fd08a1ebf9eaf2",
@@ -4939,9 +5028,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2100,
-   "runs": 7,
-   "items_run": 70
+   "elapsed_ms": 2500,
+   "runs": 8,
+   "items_run": 80
   },
   {
    "id": "arxiv_video",
@@ -4949,9 +5038,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 3536,
-   "runs": 7,
-   "items_run": 105
+   "elapsed_ms": 3078,
+   "runs": 8,
+   "items_run": 120
   },
   {
    "id": "footwearnews",
@@ -4959,9 +5048,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2151,
-   "runs": 7,
-   "items_run": 70
+   "elapsed_ms": 2173,
+   "runs": 8,
+   "items_run": 80
   },
   {
    "id": "github_tryon",
@@ -4969,9 +5058,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1453,
-   "runs": 7,
-   "items_run": 70
+   "elapsed_ms": 1485,
+   "runs": 8,
+   "items_run": 80
   },
   {
    "id": "github_video",
@@ -4979,9 +5068,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 7117,
-   "runs": 7,
-   "items_run": 70
+   "elapsed_ms": 6962,
+   "runs": 8,
+   "items_run": 80
   },
   {
    "id": "glossy",
@@ -4989,9 +5078,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1086,
-   "runs": 7,
-   "items_run": 140
+   "elapsed_ms": 1078,
+   "runs": 8,
+   "items_run": 160
   },
   {
    "id": "hypebeast",
@@ -4999,9 +5088,9 @@
    "status": "ok",
    "items": 19,
    "error": "",
-   "elapsed_ms": 1178,
-   "runs": 7,
-   "items_run": 133
+   "elapsed_ms": 1160,
+   "runs": 8,
+   "items_run": 152
   },
   {
    "id": "retaildive",
@@ -5009,9 +5098,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1059,
-   "runs": 7,
-   "items_run": 70
+   "elapsed_ms": 1052,
+   "runs": 8,
+   "items_run": 80
   },
   {
    "id": "wwd",
@@ -5019,15 +5108,15 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1048,
-   "runs": 7,
-   "items_run": 70
+   "elapsed_ms": 1044,
+   "runs": 8,
+   "items_run": 80
   }
  ],
  "stats": {
-  "items": 145,
+  "items": 148,
   "by_topic": {
-   "tooling": 25,
+   "tooling": 27,
    "ai-video": 23,
    "research": 21,
    "retail": 14,
@@ -5035,14 +5124,14 @@
    "beauty": 9
   },
   "by_kind": {
-   "news": 78,
+   "news": 79,
    "paper": 45,
-   "repo": 22
+   "repo": 24
   },
   "rules_version": "1",
   "duplicates_in_run": 109,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-26T07:07:19+00:00",
+ "updated_at": "2026-11-26T08:07:05+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
