@@ -61,6 +61,8 @@ def main() -> None:
     uniques: dict[str, list] = defaultdict(list)
     for f in files:
         run = json.loads(f.read_text(encoding="utf-8"))
+        if run.get("kind") != "p0_channel":
+            continue
         ch = run["channel"]
         for qr in run["queries"]:
             eng = qr["engine"]
