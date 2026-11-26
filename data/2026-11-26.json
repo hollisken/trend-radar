@@ -902,6 +902,72 @@
    ]
   },
   {
+   "id": "9d6c1f876d645976",
+   "title": "DualCast: Dual-Image Conditioned Diffusion Transformers for Digital Human E-Commerce Video Generation",
+   "url": "http://arxiv.org/abs/2611.33734v1",
+   "publisher": "arXiv",
+   "kind": "paper",
+   "published_at": "2026-11-25T03:54:18+00:00",
+   "summary": "Recent advances in world models for game interaction and control have increased the demand for large-scale gameplay videos paired with camera trajectories. However, capturing synchronized camera trajectories often requires game-specific pipelines, limiting scalability. We…",
+   "topics": [
+    {
+     "name": "ai-video",
+     "score": 1.0
+    },
+    {
+     "name": "retail",
+     "score": 0.67
+    },
+    {
+     "name": "research",
+     "score": 0.5
+    }
+   ],
+   "retrieved_at": "2026-11-26T02:07:16+00:00",
+   "sightings": [
+    {
+     "source_id": "arxiv_video",
+     "retrieved_at": "2026-11-26T02:07:16+00:00"
+    }
+   ],
+   "meta": {
+    "authors": [
+     "Lifan Jiang",
+     "Yifan Huang",
+     "Jixuan Zhang"
+    ]
+   }
+  },
+  {
+   "id": "c54148b32b5ee78b",
+   "title": "VivaWorld: Long-Horizon Video World Model With Compositional 3D Priors",
+   "url": "http://arxiv.org/abs/2611.33591v1",
+   "publisher": "arXiv",
+   "kind": "paper",
+   "published_at": "2026-11-25T01:00:43+00:00",
+   "summary": "Long-horizon video generation is key to interactive world modeling, physical intelligence, and spatial reasoning, yet maintaining geometric consistency and accurate camera control remains challenging without 3D grounding. We introduce \\textbf{VivaWorld}, a framework for…",
+   "topics": [
+    {
+     "name": "research",
+     "score": 0.5
+    }
+   ],
+   "retrieved_at": "2026-11-26T02:07:16+00:00",
+   "sightings": [
+    {
+     "source_id": "arxiv_video",
+     "retrieved_at": "2026-11-26T02:07:16+00:00"
+    }
+   ],
+   "meta": {
+    "authors": [
+     "Ying Jiang",
+     "Donglai Xiang",
+     "Anita Hu"
+    ]
+   }
+  },
+  {
    "id": "d4ba79f7a74d7640",
    "title": "Taylor Swift’s Three Pairs of Uggs Have FN Editors Revisiting the Footwear Politics of the 2000s",
    "url": "https://wwd.com/footwear-news/shoe-features/taylor-swift-ugg-boots-2000s-millennial-fashion-1239464654",
@@ -941,6 +1007,35 @@
    ]
   },
   {
+   "id": "2f63e877f9ef7601",
+   "title": "Playfulness as Feedback for Agentic Game Development",
+   "url": "http://arxiv.org/abs/2611.33457v1",
+   "publisher": "arXiv",
+   "kind": "paper",
+   "published_at": "2026-11-24T21:30:09+00:00",
+   "summary": "Coding agents can generate runnable games from natural-language descriptions. However, a runnable game does not guarantee an excellent gameplay experience for players. In our view, a playful game should provide 1) reliable core functionality, 2) appealing visual design and…",
+   "topics": [
+    {
+     "name": "research",
+     "score": 0.5
+    }
+   ],
+   "retrieved_at": "2026-11-26T02:07:16+00:00",
+   "sightings": [
+    {
+     "source_id": "arxiv_video",
+     "retrieved_at": "2026-11-26T02:07:16+00:00"
+    }
+   ],
+   "meta": {
+    "authors": [
+     "Weijia Mao",
+     "Kevin Qinghong Lin",
+     "Zhen Fang"
+    ]
+   }
+  },
+  {
    "id": "cf06c65301733ee2",
    "title": "ricardochl/virtual-try-on",
    "url": "https://github.com/ricardochl/virtual-try-on",
@@ -965,6 +1060,39 @@
     "stars": 0,
     "language": "TypeScript",
     "topics": []
+   }
+  },
+  {
+   "id": "bc83e9f8f8c21d5d",
+   "title": "JetDiffusion: Pushing the Speed Limits of Video Generation with NVFP4 Sparse Attention",
+   "url": "http://arxiv.org/abs/2611.33268v1",
+   "publisher": "arXiv",
+   "kind": "paper",
+   "published_at": "2026-11-24T18:59:48+00:00",
+   "summary": "Attention over long sequences is a major computational bottleneck in video generation, which can be alleviated through sparsity and low-bit quantization. We propose JetDiffusion, a video generation system built on trainable Video Sparse Quantized Attention (VSQA), with custom…",
+   "topics": [
+    {
+     "name": "ai-video",
+     "score": 1.0
+    },
+    {
+     "name": "research",
+     "score": 0.5
+    }
+   ],
+   "retrieved_at": "2026-11-26T02:07:16+00:00",
+   "sightings": [
+    {
+     "source_id": "arxiv_video",
+     "retrieved_at": "2026-11-26T02:07:16+00:00"
+    }
+   ],
+   "meta": {
+    "authors": [
+     "Yulun Wu",
+     "Zihan Min",
+     "Minshen Zhang"
+    ]
    }
   },
   {
@@ -2681,9 +2809,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 3015,
-   "runs": 2,
-   "items_run": 20
+   "elapsed_ms": 2431,
+   "runs": 3,
+   "items_run": 30
   },
   {
    "id": "arxiv_video",
@@ -2691,9 +2819,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 4877,
-   "runs": 2,
-   "items_run": 30
+   "elapsed_ms": 3462,
+   "runs": 3,
+   "items_run": 45
   },
   {
    "id": "footwearnews",
@@ -2701,9 +2829,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2189,
-   "runs": 2,
-   "items_run": 20
+   "elapsed_ms": 2106,
+   "runs": 3,
+   "items_run": 30
   },
   {
    "id": "github_tryon",
@@ -2711,9 +2839,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1498,
-   "runs": 2,
-   "items_run": 20
+   "elapsed_ms": 1647,
+   "runs": 3,
+   "items_run": 30
   },
   {
    "id": "github_video",
@@ -2721,9 +2849,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 6899,
-   "runs": 2,
-   "items_run": 20
+   "elapsed_ms": 6781,
+   "runs": 3,
+   "items_run": 30
   },
   {
    "id": "glossy",
@@ -2731,9 +2859,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1060,
-   "runs": 2,
-   "items_run": 40
+   "elapsed_ms": 1093,
+   "runs": 3,
+   "items_run": 60
   },
   {
    "id": "hypebeast",
@@ -2741,9 +2869,9 @@
    "status": "ok",
    "items": 19,
    "error": "",
-   "elapsed_ms": 1139,
-   "runs": 2,
-   "items_run": 38
+   "elapsed_ms": 1143,
+   "runs": 3,
+   "items_run": 57
   },
   {
    "id": "retaildive",
@@ -2752,8 +2880,8 @@
    "items": 10,
    "error": "",
    "elapsed_ms": 1071,
-   "runs": 2,
-   "items_run": 20
+   "runs": 3,
+   "items_run": 30
   },
   {
    "id": "wwd",
@@ -2761,30 +2889,30 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1043,
-   "runs": 2,
-   "items_run": 20
+   "elapsed_ms": 1048,
+   "runs": 3,
+   "items_run": 30
   }
  ],
  "stats": {
-  "items": 112,
+  "items": 116,
   "by_topic": {
    "tooling": 23,
-   "research": 14,
+   "research": 16,
+   "ai-video": 12,
    "retail": 12,
-   "ai-video": 10,
    "beauty": 9,
    "fashion": 8
   },
   "by_kind": {
    "news": 67,
-   "paper": 25,
+   "paper": 29,
    "repo": 20
   },
   "rules_version": "1",
-  "duplicates_in_run": 112,
+  "duplicates_in_run": 108,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-26T01:07:04+00:00",
+ "updated_at": "2026-11-26T02:07:16+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
