@@ -1,0 +1,2790 @@
+{
+ "schema_version": 1,
+ "date": "2026-11-26",
+ "items": [
+  {
+   "id": "f6d5aac772bd183f",
+   "title": "‘Heartbroken’: Macy’s 100th Thanksgiving Day parade postponed",
+   "url": "https://www.retaildive.com/news/macys-100th-thanksgiving-day-parade-postponed/875808",
+   "publisher": "Retail Dive",
+   "kind": "news",
+   "published_at": "2026-11-25T23:40:00+00:00",
+   "summary": "The retailer’s iconic New York City event has moved to Saturday due to inclement weather. The 100th iteration has been worked on for about five years.",
+   "topics": [
+    {
+     "name": "retail",
+     "score": 0.33
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "retaildive",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "e921700dfee6c578",
+   "title": "Higher Fuel Costs Weigh on Apparel Retail Earnings",
+   "url": "https://wwd.com/sourcing-journal/logistics/fuel-costs-diesel-freight-burlington-abercrombie-fitch-kohls-urban-outfitters-gap-dollar-tree-1239466545",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-25T23:10:00+00:00",
+   "summary": "Diesel and freight ate into retail margins in Q3, with Burlington, Dollar Tree, Abercrombie and Urban Outfitters all expecting more fuel pressures in Q4.",
+   "topics": [
+    {
+     "name": "retail",
+     "score": 0.67
+    },
+    {
+     "name": "fashion",
+     "score": 0.5
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ec481a449d44a470",
+   "title": "Too Much, Too Little: Bangladesh’s Wage Hike Pleases No One",
+   "url": "https://wwd.com/sourcing-journal/sustainability/bangladesh-minimum-wage-increase-garment-workers-1239466520",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-25T22:58:46+00:00",
+   "summary": "The sector's smallest percentage raise in four decades has left workers short of their demands and manufacturers pressing brands to share the cost.",
+   "topics": [],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "8be73ddc18b1f87b",
+   "title": "Michael Kors Bags Are Up to 75% Off for Black Friday, With Viral ‘Hamilton’ Satchel Among Discounted Picks",
+   "url": "https://wwd.com/shop/shop-fashion/michael-kors-black-friday-sale-2026-purse-tote-deal-discount-1239429104",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-25T21:58:16+00:00",
+   "summary": "Shoppers can get their hands on the covet-worthy pieces at their lowest prices of the year.",
+   "topics": [],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "3a09083e90ae9660",
+   "title": "In Acclaimed 2014 Photography Book, Veruschka Called Herself An ‘Avatar for Metamorphosis’",
+   "url": "https://wwd.com/shop/shop-fashion/veruschka-model-photography-book-biography-buy-read-online-1239465432",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-25T21:32:46+00:00",
+   "summary": "The hardcover coffee table book from Rizzoli compiles more than 3,000 never-before-seen images of Veruschka shot by fashion photographer Johnny Moncada.",
+   "topics": [],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ebcf402996fa4f06",
+   "title": "Where to Watch the (Postponed) 2026 Macy’s Thanksgiving Day Parade Online for Free",
+   "url": "https://wwd.com/shop/shop-fashion/how-to-watch-2026-macys-thanksgiving-day-parade-online-free-1239465042",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-25T21:14:23+00:00",
+   "summary": "After a threat of inclement weather, the annual holiday event is being pushed to Saturday, Nov. 28.",
+   "topics": [],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ad61eeb82901ba4c",
+   "title": "Macy’s Postpones Thanksgiving Parade to Saturday",
+   "url": "https://wwd.com/business-news/retail/macys-postpones-thanksgiving-parade-first-time-ever-1239466494",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-25T21:00:50+00:00",
+   "summary": "Forecasts for severe weather conditions Thanksgiving Day prompted Macy's management to reschedule the big event.",
+   "topics": [],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "8a30463c836dfb15",
+   "title": "How Harry and Meghan Could Avoid Royal Headaches During the High-stakes Holiday Season in the U.K.",
+   "url": "https://wwd.com/pop-culture/celebrity-news/harry-meghan-royal-family-christmas-holiday-etiquette-1239427666",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-25T20:55:14+00:00",
+   "summary": "Crisis public relations specialists and royal family observers offer some unsolicited advice about how the Sussexes might navigate the holiday season.",
+   "topics": [],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "8b0bf9be8ac56fd6",
+   "title": "For Shoe Brands, More Tariffs Are on the Way",
+   "url": "https://wwd.com/footwear-news/shoe-industry-news/footwear-tariffs-section-301-china-vietnam-february-2027-1239466305",
+   "publisher": "Footwear News",
+   "kind": "news",
+   "published_at": "2026-11-25T20:50:47+00:00",
+   "summary": "The new Section 301 tariffs could go as high as 20 percent, and could see implementation in late February or March.",
+   "topics": [],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "footwearnews",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    },
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "f58831c2b49949dd",
+   "title": "Why Kohl’s Footwear Sales Grew in Q3 and Shoe Station’s Didn’t",
+   "url": "https://wwd.com/footwear-news/shoe-industry-news/kohls-value-shoe-station-rebanner-shoe-carnival-1239465927",
+   "publisher": "Footwear News",
+   "kind": "news",
+   "published_at": "2026-11-25T20:08:44+00:00",
+   "summary": "Kohl's focused on value, but Shoe Station's rebannering missed the needs of its value-focused Shoe Carnival customers.",
+   "topics": [
+    {
+     "name": "retail",
+     "score": 0.5
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "footwearnews",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    },
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "fbc4c350b3ddd490",
+   "title": "Turning Black Friday Bargain Hunters Into Long-Term Customers",
+   "url": "https://wwd.com/sourcing-journal/industry-news/turning-bargain-hunters-into-long-term-customers-1239466291",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-25T19:51:09+00:00",
+   "summary": "AI can drive product discovery and help retailers build loyalty beyond the first discount.",
+   "topics": [
+    {
+     "name": "retail",
+     "score": 0.33
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "3cd337fb43e9d96c",
+   "title": "Conquering the Holiday Gift Scramble at Lids",
+   "url": "https://hypebeast.com/2026/11/conquering-the-holiday-gift-scramble-at-lids",
+   "publisher": "Hypebeast",
+   "kind": "news",
+   "published_at": "2026-11-25T19:05:38+00:00",
+   "summary": "With the holiday season just around the corner, finding the perfect gift for coworkers can often feel like an insurmountable task. As offices prepare for end-of-year celebrations, Lids is making the dreaded holiday scramble easier by offering an endless rotation of customizable…",
+   "topics": [],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "hypebeast",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "a7e443a4dc49eac0",
+   "title": "24 Hours with Red Bull during Latin Music’s Busiest Week",
+   "url": "https://hypebeast.com/2026/11/24-hours-with-red-bull-during-latin-grammys-2026-hypebeast-latam-info",
+   "publisher": "Hypebeast",
+   "kind": "news",
+   "published_at": "2026-11-25T18:51:49+00:00",
+   "summary": "Red Bull kept the energy flowing as Hypebeast LATAM returned to Las Vegas during Latin GRAMMY Week. From an exclusive interview suite at the Encore Tower Suites to dinner at Zero Bond, an after-hours celebration at Disco Bébé and a five-kilometer morning run, the brand joined a…",
+   "topics": [],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "hypebeast",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "4e7d2cbcfdac1f28",
+   "title": "Nike’s Remastered Air Force 1 Sneaker Is Getting a Limited-Edition Metallic Makeover",
+   "url": "https://wwd.com/footwear-news/sneaker-news/nike-air-force-1-01-low-qs-metallic-platinum-release-date-ja0247-001-1239466239",
+   "publisher": "Footwear News",
+   "kind": "news",
+   "published_at": "2026-11-25T18:23:04+00:00",
+   "summary": "The Air Force 1 '01 QS is expected to be released soon.",
+   "topics": [],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "footwearnews",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "bb206d635b7084e3",
+   "title": "NANGA to Host Limited-Time Pop-Up Store in New York",
+   "url": "https://hypebeast.com/2026/11/nanga-host-limited-time-pop-up-store-new-york",
+   "publisher": "Hypebeast",
+   "kind": "news",
+   "published_at": "2026-11-25T18:08:35+00:00",
+   "summary": "Summary Japanese outdoor brand NANGA is opening a New York pop-up at 325 Canal Street from December 4 to 21.The store will stock NANGA’s signature down apparel, sleeping bags, comforters, accessories, and pieces from MODMNT.An accompanying exhibition will explore the brand’s…",
+   "topics": [
+    {
+     "name": "retail",
+     "score": 0.83
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "hypebeast",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "74ebd887591c742c",
+   "title": "Shein to pay $100M in FTC settlement over deceptive practices claims",
+   "url": "https://www.retaildive.com/news/shein-to-pay-100m-in-ftc-settlement-over-deceptive-practices-claims/875748",
+   "publisher": "Retail Dive",
+   "kind": "news",
+   "published_at": "2026-11-25T16:25:00+00:00",
+   "summary": "The e-commerce company faced allegations from the federal agency over its fast shipping promises, the way it posted product reviews online and more.",
+   "topics": [],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "retaildive",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "6298ea249ad8eca1",
+   "title": "First Look: Michael Jordan’s Original Air Jordan 17 Is Coming Back for the First Time Ever",
+   "url": "https://wwd.com/footwear-news/sneaker-news/air-jordan-17-retro-college-blue-release-date-ja4259-100-1239465939",
+   "publisher": "Footwear News",
+   "kind": "news",
+   "published_at": "2026-11-25T16:23:55+00:00",
+   "summary": "Retailer images of the upcoming College Blue reissue have surfaced.",
+   "topics": [
+    {
+     "name": "retail",
+     "score": 0.33
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "footwearnews",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "4ff091de6d61da15",
+   "title": "Hey Dude’s Secret Sauce Is a Human-First Approach Along With Humor",
+   "url": "https://wwd.com/footwear-news/shoe-industry-news/hey-dude-operations-engagement-consumers-comfort-footwear-1239464652",
+   "publisher": "Footwear News",
+   "kind": "news",
+   "published_at": "2026-11-25T16:20:20+00:00",
+   "summary": "Healthy inventory and reduced discounting helped Hey Dude improve operations, and garnering high engagement from consumers has been key too.",
+   "topics": [],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "footwearnews",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "13e52581eb9c7674",
+   "title": "Shoe Station flip flops on rebanner plan, again",
+   "url": "https://www.retaildive.com/news/shoe-station-flip-flops-rebanner-plan-again-shoe-carnival/875727",
+   "publisher": "Retail Dive",
+   "kind": "news",
+   "published_at": "2026-11-25T16:17:00+00:00",
+   "summary": "Most of the rebannered Shoe Station stores will become Shoe Carnival stores once more, the company said.",
+   "topics": [],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "retaildive",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "2712b7af70877941",
+   "title": "Infinix Packs Its ZClip 2 Pro Earbuds Into a Snack Bag",
+   "url": "https://hypebeast.com/2026/11/infinix-zclip-2-pro-earbuds-snack-bag",
+   "publisher": "Hypebeast",
+   "kind": "news",
+   "published_at": "2026-11-25T16:00:47+00:00",
+   "summary": "The Infinix ZClip 2 Pro comes in a foil snack pouch, a form familiar to all. Tear the notched edge, hear the crinkle, and instead of chips you get a pair of metallic open-ear earbuds.The ZClip 2 Pro ships in air-filled foil pouches modeled on real snack packaging. The thinking…",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.67
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "hypebeast",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "95a74aa20898033e",
+   "title": "Holiday marketing hits inflection point in 2026: What brands need to know",
+   "url": "https://www.retaildive.com/news/holiday-marketing-hits-inflection-point-in-2026-what-brands-need-to-know/875056",
+   "publisher": "Retail Dive",
+   "kind": "news",
+   "published_at": "2026-11-25T15:57:00+00:00",
+   "summary": "Consumers’ push-pull relationship with buzzy tactics like AI and tried-and-true strategies like creator tie-ups is challenging brands to find the right balance.",
+   "topics": [],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "retaildive",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "9fba8167a833d872",
+   "title": "Rick Owens Updates Moncler’s Trailgrip Boot in Newest Collab",
+   "url": "https://wwd.com/footwear-news/shoe-industry-news/rick-owens-moncler-trailgrip-pentalace-boot-release-date-1239465848",
+   "publisher": "Footwear News",
+   "kind": "news",
+   "published_at": "2026-11-25T15:41:04+00:00",
+   "summary": "The shoe was previewed in June at an event at Moncler’s new global headquarters in Milan.",
+   "topics": [],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "footwearnews",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "268bcfa3f1b29809",
+   "title": "Zamna Will Bring 10 Days of Global Dance Music to Tulum for Landmark 10th Anniversary",
+   "url": "https://hypebeast.com/2026/11/zamna-10-anniversary-festival-event-info",
+   "publisher": "Hypebeast",
+   "kind": "news",
+   "published_at": "2026-11-25T15:30:39+00:00",
+   "summary": "The Tulum jungle in Mexico has been integral to Zamna’s rise, hosting its first music festival back in 2017. Though the culture and hospitality group has taken the festival to over 20 countries since its inception, it returns to its roots for Zamna’s 10th anniversary with a…",
+   "topics": [],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "hypebeast",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "b99a54afc5797516",
+   "title": "Nike’s Gyakusou Running Line Was Ahead of Its Time — Now It Will Release Its First Shoes in Five Years",
+   "url": "https://wwd.com/footwear-news/sneaker-news/nike-gyakusou-alphafly-4-vomero-plus-release-date-1239463981",
+   "publisher": "Footwear News",
+   "kind": "news",
+   "published_at": "2026-11-25T15:24:00+00:00",
+   "summary": "Undercover founder Jun Takahashi brings his touch to the Alphafly 4 and Vomero Plus.",
+   "topics": [],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "footwearnews",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "443a33e4a7a824d1",
+   "title": "codeby-narendra/visual-try-on",
+   "url": "https://github.com/codeby-narendra/visual-try-on",
+   "publisher": "codeby-narendra",
+   "kind": "repo",
+   "published_at": "2026-11-25T15:04:21+00:00",
+   "summary": "AI Virtual Try-On Studio",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "github_tryon",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 0,
+    "language": "HTML",
+    "topics": []
+   }
+  },
+  {
+   "id": "9c6dc9b65d157ee2",
+   "title": "OrthoLite Lift Insoles Have Supercritical Foaming Technology",
+   "url": "https://wwd.com/footwear-news/shoe-industry-news/ortholite-lift-insole-collection-supercritical-foam-1239464318",
+   "publisher": "Footwear News",
+   "kind": "news",
+   "published_at": "2026-11-25T15:02:27+00:00",
+   "summary": "OrthoLite Lift is the brand's new insole collection made with supercritical foaming in two formulations.",
+   "topics": [],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "footwearnews",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "c91cf5f253e5605b",
+   "title": "Nike ‘absolutely making the right decision with Jordan’: Dick’s Sporting Goods",
+   "url": "https://www.retaildive.com/news/nike-jordan-dicks-sporting-goods-foot-locker-q3/875628",
+   "publisher": "Retail Dive",
+   "kind": "news",
+   "published_at": "2026-11-25T14:18:00+00:00",
+   "summary": "Executive Chairman Edward Stack applauded Nike for its long-term approach with the brand, as Foot Locker sees some signs of progress.",
+   "topics": [],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "retaildive",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "66a577e6da60870b",
+   "title": "manibharathi1964/Al-Virtual-Dress-TryOn",
+   "url": "https://github.com/manibharathi1964/Al-Virtual-Dress-TryOn",
+   "publisher": "manibharathi1964",
+   "kind": "repo",
+   "published_at": "2026-11-25T09:30:15+00:00",
+   "summary": "",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "github_tryon",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 0,
+    "language": "Kotlin",
+    "topics": []
+   }
+  },
+  {
+   "id": "a5fd08a1ebf9eaf2",
+   "title": "zju3dv/SPARC",
+   "url": "https://github.com/zju3dv/SPARC",
+   "publisher": "zju3dv",
+   "kind": "repo",
+   "published_at": "2026-11-25T08:51:50+00:00",
+   "summary": "[ARXIV 2026] SPARC: Geometry-Guided Attention Pruning for Long-Horizon Camera-Controlled Video Generation",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "github_video",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 8,
+    "language": null,
+    "topics": []
+   }
+  },
+  {
+   "id": "48fa7d4f06c54a0c",
+   "title": "AAPE x BABY MILO® FW26 Turns Signature Camo Into a Game of Hide-and-Seek",
+   "url": "https://hypebeast.com/2026/11/aape-baby-baby-milo-fw26-collection-release-info",
+   "publisher": "Hypebeast",
+   "kind": "news",
+   "published_at": "2026-11-25T08:45:03+00:00",
+   "summary": "AAPE BY *A BATHING APE® has teamed up with BABY MILO® once again for Fall/Winter 2026. The campaign was shot at a real Tokyo arcade and stars Japanese gyaru model Yukipoyo alongside twin influencers Aqua & Akuto. The crew filled the crane machines with BABY MILO® plushies, and…",
+   "topics": [
+    {
+     "name": "fashion",
+     "score": 0.33
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "hypebeast",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "dcaf43ee5572c866",
+   "title": "LISA Gives The Nike Zoom Streak 3 \"Black/Red\" an Early Debut at the F1 Las Vegas Grand Prix",
+   "url": "https://hypebeast.com/2026/11/lisa-wears-unreleased-nike-zoom-streak-3-f1-vegas",
+   "publisher": "Hypebeast",
+   "kind": "news",
+   "published_at": "2026-11-25T08:13:15+00:00",
+   "summary": "Summary LISA wore an unreleased pair of Nike Zoom Streak 3 sneakers in Black/Red to the Formula 1 Las Vegas Grand Prix drivers paradeFirst introduced in 2009, the racing flat pairs a one-piece mesh upper with a Cushlon midsole and a Zoom Air heelThe sighting is one of the first…",
+   "topics": [],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "hypebeast",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ee38607a93035865",
+   "title": "Official Images of the Cactus Plant Flea Market x Nike Flea 1 “Cave Purple”",
+   "url": "https://hypebeast.com/2026/11/cactus-plant-flea-market-cpfm-nike-flea-1-cave-purple-iu5238-500-official-images",
+   "publisher": "Hypebeast",
+   "kind": "news",
+   "published_at": "2026-11-25T08:06:21+00:00",
+   "summary": "Name: Cactus Plant Flea Market x Nike Flea 1 “Cave Purple”Colorway: Cave Purple/Dark Raisin-Purple DynastySKU: IU5238-500MSRP: $180 USDRelease Date: December 2026Cactus Plant Flea Market and Nike have revealed the official images of the Flea 1 \"Cave Purple,\" listed as Cave…",
+   "topics": [],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "hypebeast",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "f264d62f3aebbdb6",
+   "title": "Fred again.., Nike and Monkey Shoulder Lifestyle, Merch & Music Collective Stitch India's 2007 and 2011 Winning Kits Into One Cricket Shirt",
+   "url": "https://hypebeast.com/2026/11/fred-again-monkey-shoulder-nike-cricket-jersey-release-info",
+   "publisher": "Hypebeast",
+   "kind": "news",
+   "published_at": "2026-11-25T07:55:13+00:00",
+   "summary": "Summary Fred again.. has teamed up with Monkey Shoulder Lifestyle, Merch & Music Collective and Nike on a limited-edition cricket shirt designed by Kunel GaurThe design merges the geometric graphics of India's 2011 kit with the blue of its 2007 kit, two winning shirts from…",
+   "topics": [],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "hypebeast",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "06e23f92b2ee02f0",
+   "title": "Deborah Ann Woll Is Bringing Faye From the 'God of War' Games to Prime Video's Live-Action Series",
+   "url": "https://hypebeast.com/2026/11/deborah-ann-woll-joins-god-of-war-tv-series-as-faye",
+   "publisher": "Hypebeast",
+   "kind": "news",
+   "published_at": "2026-11-25T07:45:38+00:00",
+   "summary": "Summary Deborah Ann Woll will reprise her video game role as Faye in Prime Video's live-action God of War adaptationProduction is undergoing massive reshoots after Dave Bautista replaced Ryan Hurst as Kratos due to an on-set injuryThe casting points toward a potential third…",
+   "topics": [],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "hypebeast",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "0fe7a42a6c86be29",
+   "title": "Blancpain Unveils New Watch Featuring the World's First 30-Degree Inclined One-Minute Flying Carrousel",
+   "url": "https://hypebeast.com/2026/11/blancpain-carrousel-incline-info",
+   "publisher": "Hypebeast",
+   "kind": "news",
+   "published_at": "2026-11-25T07:10:16+00:00",
+   "summary": "Blancpain, the world's oldest watch brand founded in Villeret, Switzerland in 1735, has announced a new watch, the Tourbillon Carrousel Inclined. Completed after four years of development, this model features what the brand claims to be the world's first one-minute flying…",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.67
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "hypebeast",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "0bff124b164d3897",
+   "title": "Starbucks Japan Launches the Potato Soupaccino, a Half-Soup, Half-Cappuccino Winter Drink",
+   "url": "https://hypebeast.com/2026/11/starbucks-japan-debuts-the-savory-potato-soupaccino",
+   "publisher": "Hypebeast",
+   "kind": "news",
+   "published_at": "2026-11-25T07:08:49+00:00",
+   "summary": "Summary Starbucks Japan introduces the Potato Soupaccino as a half-soup, half-cappuccino hybrid beverage for the winter seasonThe savory comfort drink features a potato, caramelized onion and sweet vegetable flavor profile topped with customizable foamThe exclusive seasonal…",
+   "topics": [],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "hypebeast",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "571d580d775482d0",
+   "title": "PORTER Remakes Its Exclusive PX TANKER Line in 100% Plant-Derived Nylon",
+   "url": "https://hypebeast.com/2026/11/porter-px-tanker-2026-redesign-release-info",
+   "publisher": "Hypebeast",
+   "kind": "news",
+   "published_at": "2026-11-25T07:00:55+00:00",
+   "summary": "Summary PORTER has fully renewed PX TANKER, the exclusive line it has offered since 2019Every bag in the five-piece lineup is made from 100% plant-derived nylon, the same fabric used across the TANKER lineThe update also brings two new colorways, adjustable-length straps and the…",
+   "topics": [],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "hypebeast",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "6117947a9efbac6e",
+   "title": "Aimé Leon Dore and Porsche Gear Up for the Holidays With New Capsule Collection",
+   "url": "https://hypebeast.com/2026/11/aime-leon-dore-porsche-2026-capsule-collection-collab-release-info",
+   "publisher": "Hypebeast",
+   "kind": "news",
+   "published_at": "2026-11-25T06:35:37+00:00",
+   "summary": "Summary Aimé Leon Dore and Porsche unveil their collaborative Holiday 2026 Capsule Collection.The capsule collection includes a performance fleece, cashmere accessories, and collectible gifts.The collection launches November 23 online and at flagship stores. Continuing their…",
+   "topics": [
+    {
+     "name": "fashion",
+     "score": 1.0
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "hypebeast",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "31a5dfe72045ac5d",
+   "title": "‘GTA VI’ Stays Off Limits, But Hollywood Can Reportedly Have ‘Red Dead Redemption’ for $100 Million USD",
+   "url": "https://hypebeast.com/2026/11/rockstar-games-red-dead-redemption-100-million-usd-usd-live-action-adaptation-update",
+   "publisher": "Hypebeast",
+   "kind": "news",
+   "published_at": "2026-11-25T06:30:45+00:00",
+   "summary": "Summary Rockstar Games is reportedly more open to bringing 'Red Dead Redemption' to film or television, even as it continues to turn down Hollywood interest in 'Grand Theft Auto'An unnamed agent claims the studio at one point floated a licensing price of more than $100 million…",
+   "topics": [],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "hypebeast",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "621c087e8bc8da2a",
+   "title": "UNDERCOVER x fragment design's Mohair Knit Cardigan Puts Texture First in Two Necklines",
+   "url": "https://hypebeast.com/2026/11/undercover-fragment-design-drop-2-collaboration-collection-release-infp",
+   "publisher": "Hypebeast",
+   "kind": "news",
+   "published_at": "2026-11-25T06:30:39+00:00",
+   "summary": "Summary UNDERCOVER and fragment design return with the second installment of their \"Undercover meets Fragment\" capsuleThe drop is built around a single mohair knit cardigan taken from the FW26 men's collectionThe cardigan comes as a crew neck or a V-neck, with each one offered…",
+   "topics": [
+    {
+     "name": "fashion",
+     "score": 0.5
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "hypebeast",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "3f96d9f4b869b574",
+   "title": "Y-3 and Mercedes-AMG PETRONAS F1 Team Celebrate Constructors' Title with Jeff Hamilton",
+   "url": "https://hypebeast.com/2026/11/y-3-and-mercedes-amg-petronas-f1-team-celebrate-constructors-title-with-jeff-hamilton",
+   "publisher": "Hypebeast",
+   "kind": "news",
+   "published_at": "2026-11-25T06:26:38+00:00",
+   "summary": "Summary Y-3 x Mercedes-AMG PETRONAS F1 Team x Jeff Hamilton unveil a 2026 Constructors’ title capsule.Debuted in Las Vegas, the jacket and cap are limited to 999 units each.Pre-orders open November 23 ahead of an early December release. Celebrating their newly crowned nine-time…",
+   "topics": [
+    {
+     "name": "fashion",
+     "score": 0.33
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "hypebeast",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "512edb31305f1ea8",
+   "title": "lululemon Launches New Winter Apparel Collections, Featuring Oversized Silhouettes and Functional Fabrics for Winter Layering",
+   "url": "https://hypebeast.com/2026/11/lululemon-winter-collection-info",
+   "publisher": "Hypebeast",
+   "kind": "news",
+   "published_at": "2026-11-25T05:49:59+00:00",
+   "summary": "lululemon recently introduced a variety of winter apparel, covering the Big Cozy, Steady State SuperLoft, Tumbled Fleece, and the all-new High-Loft PrimaLoft UltraPeak collections. Through oversized silhouettes, rich fabric textures, and functional designs, the collections meet…",
+   "topics": [
+    {
+     "name": "fashion",
+     "score": 1.0
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "hypebeast",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "0117a3ab0e206615",
+   "title": "Yvng Patra Releases New Album 'Regalia' Featuring Kohjiya, Vingo, and More",
+   "url": "https://hypebeast.com/2026/11/yvng-patra-regalia-kohjiya-vingo-new-album-release-info",
+   "publisher": "Hypebeast",
+   "kind": "news",
+   "published_at": "2026-11-25T05:48:00+00:00",
+   "summary": "Rapper Yvng Patra has released his latest album, Regalia. The 17-track release features appearances by Kohjiya, Vingo, D.O, DADA, 27AM, and Pxrge Trxxxper. Welcoming a diverse array of producers and guest artists, the project delivers a broader soundscape than ever…",
+   "topics": [],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "hypebeast",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "68b28d8deb79fd2c",
+   "title": "Immad-Baber/Virtual-TryOn",
+   "url": "https://github.com/Immad-Baber/Virtual-TryOn",
+   "publisher": "Immad-Baber",
+   "kind": "repo",
+   "published_at": "2026-11-25T05:14:06+00:00",
+   "summary": "",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "github_tryon",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 0,
+    "language": "Jupyter Notebook",
+    "topics": []
+   }
+  },
+  {
+   "id": "f9bf3c95fce59d35",
+   "title": "Wellness Briefing: How should the wellness section be organized in 2027?",
+   "url": "https://www.glossy.co/beauty/wellness/wellness-briefing-how-should-the-wellness-section-be-organized-in-2027",
+   "publisher": "Glossy",
+   "kind": "news",
+   "published_at": "2026-11-25T05:00:00+00:00",
+   "summary": "For the Wellness Briefing, Glossy asked industry leaders from Unilever, Camino Partners, McKinsey and more how the wellness section should be organized in 2027. Additionally, Therabody acquires new technology to better serve women in menopause, and Australia’s in-person…",
+   "topics": [],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "glossy",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "210f8a7b0166f0c9",
+   "title": "How Ring Concierge is using the loose diamond social media trend to funnel buyers to its own channels",
+   "url": "https://www.glossy.co/fashion/how-ring-concierge-is-using-the-loose-diamond-social-media-trend-to-funnel-buyers-to-its-own-channels",
+   "publisher": "Glossy",
+   "kind": "news",
+   "published_at": "2026-11-25T05:00:00+00:00",
+   "summary": "Online diamond and jewelry brand Ring Concierge saw the appeal of the loose diamond trend for its customers, but wanted to offer something that was more intentional, more trustworthy and not tied to another platform like TikTok or eBay.",
+   "topics": [],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "glossy",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "d4ba79f7a74d7640",
+   "title": "Taylor Swift’s Three Pairs of Uggs Have FN Editors Revisiting the Footwear Politics of the 2000s",
+   "url": "https://wwd.com/footwear-news/shoe-features/taylor-swift-ugg-boots-2000s-millennial-fashion-1239464654",
+   "publisher": "Footwear News",
+   "kind": "news",
+   "published_at": "2026-11-24T23:55:07+00:00",
+   "summary": "From coveted colorways to the gender politics of sheepskin boots, FN’s Millennial editors recall what owning Uggs meant in their teenage years.",
+   "topics": [],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "footwearnews",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "53ef574eca98b5bc",
+   "title": "Shoe Station Group Dramatically Halts Store Conversions, to Revert Most Locations to Original Banner",
+   "url": "https://wwd.com/footwear-news/shoe-industry-news/shoe-station-group-stops-store-conversions-q3-2026-1239465231",
+   "publisher": "Footwear News",
+   "kind": "news",
+   "published_at": "2026-11-24T22:09:04+00:00",
+   "summary": "The company said it expects these changes to officially take place in the first quarter of fiscal 2027.",
+   "topics": [
+    {
+     "name": "retail",
+     "score": 0.5
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "footwearnews",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "cf06c65301733ee2",
+   "title": "ricardochl/virtual-try-on",
+   "url": "https://github.com/ricardochl/virtual-try-on",
+   "publisher": "ricardochl",
+   "kind": "repo",
+   "published_at": "2026-11-24T20:35:08+00:00",
+   "summary": "Virtual try-on for an online store with Angular 21 and Firebase AI Logic: Nano Banana generates you wearing the garment, no backend needed.",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "github_tryon",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 0,
+    "language": "TypeScript",
+    "topics": []
+   }
+  },
+  {
+   "id": "07da2a0623f01d7b",
+   "title": "One Take, Many Cameras: Audio-Grounded Shot Synthesis for Dialogue Re-Cinematography",
+   "url": "http://arxiv.org/abs/2611.33147v1",
+   "publisher": "arXiv",
+   "kind": "paper",
+   "published_at": "2026-11-24T18:58:32+00:00",
+   "summary": "Creating a dialogue scene typically requires cutting between multiple views (e.g., close-ups, medium shots, and over-the-shoulder shots) of the actors. Yet capturing such coverage is costly and in many settings unavailable. We study dialogue re-cinematography: synthesizing…",
+   "topics": [
+    {
+     "name": "ai-video",
+     "score": 0.83
+    },
+    {
+     "name": "research",
+     "score": 0.5
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "arxiv_video",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ],
+   "meta": {
+    "authors": [
+     "Anthony Chen",
+     "Naomi Ken Korem",
+     "Matan Ben-Yosef"
+    ]
+   }
+  },
+  {
+   "id": "d09e3e2cf933000c",
+   "title": "iWAM: Efficient Action Prediction from World Models without Explicit Future Prediction",
+   "url": "http://arxiv.org/abs/2611.33141v1",
+   "publisher": "arXiv",
+   "kind": "paper",
+   "published_at": "2026-11-24T18:56:04+00:00",
+   "summary": "World-action models (WAMs) build policies on pretrained video-generation models, on the premise that predicting how a scene evolves helps determine how to act. However, generating future scenes is expensive for real-time control. This motivates efficient proxies for future…",
+   "topics": [
+    {
+     "name": "research",
+     "score": 0.5
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "arxiv_video",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ],
+   "meta": {
+    "authors": [
+     "Vansh Kapoor",
+     "Max Sobol Mark",
+     "Sreyas Venkataraman"
+    ]
+   }
+  },
+  {
+   "id": "d320f66f18c49542",
+   "title": "Kohl’s turns a corner in Q3, no thanks to Sephora",
+   "url": "https://www.retaildive.com/news/kohls-turns-corner-q3-sephora-falls/875593",
+   "publisher": "Retail Dive",
+   "kind": "news",
+   "published_at": "2026-11-24T17:12:00+00:00",
+   "summary": "The department store posted positive comps in most categories, thanks to strong private label sales and store improvements, and profits soared.",
+   "topics": [
+    {
+     "name": "retail",
+     "score": 0.33
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "retaildive",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "5ea55f476477f612",
+   "title": "Dollar Tree predicts holiday shoppers will ‘buy closer to need’",
+   "url": "https://www.retaildive.com/news/dollar-tree-q3-holiday-shoppers-buy-closer-to-need/875619",
+   "publisher": "Retail Dive",
+   "kind": "news",
+   "published_at": "2026-11-24T16:26:00+00:00",
+   "summary": "The retailer’s Q3 total revenue grew nearly 7%, with traffic growth outpacing increases in average ticket.",
+   "topics": [
+    {
+     "name": "retail",
+     "score": 1.0
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "retaildive",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "f7731e1004c08375",
+   "title": "PhysMend: Verification-Guided Program Refinement for Physics-Aware Video Generation",
+   "url": "http://arxiv.org/abs/2611.32821v1",
+   "publisher": "arXiv",
+   "kind": "paper",
+   "published_at": "2026-11-24T15:37:39+00:00",
+   "summary": "Video generative models synthesize realistic scenes, yet their interactions often violate physics. A ball dropped onto sand should displace grains and settle into a crater, whereas a generated video may show it passing through the surface or leaving the sand flat. Post-hoc…",
+   "topics": [
+    {
+     "name": "ai-video",
+     "score": 0.5
+    },
+    {
+     "name": "research",
+     "score": 0.5
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "arxiv_video",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ],
+   "meta": {
+    "authors": [
+     "Meilong Xu",
+     "Ziyi Zhao",
+     "Bhagyashree Puranik"
+    ]
+   }
+  },
+  {
+   "id": "60762c5815d3c653",
+   "title": "Residual Guidance for Real-Time Interactive Video Generation",
+   "url": "http://arxiv.org/abs/2611.32820v1",
+   "publisher": "arXiv",
+   "kind": "paper",
+   "published_at": "2026-11-24T15:35:58+00:00",
+   "summary": "Real-time interactive video generation allows users to change the prompt during generation to steer the evolving video. However, existing streaming models, which generate videos chunk by chunk, often keep following the previous prompt after a switch. We trace this failure to…",
+   "topics": [
+    {
+     "name": "ai-video",
+     "score": 0.67
+    },
+    {
+     "name": "research",
+     "score": 0.5
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "arxiv_video",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ],
+   "meta": {
+    "authors": [
+     "NaHyeon Park",
+     "Kyeong-Hwan Moon",
+     "Youjin Jeon"
+    ]
+   }
+  },
+  {
+   "id": "b51aaaad2e3c5428",
+   "title": "Retailers brace for Black Friday after widespread tech outages",
+   "url": "https://www.retaildive.com/news/black-friday-retailers-tech-outages-ai/875541",
+   "publisher": "Retail Dive",
+   "kind": "news",
+   "published_at": "2026-11-24T15:23:00+00:00",
+   "summary": "The vital shopping event and Cyber Week already pose a challenge to retailers’ online systems — but the recent spate of outages across sectors highlights a new set of hurdles.",
+   "topics": [
+    {
+     "name": "retail",
+     "score": 1.0
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "retaildive",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "2ea14ffa113855ab",
+   "title": "Sol$^{3}$: Accelerating Video Diffusion for Free via Hierarchical Sparse Attention Routing",
+   "url": "http://arxiv.org/abs/2611.32562v1",
+   "publisher": "arXiv",
+   "kind": "paper",
+   "published_at": "2026-11-24T13:10:35+00:00",
+   "summary": "Sol-Attn (Sparsifying online attention) combines sparse exact computation with low-cost representative approximation to accelerate training-free inference in diffusion video models. However, intra-block attention can focus on only a few tokens. While preserving these key…",
+   "topics": [
+    {
+     "name": "ai-video",
+     "score": 0.83
+    },
+    {
+     "name": "research",
+     "score": 0.5
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "arxiv_video",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ],
+   "meta": {
+    "authors": [
+     "Guoxin Fan",
+     "Weilun Feng",
+     "Chuanguang Yang"
+    ]
+   }
+  },
+  {
+   "id": "d2c5b971278497d9",
+   "title": "Samiksha0602/OKO-Virtual-Try-On",
+   "url": "https://github.com/Samiksha0602/OKO-Virtual-Try-On",
+   "publisher": "Samiksha0602",
+   "kind": "repo",
+   "published_at": "2026-11-24T12:06:58+00:00",
+   "summary": "AI-powered Augmented Reality Virtual Try-On Glasses System",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "github_tryon",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 0,
+    "language": "JavaScript",
+    "topics": []
+   }
+  },
+  {
+   "id": "788f096b7059175d",
+   "title": "Tao-of-Sailing/rea-video-free",
+   "url": "https://github.com/Tao-of-Sailing/rea-video-free",
+   "publisher": "Tao-of-Sailing",
+   "kind": "repo",
+   "published_at": "2026-11-24T12:03:58+00:00",
+   "summary": "Agent skill for local video replication and mathematical explainer production using rea-video, ManimCE, and Hypit — no paid video-generation API required",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "github_video",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 3,
+    "language": "Python",
+    "topics": [
+     "agent-skills",
+     "ai-skills",
+     "antigravity",
+     "claude-code",
+     "hypit"
+    ]
+   }
+  },
+  {
+   "id": "20064fd4ac0e47fe",
+   "title": "OmniPersist: Persistent Dynamic World Modeling via Coupled Panoramic Evolution",
+   "url": "http://arxiv.org/abs/2611.32473v1",
+   "publisher": "arXiv",
+   "kind": "paper",
+   "published_at": "2026-11-24T12:03:35+00:00",
+   "summary": "Action-conditioned world models play a vital role in robotics and autonomous driving, yet existing video diffusion models struggle to maintain dynamic object persistence. When the camera turns away and returns, out-of-view moving entities fail to evolve plausibly in latent…",
+   "topics": [
+    {
+     "name": "ai-video",
+     "score": 0.5
+    },
+    {
+     "name": "research",
+     "score": 0.5
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "arxiv_video",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ],
+   "meta": {
+    "authors": [
+     "Zhilu Zhang",
+     "Xiaoyu Liu",
+     "Wenxi Liu"
+    ]
+   }
+  },
+  {
+   "id": "970c009c213d1706",
+   "title": "The wonder and ritual of Macy’s Thanksgiving Day Parade",
+   "url": "https://www.retaildive.com/news/macys-hundredth-thanksgiving-day-parade-history/875134",
+   "publisher": "Retail Dive",
+   "kind": "news",
+   "published_at": "2026-11-24T12:00:00+00:00",
+   "summary": "It’s one of the oldest and last remaining monoculture moments in the U.S., and it tells a deeply American story about immigrants, retail, heritage and the power of pageantry.",
+   "topics": [],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "retaildive",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "0bd464b9a9c02af0",
+   "title": "Video Models are Excellent Motion Models",
+   "url": "http://arxiv.org/abs/2611.32432v1",
+   "publisher": "arXiv",
+   "kind": "paper",
+   "published_at": "2026-11-24T11:33:11+00:00",
+   "summary": "Video foundation models have emerged as powerful generators of dynamic visual content, exhibiting remarkable capabilities in synthesizing complex actions and interactions. We argue that these models have also become excellent motion generators, with motion priors that are richer…",
+   "topics": [
+    {
+     "name": "research",
+     "score": 0.5
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "arxiv_video",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ],
+   "meta": {
+    "authors": [
+     "Kian Izadpanah",
+     "Ali Mahdavi Amiri",
+     "Daniel Cohen-Or"
+    ]
+   }
+  },
+  {
+   "id": "3a9707e3a2ecbe74",
+   "title": "NRG-Twins: Pixel-Level Ground Truth for Rigidity Violations in Generated Videos",
+   "url": "http://arxiv.org/abs/2611.32431v1",
+   "publisher": "arXiv",
+   "kind": "paper",
+   "published_at": "2026-11-24T11:32:50+00:00",
+   "summary": "Video generators now produce realistic clips of scenes and objects, which makes generated video an attractive source of 3D content. Yet generated video is not 3D consistent: static content slowly deforms or slides, 3D reconstruction degrades, and the errors are too subtle to…",
+   "topics": [
+    {
+     "name": "research",
+     "score": 0.5
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "arxiv_video",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ],
+   "meta": {
+    "authors": [
+     "Chenrui Fan",
+     "Qiyang Hu",
+     "Luca Scharr"
+    ]
+   }
+  },
+  {
+   "id": "3372428784c2f180",
+   "title": "Get the Next Moment Right: Short-Term Event Planning for Physically Plausible Video Generation",
+   "url": "http://arxiv.org/abs/2611.32337v1",
+   "publisher": "arXiv",
+   "kind": "paper",
+   "published_at": "2026-11-24T10:21:34+00:00",
+   "summary": "Video generation models synthesize realistic imagery yet still struggle to produce physically plausible evolution. Existing methods guide generation with a motion trajectory predicted for the entire clip in advance, so prediction errors accumulate and degrade later frames. We…",
+   "topics": [
+    {
+     "name": "ai-video",
+     "score": 0.67
+    },
+    {
+     "name": "research",
+     "score": 0.5
+    },
+    {
+     "name": "tooling",
+     "score": 0.33
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "arxiv_video",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ],
+   "meta": {
+    "authors": [
+     "Hao Liu",
+     "Xiang Tang",
+     "Ruotong Li"
+    ]
+   }
+  },
+  {
+   "id": "cc6b57ba56935596",
+   "title": "RoboProbe: Benchmarking Physical Plausibility of Robot World Models",
+   "url": "http://arxiv.org/abs/2611.32152v1",
+   "publisher": "arXiv",
+   "kind": "paper",
+   "published_at": "2026-11-24T08:06:52+00:00",
+   "summary": "Evaluating the physical plausibility of generated videos is critical for reliable robotic planning with world models. These videos inform action proposal and assessment before real-world execution, so undetected physical violations can lead to erroneous assessments of action…",
+   "topics": [
+    {
+     "name": "research",
+     "score": 0.67
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "arxiv_video",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ],
+   "meta": {
+    "authors": [
+     "Zhuoying Yang",
+     "Jiachen Ni",
+     "Yichen Guo"
+    ]
+   }
+  },
+  {
+   "id": "8c4afdc82fa1436f",
+   "title": "The Old Scene Lives in the Cache: Diagnosing and Shedding Stale History in Streaming Video Generation",
+   "url": "http://arxiv.org/abs/2611.32116v1",
+   "publisher": "arXiv",
+   "kind": "paper",
+   "published_at": "2026-11-24T07:34:57+00:00",
+   "summary": "Switching scenes while preserving the original subject in streaming video generation exposes a conflict: cached history helps maintain the subject but also sustains old-scene objects that should disappear. Through controlled interventions on text conditioning, denoising steps…",
+   "topics": [
+    {
+     "name": "ai-video",
+     "score": 0.67
+    },
+    {
+     "name": "research",
+     "score": 0.5
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "arxiv_video",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ],
+   "meta": {
+    "authors": [
+     "Hao Zhou",
+     "Ziyang Xu",
+     "Chenhan Jin"
+    ]
+   }
+  },
+  {
+   "id": "b190fa474af525b6",
+   "title": "DeCo-Attention: Decompose to Compensate for Low-Precision Attention",
+   "url": "http://arxiv.org/abs/2611.32035v1",
+   "publisher": "arXiv",
+   "kind": "paper",
+   "published_at": "2026-11-24T06:18:09+00:00",
+   "summary": "Self-attention over tens of thousands of tokens dominates the generation time of video diffusion transformers, because its cost grows quadratically with sequence length. The FP4 matrix products of modern GPUs can speed up attention, but the 4-bit rounding of the queries Q and…",
+   "topics": [
+    {
+     "name": "research",
+     "score": 0.5
+    },
+    {
+     "name": "ai-video",
+     "score": 0.33
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "arxiv_video",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ],
+   "meta": {
+    "authors": [
+     "Yuhang He",
+     "Harrison Zhang",
+     "Fanrong Li"
+    ]
+   }
+  },
+  {
+   "id": "7807edc5be88a991",
+   "title": "rajneeshbhardwaj817-bot/virtual-dress-try-on",
+   "url": "https://github.com/rajneeshbhardwaj817-bot/virtual-dress-try-on",
+   "publisher": "rajneeshbhardwaj817-bot",
+   "kind": "repo",
+   "published_at": "2026-11-24T05:35:09+00:00",
+   "summary": "AI Virtual Dress Try On",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "github_tryon",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 0,
+    "language": null,
+    "topics": []
+   }
+  },
+  {
+   "id": "378f2647e48e5cfc",
+   "title": "nahyeonkaty/residual-guidance",
+   "url": "https://github.com/nahyeonkaty/residual-guidance",
+   "publisher": "nahyeonkaty",
+   "kind": "repo",
+   "published_at": "2026-11-24T05:08:22+00:00",
+   "summary": "Official PyTorch Implementation of \"Residual Guidance for Real-Time Interactive Video Generation\"",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "github_video",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 10,
+    "language": "Python",
+    "topics": []
+   }
+  },
+  {
+   "id": "4206a13f263b2dd7",
+   "title": "SPAR: Self-Referenced World-Model Rewards for Physical Alignment in Video Generation",
+   "url": "http://arxiv.org/abs/2611.31958v1",
+   "publisher": "arXiv",
+   "kind": "paper",
+   "published_at": "2026-11-24T05:05:40+00:00",
+   "summary": "Generating videos with physically plausible dynamics remains challenging despite advances in visual quality. Latent world models offer predictive signals for evaluating physical plausibility, but higher agreement between predicted and observed features may reflect…",
+   "topics": [
+    {
+     "name": "ai-video",
+     "score": 1.0
+    },
+    {
+     "name": "research",
+     "score": 0.5
+    },
+    {
+     "name": "tooling",
+     "score": 0.33
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "arxiv_video",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ],
+   "meta": {
+    "authors": [
+     "Junyi Zhang",
+     "Qichao Wang",
+     "Wenzhe Qian"
+    ]
+   }
+  },
+  {
+   "id": "ef717d3d22d4db8b",
+   "title": "How Dibs Beauty uses heat maps to optimize its Ulta Beauty presence",
+   "url": "https://www.glossy.co/beauty/how-dibs-beauty-uses-heat-maps-to-optimize-its-ulta-beauty-presence",
+   "publisher": "Glossy",
+   "kind": "news",
+   "published_at": "2026-11-24T05:00:00+00:00",
+   "summary": "Selling exclusively through Ulta Beauty and direct-to-consumer, Dibs Beauty has set up heat maps that track individual product sales based on where they sit on its in-store endcaps, as well as overall retail sales by U.S. region, down to the county. Doing so has resulted in “at…",
+   "topics": [
+    {
+     "name": "beauty",
+     "score": 0.67
+    },
+    {
+     "name": "retail",
+     "score": 0.5
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "glossy",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "eb4d3e1bc7b57b88",
+   "title": "Beauty Briefing: What to expect this Black Friday and Cyber Monday",
+   "url": "https://www.glossy.co/beauty/beauty-briefing-what-to-expect-this-black-friday-and-cyber-monday",
+   "publisher": "Glossy",
+   "kind": "news",
+   "published_at": "2026-11-24T05:00:00+00:00",
+   "summary": "This week, I checked in on early Black Friday and Cyber Monday predictions as Americans brace for a potentially chaotic travel week. Additionally, niche fragrance retailer Luckyscent hires a new CEO, and Touchland turns a viral coffee cup into a limited-edition hand sanitizer.",
+   "topics": [
+    {
+     "name": "beauty",
+     "score": 0.67
+    },
+    {
+     "name": "retail",
+     "score": 0.33
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "glossy",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "c18e0f68c3e8d03a",
+   "title": "Loupe: Reinforcing Knowledge-Intensive Video Generation Agents",
+   "url": "http://arxiv.org/abs/2611.31895v1",
+   "publisher": "arXiv",
+   "kind": "paper",
+   "published_at": "2026-11-24T03:55:04+00:00",
+   "summary": "Knowledge-intensive video generation remains challenging because prompts often omit the facts, appearances, and temporal relationships required for accurate generation. While search-based workflows can retrieve missing evidence, manually designed strategies limit adaptive…",
+   "topics": [
+    {
+     "name": "ai-video",
+     "score": 0.67
+    },
+    {
+     "name": "research",
+     "score": 0.5
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "arxiv_video",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ],
+   "meta": {
+    "authors": [
+     "Kai Zeng",
+     "Ruichuan An",
+     "Zhen Fang"
+    ]
+   }
+  },
+  {
+   "id": "dee09ebf5cf5f198",
+   "title": "sabbppp/ai-virtual-try-on-",
+   "url": "https://github.com/sabbppp/ai-virtual-try-on-",
+   "publisher": "sabbppp",
+   "kind": "repo",
+   "published_at": "2026-11-24T02:26:13+00:00",
+   "summary": "rtificial Intelligence (AI). Instead of physically wearing an outfit, users can upload their own photograph and select clothing images to see how the selected clothes may look on them. The application uses AI-powered image processing to combine the person's photograph with the…",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "github_tryon",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 0,
+    "language": null,
+    "topics": []
+   }
+  },
+  {
+   "id": "4542f872e55fa3d1",
+   "title": "G0.7: Scaling Up a Fast World Action Model with Long Context",
+   "url": "http://arxiv.org/abs/2611.31822v1",
+   "publisher": "arXiv",
+   "kind": "paper",
+   "published_at": "2026-11-24T02:17:04+00:00",
+   "summary": "World action models (WAMs) adapt pretrained video generators for robot control by jointly predicting future camera frames and actions, transferring physical priors learned from video into manipulation policies. However, generating future frames before every action makes…",
+   "topics": [
+    {
+     "name": "research",
+     "score": 0.5
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "arxiv_video",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ],
+   "meta": {
+    "authors": [
+     "Tianyuan Yuan",
+     "Baijun Ye",
+     "Shicheng Cao"
+    ]
+   }
+  },
+  {
+   "id": "1b746b8d58c36ea8",
+   "title": "bhottu/cultiv-tiktok-ai-affiliate-platform",
+   "url": "https://github.com/bhottu/cultiv-tiktok-ai-affiliate-platform",
+   "publisher": "bhottu",
+   "kind": "repo",
+   "published_at": "2026-11-24T00:47:44+00:00",
+   "summary": "Platform SaaS berbasis AI untuk riset produk affiliate, analisis peluang, pembuatan konten promosi, video generation, dan otomasi workflow affiliate lintas kategori produk.",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "github_video",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 85,
+    "language": "PHP",
+    "topics": []
+   }
+  },
+  {
+   "id": "fcabaed39e5331ad",
+   "title": "Black Friday, Cyber Monday shopping projected to slip",
+   "url": "https://www.retaildive.com/news/black-friday-cyber-monday-shopping-projected-to-slip/875473",
+   "publisher": "Retail Dive",
+   "kind": "news",
+   "published_at": "2026-11-23T20:39:00+00:00",
+   "summary": "Shoppers will scoop up deals during Thanksgiving weekend, but extended sales events have enticed consumers to start holiday shopping early, according to the National Retail Federation.",
+   "topics": [
+    {
+     "name": "retail",
+     "score": 0.5
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "retaildive",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "c8fc026388ada8da",
+   "title": "How Amazon is becoming a discovery platform for beauty and wellness brands",
+   "url": "https://www.glossy.co/sponsored/how-amazon-is-becoming-a-discovery-platform-for-beauty-and-wellness-brands",
+   "publisher": "Glossy",
+   "kind": "news",
+   "published_at": "2026-11-23T19:20:29+00:00",
+   "summary": "Partner insights from Amazon Beauty Prestige beauty and wellness brands have historically approached online retailers cautiously, prioritizing control over the shopping experience and how consumers encounter their products. But as shopping habits evolve and retailers expand…",
+   "topics": [
+    {
+     "name": "beauty",
+     "score": 0.67
+    },
+    {
+     "name": "retail",
+     "score": 0.33
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "glossy",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "a0fdf65ec7ac3b1f",
+   "title": "drphero/ChorusCut",
+   "url": "https://github.com/drphero/ChorusCut",
+   "publisher": "drphero",
+   "kind": "repo",
+   "published_at": "2026-11-23T15:54:55+00:00",
+   "summary": "Desktop music-video editor with word-level lyric alignment, structured pre-production, BYO ComfyUI generation, and NLE timeline.",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "github_video",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 12,
+    "language": "C++",
+    "topics": []
+   }
+  },
+  {
+   "id": "522818f33ab48ff3",
+   "title": "AvatarAnyone: Agentic Reconstruction of Mesh-Based Layered Avatars from YouTube Video",
+   "url": "http://arxiv.org/abs/2611.30777v1",
+   "publisher": "arXiv",
+   "kind": "paper",
+   "published_at": "2026-11-23T14:44:23+00:00",
+   "summary": "We introduce AvatarAnyone, a method for reconstructing avatars from casual YouTube videos as layered meshes, with each garment and footwear as a separate mesh layered on top of the body mesh. In such videos, people differ in garment classes, clothing types, and layers, and each…",
+   "topics": [
+    {
+     "name": "research",
+     "score": 0.5
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "arxiv_tryon",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ],
+   "meta": {
+    "authors": [
+     "Aymen Mir",
+     "Peter Wonka",
+     "Stefanos Zafeiriou"
+    ]
+   }
+  },
+  {
+   "id": "475b267b20b1a9a4",
+   "title": "LiveMirror: Real-Time Diffusion Virtual Try-On on a Consumer GPU and Its Self-Supervised Adaptation to Indian Ethnic Wear",
+   "url": "http://arxiv.org/abs/2611.30461v1",
+   "publisher": "arXiv",
+   "kind": "paper",
+   "published_at": "2026-11-23T10:52:34+00:00",
+   "summary": "Diffusion virtual try-on (VTO) models produce convincing garment transfers from a single product photograph, but at hundreds of milliseconds to seconds per image every deployment today is offline or falls back to AR mirrors that need a rigged 3D asset per product. We present…",
+   "topics": [
+    {
+     "name": "ai-video",
+     "score": 0.67
+    },
+    {
+     "name": "research",
+     "score": 0.5
+    },
+    {
+     "name": "fashion",
+     "score": 0.33
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "arxiv_tryon",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ],
+   "meta": {
+    "authors": [
+     "Jigyansha Jeevan Rout",
+     "Sukanta Kumar Sabut"
+    ]
+   }
+  },
+  {
+   "id": "d158ab0f4db7d56e",
+   "title": "When Does Reasoning Help Entity Disambiguation? Small LLMs In-Domain and Under Shift",
+   "url": "http://arxiv.org/abs/2611.30334v1",
+   "publisher": "arXiv",
+   "kind": "paper",
+   "published_at": "2026-11-23T09:11:54+00:00",
+   "summary": "Entity disambiguation (mapping ambiguous mentions in text to entities in a knowledge base) is a foundational step in tasks such as knowledge graph construction, question answering, and information extraction. Recent work has applied LLMs to this problem, achieving…",
+   "topics": [
+    {
+     "name": "research",
+     "score": 0.5
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "arxiv_tryon",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ],
+   "meta": {
+    "authors": [
+     "Samy Haffoudhi",
+     "Fabian M Suchanek",
+     "Nils Holzenberger"
+    ]
+   }
+  },
+  {
+   "id": "cc2f643dfde418fb",
+   "title": "ToWo-VTON: Take-Off Wear-On Virtual Try-On via Topology-aware Decoupling",
+   "url": "http://arxiv.org/abs/2611.30203v1",
+   "publisher": "arXiv",
+   "kind": "paper",
+   "published_at": "2026-11-23T07:42:14+00:00",
+   "summary": "Virtual Try-On (VTON) aims to synthesize garment transfer without physical trials. Although recent methods perform well on upper-body garments, they still struggle in lower-body and full-body scenarios with complex occlusions and large silhouette changes. To address this…",
+   "topics": [
+    {
+     "name": "research",
+     "score": 0.5
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "arxiv_tryon",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ],
+   "meta": {
+    "authors": [
+     "Zhenchen Wan",
+     "Tianxi Chen",
+     "Runqi Lin"
+    ]
+   }
+  },
+  {
+   "id": "d886ce510017af7f",
+   "title": "Why On gave running shops first dibs on the Cloudsurfer 3",
+   "url": "https://www.glossy.co/fashion/on-cloudsurfer-3-specialty-running-retail",
+   "publisher": "Glossy",
+   "kind": "news",
+   "published_at": "2026-11-23T05:00:00+00:00",
+   "summary": "Naperville Running Company sold through a quarter of its Cloudsurfer 3 inventory in the first week. The launch shows how On used fittings and staff recommendations to build demand ahead of a wider rollout.",
+   "topics": [],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "glossy",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "3334e477eccf6593",
+   "title": "As gifting to creators gains traction, brands worry about ROI and expectations",
+   "url": "https://www.glossy.co/fashion/as-gifting-to-creators-gains-traction-brands-worry-about-roi-and-expectations",
+   "publisher": "Glossy",
+   "kind": "news",
+   "published_at": "2026-11-23T05:00:00+00:00",
+   "summary": "Sending gifts to influencers and content creators is a great way to build buzz around a brand and generate organic social media coverage. But content creators have ever-rising standards for what kinds of gifts will make them want to bust out their phones and make content. For…",
+   "topics": [],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "glossy",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "714accc0d94907a1",
+   "title": "PeiXiaoMeng/ai-cloth",
+   "url": "https://github.com/PeiXiaoMeng/ai-cloth",
+   "publisher": "PeiXiaoMeng",
+   "kind": "repo",
+   "published_at": "2026-11-23T03:35:23+00:00",
+   "summary": "AI-powered virtual try-on platform: full-stack implementation with NestJS + Prisma + AI image generation, featuring quota management, image pipelines and role-based admin",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "github_tryon",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 1,
+    "language": "TypeScript",
+    "topics": []
+   }
+  },
+  {
+   "id": "06480dcbe87d600b",
+   "title": "totalhuang/MSBench",
+   "url": "https://github.com/totalhuang/MSBench",
+   "publisher": "totalhuang",
+   "kind": "repo",
+   "published_at": "2026-11-22T12:49:56+00:00",
+   "summary": "MSBench: Benchmarking Script-Controlled Multi-Shot Text-to-Video Generation",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    },
+    {
+     "name": "ai-video",
+     "score": 0.33
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "github_video",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 3,
+    "language": "Python",
+    "topics": []
+   }
+  },
+  {
+   "id": "0b223e9e285e92b1",
+   "title": "abhishekanandok/video-studio",
+   "url": "https://github.com/abhishekanandok/video-studio",
+   "publisher": "abhishekanandok",
+   "kind": "repo",
+   "published_at": "2026-11-22T06:35:26+00:00",
+   "summary": "An autonomous AI video studio for documentary, educational, and motion-graphics films, tailored for Hindi and Hinglish creators. Research, script, voice generation, visual layout, storyboard review, and Remotion video rendering — with every stage inspectable, cacheable, and…",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "github_video",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 3,
+    "language": "TypeScript",
+    "topics": []
+   }
+  },
+  {
+   "id": "d478c70490c77cea",
+   "title": "girishkumarreddymallela/virtual-try-on",
+   "url": "https://github.com/girishkumarreddymallela/virtual-try-on",
+   "publisher": "girishkumarreddymallela",
+   "kind": "repo",
+   "published_at": "2026-11-21T04:54:02+00:00",
+   "summary": "",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "github_tryon",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 0,
+    "language": "TypeScript",
+    "topics": []
+   }
+  },
+  {
+   "id": "b73a0b7a8dcde05e",
+   "title": "kareemkr/drape-fitting-room",
+   "url": "https://github.com/kareemkr/drape-fitting-room",
+   "publisher": "kareemkr",
+   "kind": "repo",
+   "published_at": "2026-11-20T23:49:09+00:00",
+   "summary": "Drape virtual fitting room with on-device body tracking, garment sizing, and photo try-on.",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "github_tryon",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 1,
+    "language": "JavaScript",
+    "topics": []
+   }
+  },
+  {
+   "id": "f29755b8a63f8cc1",
+   "title": "moheshmohan/AutoCut",
+   "url": "https://github.com/moheshmohan/AutoCut",
+   "publisher": "moheshmohan",
+   "kind": "repo",
+   "published_at": "2026-11-20T19:01:36+00:00",
+   "summary": "AutoCut: an agent-driven, local-first video editor built on FilmCraft (pure Rust). Local AI for analysis, voice, music and generation; MCP-native.",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "github_video",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 6,
+    "language": "Rust",
+    "topics": []
+   }
+  },
+  {
+   "id": "bc771156898878ef",
+   "title": "CryptoYuyyy02/stickman-video-director",
+   "url": "https://github.com/CryptoYuyyy02/stickman-video-director",
+   "publisher": "CryptoYuyyy02",
+   "kind": "repo",
+   "published_at": "2026-11-20T13:21:22+00:00",
+   "summary": "火柴人视频导演 Skill for Muse — stickman story video production skill (scene generation, voiceover, BGM, editing)",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "github_video",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 230,
+    "language": null,
+    "topics": []
+   }
+  },
+  {
+   "id": "cd86d54262745742",
+   "title": "KTH-RPL/VG3R",
+   "url": "https://github.com/KTH-RPL/VG3R",
+   "publisher": "KTH-RPL",
+   "kind": "repo",
+   "published_at": "2026-11-20T10:29:32+00:00",
+   "summary": "[arXiv'26] VG3R: Video Generation Model for Feed-Forward 3D Reconstruction",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "github_video",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 5,
+    "language": "Python",
+    "topics": [
+     "3d-reconstruction",
+     "video-generation"
+    ]
+   }
+  },
+  {
+   "id": "d02aca33ca85a2b3",
+   "title": "Get it while it’s hot: The bakeries snagging major beauty and fashion collaborations",
+   "url": "https://www.glossy.co/pop/get-it-while-its-hot-the-bakeries-snagging-major-beauty-and-fashion-collaborations",
+   "publisher": "Glossy",
+   "kind": "news",
+   "published_at": "2026-11-20T05:00:00+00:00",
+   "summary": "With so-called treat culture taking a significant share of Gen Zers’ wallets, beauty and fashion brands are putting their names on everything from coffee and smoothies to frozen yogurt in hopes of capturing consumer attention. Premium bakeries, the kind whose $8 croissants and…",
+   "topics": [
+    {
+     "name": "beauty",
+     "score": 0.67
+    },
+    {
+     "name": "fashion",
+     "score": 0.67
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "glossy",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "9ab6f81845efd0b2",
+   "title": "Glossy Podcast: The new James Bond’s greatest threat may be conflicting brand deals",
+   "url": "https://www.glossy.co/podcasts/glossy-podcast-the-new-james-bonds-greatest-threat-may-be-conflicting-brand-deals",
+   "publisher": "Glossy",
+   "kind": "news",
+   "published_at": "2026-11-20T05:00:00+00:00",
+   "summary": "Over the years, the \"Bond\" franchise has had a number of longstanding partnerships with brands like Omega and Aston Martin. Bond, the character, is a man of high taste, and it's always been a coveted slot for luxury brands to be Bond's preferred choice of watch, car, Scotch or…",
+   "topics": [],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "glossy",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "0d88c3cedd943668",
+   "title": "Luxury Briefing: How do you measure loyalty when a customer buys once a decade?",
+   "url": "https://www.glossy.co/fashion/luxury/luxury-briefing-jewelry-customer-loyalty",
+   "publisher": "Glossy",
+   "kind": "news",
+   "published_at": "2026-11-20T05:00:00+00:00",
+   "summary": "What counts as a returning customer in fine jewelry? Richemont’s earnings call offers a starting point, and Hermès and Cartier show how after-sales service can bring clients back.",
+   "topics": [
+    {
+     "name": "fashion",
+     "score": 0.5
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "glossy",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "d1ee193e3e3c8647",
+   "title": "Gap Inc. is betting on ‘fashiontainment’ to fuel growth",
+   "url": "https://www.glossy.co/fashion/gap-inc-is-betting-on-fashiontainment-to-fuel-growth",
+   "publisher": "Glossy",
+   "kind": "news",
+   "published_at": "2026-11-19T23:44:49+00:00",
+   "summary": "In order to boost its cultural relevance, the owner of Gap and Banana Republic is fashioning itself into an entertainment provider with scripted series and an upcoming docuseries.",
+   "topics": [
+    {
+     "name": "fashion",
+     "score": 0.67
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "glossy",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "bf0ef38dbf8ec4ea",
+   "title": "Multi-View Transformer with Geometry-Guided Multi-Modal ControlNet for 3D Virtual Try-On",
+   "url": "http://arxiv.org/abs/2611.25979v1",
+   "publisher": "arXiv",
+   "kind": "paper",
+   "published_at": "2026-11-19T12:03:04+00:00",
+   "summary": "Editing a 3D Gaussian Splatting (3DGS) capture of a person so that they wear a new garment requires every rendered view to agree on the same garment details. Existing 3D virtual try-on (VTON) pipelines, however, edit training views largely independently and fuse them with…",
+   "topics": [
+    {
+     "name": "research",
+     "score": 0.5
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "arxiv_tryon",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ],
+   "meta": {
+    "authors": [
+     "Sarthak Batra",
+     "Armin Mustafa",
+     "Adrian Hilton"
+    ]
+   }
+  },
+  {
+   "id": "f69a6d1e404cb103",
+   "title": "Inside Sally Beauty’s $4 billion beauty retail playbook",
+   "url": "https://www.glossy.co/beauty/inside-sally-beautys-4-billion-beauty-retail-playbook",
+   "publisher": "Glossy",
+   "kind": "news",
+   "published_at": "2026-11-19T05:00:00+00:00",
+   "summary": "In this special live episode of the Glossy Beauty Podcast, editor-in-chief Jill Manoff sits down with Sally Beauty CEO Denise Paulonis at Glossy’s annual Beauty & Wellness Summit to discuss the 62-year-old American retailer’s evolving retail playbook.",
+   "topics": [
+    {
+     "name": "retail",
+     "score": 0.83
+    },
+    {
+     "name": "beauty",
+     "score": 0.67
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "glossy",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "84ef6fe36f3b6889",
+   "title": "Fashion Briefing: Humberto Leon is revitalizing St. John, but can St. John revitalize Lanvin Group?",
+   "url": "https://www.glossy.co/fashion/fashion-briefing-humberto-leon-is-revitalizing-st-john-but-can-st-john-revitalize-lanvin-group",
+   "publisher": "Glossy",
+   "kind": "news",
+   "published_at": "2026-11-19T05:00:00+00:00",
+   "summary": "When St. John brought on Humberto Leon as its new creative director earlier this year, the goal wasn't to ease into a new look to avoid disrupting those longtime customers, CEO Mandy West told Glossy. Instead, the first few capsule collections Leon released, over the summer and…",
+   "topics": [
+    {
+     "name": "fashion",
+     "score": 0.67
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "glossy",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "fd712c97d985c97b",
+   "title": "Unpacked: The invisible businesses turning ideas into scalable global beauty brands",
+   "url": "https://www.glossy.co/sponsored/unpacked-the-invisible-businesses-turning-ideas-into-scalable-global-beauty-brands",
+   "publisher": "Glossy",
+   "kind": "news",
+   "published_at": "2026-11-18T15:00:00+00:00",
+   "summary": "This Unpacked guide, sponsored by Cosmoprof, explores the increasingly strategic role of the ecosystem behind a beauty brand, and how these relationships help brands innovate, scale and compete internationally. Global beauty and personal care sales are expected to reach $669.8…",
+   "topics": [
+    {
+     "name": "beauty",
+     "score": 0.67
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "glossy",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "3b26384e7cdc8e51",
+   "title": "Wellness Briefing: Hers plans to lead injectable longevity with Peptides+ platform launch, plus news",
+   "url": "https://www.glossy.co/beauty/wellness/wellness-briefing-hers-plans-to-lead-injectable-longevity-with-peptides-platform-launch-plus-news",
+   "publisher": "Glossy",
+   "kind": "news",
+   "published_at": "2026-11-18T14:01:00+00:00",
+   "summary": "For the Wellness Briefing, Glossy checked in with Dr. Jessica Shepherd, MD, an obstetrician, gynecologist and chief medical officer of Hers, to learn about Peptides+, a new longevity-focused offering from the 9-year-old telehealth provider. Additionally, Noom plans to launch a…",
+   "topics": [],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "glossy",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ecfd3760b74ba882",
+   "title": "CURVTON-205K: A Mask-Free Difficulty-Stratified Synthetic Dataset for Robust and Scalable Virtual Try-On",
+   "url": "http://arxiv.org/abs/2611.24042v1",
+   "publisher": "arXiv",
+   "kind": "paper",
+   "published_at": "2026-11-18T08:30:36+00:00",
+   "summary": "Recent advances in 2D virtual try-on (VTON) have largely focused on architectural innovation, yet robust performance in diverse real-world conditions remains challenging. We argue that failure modes in VTON, such as inaccurate occlusion handling, unconstrained poses, and poor…",
+   "topics": [
+    {
+     "name": "research",
+     "score": 0.67
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "arxiv_tryon",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ],
+   "meta": {
+    "authors": [
+     "Dipan Bartaula",
+     "Anuj Shrestha",
+     "Ankit Belbase"
+    ]
+   }
+  },
+  {
+   "id": "72ae222eacc8f596",
+   "title": "Why Express is betting on Y2K fragrance nostalgia",
+   "url": "https://www.glossy.co/fashion/why-express-is-betting-on-y2k-fragrance-nostalgia",
+   "publisher": "Glossy",
+   "kind": "news",
+   "published_at": "2026-11-18T05:00:00+00:00",
+   "summary": "Express is reviving Y2K scents Love and Loyalty, along with new affordable fragrances and body mists, to capture consumers building fragrance wardrobes.",
+   "topics": [
+    {
+     "name": "beauty",
+     "score": 0.67
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "glossy",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "2fa9c79692b564c8",
+   "title": "Selfridges wants K-beauty shoppers to buy beyond the viral bestseller",
+   "url": "https://www.glossy.co/beauty/selfridges-k-beauty-medicube-biodance-counters",
+   "publisher": "Glossy",
+   "kind": "news",
+   "published_at": "2026-11-18T05:00:00+00:00",
+   "summary": "With permanent Medicube and Biodance counters, Selfridges is betting on consultations, device demonstrations and early access to launches to build bigger skin-care baskets.",
+   "topics": [
+    {
+     "name": "beauty",
+     "score": 0.5
+    },
+    {
+     "name": "retail",
+     "score": 0.5
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "glossy",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "c9ae866a835da31f",
+   "title": "KERV.ai, Macmillan Publishers and Chomps are among this year’s Work/Life Awards finalists",
+   "url": "https://www.glossy.co/announcement/awards/kerv-ai-macmillan-publishers-and-chomps-are-among-this-years-work-life-awards-finalists",
+   "publisher": "Glossy",
+   "kind": "news",
+   "published_at": "2026-11-17T19:32:56+00:00",
+   "summary": "This year’s Work/Life Awards finalists reflect a landscape where companies are rethinking workplace culture as a driver of business performance, employee engagement and innovation. Across industries, organizations are giving employees a more active role in shaping workplace…",
+   "topics": [],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "glossy",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "25ecb5958d4f00f0",
+   "title": "Beauty Briefing: ‘Dune: Part Three’ is poised to be a box office sensation. Can beauty brands cash in on the hype?",
+   "url": "https://www.glossy.co/beauty/beauty-briefing-dune-part-three-is-poised-to-be-a-box-office-sensation-can-beauty-brands-cash-in-on-the-hype",
+   "publisher": "Glossy",
+   "kind": "news",
+   "published_at": "2026-11-17T05:00:00+00:00",
+   "summary": "This week, I checked in on the beauty brands making a stop at planet Arrakis with the third installment of the “Dune” franchise arriving in theaters. Additionally, TikTok Shop pilots a paid membership tier, and Amouage posts yet another quarter of double-digit growth.",
+   "topics": [
+    {
+     "name": "beauty",
+     "score": 0.67
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "glossy",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "1c18016f137ad11a",
+   "title": "How beauty and wellness leaders are prioritizing GEO and TikTok Shop",
+   "url": "https://www.glossy.co/beauty/how-beauty-and-wellness-leaders-are-prioritizing-geo-and-tiktok-shop",
+   "publisher": "Glossy",
+   "kind": "news",
+   "published_at": "2026-11-17T05:00:00+00:00",
+   "summary": "During the Town Hall discussion at Glossy's Beauty & Wellness Summit, leaders from a wide variety of beauty and wellness brands shared the challenges and questions they're facing, and offered suggestions on how to surmount them. The discussion touched on topics like SEO vs. GEO…",
+   "topics": [
+    {
+     "name": "beauty",
+     "score": 0.67
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "glossy",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "7c8b7971c507aa72",
+   "title": "Synthesizing Dexterous Robot Demonstrations from Human Videos via Virtual Try-On",
+   "url": "http://arxiv.org/abs/2611.05163v3",
+   "publisher": "arXiv",
+   "kind": "paper",
+   "published_at": "2026-11-03T16:35:42+00:00",
+   "summary": "Robot foundation models have shown remarkable performance in robot control, yet adapting them to a new task still relies heavily on teleoperated demonstrations. Egocentric human videos offer a scalable substitute, but overlaying rendered robots on human videos or retargeting…",
+   "topics": [
+    {
+     "name": "research",
+     "score": 0.5
+    },
+    {
+     "name": "fashion",
+     "score": 0.33
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "arxiv_tryon",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ],
+   "meta": {
+    "authors": [
+     "Seungyong Lee",
+     "Suhyeok Jang",
+     "Minyoung Kim"
+    ]
+   }
+  },
+  {
+   "id": "543f2f9b8dc59031",
+   "title": "FlexTry-On: A Time-Efficient Framework for Multi-Scenario Virtual Try-on",
+   "url": "http://arxiv.org/abs/2610.39646v1",
+   "publisher": "arXiv",
+   "kind": "paper",
+   "published_at": "2026-10-29T09:03:27+00:00",
+   "summary": "Virtual try-on has achieved remarkable progress in recent years, yet most existing methods are designed for a specific scenario, such as cloth-to-person or person-to-person try-on, and often require separate conditioning strategies and processing pipelines for different…",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.67
+    },
+    {
+     "name": "research",
+     "score": 0.5
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "arxiv_tryon",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ],
+   "meta": {
+    "authors": [
+     "Phuong Dam",
+     "Quyen Nguyen Duc",
+     "Son Hoang Minh"
+    ]
+   }
+  },
+  {
+   "id": "da2389814842e644",
+   "title": "CrossPair: Unlocking Generalist Visual Transformation Learning in Image Editors",
+   "url": "http://arxiv.org/abs/2610.34333v1",
+   "publisher": "arXiv",
+   "kind": "paper",
+   "published_at": "2026-10-25T14:49:07+00:00",
+   "summary": "Language models switch tasks from demonstrations, but vision still often relies on separate systems for restoration, editing, and stylization. A before--after example offers a shared instruction only if the transferable change can be separated from the scene that demonstrates…",
+   "topics": [
+    {
+     "name": "research",
+     "score": 0.5
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "arxiv_tryon",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ],
+   "meta": {
+    "authors": [
+     "Yibo Zhao",
+     "Lifan Jiang",
+     "Senlin cheng"
+    ]
+   }
+  },
+  {
+   "id": "c094003902c223d3",
+   "title": "Single Camera based Simulation and Try-on Ready Avatar Modeling",
+   "url": "http://arxiv.org/abs/2610.34223v1",
+   "publisher": "arXiv",
+   "kind": "paper",
+   "published_at": "2026-10-25T11:36:14+00:00",
+   "summary": "Reconstructing and rendering high-fidelity, animatable, and try-on-ready virtual avatars using only a single camera is crucial for many applications. However, existing try-on-ready human avatar reconstruction methods struggle to achieve this from monocular videos or single…",
+   "topics": [
+    {
+     "name": "research",
+     "score": 0.5
+    }
+   ],
+   "retrieved_at": "2026-11-26T00:07:15+00:00",
+   "sightings": [
+    {
+     "source_id": "arxiv_tryon",
+     "retrieved_at": "2026-11-26T00:07:15+00:00"
+    }
+   ],
+   "meta": {
+    "authors": [
+     "Honghu Chen",
+     "Bo Peng",
+     "Jun Xiang"
+    ]
+   }
+  }
+ ],
+ "sources": [
+  {
+   "id": "arxiv_tryon",
+   "kind": "arxiv",
+   "status": "ok",
+   "items": 10,
+   "error": "",
+   "elapsed_ms": 2080,
+   "runs": 1,
+   "items_run": 10
+  },
+  {
+   "id": "arxiv_video",
+   "kind": "arxiv",
+   "status": "ok",
+   "items": 15,
+   "error": "",
+   "elapsed_ms": 3503,
+   "runs": 1,
+   "items_run": 15
+  },
+  {
+   "id": "footwearnews",
+   "kind": "rss",
+   "status": "ok",
+   "items": 10,
+   "error": "",
+   "elapsed_ms": 2179,
+   "runs": 1,
+   "items_run": 10
+  },
+  {
+   "id": "github_tryon",
+   "kind": "github",
+   "status": "ok",
+   "items": 10,
+   "error": "",
+   "elapsed_ms": 1528,
+   "runs": 1,
+   "items_run": 10
+  },
+  {
+   "id": "github_video",
+   "kind": "github",
+   "status": "ok",
+   "items": 10,
+   "error": "",
+   "elapsed_ms": 6913,
+   "runs": 1,
+   "items_run": 10
+  },
+  {
+   "id": "glossy",
+   "kind": "rss",
+   "status": "ok",
+   "items": 20,
+   "error": "",
+   "elapsed_ms": 1058,
+   "runs": 1,
+   "items_run": 20
+  },
+  {
+   "id": "hypebeast",
+   "kind": "rss",
+   "status": "ok",
+   "items": 19,
+   "error": "",
+   "elapsed_ms": 1130,
+   "runs": 1,
+   "items_run": 19
+  },
+  {
+   "id": "retaildive",
+   "kind": "rss",
+   "status": "ok",
+   "items": 10,
+   "error": "",
+   "elapsed_ms": 1052,
+   "runs": 1,
+   "items_run": 10
+  },
+  {
+   "id": "wwd",
+   "kind": "rss",
+   "status": "ok",
+   "items": 10,
+   "error": "",
+   "elapsed_ms": 1045,
+   "runs": 1,
+   "items_run": 10
+  }
+ ],
+ "stats": {
+  "items": 112,
+  "by_topic": {
+   "tooling": 23,
+   "research": 14,
+   "retail": 12,
+   "ai-video": 10,
+   "beauty": 9,
+   "fashion": 8
+  },
+  "by_kind": {
+   "news": 67,
+   "paper": 25,
+   "repo": 20
+  },
+  "rules_version": "1",
+  "duplicates_in_run": 0,
+  "title_duplicates": 0
+ },
+ "updated_at": "2026-11-26T00:07:15+00:00",
+ "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
+}
