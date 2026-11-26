@@ -42,7 +42,7 @@ def build(data_dir: Path, days: int = 7) -> str:
         date = html.escape(payload.get("date", ""))
         stats = payload.get("stats", {})
         topics = " · ".join(
-            f'<a href="topic/{name}.html">{TOPIC_EN.get(name, name)} / '
+            f'<a href="topic/{name}.html#day-{date}">{TOPIC_EN.get(name, name)} / '
             f'{TOPIC_ZH.get(name, name)} {count}</a>'
             for name, count in stats.get("by_topic", {}).items())
         parts.append(f"<h2>{date}</h2>")
@@ -126,39 +126,51 @@ def build_digest_pages(digest_dir: Path, site_dir: Path) -> int:
 
 
 def build_topic_pages(data_dir: Path, days: int, site_dir: Path) -> int:
-    """One page per topic: every item grouped by the source that delivered it."""
+    """Show each day's primary-topic items by their recorded acquisition source."""
     grouped: dict[str, dict[str, list[dict]]] = {}
     for payload in _load(data_dir, days):
         for item in payload.get("items", []):
-            topics = item.get("topics", [])[:1]
-            if not topics:
-                continue
-            publisher = item.get("publisher") or item.get("kind", "unknown")
-            bucket = grouped.setdefault(topics[0]["name"], {})
-            bucket.setdefault(publisher, []).append(item)
+            if topics := item.get("topics"):
+                grouped.setdefault(topics[0]["name"], {}).setdefault(payload["date"], []).append(item)
     target = site_dir / "topic"
     target.mkdir(parents=True, exist_ok=True)
-    for name, sources in grouped.items():
-        total = sum(len(rows) for rows in sources.values())
-        parts = ["<!doctype html>\n<html lang=\"en\"><head><meta charset=\"utf-8\">"
-                 "<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\">",
-                 f"<title>{TOPIC_EN.get(name, name)} · Trend Radar</title><style>{STYLE}</style></head><body>",
-                 f"<h1>{TOPIC_EN.get(name, name)} / {TOPIC_ZH.get(name, name)}</h1>",
-                 f'<p class="meta">{total} items in the last {days} days from '
-                 f"{len(sources)} sources.</p>"]
-        for publisher, rows in sorted(sources.items(), key=lambda pair: (-len(pair[1]), pair[0])):
-            parts.append(f"<h2>{html.escape(publisher)} ({len(rows)})</h2><ul>")
-            for item in rows:
-                title = html.escape(item.get("title", ""))
-                title_zh = (item.get("title_zh") or "").strip()
-                if title_zh:
-                    title = f"{html.escape(title_zh)} <span class=\"meta\">({title})</span>"
-                url = html.escape(item.get("url", ""))
-                source = html.escape(provenance(item))
-                day = html.escape((item.get("published_at") or "")[:10])
-                parts.append(f'<li><a href="{url}" rel="noopener nofollow" target="_blank">{title}</a> '
-                             f'<span class="meta">· {day} · {source}</span></li>')
-            parts.append("</ul>")
-        parts.append('<p class="meta"><a href="../index.html">← Trend Radar</a></p></body></html>')
+    for name, dates in grouped.items():
+        en = html.escape(TOPIC_EN.get(name, name))
+        zh = html.escape(TOPIC_ZH.get(name, name))
+        parts = ['<!doctype html><html lang="zh-Hans"><head><meta charset="utf-8">',
+                 '<meta name="viewport" content="width=device-width,initial-scale=1">',
+                 f'<title>{en} · Trend Radar</title><style>{STYLE}</style></head><body>',
+                 f'<h1>{en} / {zh}</h1>',
+                 '<p><a href="../index.html">← 趋势雷达 / Trend Radar</a></p>']
+        for date, items in dates.items():
+            day = html.escape(date)
+            sources: dict[tuple, list[dict]] = {}
+            for item in items:
+                keys = {(s.get("source_id") or "unknown", s.get("via") or item.get("via") or "",
+                         s.get("engine") or "", s.get("collector") or item.get("collector") or "")
+                        for s in item.get("sightings", [])}
+                for key in keys or {("unknown", "", "", "")}:
+                    sources.setdefault(key, []).append(item)
+            sections = []
+            parts.append(f'<h2 id="day-{day}">{day} · {len(items)} 条 / items</h2><ul>')
+            for idx, (key, rows) in enumerate(sorted(sources.items())):
+                source_id, via, engine, collector = key
+                values = [source_id, via, engine, collector or "节点未记录 / Unknown collector"]
+                label = html.escape(" · ".join(filter(None, values)))
+                anchor = f'{day}-source-{idx}'
+                parts.append(f'<li><a href="#{anchor}">{label}</a> ({len(rows)})</li>')
+                sections.append(f'<h3 id="{anchor}">{label}</h3><ul>')
+                for item in rows:
+                    original = html.escape(item["title"])
+                    translated = html.escape(item.get("title_zh") or "")
+                    title = f'{translated} <span class="meta">({original})</span>' if translated else original
+                    url = item["url"]
+                    if url.startswith(("https://", "http://")):
+                        title = f'<a href="{html.escape(url)}" rel="noopener nofollow">{title}</a>'
+                    details = " · ".join(filter(None, (item.get("publisher"), (item.get("published_at") or "")[:10])))
+                    sections.append(f'<li>{title} <span class="meta">{html.escape(details)}</span></li>')
+                sections.append('</ul>')
+            parts.extend(['</ul>', *sections])
+        parts.append('</body></html>')
         (target / f"{name}.html").write_text("\n".join(parts) + "\n", encoding="utf-8")
     return len(grouped)

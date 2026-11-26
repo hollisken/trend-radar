@@ -59,7 +59,7 @@ def cmd_collect(args) -> int:
     date = args.date or dt.date.today().isoformat()
     run_at = args.run_at or _now()
     only = set(filter(None, args.sources.split(","))) if args.sources else None
-    run = collect_mod.collect(cfg, date, run_at, only)
+    run = collect_mod.collect(cfg, date, run_at, only, collector=args.collector)
     out = Path(args.out)
     out.mkdir(parents=True, exist_ok=True)
     stamp = run_at[11:19].replace(":", "")
@@ -151,6 +151,7 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--date")
     p.add_argument("--run-at", dest="run_at")
     p.add_argument("--sources", help="comma separated source ids")
+    p.add_argument("--collector", help="public label for the node running the collection")
     p.add_argument("--out", default="out")
     p.set_defaults(func=cmd_collect)
 

@@ -51,7 +51,8 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "title_zh": "ESOTERIC THING 发布 2026 冬季系列首批单品"
   },
   {
    "id": "5c0207ece60c8351",
@@ -79,7 +80,8 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "title_zh": "INVINCIBLE、MADNESS 与 ASICS SportStyle 再度推出联名 GEL-KAYANO 12.1"
   },
   {
    "id": "f6164059e12ea1c7",
@@ -107,7 +109,8 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "title_zh": "thisisneverthat 与 New Era 的最新联名聚焦纽约扬基队"
   },
   {
    "id": "d56df1ccb31677c3",
@@ -155,7 +158,9 @@
    "sightings": [
     {
      "source_id": "retaildive",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "retaildive",
@@ -164,7 +169,10 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "title_zh": "「心碎」：梅西百货第 100 届感恩节游行延期",
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "e921700dfee6c578",
@@ -188,7 +196,9 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "wwd",
@@ -197,7 +207,10 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "title_zh": "燃油成本上涨拖累服装零售商盈利",
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "ec481a449d44a470",
@@ -212,7 +225,9 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "wwd",
@@ -221,7 +236,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "8be73ddc18b1f87b",
@@ -236,7 +253,9 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "wwd",
@@ -245,7 +264,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "3a09083e90ae9660",
@@ -260,7 +281,9 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "wwd",
@@ -269,7 +292,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "ebcf402996fa4f06",
@@ -284,7 +309,9 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "wwd",
@@ -293,7 +320,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "ad61eeb82901ba4c",
@@ -308,7 +337,9 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "wwd",
@@ -317,7 +348,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "8a30463c836dfb15",
@@ -332,7 +365,9 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "wwd",
@@ -341,7 +376,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "8b0bf9be8ac56fd6",
@@ -356,11 +393,15 @@
    "sightings": [
     {
      "source_id": "footwearnews",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "footwearnews",
@@ -376,7 +417,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "f58831c2b49949dd",
@@ -396,11 +439,15 @@
    "sightings": [
     {
      "source_id": "footwearnews",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "footwearnews",
@@ -416,7 +463,10 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "title_zh": "为什么 Kohl’s 第三季度鞋类销售增长，而 Shoe Station 没有？",
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "fbc4c350b3ddd490",
@@ -436,7 +486,9 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "wwd",
@@ -445,7 +497,10 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "title_zh": "如何把黑色星期五的折扣买家转化为长期客户",
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "3cd337fb43e9d96c",
@@ -460,7 +515,9 @@
    "sightings": [
     {
      "source_id": "hypebeast",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "hypebeast",
@@ -469,7 +526,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "1a59e61ec06284f2",
@@ -508,7 +567,8 @@
      "Zhixin Shu",
      "Yuntian Ke"
     ]
-   }
+   },
+   "title_zh": "AnyCam：为视频生成用任意对象表征摄像机"
   },
   {
    "id": "80cd7c4f36a2508d",
@@ -547,7 +607,8 @@
      "Shuai Yang",
      "Wei Huang"
     ]
-   }
+   },
+   "title_zh": "Agentic LongLive：用于长视频生成的异步智能体记忆"
   },
   {
    "id": "a7e443a4dc49eac0",
@@ -562,7 +623,9 @@
    "sightings": [
     {
      "source_id": "hypebeast",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "hypebeast",
@@ -571,7 +634,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "4e7d2cbcfdac1f28",
@@ -586,7 +651,9 @@
    "sightings": [
     {
      "source_id": "footwearnews",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "footwearnews",
@@ -595,7 +662,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "bb206d635b7084e3",
@@ -615,7 +684,9 @@
    "sightings": [
     {
      "source_id": "hypebeast",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "hypebeast",
@@ -624,7 +695,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "20baff97bba3f8f6",
@@ -659,7 +732,8 @@
      "Fengyuan Yu",
      "Haotian Zhang"
     ]
-   }
+   },
+   "title_zh": "用代码解决视觉问题：编程智能体的视觉推理强于视频模型"
   },
   {
    "id": "2e7c2c5fc513ed4e",
@@ -698,7 +772,8 @@
      "Caoliwen Wang",
      "Robert Hoang"
     ]
-   }
+   },
+   "title_zh": "WorldInteract：面向多材质交互的可控流式视频生成"
   },
   {
    "id": "32955092b4e1e7e5",
@@ -752,7 +827,9 @@
    "sightings": [
     {
      "source_id": "retaildive",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "retaildive",
@@ -761,7 +838,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "6298ea249ad8eca1",
@@ -781,7 +860,9 @@
    "sightings": [
     {
      "source_id": "footwearnews",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "footwearnews",
@@ -790,7 +871,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "4ff091de6d61da15",
@@ -805,7 +888,9 @@
    "sightings": [
     {
      "source_id": "footwearnews",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "footwearnews",
@@ -814,7 +899,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "13e52581eb9c7674",
@@ -829,7 +916,9 @@
    "sightings": [
     {
      "source_id": "retaildive",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "retaildive",
@@ -838,7 +927,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "e379e8d36e1eb27f",
@@ -897,7 +988,9 @@
    "sightings": [
     {
      "source_id": "hypebeast",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "hypebeast",
@@ -906,7 +999,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "95a74aa20898033e",
@@ -921,7 +1016,9 @@
    "sightings": [
     {
      "source_id": "retaildive",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "retaildive",
@@ -930,7 +1027,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "9fba8167a833d872",
@@ -945,7 +1044,9 @@
    "sightings": [
     {
      "source_id": "footwearnews",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "footwearnews",
@@ -954,7 +1055,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "2e998a05ba3d7b3b",
@@ -1002,7 +1105,9 @@
    "sightings": [
     {
      "source_id": "hypebeast",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "hypebeast",
@@ -1011,7 +1116,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "b99a54afc5797516",
@@ -1026,7 +1133,9 @@
    "sightings": [
     {
      "source_id": "footwearnews",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "footwearnews",
@@ -1035,7 +1144,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "443a33e4a7a824d1",
@@ -1055,7 +1166,9 @@
    "sightings": [
     {
      "source_id": "github_tryon",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "GitHub API",
+     "collector": "us-west-3"
     },
     {
      "source_id": "github_tryon",
@@ -1069,7 +1182,9 @@
     "stars": 0,
     "language": "HTML",
     "topics": []
-   }
+   },
+   "collector": "us-west-3",
+   "via": "GitHub API"
   },
   {
    "id": "9c6dc9b65d157ee2",
@@ -1084,7 +1199,9 @@
    "sightings": [
     {
      "source_id": "footwearnews",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "footwearnews",
@@ -1093,7 +1210,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "86a4f413ac46725a",
@@ -1182,7 +1301,9 @@
    "sightings": [
     {
      "source_id": "retaildive",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "retaildive",
@@ -1191,7 +1312,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "740b79deb2193f91",
@@ -1215,7 +1338,9 @@
    "sightings": [
     {
      "source_id": "arxiv_video",
-     "retrieved_at": "2026-11-26T03:07:18+00:00"
+     "retrieved_at": "2026-11-26T03:07:18+00:00",
+     "via": "arXiv API",
+     "collector": "us-west-3"
     },
     {
      "source_id": "arxiv_video",
@@ -1231,7 +1356,10 @@
      "Xuying Zhang",
      "Yijing Guo"
     ]
-   }
+   },
+   "title_zh": "StateWeaver：以多智能体协调故事状态，生成长时序视频",
+   "collector": "us-west-3",
+   "via": "arXiv API"
   },
   {
    "id": "55302640bdc969c2",
@@ -1251,7 +1379,9 @@
    "sightings": [
     {
      "source_id": "arxiv_video",
-     "retrieved_at": "2026-11-26T03:07:18+00:00"
+     "retrieved_at": "2026-11-26T03:07:18+00:00",
+     "via": "arXiv API",
+     "collector": "us-west-3"
     },
     {
      "source_id": "arxiv_video",
@@ -1267,7 +1397,10 @@
      "Hanzhang Wang",
      "Huijia Zhang"
     ]
-   }
+   },
+   "title_zh": "在三维中演练、以二维渲染：物理一致且可编辑的机器人世界模型",
+   "collector": "us-west-3",
+   "via": "arXiv API"
   },
   {
    "id": "7e0a24cb563afa4b",
@@ -1291,7 +1424,9 @@
    "sightings": [
     {
      "source_id": "arxiv_video",
-     "retrieved_at": "2026-11-26T03:07:18+00:00"
+     "retrieved_at": "2026-11-26T03:07:18+00:00",
+     "via": "arXiv API",
+     "collector": "us-west-3"
     },
     {
      "source_id": "arxiv_video",
@@ -1307,7 +1442,10 @@
      "Baoquan Zhang",
      "Yakun Zhang"
     ]
-   }
+   },
+   "title_zh": "TORE：用分解残差误差估计逐词元选择泰勒阶数，加速扩散过程",
+   "collector": "us-west-3",
+   "via": "arXiv API"
   },
   {
    "id": "7048bcf380414411",
@@ -1331,7 +1469,9 @@
    "sightings": [
     {
      "source_id": "arxiv_video",
-     "retrieved_at": "2026-11-26T03:07:18+00:00"
+     "retrieved_at": "2026-11-26T03:07:18+00:00",
+     "via": "arXiv API",
+     "collector": "us-west-3"
     },
     {
      "source_id": "arxiv_video",
@@ -1347,7 +1487,10 @@
      "Luoyuan Zhang",
      "Yancheng Long"
     ]
-   }
+   },
+   "title_zh": "VibeVideoAgent：为代码驱动的视频生成建立感知反馈闭环",
+   "collector": "us-west-3",
+   "via": "arXiv API"
   },
   {
    "id": "1e4140967a818bf6",
@@ -1371,7 +1514,9 @@
    "sightings": [
     {
      "source_id": "arxiv_video",
-     "retrieved_at": "2026-11-26T03:07:18+00:00"
+     "retrieved_at": "2026-11-26T03:07:18+00:00",
+     "via": "arXiv API",
+     "collector": "us-west-3"
     },
     {
      "source_id": "arxiv_video",
@@ -1387,7 +1532,9 @@
      "Weikai Chen",
      "Liyuan Cui"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API"
   },
   {
    "id": "66a577e6da60870b",
@@ -1407,7 +1554,9 @@
    "sightings": [
     {
      "source_id": "github_tryon",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "GitHub API",
+     "collector": "us-west-3"
     },
     {
      "source_id": "github_tryon",
@@ -1421,7 +1570,9 @@
     "stars": 0,
     "language": "Kotlin",
     "topics": []
-   }
+   },
+   "collector": "us-west-3",
+   "via": "GitHub API"
   },
   {
    "id": "a5fd08a1ebf9eaf2",
@@ -1441,7 +1592,9 @@
    "sightings": [
     {
      "source_id": "github_video",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "GitHub API",
+     "collector": "us-west-3"
     },
     {
      "source_id": "github_video",
@@ -1455,7 +1608,9 @@
     "stars": 8,
     "language": null,
     "topics": []
-   }
+   },
+   "collector": "us-west-3",
+   "via": "GitHub API"
   },
   {
    "id": "48fa7d4f06c54a0c",
@@ -1475,7 +1630,9 @@
    "sightings": [
     {
      "source_id": "hypebeast",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "hypebeast",
@@ -1484,7 +1641,10 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "title_zh": "AAPE × BABY MILO® 2026 秋冬系列：用标志性迷彩玩捉迷藏",
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "dcaf43ee5572c866",
@@ -1499,7 +1659,9 @@
    "sightings": [
     {
      "source_id": "hypebeast",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "hypebeast",
@@ -1508,7 +1670,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "ee38607a93035865",
@@ -1523,7 +1687,9 @@
    "sightings": [
     {
      "source_id": "hypebeast",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "hypebeast",
@@ -1532,7 +1698,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "f264d62f3aebbdb6",
@@ -1547,7 +1715,9 @@
    "sightings": [
     {
      "source_id": "hypebeast",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "hypebeast",
@@ -1556,7 +1726,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "06e23f92b2ee02f0",
@@ -1571,7 +1743,9 @@
    "sightings": [
     {
      "source_id": "hypebeast",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "hypebeast",
@@ -1580,7 +1754,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "0fe7a42a6c86be29",
@@ -1600,7 +1776,9 @@
    "sightings": [
     {
      "source_id": "hypebeast",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "hypebeast",
@@ -1609,7 +1787,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "0bff124b164d3897",
@@ -1624,7 +1804,9 @@
    "sightings": [
     {
      "source_id": "hypebeast",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "hypebeast",
@@ -1633,7 +1815,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "9b314157f8191a1d",
@@ -1657,7 +1841,9 @@
    "sightings": [
     {
      "source_id": "arxiv_video",
-     "retrieved_at": "2026-11-26T03:07:18+00:00"
+     "retrieved_at": "2026-11-26T03:07:18+00:00",
+     "via": "arXiv API",
+     "collector": "us-west-3"
     },
     {
      "source_id": "arxiv_video",
@@ -1673,7 +1859,9 @@
      "Shengcao Cao",
      "Chengzhi Mao"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API"
   },
   {
    "id": "571d580d775482d0",
@@ -1688,7 +1876,9 @@
    "sightings": [
     {
      "source_id": "hypebeast",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "hypebeast",
@@ -1697,7 +1887,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "6117947a9efbac6e",
@@ -1717,7 +1909,9 @@
    "sightings": [
     {
      "source_id": "hypebeast",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "hypebeast",
@@ -1726,7 +1920,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "31a5dfe72045ac5d",
@@ -1741,9 +1937,13 @@
    "sightings": [
     {
      "source_id": "hypebeast",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "621c087e8bc8da2a",
@@ -1763,9 +1963,13 @@
    "sightings": [
     {
      "source_id": "hypebeast",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "3f96d9f4b869b574",
@@ -1785,9 +1989,13 @@
    "sightings": [
     {
      "source_id": "hypebeast",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "512edb31305f1ea8",
@@ -1807,9 +2015,13 @@
    "sightings": [
     {
      "source_id": "hypebeast",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "0117a3ab0e206615",
@@ -1824,9 +2036,13 @@
    "sightings": [
     {
      "source_id": "hypebeast",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "5c1970662ab06e72",
@@ -1846,7 +2062,9 @@
    "sightings": [
     {
      "source_id": "arxiv_video",
-     "retrieved_at": "2026-11-26T03:07:18+00:00"
+     "retrieved_at": "2026-11-26T03:07:18+00:00",
+     "via": "arXiv API",
+     "collector": "us-west-3"
     },
     {
      "source_id": "arxiv_video",
@@ -1862,7 +2080,9 @@
      "Siyu Xu",
      "Yunke Wang"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API"
   },
   {
    "id": "68b28d8deb79fd2c",
@@ -1882,7 +2102,9 @@
    "sightings": [
     {
      "source_id": "github_tryon",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "GitHub API",
+     "collector": "us-west-3"
     },
     {
      "source_id": "github_tryon",
@@ -1896,7 +2118,9 @@
     "stars": 0,
     "language": "Jupyter Notebook",
     "topics": []
-   }
+   },
+   "collector": "us-west-3",
+   "via": "GitHub API"
   },
   {
    "id": "f9bf3c95fce59d35",
@@ -1911,7 +2135,9 @@
    "sightings": [
     {
      "source_id": "glossy",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "glossy",
@@ -1920,7 +2146,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "210f8a7b0166f0c9",
@@ -1935,7 +2163,9 @@
    "sightings": [
     {
      "source_id": "glossy",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "glossy",
@@ -1944,7 +2174,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "3d12a9fecc9823b4",
@@ -1964,7 +2196,9 @@
    "sightings": [
     {
      "source_id": "arxiv_video",
-     "retrieved_at": "2026-11-26T03:07:18+00:00"
+     "retrieved_at": "2026-11-26T03:07:18+00:00",
+     "via": "arXiv API",
+     "collector": "us-west-3"
     }
    ],
    "meta": {
@@ -1973,7 +2207,9 @@
      "Xi Chen",
      "Yingbo Tang"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API"
   },
   {
    "id": "9d6c1f876d645976",
@@ -2001,7 +2237,9 @@
    "sightings": [
     {
      "source_id": "arxiv_video",
-     "retrieved_at": "2026-11-26T02:07:16+00:00"
+     "retrieved_at": "2026-11-26T02:07:16+00:00",
+     "via": "arXiv API",
+     "collector": "us-west-3"
     }
    ],
    "meta": {
@@ -2010,7 +2248,9 @@
      "Yifan Huang",
      "Jixuan Zhang"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API"
   },
   {
    "id": "c54148b32b5ee78b",
@@ -2030,7 +2270,9 @@
    "sightings": [
     {
      "source_id": "arxiv_video",
-     "retrieved_at": "2026-11-26T02:07:16+00:00"
+     "retrieved_at": "2026-11-26T02:07:16+00:00",
+     "via": "arXiv API",
+     "collector": "us-west-3"
     }
    ],
    "meta": {
@@ -2039,7 +2281,9 @@
      "Donglai Xiang",
      "Anita Hu"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API"
   },
   {
    "id": "d4ba79f7a74d7640",
@@ -2054,7 +2298,9 @@
    "sightings": [
     {
      "source_id": "footwearnews",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "footwearnews",
@@ -2063,7 +2309,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "53ef574eca98b5bc",
@@ -2083,7 +2331,9 @@
    "sightings": [
     {
      "source_id": "footwearnews",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "footwearnews",
@@ -2092,7 +2342,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "2f63e877f9ef7601",
@@ -2112,7 +2364,9 @@
    "sightings": [
     {
      "source_id": "arxiv_video",
-     "retrieved_at": "2026-11-26T02:07:16+00:00"
+     "retrieved_at": "2026-11-26T02:07:16+00:00",
+     "via": "arXiv API",
+     "collector": "us-west-3"
     }
    ],
    "meta": {
@@ -2121,7 +2375,9 @@
      "Kevin Qinghong Lin",
      "Zhen Fang"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API"
   },
   {
    "id": "cf06c65301733ee2",
@@ -2141,7 +2397,9 @@
    "sightings": [
     {
      "source_id": "github_tryon",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "GitHub API",
+     "collector": "us-west-3"
     },
     {
      "source_id": "github_tryon",
@@ -2155,7 +2413,9 @@
     "stars": 0,
     "language": "TypeScript",
     "topics": []
-   }
+   },
+   "collector": "us-west-3",
+   "via": "GitHub API"
   },
   {
    "id": "bc83e9f8f8c21d5d",
@@ -2179,7 +2439,9 @@
    "sightings": [
     {
      "source_id": "arxiv_video",
-     "retrieved_at": "2026-11-26T02:07:16+00:00"
+     "retrieved_at": "2026-11-26T02:07:16+00:00",
+     "via": "arXiv API",
+     "collector": "us-west-3"
     }
    ],
    "meta": {
@@ -2188,7 +2450,9 @@
      "Zihan Min",
      "Minshen Zhang"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API"
   },
   {
    "id": "07da2a0623f01d7b",
@@ -2212,7 +2476,9 @@
    "sightings": [
     {
      "source_id": "arxiv_video",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "arXiv API",
+     "collector": "us-west-3"
     }
    ],
    "meta": {
@@ -2221,7 +2487,10 @@
      "Naomi Ken Korem",
      "Matan Ben-Yosef"
     ]
-   }
+   },
+   "title_zh": "一条拍摄，多机位呈现：基于音频的对话场景镜头重构",
+   "collector": "us-west-3",
+   "via": "arXiv API"
   },
   {
    "id": "d09e3e2cf933000c",
@@ -2241,7 +2510,9 @@
    "sightings": [
     {
      "source_id": "arxiv_video",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "arXiv API",
+     "collector": "us-west-3"
     }
    ],
    "meta": {
@@ -2250,7 +2521,10 @@
      "Max Sobol Mark",
      "Sreyas Venkataraman"
     ]
-   }
+   },
+   "title_zh": "iWAM：无需显式预测未来的世界模型高效动作预测",
+   "collector": "us-west-3",
+   "via": "arXiv API"
   },
   {
    "id": "d320f66f18c49542",
@@ -2270,7 +2544,9 @@
    "sightings": [
     {
      "source_id": "retaildive",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "retaildive",
@@ -2279,7 +2555,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "5ea55f476477f612",
@@ -2299,7 +2577,9 @@
    "sightings": [
     {
      "source_id": "retaildive",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "retaildive",
@@ -2308,7 +2588,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "f7731e1004c08375",
@@ -2332,7 +2614,9 @@
    "sightings": [
     {
      "source_id": "arxiv_video",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "arXiv API",
+     "collector": "us-west-3"
     }
    ],
    "meta": {
@@ -2341,7 +2625,10 @@
      "Ziyi Zhao",
      "Bhagyashree Puranik"
     ]
-   }
+   },
+   "title_zh": "PhysMend：以验证引导程序改进，生成符合物理规律的视频",
+   "collector": "us-west-3",
+   "via": "arXiv API"
   },
   {
    "id": "60762c5815d3c653",
@@ -2365,7 +2652,9 @@
    "sightings": [
     {
      "source_id": "arxiv_video",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "arXiv API",
+     "collector": "us-west-3"
     }
    ],
    "meta": {
@@ -2374,7 +2663,10 @@
      "Kyeong-Hwan Moon",
      "Youjin Jeon"
     ]
-   }
+   },
+   "title_zh": "面向实时交互式视频生成的残差引导",
+   "collector": "us-west-3",
+   "via": "arXiv API"
   },
   {
    "id": "b51aaaad2e3c5428",
@@ -2394,7 +2686,9 @@
    "sightings": [
     {
      "source_id": "retaildive",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "retaildive",
@@ -2403,7 +2697,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "2ea14ffa113855ab",
@@ -2427,7 +2723,9 @@
    "sightings": [
     {
      "source_id": "arxiv_video",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "arXiv API",
+     "collector": "us-west-3"
     }
    ],
    "meta": {
@@ -2436,7 +2734,9 @@
      "Weilun Feng",
      "Chuanguang Yang"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API"
   },
   {
    "id": "d2c5b971278497d9",
@@ -2456,7 +2756,9 @@
    "sightings": [
     {
      "source_id": "github_tryon",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "GitHub API",
+     "collector": "us-west-3"
     },
     {
      "source_id": "github_tryon",
@@ -2470,7 +2772,9 @@
     "stars": 0,
     "language": "JavaScript",
     "topics": []
-   }
+   },
+   "collector": "us-west-3",
+   "via": "GitHub API"
   },
   {
    "id": "788f096b7059175d",
@@ -2490,7 +2794,9 @@
    "sightings": [
     {
      "source_id": "github_video",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "GitHub API",
+     "collector": "us-west-3"
     },
     {
      "source_id": "github_video",
@@ -2510,7 +2816,9 @@
      "claude-code",
      "hypit"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "GitHub API"
   },
   {
    "id": "20064fd4ac0e47fe",
@@ -2534,7 +2842,9 @@
    "sightings": [
     {
      "source_id": "arxiv_video",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "arXiv API",
+     "collector": "us-west-3"
     }
    ],
    "meta": {
@@ -2543,7 +2853,9 @@
      "Xiaoyu Liu",
      "Wenxi Liu"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API"
   },
   {
    "id": "970c009c213d1706",
@@ -2558,7 +2870,9 @@
    "sightings": [
     {
      "source_id": "retaildive",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "retaildive",
@@ -2567,7 +2881,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "0bd464b9a9c02af0",
@@ -2587,7 +2903,9 @@
    "sightings": [
     {
      "source_id": "arxiv_video",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "arXiv API",
+     "collector": "us-west-3"
     }
    ],
    "meta": {
@@ -2596,7 +2914,9 @@
      "Ali Mahdavi Amiri",
      "Daniel Cohen-Or"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API"
   },
   {
    "id": "3a9707e3a2ecbe74",
@@ -2616,7 +2936,9 @@
    "sightings": [
     {
      "source_id": "arxiv_video",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "arXiv API",
+     "collector": "us-west-3"
     }
    ],
    "meta": {
@@ -2625,7 +2947,9 @@
      "Qiyang Hu",
      "Luca Scharr"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API"
   },
   {
    "id": "3372428784c2f180",
@@ -2653,7 +2977,9 @@
    "sightings": [
     {
      "source_id": "arxiv_video",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "arXiv API",
+     "collector": "us-west-3"
     }
    ],
    "meta": {
@@ -2662,7 +2988,9 @@
      "Xiang Tang",
      "Ruotong Li"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API"
   },
   {
    "id": "cc6b57ba56935596",
@@ -2682,7 +3010,9 @@
    "sightings": [
     {
      "source_id": "arxiv_video",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "arXiv API",
+     "collector": "us-west-3"
     }
    ],
    "meta": {
@@ -2691,7 +3021,9 @@
      "Jiachen Ni",
      "Yichen Guo"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API"
   },
   {
    "id": "8c4afdc82fa1436f",
@@ -2715,7 +3047,9 @@
    "sightings": [
     {
      "source_id": "arxiv_video",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "arXiv API",
+     "collector": "us-west-3"
     }
    ],
    "meta": {
@@ -2724,7 +3058,9 @@
      "Ziyang Xu",
      "Chenhan Jin"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API"
   },
   {
    "id": "b190fa474af525b6",
@@ -2748,7 +3084,9 @@
    "sightings": [
     {
      "source_id": "arxiv_video",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "arXiv API",
+     "collector": "us-west-3"
     }
    ],
    "meta": {
@@ -2757,7 +3095,9 @@
      "Harrison Zhang",
      "Fanrong Li"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API"
   },
   {
    "id": "7807edc5be88a991",
@@ -2777,7 +3117,9 @@
    "sightings": [
     {
      "source_id": "github_tryon",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "GitHub API",
+     "collector": "us-west-3"
     },
     {
      "source_id": "github_tryon",
@@ -2791,7 +3133,9 @@
     "stars": 0,
     "language": null,
     "topics": []
-   }
+   },
+   "collector": "us-west-3",
+   "via": "GitHub API"
   },
   {
    "id": "378f2647e48e5cfc",
@@ -2811,7 +3155,9 @@
    "sightings": [
     {
      "source_id": "github_video",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "GitHub API",
+     "collector": "us-west-3"
     },
     {
      "source_id": "github_video",
@@ -2825,7 +3171,9 @@
     "stars": 10,
     "language": "Python",
     "topics": []
-   }
+   },
+   "collector": "us-west-3",
+   "via": "GitHub API"
   },
   {
    "id": "4206a13f263b2dd7",
@@ -2853,7 +3201,9 @@
    "sightings": [
     {
      "source_id": "arxiv_video",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "arXiv API",
+     "collector": "us-west-3"
     }
    ],
    "meta": {
@@ -2862,7 +3212,9 @@
      "Qichao Wang",
      "Wenzhe Qian"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API"
   },
   {
    "id": "ef717d3d22d4db8b",
@@ -2886,7 +3238,9 @@
    "sightings": [
     {
      "source_id": "glossy",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "glossy",
@@ -2895,7 +3249,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "eb4d3e1bc7b57b88",
@@ -2919,7 +3275,9 @@
    "sightings": [
     {
      "source_id": "glossy",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "glossy",
@@ -2928,7 +3286,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "c18e0f68c3e8d03a",
@@ -2952,7 +3312,9 @@
    "sightings": [
     {
      "source_id": "arxiv_video",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "arXiv API",
+     "collector": "us-west-3"
     }
    ],
    "meta": {
@@ -2961,7 +3323,9 @@
      "Ruichuan An",
      "Zhen Fang"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API"
   },
   {
    "id": "dee09ebf5cf5f198",
@@ -2981,7 +3345,9 @@
    "sightings": [
     {
      "source_id": "github_tryon",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "GitHub API",
+     "collector": "us-west-3"
     },
     {
      "source_id": "github_tryon",
@@ -2995,7 +3361,9 @@
     "stars": 0,
     "language": null,
     "topics": []
-   }
+   },
+   "collector": "us-west-3",
+   "via": "GitHub API"
   },
   {
    "id": "4542f872e55fa3d1",
@@ -3015,7 +3383,9 @@
    "sightings": [
     {
      "source_id": "arxiv_video",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "arXiv API",
+     "collector": "us-west-3"
     }
    ],
    "meta": {
@@ -3024,7 +3394,9 @@
      "Baijun Ye",
      "Shicheng Cao"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API"
   },
   {
    "id": "1b746b8d58c36ea8",
@@ -3044,7 +3416,9 @@
    "sightings": [
     {
      "source_id": "github_video",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "GitHub API",
+     "collector": "us-west-3"
     },
     {
      "source_id": "github_video",
@@ -3058,7 +3432,9 @@
     "stars": 85,
     "language": "PHP",
     "topics": []
-   }
+   },
+   "collector": "us-west-3",
+   "via": "GitHub API"
   },
   {
    "id": "fcabaed39e5331ad",
@@ -3078,7 +3454,9 @@
    "sightings": [
     {
      "source_id": "retaildive",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "retaildive",
@@ -3087,7 +3465,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "c8fc026388ada8da",
@@ -3111,7 +3491,9 @@
    "sightings": [
     {
      "source_id": "glossy",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "glossy",
@@ -3120,7 +3502,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "a0fdf65ec7ac3b1f",
@@ -3140,7 +3524,9 @@
    "sightings": [
     {
      "source_id": "github_video",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "GitHub API",
+     "collector": "us-west-3"
     },
     {
      "source_id": "github_video",
@@ -3154,7 +3540,9 @@
     "stars": 12,
     "language": "C++",
     "topics": []
-   }
+   },
+   "collector": "us-west-3",
+   "via": "GitHub API"
   },
   {
    "id": "522818f33ab48ff3",
@@ -3174,7 +3562,9 @@
    "sightings": [
     {
      "source_id": "arxiv_tryon",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "arXiv API",
+     "collector": "us-west-3"
     },
     {
      "source_id": "arxiv_tryon",
@@ -3190,7 +3580,9 @@
      "Peter Wonka",
      "Stefanos Zafeiriou"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API"
   },
   {
    "id": "475b267b20b1a9a4",
@@ -3218,7 +3610,9 @@
    "sightings": [
     {
      "source_id": "arxiv_tryon",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "arXiv API",
+     "collector": "us-west-3"
     },
     {
      "source_id": "arxiv_tryon",
@@ -3233,7 +3627,9 @@
      "Jigyansha Jeevan Rout",
      "Sukanta Kumar Sabut"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API"
   },
   {
    "id": "d158ab0f4db7d56e",
@@ -3253,7 +3649,9 @@
    "sightings": [
     {
      "source_id": "arxiv_tryon",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "arXiv API",
+     "collector": "us-west-3"
     },
     {
      "source_id": "arxiv_tryon",
@@ -3269,7 +3667,9 @@
      "Fabian M Suchanek",
      "Nils Holzenberger"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API"
   },
   {
    "id": "cc2f643dfde418fb",
@@ -3289,7 +3689,9 @@
    "sightings": [
     {
      "source_id": "arxiv_tryon",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "arXiv API",
+     "collector": "us-west-3"
     },
     {
      "source_id": "arxiv_tryon",
@@ -3305,7 +3707,9 @@
      "Tianxi Chen",
      "Runqi Lin"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API"
   },
   {
    "id": "d886ce510017af7f",
@@ -3320,7 +3724,9 @@
    "sightings": [
     {
      "source_id": "glossy",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "glossy",
@@ -3329,7 +3735,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "3334e477eccf6593",
@@ -3344,7 +3752,9 @@
    "sightings": [
     {
      "source_id": "glossy",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "glossy",
@@ -3353,7 +3763,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "714accc0d94907a1",
@@ -3373,7 +3785,9 @@
    "sightings": [
     {
      "source_id": "github_tryon",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "GitHub API",
+     "collector": "us-west-3"
     },
     {
      "source_id": "github_tryon",
@@ -3387,7 +3801,9 @@
     "stars": 1,
     "language": "TypeScript",
     "topics": []
-   }
+   },
+   "collector": "us-west-3",
+   "via": "GitHub API"
   },
   {
    "id": "06480dcbe87d600b",
@@ -3411,7 +3827,9 @@
    "sightings": [
     {
      "source_id": "github_video",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "GitHub API",
+     "collector": "us-west-3"
     },
     {
      "source_id": "github_video",
@@ -3425,7 +3843,9 @@
     "stars": 3,
     "language": "Python",
     "topics": []
-   }
+   },
+   "collector": "us-west-3",
+   "via": "GitHub API"
   },
   {
    "id": "0b223e9e285e92b1",
@@ -3445,14 +3865,18 @@
    "sightings": [
     {
      "source_id": "github_video",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "GitHub API",
+     "collector": "us-west-3"
     }
    ],
    "meta": {
     "stars": 3,
     "language": "TypeScript",
     "topics": []
-   }
+   },
+   "collector": "us-west-3",
+   "via": "GitHub API"
   },
   {
    "id": "d478c70490c77cea",
@@ -3472,7 +3896,9 @@
    "sightings": [
     {
      "source_id": "github_tryon",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "GitHub API",
+     "collector": "us-west-3"
     },
     {
      "source_id": "github_tryon",
@@ -3486,7 +3912,9 @@
     "stars": 0,
     "language": "TypeScript",
     "topics": []
-   }
+   },
+   "collector": "us-west-3",
+   "via": "GitHub API"
   },
   {
    "id": "b73a0b7a8dcde05e",
@@ -3506,7 +3934,9 @@
    "sightings": [
     {
      "source_id": "github_tryon",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "GitHub API",
+     "collector": "us-west-3"
     },
     {
      "source_id": "github_tryon",
@@ -3520,7 +3950,9 @@
     "stars": 1,
     "language": "JavaScript",
     "topics": []
-   }
+   },
+   "collector": "us-west-3",
+   "via": "GitHub API"
   },
   {
    "id": "f29755b8a63f8cc1",
@@ -3540,7 +3972,9 @@
    "sightings": [
     {
      "source_id": "github_video",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "GitHub API",
+     "collector": "us-west-3"
     },
     {
      "source_id": "github_video",
@@ -3554,7 +3988,9 @@
     "stars": 6,
     "language": "Rust",
     "topics": []
-   }
+   },
+   "collector": "us-west-3",
+   "via": "GitHub API"
   },
   {
    "id": "bc771156898878ef",
@@ -3574,7 +4010,9 @@
    "sightings": [
     {
      "source_id": "github_video",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "GitHub API",
+     "collector": "us-west-3"
     },
     {
      "source_id": "github_video",
@@ -3588,7 +4026,9 @@
     "stars": 230,
     "language": null,
     "topics": []
-   }
+   },
+   "collector": "us-west-3",
+   "via": "GitHub API"
   },
   {
    "id": "cd86d54262745742",
@@ -3608,7 +4048,9 @@
    "sightings": [
     {
      "source_id": "github_video",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "GitHub API",
+     "collector": "us-west-3"
     },
     {
      "source_id": "github_video",
@@ -3625,7 +4067,9 @@
      "3d-reconstruction",
      "video-generation"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "GitHub API"
   },
   {
    "id": "d02aca33ca85a2b3",
@@ -3649,7 +4093,9 @@
    "sightings": [
     {
      "source_id": "glossy",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "glossy",
@@ -3658,7 +4104,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "9ab6f81845efd0b2",
@@ -3673,7 +4121,9 @@
    "sightings": [
     {
      "source_id": "glossy",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "glossy",
@@ -3682,7 +4132,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "0d88c3cedd943668",
@@ -3702,7 +4154,9 @@
    "sightings": [
     {
      "source_id": "glossy",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "glossy",
@@ -3711,7 +4165,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "d1ee193e3e3c8647",
@@ -3731,7 +4187,9 @@
    "sightings": [
     {
      "source_id": "glossy",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "glossy",
@@ -3740,7 +4198,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "bf0ef38dbf8ec4ea",
@@ -3760,7 +4220,9 @@
    "sightings": [
     {
      "source_id": "arxiv_tryon",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "arXiv API",
+     "collector": "us-west-3"
     },
     {
      "source_id": "arxiv_tryon",
@@ -3776,7 +4238,9 @@
      "Armin Mustafa",
      "Adrian Hilton"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API"
   },
   {
    "id": "f69a6d1e404cb103",
@@ -3800,7 +4264,9 @@
    "sightings": [
     {
      "source_id": "glossy",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "glossy",
@@ -3809,7 +4275,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "84ef6fe36f3b6889",
@@ -3829,7 +4297,9 @@
    "sightings": [
     {
      "source_id": "glossy",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "glossy",
@@ -3838,7 +4308,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "fd712c97d985c97b",
@@ -3858,7 +4330,9 @@
    "sightings": [
     {
      "source_id": "glossy",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "glossy",
@@ -3867,7 +4341,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "3b26384e7cdc8e51",
@@ -3882,7 +4358,9 @@
    "sightings": [
     {
      "source_id": "glossy",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "glossy",
@@ -3891,7 +4369,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "ecfd3760b74ba882",
@@ -3911,7 +4391,9 @@
    "sightings": [
     {
      "source_id": "arxiv_tryon",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "arXiv API",
+     "collector": "us-west-3"
     },
     {
      "source_id": "arxiv_tryon",
@@ -3927,7 +4409,9 @@
      "Anuj Shrestha",
      "Ankit Belbase"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API"
   },
   {
    "id": "72ae222eacc8f596",
@@ -3947,7 +4431,9 @@
    "sightings": [
     {
      "source_id": "glossy",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "glossy",
@@ -3956,7 +4442,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "2fa9c79692b564c8",
@@ -3980,7 +4468,9 @@
    "sightings": [
     {
      "source_id": "glossy",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "glossy",
@@ -3989,7 +4479,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "c9ae866a835da31f",
@@ -4004,7 +4496,9 @@
    "sightings": [
     {
      "source_id": "glossy",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "glossy",
@@ -4013,7 +4507,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "25ecb5958d4f00f0",
@@ -4033,7 +4529,9 @@
    "sightings": [
     {
      "source_id": "glossy",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "glossy",
@@ -4042,7 +4540,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "1c18016f137ad11a",
@@ -4062,7 +4562,9 @@
    "sightings": [
     {
      "source_id": "glossy",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "RSS",
+     "collector": "us-west-3"
     },
     {
      "source_id": "glossy",
@@ -4071,7 +4573,9 @@
      "engine": "",
      "retrieved_at": "2026-11-26T04:07:05+00:00"
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS"
   },
   {
    "id": "7c8b7971c507aa72",
@@ -4095,7 +4599,9 @@
    "sightings": [
     {
      "source_id": "arxiv_tryon",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "arXiv API",
+     "collector": "us-west-3"
     },
     {
      "source_id": "arxiv_tryon",
@@ -4111,7 +4617,9 @@
      "Suhyeok Jang",
      "Minyoung Kim"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API"
   },
   {
    "id": "543f2f9b8dc59031",
@@ -4135,7 +4643,9 @@
    "sightings": [
     {
      "source_id": "arxiv_tryon",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "arXiv API",
+     "collector": "us-west-3"
     },
     {
      "source_id": "arxiv_tryon",
@@ -4151,7 +4661,9 @@
      "Quyen Nguyen Duc",
      "Son Hoang Minh"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API"
   },
   {
    "id": "da2389814842e644",
@@ -4171,7 +4683,9 @@
    "sightings": [
     {
      "source_id": "arxiv_tryon",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "arXiv API",
+     "collector": "us-west-3"
     },
     {
      "source_id": "arxiv_tryon",
@@ -4187,7 +4701,9 @@
      "Lifan Jiang",
      "Senlin cheng"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API"
   },
   {
    "id": "c094003902c223d3",
@@ -4207,7 +4723,9 @@
    "sightings": [
     {
      "source_id": "arxiv_tryon",
-     "retrieved_at": "2026-11-26T00:07:15+00:00"
+     "retrieved_at": "2026-11-26T00:07:15+00:00",
+     "via": "arXiv API",
+     "collector": "us-west-3"
     },
     {
      "source_id": "arxiv_tryon",
@@ -4223,7 +4741,9 @@
      "Bo Peng",
      "Jun Xiang"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API"
   }
  ],
  "sources": [

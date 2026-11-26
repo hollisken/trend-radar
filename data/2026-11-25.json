@@ -17,7 +17,8 @@
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T23:07:18+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -39,7 +40,8 @@
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T22:07:18+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -61,7 +63,8 @@
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T22:07:18+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -83,7 +86,8 @@
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T22:07:18+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -105,7 +109,8 @@
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T22:07:18+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -127,7 +132,8 @@
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T22:07:18+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -149,13 +155,15 @@
      "source_id": "footwearnews",
      "retrieved_at": "2026-11-25T21:07:18+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     },
     {
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T21:07:18+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -182,18 +190,21 @@
      "source_id": "footwearnews",
      "retrieved_at": "2026-11-25T21:07:18+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     },
     {
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T21:07:18+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
    "via": "RSS",
-   "search_engine": ""
+   "search_engine": "",
+   "title_zh": "为什么 Kohl’s 第三季度鞋类销售增长，而 Shoe Station 没有？"
   },
   {
    "id": "fbc4c350b3ddd490",
@@ -215,12 +226,14 @@
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T20:07:15+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
    "via": "RSS",
-   "search_engine": ""
+   "search_engine": "",
+   "title_zh": "如何把黑色星期五的折扣买家转化为长期客户"
   },
   {
    "id": "f6790ff0c4d1656e",
@@ -237,7 +250,8 @@
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T20:07:15+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -259,7 +273,8 @@
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T20:07:15+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -281,7 +296,8 @@
      "source_id": "hypebeast",
      "retrieved_at": "2026-11-25T20:07:15+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -303,7 +319,8 @@
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T19:07:07+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -325,7 +342,8 @@
      "source_id": "hypebeast",
      "retrieved_at": "2026-11-25T19:07:07+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -352,12 +370,14 @@
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T19:07:07+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
    "via": "RSS",
-   "search_engine": ""
+   "search_engine": "",
+   "title_zh": "在哪里可以在线免费观看 Philipp Plein 纪录片系列？"
   },
   {
    "id": "f70cdf0bad67cadb",
@@ -374,7 +394,8 @@
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T19:07:07+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -396,13 +417,15 @@
      "source_id": "footwearnews",
      "retrieved_at": "2026-11-25T19:07:07+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     },
     {
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T19:07:07+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -429,7 +452,8 @@
      "source_id": "hypebeast",
      "retrieved_at": "2026-11-25T19:07:07+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -451,7 +475,8 @@
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T18:07:13+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -473,7 +498,8 @@
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T18:07:13+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -495,7 +521,8 @@
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T17:07:08+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -517,7 +544,8 @@
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T17:07:08+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -539,7 +567,8 @@
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T17:07:08+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -566,7 +595,8 @@
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T17:07:08+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -588,7 +618,8 @@
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T17:07:08+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -610,7 +641,8 @@
      "source_id": "retaildive",
      "retrieved_at": "2026-11-25T17:07:08+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -637,13 +669,15 @@
      "source_id": "footwearnews",
      "retrieved_at": "2026-11-25T17:07:08+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     },
     {
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T17:07:08+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -665,7 +699,8 @@
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T17:07:08+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -687,13 +722,15 @@
      "source_id": "footwearnews",
      "retrieved_at": "2026-11-25T17:07:08+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     },
     {
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T17:07:08+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -715,7 +752,8 @@
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T17:07:08+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -742,7 +780,8 @@
      "source_id": "hypebeast",
      "retrieved_at": "2026-11-25T17:07:08+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -764,7 +803,8 @@
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T16:07:09+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -791,12 +831,14 @@
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T16:07:09+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
    "via": "RSS",
-   "search_engine": ""
+   "search_engine": "",
+   "title_zh": "户外机能风是本月最热门的男装趋势"
   },
   {
    "id": "95a74aa20898033e",
@@ -813,7 +855,8 @@
      "source_id": "retaildive",
      "retrieved_at": "2026-11-25T16:07:09+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -835,7 +878,8 @@
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T16:07:09+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -862,7 +906,8 @@
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T16:07:09+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -884,13 +929,15 @@
      "source_id": "footwearnews",
      "retrieved_at": "2026-11-25T16:07:09+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     },
     {
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T16:07:09+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -912,7 +959,8 @@
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T16:07:09+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -934,7 +982,8 @@
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T16:07:09+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -956,7 +1005,8 @@
      "source_id": "hypebeast",
      "retrieved_at": "2026-11-25T16:07:09+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -978,13 +1028,15 @@
      "source_id": "footwearnews",
      "retrieved_at": "2026-11-25T16:07:09+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     },
     {
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T16:07:09+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -1006,7 +1058,8 @@
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T16:07:09+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -1033,7 +1086,8 @@
      "source_id": "github_tryon",
      "retrieved_at": "2026-11-25T15:07:16+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "GitHub API"
     }
    ],
    "meta": {
@@ -1060,13 +1114,15 @@
      "source_id": "footwearnews",
      "retrieved_at": "2026-11-25T15:07:16+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     },
     {
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T15:07:16+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -1088,7 +1144,8 @@
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T15:07:16+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -1110,7 +1167,8 @@
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T15:07:16+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -1132,7 +1190,8 @@
      "source_id": "retaildive",
      "retrieved_at": "2026-11-25T15:07:16+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -1154,7 +1213,8 @@
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T14:53:36+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -1176,7 +1236,8 @@
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -1198,7 +1259,8 @@
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -1220,7 +1282,8 @@
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -1242,7 +1305,8 @@
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -1264,7 +1328,8 @@
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -1286,7 +1351,8 @@
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -1313,7 +1379,8 @@
      "source_id": "github_tryon",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "GitHub API"
     }
    ],
    "meta": {
@@ -1345,7 +1412,8 @@
      "source_id": "github_video",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "GitHub API"
     }
    ],
    "meta": {
@@ -1377,12 +1445,14 @@
      "source_id": "hypebeast",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
    "via": "RSS",
-   "search_engine": ""
+   "search_engine": "",
+   "title_zh": "AAPE × BABY MILO® 2026 秋冬系列：用标志性迷彩玩捉迷藏"
   },
   {
    "id": "dcaf43ee5572c866",
@@ -1399,7 +1469,8 @@
      "source_id": "hypebeast",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -1421,7 +1492,8 @@
      "source_id": "hypebeast",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -1443,7 +1515,8 @@
      "source_id": "hypebeast",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -1465,7 +1538,8 @@
      "source_id": "hypebeast",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -1492,7 +1566,8 @@
      "source_id": "hypebeast",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -1514,7 +1589,8 @@
      "source_id": "hypebeast",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -1536,7 +1612,8 @@
      "source_id": "hypebeast",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -1563,7 +1640,8 @@
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -1590,7 +1668,8 @@
      "source_id": "hypebeast",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -1612,7 +1691,8 @@
      "source_id": "hypebeast",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -1639,7 +1719,8 @@
      "source_id": "hypebeast",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -1666,7 +1747,8 @@
      "source_id": "hypebeast",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -1688,7 +1770,8 @@
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -1710,7 +1793,8 @@
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -1737,7 +1821,8 @@
      "source_id": "hypebeast",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -1759,7 +1844,8 @@
      "source_id": "hypebeast",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -1786,7 +1872,8 @@
      "source_id": "hypebeast",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -1817,7 +1904,8 @@
      "source_id": "hypebeast",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -1848,7 +1936,8 @@
      "source_id": "hypebeast",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -1875,7 +1964,8 @@
      "source_id": "github_tryon",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "GitHub API"
     }
    ],
    "meta": {
@@ -1907,7 +1997,8 @@
      "source_id": "wwd",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -1929,7 +2020,8 @@
      "source_id": "glossy",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -1951,7 +2043,8 @@
      "source_id": "glossy",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -1973,7 +2066,8 @@
      "source_id": "hypebeast",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -1995,7 +2089,8 @@
      "source_id": "footwearnews",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -2017,7 +2112,8 @@
      "source_id": "hypebeast",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -2044,7 +2140,8 @@
      "source_id": "footwearnews",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -2071,7 +2168,8 @@
      "source_id": "footwearnews",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -2098,7 +2196,8 @@
      "source_id": "github_tryon",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "GitHub API"
     }
    ],
    "meta": {
@@ -2125,7 +2224,8 @@
      "source_id": "hypebeast",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -2147,7 +2247,8 @@
      "source_id": "footwearnews",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -2169,7 +2270,8 @@
      "source_id": "footwearnews",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -2200,7 +2302,8 @@
      "source_id": "arxiv_video",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "arXiv API"
     }
    ],
    "meta": {
@@ -2212,7 +2315,8 @@
    },
    "collector": "us-west-3",
    "via": "arXiv API",
-   "search_engine": ""
+   "search_engine": "",
+   "title_zh": "一条拍摄，多机位呈现：基于音频的对话场景镜头重构"
   },
   {
    "id": "d09e3e2cf933000c",
@@ -2234,7 +2338,8 @@
      "source_id": "arxiv_video",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "arXiv API"
     }
    ],
    "meta": {
@@ -2246,7 +2351,8 @@
    },
    "collector": "us-west-3",
    "via": "arXiv API",
-   "search_engine": ""
+   "search_engine": "",
+   "title_zh": "iWAM：无需显式预测未来的世界模型高效动作预测"
   },
   {
    "id": "e3c05c1edaecc5dc",
@@ -2263,7 +2369,8 @@
      "source_id": "footwearnews",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -2290,7 +2397,8 @@
      "source_id": "retaildive",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -2312,7 +2420,8 @@
      "source_id": "footwearnews",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -2339,7 +2448,8 @@
      "source_id": "footwearnews",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -2361,7 +2471,8 @@
      "source_id": "footwearnews",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -2388,7 +2499,8 @@
      "source_id": "retaildive",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -2410,7 +2522,8 @@
      "source_id": "footwearnews",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -2441,7 +2554,8 @@
      "source_id": "arxiv_video",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "arXiv API"
     }
    ],
    "meta": {
@@ -2453,7 +2567,8 @@
    },
    "collector": "us-west-3",
    "via": "arXiv API",
-   "search_engine": ""
+   "search_engine": "",
+   "title_zh": "PhysMend：以验证引导程序改进，生成符合物理规律的视频"
   },
   {
    "id": "60762c5815d3c653",
@@ -2479,7 +2594,8 @@
      "source_id": "arxiv_video",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "arXiv API"
     }
    ],
    "meta": {
@@ -2491,7 +2607,8 @@
    },
    "collector": "us-west-3",
    "via": "arXiv API",
-   "search_engine": ""
+   "search_engine": "",
+   "title_zh": "面向实时交互式视频生成的残差引导"
   },
   {
    "id": "b51aaaad2e3c5428",
@@ -2513,7 +2630,8 @@
      "source_id": "retaildive",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -2544,7 +2662,8 @@
      "source_id": "arxiv_video",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "arXiv API"
     }
    ],
    "meta": {
@@ -2578,7 +2697,8 @@
      "source_id": "github_tryon",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "GitHub API"
     }
    ],
    "meta": {
@@ -2614,7 +2734,8 @@
      "source_id": "arxiv_video",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "arXiv API"
     }
    ],
    "meta": {
@@ -2643,7 +2764,8 @@
      "source_id": "retaildive",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -2670,7 +2792,8 @@
      "source_id": "arxiv_video",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "arXiv API"
     }
    ],
    "meta": {
@@ -2704,7 +2827,8 @@
      "source_id": "arxiv_video",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "arXiv API"
     }
    ],
    "meta": {
@@ -2746,7 +2870,8 @@
      "source_id": "arxiv_video",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "arXiv API"
     }
    ],
    "meta": {
@@ -2780,7 +2905,8 @@
      "source_id": "arxiv_video",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "arXiv API"
     }
    ],
    "meta": {
@@ -2818,7 +2944,8 @@
      "source_id": "arxiv_video",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "arXiv API"
     }
    ],
    "meta": {
@@ -2856,7 +2983,8 @@
      "source_id": "arxiv_video",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "arXiv API"
     }
    ],
    "meta": {
@@ -2890,7 +3018,8 @@
      "source_id": "github_tryon",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "GitHub API"
     }
    ],
    "meta": {
@@ -2922,7 +3051,8 @@
      "source_id": "github_video",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "GitHub API"
     }
    ],
    "meta": {
@@ -2962,7 +3092,8 @@
      "source_id": "arxiv_video",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "arXiv API"
     }
    ],
    "meta": {
@@ -3000,7 +3131,8 @@
      "source_id": "glossy",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -3031,7 +3163,8 @@
      "source_id": "glossy",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -3062,7 +3195,8 @@
      "source_id": "arxiv_video",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "arXiv API"
     }
    ],
    "meta": {
@@ -3096,7 +3230,8 @@
      "source_id": "github_tryon",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "GitHub API"
     }
    ],
    "meta": {
@@ -3128,7 +3263,8 @@
      "source_id": "arxiv_video",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "arXiv API"
     }
    ],
    "meta": {
@@ -3162,7 +3298,8 @@
      "source_id": "github_video",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "GitHub API"
     }
    ],
    "meta": {
@@ -3194,7 +3331,8 @@
      "source_id": "retaildive",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -3225,7 +3363,8 @@
      "source_id": "glossy",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -3247,7 +3386,8 @@
      "source_id": "retaildive",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -3269,7 +3409,8 @@
      "source_id": "retaildive",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -3296,7 +3437,8 @@
      "source_id": "github_video",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "GitHub API"
     }
    ],
    "meta": {
@@ -3328,7 +3470,8 @@
      "source_id": "retaildive",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -3355,7 +3498,8 @@
      "source_id": "retaildive",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -3382,7 +3526,8 @@
      "source_id": "retaildive",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -3409,7 +3554,8 @@
      "source_id": "arxiv_tryon",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "arXiv API"
     }
    ],
    "meta": {
@@ -3451,7 +3597,8 @@
      "source_id": "arxiv_tryon",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "arXiv API"
     }
    ],
    "meta": {
@@ -3484,7 +3631,8 @@
      "source_id": "arxiv_tryon",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "arXiv API"
     }
    ],
    "meta": {
@@ -3518,7 +3666,8 @@
      "source_id": "arxiv_tryon",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "arXiv API"
     }
    ],
    "meta": {
@@ -3547,7 +3696,8 @@
      "source_id": "glossy",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -3569,7 +3719,8 @@
      "source_id": "glossy",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -3596,7 +3747,8 @@
      "source_id": "github_tryon",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "GitHub API"
     }
    ],
    "meta": {
@@ -3628,7 +3780,8 @@
      "source_id": "github_tryon",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "GitHub API"
     }
    ],
    "meta": {
@@ -3660,7 +3813,8 @@
      "source_id": "github_tryon",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "GitHub API"
     }
    ],
    "meta": {
@@ -3692,7 +3846,8 @@
      "source_id": "github_video",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "GitHub API"
     }
    ],
    "meta": {
@@ -3724,7 +3879,8 @@
      "source_id": "github_video",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "GitHub API"
     }
    ],
    "meta": {
@@ -3756,7 +3912,8 @@
      "source_id": "github_video",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "GitHub API"
     }
    ],
    "meta": {
@@ -3795,7 +3952,8 @@
      "source_id": "glossy",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -3817,7 +3975,8 @@
      "source_id": "glossy",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -3844,7 +4003,8 @@
      "source_id": "glossy",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -3871,7 +4031,8 @@
      "source_id": "glossy",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -3898,7 +4059,8 @@
      "source_id": "github_tryon",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "GitHub API"
     }
    ],
    "meta": {
@@ -3930,7 +4092,8 @@
      "source_id": "arxiv_tryon",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "arXiv API"
     }
    ],
    "meta": {
@@ -3964,7 +4127,8 @@
      "source_id": "github_video",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "GitHub API"
     }
    ],
    "meta": {
@@ -4002,7 +4166,8 @@
      "source_id": "github_video",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "GitHub API"
     }
    ],
    "meta": {
@@ -4034,7 +4199,8 @@
      "source_id": "github_video",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "GitHub API"
     }
    ],
    "meta": {
@@ -4076,7 +4242,8 @@
      "source_id": "glossy",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -4103,7 +4270,8 @@
      "source_id": "glossy",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -4130,7 +4298,8 @@
      "source_id": "glossy",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -4152,7 +4321,8 @@
      "source_id": "glossy",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -4179,7 +4349,8 @@
      "source_id": "arxiv_tryon",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "arXiv API"
     }
    ],
    "meta": {
@@ -4213,7 +4384,8 @@
      "source_id": "glossy",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -4244,7 +4416,8 @@
      "source_id": "glossy",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -4266,7 +4439,8 @@
      "source_id": "glossy",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -4293,7 +4467,8 @@
      "source_id": "glossy",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -4320,7 +4495,8 @@
      "source_id": "glossy",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "RSS"
     }
    ],
    "collector": "us-west-3",
@@ -4351,7 +4527,8 @@
      "source_id": "arxiv_tryon",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "arXiv API"
     }
    ],
    "meta": {
@@ -4389,7 +4566,8 @@
      "source_id": "arxiv_tryon",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "arXiv API"
     }
    ],
    "meta": {
@@ -4423,7 +4601,8 @@
      "source_id": "arxiv_tryon",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "arXiv API"
     }
    ],
    "meta": {
@@ -4457,7 +4636,8 @@
      "source_id": "arxiv_tryon",
      "retrieved_at": "2026-11-25T14:30:26+00:00",
      "collector": "us-west-3",
-     "engine": ""
+     "engine": "",
+     "via": "arXiv API"
     }
    ],
    "meta": {

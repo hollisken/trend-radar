@@ -54,6 +54,8 @@ def _bullet(entry: tuple[str, dict], language: str) -> str:
     title_zh = (item.get("title_zh") or "").strip()
     if language == "zh" and title_zh:
         title = f"[{title_zh}]({item['url']})（原文：{item['title']}）"
+    elif language == "zh":
+        title = f"[{item['title']}]({item['url']})（中文译名待补）"
     else:
         title = f"[{item['title']}]({item['url']})"
     source = provenance(item)

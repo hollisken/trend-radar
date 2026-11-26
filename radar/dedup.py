@@ -36,14 +36,15 @@ def merge_items(existing: list[dict], incoming: list[dict]) -> tuple[list[dict],
             stats["added"] += 1
             continue
         stats["duplicates"] += 1
-        seen = {(sighting.get("source_id"), sighting.get("url"))
+        fields = ("source_id", "collector", "via", "engine", "url")
+        seen = {tuple(sighting.get(field, "") for field in fields)
                 for sighting in current.get("sightings", [])}
         for sighting in item.get("sightings", []):
-            key = (sighting.get("source_id"), sighting.get("url"))
+            key = tuple(sighting.get(field, "") for field in fields)
             if key not in seen:
                 current.setdefault("sightings", []).append(sighting)
                 seen.add(key)
-        for field in ("published_at", "summary", "topics"):
+        for field in ("published_at", "summary", "topics", "title_zh"):
             if not current.get(field) and item.get(field):
                 current[field] = item[field]
     merged = sorted(by_id.values(), key=lambda row: (row.get("published_at") or "", row["id"]),

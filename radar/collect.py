@@ -49,6 +49,7 @@ def build_item(raw: dict, topics: dict | None, retrieved_at: str,
         "via": VIA.get(raw.get("source_kind", "rss"), raw.get("source_kind", "")),
         "search_engine": raw.get("engine", ""),
         "sightings": [{"source_id": raw["source_id"], "collector": collector,
+                       "via": VIA.get(raw.get("source_kind", "rss"), raw.get("source_kind", "")),
                        "engine": raw.get("engine", ""), "retrieved_at": retrieved_at}],
     }
     if raw.get("meta"):
