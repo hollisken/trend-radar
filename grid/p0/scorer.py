@@ -4,7 +4,7 @@ Usage: python3 scorer.py --date 20261126 [--days 7]"""
 from __future__ import annotations
 import argparse, json, re
 from collections import defaultdict
-from datetime import date, datetime, timedelta
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 from urllib.parse import urlsplit, parse_qsl, urlunsplit
 
@@ -50,7 +50,7 @@ def baseline_urls(days: int) -> set[str]:
 
 def main() -> None:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--date", default=datetime.utcnow().strftime("%Y%m%d"))
+    ap.add_argument("--date", default=datetime.now(timezone.utc).strftime("%Y%m%d"))
     ap.add_argument("--days", type=int, default=7)
     a = ap.parse_args()
     base = baseline_urls(a.days)
