@@ -146,6 +146,45 @@
    ]
   },
   {
+   "id": "e5d6afdb597f9ac1",
+   "title": "Kling-Keye/VibeVideoAgent",
+   "url": "https://github.com/Kling-Keye/VibeVideoAgent",
+   "publisher": "Kling-Keye",
+   "kind": "repo",
+   "published_at": "2026-11-26T08:15:00+00:00",
+   "summary": "VibeVideoAgent: Closing the Perceptual Loop for Code-Driven Video Generation — MCP tools that give Claude Code and Codex eyes and ears while they write videos.",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    }
+   ],
+   "retrieved_at": "2026-11-26T12:07:10+00:00",
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "github_video",
+     "collector": "us-west-3",
+     "via": "GitHub API",
+     "engine": "",
+     "retrieved_at": "2026-11-26T12:07:10+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 5,
+    "language": "Python",
+    "topics": [
+     "agents",
+     "claude-code",
+     "codex",
+     "coding-agents",
+     "gemini"
+    ]
+   }
+  },
+  {
    "id": "6b24a7a3419a56ed",
    "title": "qunqun-guo/Virtual-Try-On",
    "url": "https://github.com/qunqun-guo/Virtual-Try-On",
@@ -5204,9 +5243,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2463,
-   "runs": 11,
-   "items_run": 110
+   "elapsed_ms": 2405,
+   "runs": 12,
+   "items_run": 120
   },
   {
    "id": "arxiv_video",
@@ -5214,9 +5253,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 3110,
-   "runs": 11,
-   "items_run": 165
+   "elapsed_ms": 3580,
+   "runs": 12,
+   "items_run": 180
   },
   {
    "id": "footwearnews",
@@ -5224,9 +5263,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2228,
-   "runs": 11,
-   "items_run": 110
+   "elapsed_ms": 2095,
+   "runs": 12,
+   "items_run": 120
   },
   {
    "id": "github_tryon",
@@ -5234,9 +5273,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1454,
-   "runs": 11,
-   "items_run": 110
+   "elapsed_ms": 1719,
+   "runs": 12,
+   "items_run": 120
   },
   {
    "id": "github_video",
@@ -5244,9 +5283,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 7027,
-   "runs": 11,
-   "items_run": 110
+   "elapsed_ms": 6782,
+   "runs": 12,
+   "items_run": 120
   },
   {
    "id": "glossy",
@@ -5254,9 +5293,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1062,
-   "runs": 11,
-   "items_run": 220
+   "elapsed_ms": 1058,
+   "runs": 12,
+   "items_run": 240
   },
   {
    "id": "hypebeast",
@@ -5264,9 +5303,9 @@
    "status": "ok",
    "items": 19,
    "error": "",
-   "elapsed_ms": 1172,
-   "runs": 11,
-   "items_run": 209
+   "elapsed_ms": 1169,
+   "runs": 12,
+   "items_run": 228
   },
   {
    "id": "retaildive",
@@ -5274,9 +5313,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1069,
-   "runs": 11,
-   "items_run": 110
+   "elapsed_ms": 1072,
+   "runs": 12,
+   "items_run": 120
   },
   {
    "id": "wwd",
@@ -5284,15 +5323,15 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1045,
-   "runs": 11,
-   "items_run": 110
+   "elapsed_ms": 1043,
+   "runs": 12,
+   "items_run": 120
   }
  ],
  "stats": {
-  "items": 155,
+  "items": 156,
   "by_topic": {
-   "tooling": 28,
+   "tooling": 29,
    "ai-video": 23,
    "research": 21,
    "fashion": 14,
@@ -5302,12 +5341,12 @@
   "by_kind": {
    "news": 85,
    "paper": 45,
-   "repo": 25
+   "repo": 26
   },
   "rules_version": "1",
   "duplicates_in_run": 112,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-26T11:07:10+00:00",
+ "updated_at": "2026-11-26T12:07:10+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
