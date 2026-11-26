@@ -3,6 +3,66 @@
  "date": "2026-11-26",
  "items": [
   {
+   "id": "77b3da588c664f7d",
+   "title": "Puma Taps Adidas Alum Will Newton to Run New Emerging Markets Region",
+   "url": "https://wwd.com/footwear-news/shoe-industry-news/puma-emerging-markets-will-newton-managing-director-1239466893",
+   "publisher": "Footwear News",
+   "kind": "news",
+   "published_at": "2026-11-26T14:50:39+00:00",
+   "summary": "He will report to Arne Arens, the company's new chief commercial officer.",
+   "topics": [],
+   "retrieved_at": "2026-11-26T15:07:22+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "footwearnews",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-26T15:07:22+00:00"
+    },
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-26T15:07:22+00:00"
+    }
+   ]
+  },
+  {
+   "id": "a4410a5cbccd9a62",
+   "title": "Dree Hemingway and Conor Sánchez Help Launch JW Anderson’s New Anchor Sneaker",
+   "url": "https://wwd.com/footwear-news/sneaker-news/jw-anderson-anchor-sneaker-dree-hemingway-conor-sanchez-1239466885",
+   "publisher": "Footwear News",
+   "kind": "news",
+   "published_at": "2026-11-26T14:27:54+00:00",
+   "summary": "The unisex shoe is inspired by the streamlined proportions of vintage running shoes.",
+   "topics": [],
+   "retrieved_at": "2026-11-26T15:07:22+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "footwearnews",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-26T15:07:22+00:00"
+    },
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-26T15:07:22+00:00"
+    }
+   ]
+  },
+  {
    "id": "d38ce787434a99ae",
    "title": "Balajikumaresan10/virtual_try_on",
    "url": "https://github.com/Balajikumaresan10/virtual_try_on",
@@ -78,6 +138,29 @@
      "via": "RSS",
      "engine": "",
      "retrieved_at": "2026-11-26T13:07:20+00:00"
+    }
+   ]
+  },
+  {
+   "id": "d67699fa4a78f928",
+   "title": "Songmont Founder Shares Snaps with Bernard Arnault Ahead of Louis Vuitton’s Shanghai Concert",
+   "url": "https://wwd.com/fashion-news/fashion-scoops/songmont-founder-bernard-arnault-louis-vuitton-shanghai-concert-1239466797",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-26T12:50:42+00:00",
+   "summary": "It's understood that those images were taken in New York when the LVMH boss was in town to receive the John B. Fairchild Honor for lifetime achievement at the 2026 WWD Honors gala.",
+   "topics": [],
+   "retrieved_at": "2026-11-26T15:07:22+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-26T15:07:22+00:00"
     }
    ]
   },
@@ -5368,9 +5451,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2153,
-   "runs": 14,
-   "items_run": 140
+   "elapsed_ms": 2413,
+   "runs": 15,
+   "items_run": 150
   },
   {
    "id": "arxiv_video",
@@ -5378,9 +5461,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 3480,
-   "runs": 14,
-   "items_run": 210
+   "elapsed_ms": 3503,
+   "runs": 15,
+   "items_run": 225
   },
   {
    "id": "footwearnews",
@@ -5388,9 +5471,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2121,
-   "runs": 14,
-   "items_run": 140
+   "elapsed_ms": 2194,
+   "runs": 15,
+   "items_run": 150
   },
   {
    "id": "github_tryon",
@@ -5398,9 +5481,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1834,
-   "runs": 14,
-   "items_run": 140
+   "elapsed_ms": 1493,
+   "runs": 15,
+   "items_run": 150
   },
   {
    "id": "github_video",
@@ -5408,9 +5491,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 7035,
-   "runs": 14,
-   "items_run": 140
+   "elapsed_ms": 7015,
+   "runs": 15,
+   "items_run": 150
   },
   {
    "id": "glossy",
@@ -5418,9 +5501,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1070,
-   "runs": 14,
-   "items_run": 280
+   "elapsed_ms": 1089,
+   "runs": 15,
+   "items_run": 300
   },
   {
    "id": "hypebeast",
@@ -5428,9 +5511,9 @@
    "status": "ok",
    "items": 19,
    "error": "",
-   "elapsed_ms": 1164,
-   "runs": 14,
-   "items_run": 266
+   "elapsed_ms": 1160,
+   "runs": 15,
+   "items_run": 285
   },
   {
    "id": "retaildive",
@@ -5438,9 +5521,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1057,
-   "runs": 14,
-   "items_run": 140
+   "elapsed_ms": 1107,
+   "runs": 15,
+   "items_run": 150
   },
   {
    "id": "wwd",
@@ -5448,13 +5531,13 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1051,
-   "runs": 14,
-   "items_run": 140
+   "elapsed_ms": 1044,
+   "runs": 15,
+   "items_run": 150
   }
  ],
  "stats": {
-  "items": 161,
+  "items": 164,
   "by_topic": {
    "tooling": 30,
    "ai-video": 23,
@@ -5464,14 +5547,14 @@
    "beauty": 9
   },
   "by_kind": {
-   "news": 89,
+   "news": 92,
    "paper": 45,
    "repo": 27
   },
   "rules_version": "1",
-  "duplicates_in_run": 111,
+  "duplicates_in_run": 109,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-26T14:07:07+00:00",
+ "updated_at": "2026-11-26T15:07:22+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
