@@ -3,6 +3,29 @@
  "date": "2026-11-26",
  "items": [
   {
+   "id": "ce683a9047fae1d7",
+   "title": "Cashmere, Caviar, and Supple Leather Are on Our Quince Black Friday Shopping List (and Many Finds Are Under $100)",
+   "url": "https://wwd.com/shop/shop-fashion/quince-black-friday-sale-2026-cashmere-leather-luxury-deals-1239466622",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-26T11:00:00+00:00",
+   "summary": "The secret to cultivating a luxurious lifestyle might just lie in these editor-approved Black Friday finds.",
+   "topics": [],
+   "retrieved_at": "2026-11-26T11:07:10+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-26T11:07:10+00:00"
+    }
+   ]
+  },
+  {
    "id": "7eb25f1a3a633725",
    "title": "The Nike Mind 001 Sets Its Moving Nodes in Chocolate Brown for \"Palomino\"",
    "url": "https://hypebeast.com/2026/11/nike-mind-001-palomino-hq4307-201-official-images",
@@ -5181,9 +5204,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2110,
-   "runs": 10,
-   "items_run": 100
+   "elapsed_ms": 2463,
+   "runs": 11,
+   "items_run": 110
   },
   {
    "id": "arxiv_video",
@@ -5191,9 +5214,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 3530,
-   "runs": 10,
-   "items_run": 150
+   "elapsed_ms": 3110,
+   "runs": 11,
+   "items_run": 165
   },
   {
    "id": "footwearnews",
@@ -5201,9 +5224,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2206,
-   "runs": 10,
-   "items_run": 100
+   "elapsed_ms": 2228,
+   "runs": 11,
+   "items_run": 110
   },
   {
    "id": "github_tryon",
@@ -5211,9 +5234,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1578,
-   "runs": 10,
-   "items_run": 100
+   "elapsed_ms": 1454,
+   "runs": 11,
+   "items_run": 110
   },
   {
    "id": "github_video",
@@ -5221,9 +5244,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 6966,
-   "runs": 10,
-   "items_run": 100
+   "elapsed_ms": 7027,
+   "runs": 11,
+   "items_run": 110
   },
   {
    "id": "glossy",
@@ -5231,9 +5254,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1053,
-   "runs": 10,
-   "items_run": 200
+   "elapsed_ms": 1062,
+   "runs": 11,
+   "items_run": 220
   },
   {
    "id": "hypebeast",
@@ -5241,9 +5264,9 @@
    "status": "ok",
    "items": 19,
    "error": "",
-   "elapsed_ms": 1139,
-   "runs": 10,
-   "items_run": 190
+   "elapsed_ms": 1172,
+   "runs": 11,
+   "items_run": 209
   },
   {
    "id": "retaildive",
@@ -5251,9 +5274,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1063,
-   "runs": 10,
-   "items_run": 100
+   "elapsed_ms": 1069,
+   "runs": 11,
+   "items_run": 110
   },
   {
    "id": "wwd",
@@ -5261,13 +5284,13 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1047,
-   "runs": 10,
-   "items_run": 100
+   "elapsed_ms": 1045,
+   "runs": 11,
+   "items_run": 110
   }
  ],
  "stats": {
-  "items": 154,
+  "items": 155,
   "by_topic": {
    "tooling": 28,
    "ai-video": 23,
@@ -5277,14 +5300,14 @@
    "beauty": 9
   },
   "by_kind": {
-   "news": 84,
+   "news": 85,
    "paper": 45,
    "repo": 25
   },
   "rules_version": "1",
-  "duplicates_in_run": 107,
+  "duplicates_in_run": 112,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-26T10:07:15+00:00",
+ "updated_at": "2026-11-26T11:07:10+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
