@@ -3,6 +3,108 @@
  "date": "2026-11-26",
  "items": [
   {
+   "id": "133605ccb743d181",
+   "title": "Nike Air Max 95 Big Bubble Premium Debuts New \"Black/Dark Smoke Grey\" Colorway",
+   "url": "https://hypebeast.com/2026/11/nike-air-max-95-big-bubble-premium-black-dark-smoke-grey-release-info",
+   "publisher": "Hypebeast",
+   "kind": "news",
+   "published_at": "2026-11-26T05:14:09+00:00",
+   "summary": "The Nike Air Max 95 Big Bubble Premium is set to arrive in a new \"Black/Dark Smoke Grey\" colorway.This model stays true to its original design, which was famously inspired by human anatomy. The upper combines synthetic leather with highly breathable mesh, creating a gradient…",
+   "topics": [],
+   "retrieved_at": "2026-11-26T06:07:18+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "hypebeast",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-26T06:07:18+00:00"
+    }
+   ]
+  },
+  {
+   "id": "c53f01e9d8de87e1",
+   "title": "Fashion Briefing: Luxury brands are mythologizing their founders in cartoons, comics and video games",
+   "url": "https://www.glossy.co/fashion/fashion-briefing-luxury-brands-are-mythologizing-their-founders-in-cartoons-comics-and-video-games",
+   "publisher": "Glossy",
+   "kind": "news",
+   "published_at": "2026-11-26T05:00:00+00:00",
+   "summary": "Over the last year, a surprising number of luxury brands have rolled out campaigns featuring their original founders, often reinterpreted through mediums like animation, video games, comics or even being portrayed by modern actors.",
+   "topics": [
+    {
+     "name": "fashion",
+     "score": 1.0
+    }
+   ],
+   "retrieved_at": "2026-11-26T06:07:18+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "glossy",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-26T06:07:18+00:00"
+    }
+   ]
+  },
+  {
+   "id": "baa584c18fd2db11",
+   "title": "Successori Reda, Inside Out Global Launch Joint Venture Focused on Natural Fibers",
+   "url": "https://wwd.com/fashion-news/textiles/successori-reda-io-global-natural-fibers-venture-1239463749",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-26T05:00:00+00:00",
+   "summary": "As its first step, the new company wanted to concentrate on the strategic repositioning of Rewoolution, with the appointment of Matteo Ward as chief executive officer.",
+   "topics": [],
+   "retrieved_at": "2026-11-26T06:07:18+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-26T06:07:18+00:00"
+    }
+   ]
+  },
+  {
+   "id": "81f2792395858047",
+   "title": "Unpacking the trends driving holiday marketing and discovery with Glossy & Modern Retail reporters",
+   "url": "https://www.glossy.co/podcasts/unpacking-the-trends-driving-holiday-marketing-and-discovery-with-glossy-modern-retail-reporters",
+   "publisher": "Glossy",
+   "kind": "news",
+   "published_at": "2026-11-26T05:00:00+00:00",
+   "summary": "What does it take to win holiday marketing? In this special Black Friday collab episode, Glossy and Modern Retail reporters Lexy Lebsack, Danny Parisi and Gabi Barkho discuss the impact of TikTok Shop, celebrity partnerships and AI discovery on holiday 2026.",
+   "topics": [
+    {
+     "name": "retail",
+     "score": 0.67
+    }
+   ],
+   "retrieved_at": "2026-11-26T06:07:18+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "glossy",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-26T06:07:18+00:00"
+    }
+   ]
+  },
+  {
    "id": "6859ce5e7e023611",
    "title": "Porsche Brings Mid-Engine DNA to the EV Era With the All-Electric 718 Boxster",
    "url": "https://hypebeast.com/2026/11/porsche-all-electric-718-boxster-preview-info",
@@ -4753,9 +4855,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2433,
-   "runs": 5,
-   "items_run": 50
+   "elapsed_ms": 3775,
+   "runs": 6,
+   "items_run": 60
   },
   {
    "id": "arxiv_video",
@@ -4763,9 +4865,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 3457,
-   "runs": 5,
-   "items_run": 75
+   "elapsed_ms": 3967,
+   "runs": 6,
+   "items_run": 90
   },
   {
    "id": "footwearnews",
@@ -4773,9 +4875,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2167,
-   "runs": 5,
-   "items_run": 50
+   "elapsed_ms": 2202,
+   "runs": 6,
+   "items_run": 60
   },
   {
    "id": "github_tryon",
@@ -4783,9 +4885,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1501,
-   "runs": 5,
-   "items_run": 50
+   "elapsed_ms": 1538,
+   "runs": 6,
+   "items_run": 60
   },
   {
    "id": "github_video",
@@ -4793,9 +4895,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 6972,
-   "runs": 5,
-   "items_run": 50
+   "elapsed_ms": 6883,
+   "runs": 6,
+   "items_run": 60
   },
   {
    "id": "glossy",
@@ -4803,9 +4905,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1091,
-   "runs": 5,
-   "items_run": 100
+   "elapsed_ms": 1060,
+   "runs": 6,
+   "items_run": 120
   },
   {
    "id": "hypebeast",
@@ -4813,9 +4915,9 @@
    "status": "ok",
    "items": 19,
    "error": "",
-   "elapsed_ms": 1151,
-   "runs": 5,
-   "items_run": 95
+   "elapsed_ms": 1157,
+   "runs": 6,
+   "items_run": 114
   },
   {
    "id": "retaildive",
@@ -4823,9 +4925,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1056,
-   "runs": 5,
-   "items_run": 50
+   "elapsed_ms": 1062,
+   "runs": 6,
+   "items_run": 60
   },
   {
    "id": "wwd",
@@ -4834,29 +4936,29 @@
    "items": 10,
    "error": "",
    "elapsed_ms": 1045,
-   "runs": 5,
-   "items_run": 50
+   "runs": 6,
+   "items_run": 60
   }
  ],
  "stats": {
-  "items": 138,
+  "items": 142,
   "by_topic": {
    "tooling": 24,
    "ai-video": 23,
    "research": 21,
-   "retail": 13,
-   "fashion": 11,
+   "retail": 14,
+   "fashion": 12,
    "beauty": 9
   },
   "by_kind": {
-   "news": 72,
+   "news": 76,
    "paper": 45,
    "repo": 21
   },
   "rules_version": "1",
-  "duplicates_in_run": 98,
+  "duplicates_in_run": 108,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-26T04:07:05+00:00",
+ "updated_at": "2026-11-26T06:07:18+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
