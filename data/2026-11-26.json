@@ -519,6 +519,167 @@
    ]
   },
   {
+   "id": "740b79deb2193f91",
+   "title": "StateWeaver: Multi-Agent Coordination of Story-State Transitions for Long-Horizon Video Generation",
+   "url": "http://arxiv.org/abs/2611.34290v1",
+   "publisher": "arXiv",
+   "kind": "paper",
+   "published_at": "2026-11-25T12:43:37+00:00",
+   "summary": "Modern video foundation models generate high-quality short clips, but preserving long-video consistency and correctly depicting event-driven state changes remain challenging. Existing agentic workflows face these challenges because continual planning and repair accumulate…",
+   "topics": [
+    {
+     "name": "ai-video",
+     "score": 0.5
+    },
+    {
+     "name": "research",
+     "score": 0.5
+    }
+   ],
+   "retrieved_at": "2026-11-26T03:07:18+00:00",
+   "sightings": [
+    {
+     "source_id": "arxiv_video",
+     "retrieved_at": "2026-11-26T03:07:18+00:00"
+    }
+   ],
+   "meta": {
+    "authors": [
+     "Modi Jin",
+     "Xuying Zhang",
+     "Yijing Guo"
+    ]
+   }
+  },
+  {
+   "id": "55302640bdc969c2",
+   "title": "Rehearse in 3D, Render in 2D: Physically Consistent and Editable Robot World Models",
+   "url": "http://arxiv.org/abs/2611.34288v1",
+   "publisher": "arXiv",
+   "kind": "paper",
+   "published_at": "2026-11-25T12:41:56+00:00",
+   "summary": "Embodied world models aim to predict future interactions that are both visually realistic and physically consistent. Yet explicit 3D motion prediction alone does not guarantee that object structure and contact relationships are preserved. Beyond motion prediction, 3D…",
+   "topics": [
+    {
+     "name": "research",
+     "score": 0.5
+    }
+   ],
+   "retrieved_at": "2026-11-26T03:07:18+00:00",
+   "sightings": [
+    {
+     "source_id": "arxiv_video",
+     "retrieved_at": "2026-11-26T03:07:18+00:00"
+    }
+   ],
+   "meta": {
+    "authors": [
+     "Guangyu Liu",
+     "Hanzhang Wang",
+     "Huijia Zhang"
+    ]
+   }
+  },
+  {
+   "id": "7e0a24cb563afa4b",
+   "title": "TORE: Token-Wise Taylor Order Selection via Decomposed Residual Error Estimation for Diffusion Acceleration",
+   "url": "http://arxiv.org/abs/2611.34261v1",
+   "publisher": "arXiv",
+   "kind": "paper",
+   "published_at": "2026-11-25T12:24:14+00:00",
+   "summary": "Diffusion models excel at image and video generation, but iterative denoising incurs substantial inference latency. Recent token-adaptive acceleration methods select Taylor prediction orders for the full-model residual using shallow-layer proxy scores. However, candidate orders…",
+   "topics": [
+    {
+     "name": "ai-video",
+     "score": 0.83
+    },
+    {
+     "name": "research",
+     "score": 0.5
+    }
+   ],
+   "retrieved_at": "2026-11-26T03:07:18+00:00",
+   "sightings": [
+    {
+     "source_id": "arxiv_video",
+     "retrieved_at": "2026-11-26T03:07:18+00:00"
+    }
+   ],
+   "meta": {
+    "authors": [
+     "Lei Tang",
+     "Baoquan Zhang",
+     "Yakun Zhang"
+    ]
+   }
+  },
+  {
+   "id": "7048bcf380414411",
+   "title": "VibeVideoAgent: Closing the Perceptual Loop for Code-Driven Video Generation",
+   "url": "http://arxiv.org/abs/2611.34237v1",
+   "publisher": "arXiv",
+   "kind": "paper",
+   "published_at": "2026-11-25T11:59:44+00:00",
+   "summary": "Code-driven video generation asks a coding agent to write and run rendering programs. This gives exact control over typography, data visualizations, synchronized audio, and multi-shot scenes, and it leaves an editable project behind. A program that exits cleanly can still render…",
+   "topics": [
+    {
+     "name": "ai-video",
+     "score": 0.67
+    },
+    {
+     "name": "research",
+     "score": 0.5
+    }
+   ],
+   "retrieved_at": "2026-11-26T03:07:18+00:00",
+   "sightings": [
+    {
+     "source_id": "arxiv_video",
+     "retrieved_at": "2026-11-26T03:07:18+00:00"
+    }
+   ],
+   "meta": {
+    "authors": [
+     "Xuanyu Zheng",
+     "Luoyuan Zhang",
+     "Yancheng Long"
+    ]
+   }
+  },
+  {
+   "id": "1e4140967a818bf6",
+   "title": "SPARC: Geometry-Guided Attention Pruning for Long-Horizon Camera-Controlled Video Generation",
+   "url": "http://arxiv.org/abs/2611.34064v1",
+   "publisher": "arXiv",
+   "kind": "paper",
+   "published_at": "2026-11-25T09:38:00+00:00",
+   "summary": "We present SPARC, a geometry-guided attention pruning framework that turns the native self-attention of pretrained video diffusion transformers into a unified mechanism for camera control and persistent scene memory. Our key insight is that attention connectivity can…",
+   "topics": [
+    {
+     "name": "ai-video",
+     "score": 0.67
+    },
+    {
+     "name": "research",
+     "score": 0.5
+    }
+   ],
+   "retrieved_at": "2026-11-26T03:07:18+00:00",
+   "sightings": [
+    {
+     "source_id": "arxiv_video",
+     "retrieved_at": "2026-11-26T03:07:18+00:00"
+    }
+   ],
+   "meta": {
+    "authors": [
+     "Zesong Yang",
+     "Weikai Chen",
+     "Liyuan Cui"
+    ]
+   }
+  },
+  {
    "id": "66a577e6da60870b",
    "title": "manibharathi1964/Al-Virtual-Dress-TryOn",
    "url": "https://github.com/manibharathi1964/Al-Virtual-Dress-TryOn",
@@ -702,6 +863,39 @@
    ]
   },
   {
+   "id": "9b314157f8191a1d",
+   "title": "DeltaRAE: Derivative Tokenization for Long Video Generation",
+   "url": "http://arxiv.org/abs/2611.33886v1",
+   "publisher": "arXiv",
+   "kind": "paper",
+   "published_at": "2026-11-25T07:00:59+00:00",
+   "summary": "Latent video generators are trained on clips of a few seconds, and much of this limit lies in their tokenizers, which spend as many tokens on a static frame as on a moving one and need future frames that do not exist during generation. We introduce DeltaRAE, a causal…",
+   "topics": [
+    {
+     "name": "ai-video",
+     "score": 0.67
+    },
+    {
+     "name": "research",
+     "score": 0.5
+    }
+   ],
+   "retrieved_at": "2026-11-26T03:07:18+00:00",
+   "sightings": [
+    {
+     "source_id": "arxiv_video",
+     "retrieved_at": "2026-11-26T03:07:18+00:00"
+    }
+   ],
+   "meta": {
+    "authors": [
+     "Mingzhuo Yu",
+     "Shengcao Cao",
+     "Chengzhi Mao"
+    ]
+   }
+  },
+  {
    "id": "571d580d775482d0",
    "title": "PORTER Remakes Its Exclusive PX TANKER Line in 100% Plant-Derived Nylon",
    "url": "https://hypebeast.com/2026/11/porter-px-tanker-2026-redesign-release-info",
@@ -841,6 +1035,35 @@
    ]
   },
   {
+   "id": "5c1970662ab06e72",
+   "title": "DriftWAM: Faster World-Action Models via Action-Aware Video Drifting",
+   "url": "http://arxiv.org/abs/2611.33797v1",
+   "publisher": "arXiv",
+   "kind": "paper",
+   "published_at": "2026-11-25T05:23:59+00:00",
+   "summary": "World-action models (WAMs) unify future video prediction and action generation for robotic control, but their reliance on iterative denoising incurs substantial inference costs. Distilling these models into few-step generators offers a promising route to efficient deployment…",
+   "topics": [
+    {
+     "name": "research",
+     "score": 0.5
+    }
+   ],
+   "retrieved_at": "2026-11-26T03:07:18+00:00",
+   "sightings": [
+    {
+     "source_id": "arxiv_video",
+     "retrieved_at": "2026-11-26T03:07:18+00:00"
+    }
+   ],
+   "meta": {
+    "authors": [
+     "Minyang Li",
+     "Siyu Xu",
+     "Yunke Wang"
+    ]
+   }
+  },
+  {
    "id": "68b28d8deb79fd2c",
    "title": "Immad-Baber/Virtual-TryOn",
    "url": "https://github.com/Immad-Baber/Virtual-TryOn",
@@ -900,6 +1123,35 @@
      "retrieved_at": "2026-11-26T00:07:15+00:00"
     }
    ]
+  },
+  {
+   "id": "3d12a9fecc9823b4",
+   "title": "ScanAR: Parallel Row-Scan Decoding for Efficient Image Generation in Unified Autoregressive Models",
+   "url": "http://arxiv.org/abs/2611.33761v1",
+   "publisher": "arXiv",
+   "kind": "paper",
+   "published_at": "2026-11-25T04:18:55+00:00",
+   "summary": "Unified multimodal autoregressive (AR) models represent text and images in one token sequence and generate all modalities with a shared next-token prediction head. Their image generation, however, decodes an $H\\times W$ visual grid token by token in raster order, which takes…",
+   "topics": [
+    {
+     "name": "research",
+     "score": 0.5
+    }
+   ],
+   "retrieved_at": "2026-11-26T03:07:18+00:00",
+   "sightings": [
+    {
+     "source_id": "arxiv_video",
+     "retrieved_at": "2026-11-26T03:07:18+00:00"
+    }
+   ],
+   "meta": {
+    "authors": [
+     "Jingen Qu",
+     "Xi Chen",
+     "Yingbo Tang"
+    ]
+   }
   },
   {
    "id": "9d6c1f876d645976",
@@ -2809,9 +3061,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2431,
-   "runs": 3,
-   "items_run": 30
+   "elapsed_ms": 2422,
+   "runs": 4,
+   "items_run": 40
   },
   {
    "id": "arxiv_video",
@@ -2819,9 +3071,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 3462,
-   "runs": 3,
-   "items_run": 45
+   "elapsed_ms": 3481,
+   "runs": 4,
+   "items_run": 60
   },
   {
    "id": "footwearnews",
@@ -2829,9 +3081,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2106,
-   "runs": 3,
-   "items_run": 30
+   "elapsed_ms": 2167,
+   "runs": 4,
+   "items_run": 40
   },
   {
    "id": "github_tryon",
@@ -2839,9 +3091,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1647,
-   "runs": 3,
-   "items_run": 30
+   "elapsed_ms": 1462,
+   "runs": 4,
+   "items_run": 40
   },
   {
    "id": "github_video",
@@ -2849,9 +3101,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 6781,
-   "runs": 3,
-   "items_run": 30
+   "elapsed_ms": 7035,
+   "runs": 4,
+   "items_run": 40
   },
   {
    "id": "glossy",
@@ -2859,9 +3111,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1093,
-   "runs": 3,
-   "items_run": 60
+   "elapsed_ms": 1086,
+   "runs": 4,
+   "items_run": 80
   },
   {
    "id": "hypebeast",
@@ -2870,8 +3122,8 @@
    "items": 19,
    "error": "",
    "elapsed_ms": 1143,
-   "runs": 3,
-   "items_run": 57
+   "runs": 4,
+   "items_run": 76
   },
   {
    "id": "retaildive",
@@ -2879,9 +3131,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1071,
-   "runs": 3,
-   "items_run": 30
+   "elapsed_ms": 1086,
+   "runs": 4,
+   "items_run": 40
   },
   {
    "id": "wwd",
@@ -2889,30 +3141,30 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1048,
-   "runs": 3,
-   "items_run": 30
+   "elapsed_ms": 1042,
+   "runs": 4,
+   "items_run": 40
   }
  ],
  "stats": {
-  "items": 116,
+  "items": 124,
   "by_topic": {
    "tooling": 23,
-   "research": 16,
-   "ai-video": 12,
+   "research": 19,
+   "ai-video": 17,
    "retail": 12,
    "beauty": 9,
    "fashion": 8
   },
   "by_kind": {
    "news": 67,
-   "paper": 29,
+   "paper": 37,
    "repo": 20
   },
   "rules_version": "1",
-  "duplicates_in_run": 108,
+  "duplicates_in_run": 104,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-26T02:07:16+00:00",
+ "updated_at": "2026-11-26T03:07:18+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
