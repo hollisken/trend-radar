@@ -3,6 +3,39 @@
  "date": "2026-11-26",
  "items": [
   {
+   "id": "f986d7a919a27607",
+   "title": "fortminors/virtual-try-on",
+   "url": "https://github.com/fortminors/virtual-try-on",
+   "publisher": "fortminors",
+   "kind": "repo",
+   "published_at": "2026-11-26T18:54:44+00:00",
+   "summary": "RU · Локальная виртуальная примерка одежды по фото человека и вещи. Медиана — 3,84 с при 768 × 1024. Доступен 4х апскейлинг.EN · Local virtual clothing try-on from a person photo and a garment image. 3.84 s median at 768 × 1024, with optional 4× upscaling.",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    }
+   ],
+   "retrieved_at": "2026-11-26T19:07:04+00:00",
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "github_tryon",
+     "collector": "us-west-3",
+     "via": "GitHub API",
+     "engine": "",
+     "retrieved_at": "2026-11-26T19:07:04+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 0,
+    "language": null,
+    "topics": []
+   }
+  },
+  {
    "id": "9ad802052681f607",
    "title": "Hôtel de Crillon Taps French Cashmere Brand Kujten for Terrasse Holiday Takeover",
    "url": "https://wwd.com/fashion-news/fashion-scoops/hotel-de-crillon-kujten-french-cashmere-holiday-takeover-1239467110",
@@ -5576,9 +5609,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2470,
-   "runs": 18,
-   "items_run": 180
+   "elapsed_ms": 2391,
+   "runs": 19,
+   "items_run": 190
   },
   {
    "id": "arxiv_video",
@@ -5586,9 +5619,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 3396,
-   "runs": 18,
-   "items_run": 270
+   "elapsed_ms": 3499,
+   "runs": 19,
+   "items_run": 285
   },
   {
    "id": "footwearnews",
@@ -5596,9 +5629,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2120,
-   "runs": 18,
-   "items_run": 180
+   "elapsed_ms": 2186,
+   "runs": 19,
+   "items_run": 190
   },
   {
    "id": "github_tryon",
@@ -5606,9 +5639,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1460,
-   "runs": 18,
-   "items_run": 180
+   "elapsed_ms": 1478,
+   "runs": 19,
+   "items_run": 190
   },
   {
    "id": "github_video",
@@ -5616,9 +5649,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 7074,
-   "runs": 18,
-   "items_run": 180
+   "elapsed_ms": 7005,
+   "runs": 19,
+   "items_run": 190
   },
   {
    "id": "glossy",
@@ -5626,9 +5659,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1054,
-   "runs": 18,
-   "items_run": 360
+   "elapsed_ms": 1089,
+   "runs": 19,
+   "items_run": 380
   },
   {
    "id": "hypebeast",
@@ -5636,9 +5669,9 @@
    "status": "ok",
    "items": 19,
    "error": "",
-   "elapsed_ms": 4014,
-   "runs": 18,
-   "items_run": 342
+   "elapsed_ms": 1145,
+   "runs": 19,
+   "items_run": 361
   },
   {
    "id": "retaildive",
@@ -5646,9 +5679,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1097,
-   "runs": 18,
-   "items_run": 180
+   "elapsed_ms": 1071,
+   "runs": 19,
+   "items_run": 190
   },
   {
    "id": "wwd",
@@ -5656,15 +5689,15 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1052,
-   "runs": 18,
-   "items_run": 180
+   "elapsed_ms": 1045,
+   "runs": 19,
+   "items_run": 190
   }
  ],
  "stats": {
-  "items": 169,
+  "items": 170,
   "by_topic": {
-   "tooling": 30,
+   "tooling": 31,
    "ai-video": 23,
    "research": 21,
    "fashion": 15,
@@ -5674,12 +5707,12 @@
   "by_kind": {
    "news": 97,
    "paper": 45,
-   "repo": 27
+   "repo": 28
   },
   "rules_version": "1",
-  "duplicates_in_run": 110,
+  "duplicates_in_run": 111,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-26T18:07:16+00:00",
+ "updated_at": "2026-11-26T19:07:04+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
