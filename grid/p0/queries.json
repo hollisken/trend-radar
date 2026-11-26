@@ -10,7 +10,7 @@
   ],
   "searx": {
     "base": "http://127.0.0.1:8888",
-    "engines": ["google", "bing", "brave", "duckduckgo"],
+    "engines": ["google", "bing", "brave", "startpage"],
     "min_interval_s": 45,
     "timeout_s": 25
   },

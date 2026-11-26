@@ -31,10 +31,17 @@ def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--config", required=True)
     ap.add_argument("--collector", default="gzlxy")
+    ap.add_argument("--engines", default="", help="comma-separated engine override (machine-level split)")
+    ap.add_argument("--topics", default="", help="comma-separated topic id filter")
     ap.add_argument("--out", required=True)
     a = ap.parse_args()
     cfg = json.loads(Path(a.config).read_text(encoding="utf-8"))
     sx = cfg["searx"]
+    if a.engines:
+        sx["engines"] = [e.strip() for e in a.engines.split(",") if e.strip()]
+    if a.topics:
+        keep = {t.strip() for t in a.topics.split(",") if t.strip()}
+        cfg["topics"] = [t for t in cfg["topics"] if t["id"] in keep]
     stamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
     queries = []
     for topic in cfg["topics"]:

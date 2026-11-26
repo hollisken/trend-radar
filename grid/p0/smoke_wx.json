@@ -1,0 +1,1 @@
+{"schema": 1, "topics": [{"id": "smoke", "en": ["virtual try-on production deployment"], "cn": ["\u865a\u62df\u8bd5\u7a7f \u843d\u5730"]}], "searx": {"base": "http://127.0.0.1:8888", "engines": ["google", "bing"], "min_interval_s": 5, "timeout_s": 25}, "cn": {"engines": ["weixin"], "min_interval_s": 5, "timeout_s": 20}, "budget": {}}

@@ -94,10 +94,13 @@ def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--config", required=True)
     ap.add_argument("--collector", default="cn-1")
+    ap.add_argument("--engines", default="", help="comma-separated engine override (machine-level split)")
     ap.add_argument("--out", required=True)
     a = ap.parse_args()
     cfg = json.loads(Path(a.config).read_text(encoding="utf-8"))
     cn = cfg["cn"]
+    if a.engines:
+        cn["engines"] = [e.strip() for e in a.engines.split(",") if e.strip()]
     stamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
     queries = []
     for topic in cfg["topics"]:
