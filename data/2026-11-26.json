@@ -3,6 +3,52 @@
  "date": "2026-11-26",
  "items": [
   {
+   "id": "9ad802052681f607",
+   "title": "Hôtel de Crillon Taps French Cashmere Brand Kujten for Terrasse Holiday Takeover",
+   "url": "https://wwd.com/fashion-news/fashion-scoops/hotel-de-crillon-kujten-french-cashmere-holiday-takeover-1239467110",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-26T17:30:14+00:00",
+   "summary": "Guests of the Parisian palace’s winter terrasse can sip espresso martinis while sitting on custom cushions and swaddled in blankets.",
+   "topics": [],
+   "retrieved_at": "2026-11-26T18:07:16+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-26T18:07:16+00:00"
+    }
+   ]
+  },
+  {
+   "id": "1a72901ae7a3ac02",
+   "title": "Louis Vuitton Stages a Shanghai Concert With Yuja Wang",
+   "url": "https://wwd.com/fashion-news/designer-luxury/louis-vuitton-the-louis-yuja-wang-concert-1239467077",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-26T16:48:55+00:00",
+   "summary": "The pianist and house ambassador performed at the brand's boat-shaped Shanghai landmark, with Hélène Mercier-Arnault, Pietro Beccari, Jacksong Wang and Liu Yifei among the 300 guests.",
+   "topics": [],
+   "retrieved_at": "2026-11-26T18:07:16+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-26T18:07:16+00:00"
+    }
+   ]
+  },
+  {
    "id": "a574ffeaa6336440",
    "title": "Pasquale Bruni Opens Paris Flagship on Faubourg Saint-Honoré",
    "url": "https://wwd.com/accessories-news/jewelry/pasquale-bruni-paris-flagship-opening-european-expansion-1239466929",
@@ -5530,9 +5576,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2468,
-   "runs": 17,
-   "items_run": 170
+   "elapsed_ms": 2470,
+   "runs": 18,
+   "items_run": 180
   },
   {
    "id": "arxiv_video",
@@ -5540,9 +5586,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 3418,
-   "runs": 17,
-   "items_run": 255
+   "elapsed_ms": 3396,
+   "runs": 18,
+   "items_run": 270
   },
   {
    "id": "footwearnews",
@@ -5550,9 +5596,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2190,
-   "runs": 17,
-   "items_run": 170
+   "elapsed_ms": 2120,
+   "runs": 18,
+   "items_run": 180
   },
   {
    "id": "github_tryon",
@@ -5560,9 +5606,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1486,
-   "runs": 17,
-   "items_run": 170
+   "elapsed_ms": 1460,
+   "runs": 18,
+   "items_run": 180
   },
   {
    "id": "github_video",
@@ -5570,9 +5616,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 7064,
-   "runs": 17,
-   "items_run": 170
+   "elapsed_ms": 7074,
+   "runs": 18,
+   "items_run": 180
   },
   {
    "id": "glossy",
@@ -5580,9 +5626,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1062,
-   "runs": 17,
-   "items_run": 340
+   "elapsed_ms": 1054,
+   "runs": 18,
+   "items_run": 360
   },
   {
    "id": "hypebeast",
@@ -5590,9 +5636,9 @@
    "status": "ok",
    "items": 19,
    "error": "",
-   "elapsed_ms": 1299,
-   "runs": 17,
-   "items_run": 323
+   "elapsed_ms": 4014,
+   "runs": 18,
+   "items_run": 342
   },
   {
    "id": "retaildive",
@@ -5600,9 +5646,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1062,
-   "runs": 17,
-   "items_run": 170
+   "elapsed_ms": 1097,
+   "runs": 18,
+   "items_run": 180
   },
   {
    "id": "wwd",
@@ -5610,13 +5656,13 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1046,
-   "runs": 17,
-   "items_run": 170
+   "elapsed_ms": 1052,
+   "runs": 18,
+   "items_run": 180
   }
  ],
  "stats": {
-  "items": 167,
+  "items": 169,
   "by_topic": {
    "tooling": 30,
    "ai-video": 23,
@@ -5626,7 +5672,7 @@
    "beauty": 10
   },
   "by_kind": {
-   "news": 95,
+   "news": 97,
    "paper": 45,
    "repo": 27
   },
@@ -5634,6 +5680,6 @@
   "duplicates_in_run": 110,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-26T17:07:08+00:00",
+ "updated_at": "2026-11-26T18:07:16+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
