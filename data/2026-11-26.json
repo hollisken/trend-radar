@@ -3,6 +3,52 @@
  "date": "2026-11-26",
  "items": [
   {
+   "id": "d346a2d77320d2e5",
+   "title": "Jaime Ray Newman Is ‘Bigger, Bolder and Badder’ in Season Two of ‘The Hunting Wives’",
+   "url": "https://wwd.com/eye/people/jaime-ray-newman-season-2-the-hunting-wives-netflix-1239463090",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-26T13:00:00+00:00",
+   "summary": "The actress on Texan housewife culture, working with all-women directors, and what’s to come in the new season.",
+   "topics": [],
+   "retrieved_at": "2026-11-26T13:07:20+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-26T13:07:20+00:00"
+    }
+   ]
+  },
+  {
+   "id": "61a67baeb3b5e285",
+   "title": "Ermenegildo Zegna Group Unveils New Footwear, Leather Goods Facility in Italy",
+   "url": "https://wwd.com/business-news/business-features/ermenegildo-zegna-group-new-footwear-leather-goods-plant-1239466752",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-26T11:08:40+00:00",
+   "summary": "The plant will manufacture products for the Zegna, Thom Browne and Tom Ford Fashion brands and employ more than 300 people.",
+   "topics": [],
+   "retrieved_at": "2026-11-26T13:07:20+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-26T13:07:20+00:00"
+    }
+   ]
+  },
+  {
    "id": "ce683a9047fae1d7",
    "title": "Cashmere, Caviar, and Supple Leather Are on Our Quince Black Friday Shopping List (and Many Finds Are Under $100)",
    "url": "https://wwd.com/shop/shop-fashion/quince-black-friday-sale-2026-cashmere-leather-luxury-deals-1239466622",
@@ -5243,9 +5289,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2405,
-   "runs": 12,
-   "items_run": 120
+   "elapsed_ms": 2368,
+   "runs": 13,
+   "items_run": 130
   },
   {
    "id": "arxiv_video",
@@ -5253,9 +5299,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 3580,
-   "runs": 12,
-   "items_run": 180
+   "elapsed_ms": 3575,
+   "runs": 13,
+   "items_run": 195
   },
   {
    "id": "footwearnews",
@@ -5263,9 +5309,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2095,
-   "runs": 12,
-   "items_run": 120
+   "elapsed_ms": 2164,
+   "runs": 13,
+   "items_run": 130
   },
   {
    "id": "github_tryon",
@@ -5273,9 +5319,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1719,
-   "runs": 12,
-   "items_run": 120
+   "elapsed_ms": 1557,
+   "runs": 13,
+   "items_run": 130
   },
   {
    "id": "github_video",
@@ -5283,9 +5329,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 6782,
-   "runs": 12,
-   "items_run": 120
+   "elapsed_ms": 7055,
+   "runs": 13,
+   "items_run": 130
   },
   {
    "id": "glossy",
@@ -5293,9 +5339,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1058,
-   "runs": 12,
-   "items_run": 240
+   "elapsed_ms": 1088,
+   "runs": 13,
+   "items_run": 260
   },
   {
    "id": "hypebeast",
@@ -5303,9 +5349,9 @@
    "status": "ok",
    "items": 19,
    "error": "",
-   "elapsed_ms": 1169,
-   "runs": 12,
-   "items_run": 228
+   "elapsed_ms": 10740,
+   "runs": 13,
+   "items_run": 247
   },
   {
    "id": "retaildive",
@@ -5313,9 +5359,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1072,
-   "runs": 12,
-   "items_run": 120
+   "elapsed_ms": 1070,
+   "runs": 13,
+   "items_run": 130
   },
   {
    "id": "wwd",
@@ -5323,13 +5369,13 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1043,
-   "runs": 12,
-   "items_run": 120
+   "elapsed_ms": 1045,
+   "runs": 13,
+   "items_run": 130
   }
  ],
  "stats": {
-  "items": 156,
+  "items": 158,
   "by_topic": {
    "tooling": 29,
    "ai-video": 23,
@@ -5339,7 +5385,7 @@
    "beauty": 9
   },
   "by_kind": {
-   "news": 85,
+   "news": 87,
    "paper": 45,
    "repo": 26
   },
@@ -5347,6 +5393,6 @@
   "duplicates_in_run": 112,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-26T12:07:10+00:00",
+ "updated_at": "2026-11-26T13:07:20+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
