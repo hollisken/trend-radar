@@ -3,6 +3,39 @@
  "date": "2026-11-26",
  "items": [
   {
+   "id": "6b24a7a3419a56ed",
+   "title": "qunqun-guo/Virtual-Try-On",
+   "url": "https://github.com/qunqun-guo/Virtual-Try-On",
+   "publisher": "qunqun-guo",
+   "kind": "repo",
+   "published_at": "2026-11-26T08:11:56+00:00",
+   "summary": "",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    }
+   ],
+   "retrieved_at": "2026-11-26T09:07:18+00:00",
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "github_tryon",
+     "collector": "us-west-3",
+     "via": "GitHub API",
+     "engine": "",
+     "retrieved_at": "2026-11-26T09:07:18+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 0,
+    "language": null,
+    "topics": []
+   }
+  },
+  {
    "id": "5541c94072547b15",
    "title": "thanhnghi62952-create/Virtual_try_on",
    "url": "https://github.com/thanhnghi62952-create/Virtual_try_on",
@@ -5028,9 +5061,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2500,
-   "runs": 8,
-   "items_run": 80
+   "elapsed_ms": 2533,
+   "runs": 9,
+   "items_run": 90
   },
   {
    "id": "arxiv_video",
@@ -5038,9 +5071,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 3078,
-   "runs": 8,
-   "items_run": 120
+   "elapsed_ms": 3595,
+   "runs": 9,
+   "items_run": 135
   },
   {
    "id": "footwearnews",
@@ -5048,9 +5081,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2173,
-   "runs": 8,
-   "items_run": 80
+   "elapsed_ms": 2195,
+   "runs": 9,
+   "items_run": 90
   },
   {
    "id": "github_tryon",
@@ -5058,9 +5091,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1485,
-   "runs": 8,
-   "items_run": 80
+   "elapsed_ms": 1436,
+   "runs": 9,
+   "items_run": 90
   },
   {
    "id": "github_video",
@@ -5068,9 +5101,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 6962,
-   "runs": 8,
-   "items_run": 80
+   "elapsed_ms": 7037,
+   "runs": 9,
+   "items_run": 90
   },
   {
    "id": "glossy",
@@ -5078,9 +5111,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1078,
-   "runs": 8,
-   "items_run": 160
+   "elapsed_ms": 1056,
+   "runs": 9,
+   "items_run": 180
   },
   {
    "id": "hypebeast",
@@ -5088,9 +5121,9 @@
    "status": "ok",
    "items": 19,
    "error": "",
-   "elapsed_ms": 1160,
-   "runs": 8,
-   "items_run": 152
+   "elapsed_ms": 1153,
+   "runs": 9,
+   "items_run": 171
   },
   {
    "id": "retaildive",
@@ -5098,9 +5131,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1052,
-   "runs": 8,
-   "items_run": 80
+   "elapsed_ms": 1058,
+   "runs": 9,
+   "items_run": 90
   },
   {
    "id": "wwd",
@@ -5108,15 +5141,15 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1044,
-   "runs": 8,
-   "items_run": 80
+   "elapsed_ms": 1045,
+   "runs": 9,
+   "items_run": 90
   }
  ],
  "stats": {
-  "items": 148,
+  "items": 149,
   "by_topic": {
-   "tooling": 27,
+   "tooling": 28,
    "ai-video": 23,
    "research": 21,
    "retail": 14,
@@ -5126,12 +5159,12 @@
   "by_kind": {
    "news": 79,
    "paper": 45,
-   "repo": 24
+   "repo": 25
   },
   "rules_version": "1",
-  "duplicates_in_run": 109,
+  "duplicates_in_run": 111,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-26T08:07:05+00:00",
+ "updated_at": "2026-11-26T09:07:18+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
