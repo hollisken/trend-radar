@@ -33,6 +33,34 @@
    ]
   },
   {
+   "id": "8076b9d0cf560277",
+   "title": "Rh+ Links With Thermore for Latest Skiwear Collection",
+   "url": "https://wwd.com/fashion-news/fashion-scoops/rh-skiwear-collection-thermore-padding-1239466890",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-26T14:44:58+00:00",
+   "summary": "Crafted from unexpected materials such as velvet and loden, the collection of ski suits features Thermore’s Classic and Ecodown Fibers padding.",
+   "topics": [
+    {
+     "name": "fashion",
+     "score": 0.67
+    }
+   ],
+   "retrieved_at": "2026-11-26T16:07:07+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-26T16:07:07+00:00"
+    }
+   ]
+  },
+  {
    "id": "a4410a5cbccd9a62",
    "title": "Dree Hemingway and Conor Sánchez Help Launch JW Anderson’s New Anchor Sneaker",
    "url": "https://wwd.com/footwear-news/sneaker-news/jw-anderson-anchor-sneaker-dree-hemingway-conor-sanchez-1239466885",
@@ -5451,9 +5479,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2413,
-   "runs": 15,
-   "items_run": 150
+   "elapsed_ms": 2107,
+   "runs": 16,
+   "items_run": 160
   },
   {
    "id": "arxiv_video",
@@ -5461,9 +5489,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 3503,
-   "runs": 15,
-   "items_run": 225
+   "elapsed_ms": 3469,
+   "runs": 16,
+   "items_run": 240
   },
   {
    "id": "footwearnews",
@@ -5471,9 +5499,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2194,
-   "runs": 15,
-   "items_run": 150
+   "elapsed_ms": 2193,
+   "runs": 16,
+   "items_run": 160
   },
   {
    "id": "github_tryon",
@@ -5481,9 +5509,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1493,
-   "runs": 15,
-   "items_run": 150
+   "elapsed_ms": 1525,
+   "runs": 16,
+   "items_run": 160
   },
   {
    "id": "github_video",
@@ -5491,9 +5519,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 7015,
-   "runs": 15,
-   "items_run": 150
+   "elapsed_ms": 7302,
+   "runs": 16,
+   "items_run": 160
   },
   {
    "id": "glossy",
@@ -5501,9 +5529,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1089,
-   "runs": 15,
-   "items_run": 300
+   "elapsed_ms": 1075,
+   "runs": 16,
+   "items_run": 320
   },
   {
    "id": "hypebeast",
@@ -5511,9 +5539,9 @@
    "status": "ok",
    "items": 19,
    "error": "",
-   "elapsed_ms": 1160,
-   "runs": 15,
-   "items_run": 285
+   "elapsed_ms": 1146,
+   "runs": 16,
+   "items_run": 304
   },
   {
    "id": "retaildive",
@@ -5521,9 +5549,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1107,
-   "runs": 15,
-   "items_run": 150
+   "elapsed_ms": 1074,
+   "runs": 16,
+   "items_run": 160
   },
   {
    "id": "wwd",
@@ -5531,30 +5559,30 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1044,
-   "runs": 15,
-   "items_run": 150
+   "elapsed_ms": 1047,
+   "runs": 16,
+   "items_run": 160
   }
  ],
  "stats": {
-  "items": 164,
+  "items": 165,
   "by_topic": {
    "tooling": 30,
    "ai-video": 23,
    "research": 21,
-   "fashion": 14,
+   "fashion": 15,
    "retail": 14,
    "beauty": 9
   },
   "by_kind": {
-   "news": 92,
+   "news": 93,
    "paper": 45,
    "repo": 27
   },
   "rules_version": "1",
-  "duplicates_in_run": 109,
+  "duplicates_in_run": 111,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-26T15:07:22+00:00",
+ "updated_at": "2026-11-26T16:07:07+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
