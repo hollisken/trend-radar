@@ -3,6 +3,62 @@
  "date": "2026-11-26",
  "items": [
   {
+   "id": "d38ce787434a99ae",
+   "title": "Balajikumaresan10/virtual_try_on",
+   "url": "https://github.com/Balajikumaresan10/virtual_try_on",
+   "publisher": "Balajikumaresan10",
+   "kind": "repo",
+   "published_at": "2026-11-26T13:32:10+00:00",
+   "summary": "",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    }
+   ],
+   "retrieved_at": "2026-11-26T14:07:07+00:00",
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "github_tryon",
+     "collector": "us-west-3",
+     "via": "GitHub API",
+     "engine": "",
+     "retrieved_at": "2026-11-26T14:07:07+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 0,
+    "language": null,
+    "topics": []
+   }
+  },
+  {
+   "id": "bc12be7b4fe44a75",
+   "title": "Swire Properties’ Qiantan Taikoo Li Forms Partnership With Siam Piwat",
+   "url": "https://wwd.com/business-news/retail/qiantan-taikoo-li-partnership-siam-piwat-1239466662",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-26T13:10:00+00:00",
+   "summary": "The partnership, designed to enhance cross-boarder membership privileges, expands upon the Global Privilege Partnership network of Siam Piwat.",
+   "topics": [],
+   "retrieved_at": "2026-11-26T14:07:07+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-26T14:07:07+00:00"
+    }
+   ]
+  },
+  {
    "id": "d346a2d77320d2e5",
    "title": "Jaime Ray Newman Is ‘Bigger, Bolder and Badder’ in Season Two of ‘The Hunting Wives’",
    "url": "https://wwd.com/eye/people/jaime-ray-newman-season-2-the-hunting-wives-netflix-1239463090",
@@ -22,6 +78,29 @@
      "via": "RSS",
      "engine": "",
      "retrieved_at": "2026-11-26T13:07:20+00:00"
+    }
+   ]
+  },
+  {
+   "id": "35ade002b84e2443",
+   "title": "16Arlington Gives The London Edition’s Christmas Tree a Feathered Makeover",
+   "url": "https://wwd.com/eye/scoops/the-london-edition-christmas-tree-16arlington-marco-capaldo-1239466775",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-26T11:50:54+00:00",
+   "summary": "Marco Capaldo utilized more than 3,000 plumes from the label’s archive, which will be cleaned and returned for future projects after the holiday period.",
+   "topics": [],
+   "retrieved_at": "2026-11-26T14:07:07+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-26T14:07:07+00:00"
     }
    ]
   },
@@ -5289,9 +5368,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2368,
-   "runs": 13,
-   "items_run": 130
+   "elapsed_ms": 2153,
+   "runs": 14,
+   "items_run": 140
   },
   {
    "id": "arxiv_video",
@@ -5299,9 +5378,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 3575,
-   "runs": 13,
-   "items_run": 195
+   "elapsed_ms": 3480,
+   "runs": 14,
+   "items_run": 210
   },
   {
    "id": "footwearnews",
@@ -5309,9 +5388,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2164,
-   "runs": 13,
-   "items_run": 130
+   "elapsed_ms": 2121,
+   "runs": 14,
+   "items_run": 140
   },
   {
    "id": "github_tryon",
@@ -5319,9 +5398,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1557,
-   "runs": 13,
-   "items_run": 130
+   "elapsed_ms": 1834,
+   "runs": 14,
+   "items_run": 140
   },
   {
    "id": "github_video",
@@ -5329,9 +5408,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 7055,
-   "runs": 13,
-   "items_run": 130
+   "elapsed_ms": 7035,
+   "runs": 14,
+   "items_run": 140
   },
   {
    "id": "glossy",
@@ -5339,9 +5418,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1088,
-   "runs": 13,
-   "items_run": 260
+   "elapsed_ms": 1070,
+   "runs": 14,
+   "items_run": 280
   },
   {
    "id": "hypebeast",
@@ -5349,9 +5428,9 @@
    "status": "ok",
    "items": 19,
    "error": "",
-   "elapsed_ms": 10740,
-   "runs": 13,
-   "items_run": 247
+   "elapsed_ms": 1164,
+   "runs": 14,
+   "items_run": 266
   },
   {
    "id": "retaildive",
@@ -5359,9 +5438,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1070,
-   "runs": 13,
-   "items_run": 130
+   "elapsed_ms": 1057,
+   "runs": 14,
+   "items_run": 140
   },
   {
    "id": "wwd",
@@ -5369,15 +5448,15 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1045,
-   "runs": 13,
-   "items_run": 130
+   "elapsed_ms": 1051,
+   "runs": 14,
+   "items_run": 140
   }
  ],
  "stats": {
-  "items": 158,
+  "items": 161,
   "by_topic": {
-   "tooling": 29,
+   "tooling": 30,
    "ai-video": 23,
    "research": 21,
    "fashion": 14,
@@ -5385,14 +5464,14 @@
    "beauty": 9
   },
   "by_kind": {
-   "news": 87,
+   "news": 89,
    "paper": 45,
-   "repo": 26
+   "repo": 27
   },
   "rules_version": "1",
-  "duplicates_in_run": 112,
+  "duplicates_in_run": 111,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-26T13:07:20+00:00",
+ "updated_at": "2026-11-26T14:07:07+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
