@@ -15,7 +15,7 @@
     "timeout_s": 25
   },
   "cn": {
-    "engines": ["baidu", "sogou", "weixin", "bingcn", "so"],
+    "engines": ["baidu", "sogou", "bingcn", "so"],
     "min_interval_s": 60,
     "timeout_s": 20
   },

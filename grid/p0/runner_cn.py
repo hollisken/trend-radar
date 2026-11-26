@@ -1,13 +1,17 @@
 """P0 channel runner: direct CN SERP queries from cn-1/cn-2 (stdlib only, Windows-safe).
 Engines: baidu, sogou, weixin (sogou wechat), bingcn, so (360). Emits one JSON run file."""
 from __future__ import annotations
-import argparse, gzip, html, io, json, re, time, urllib.parse, urllib.request
+import argparse, gzip, html, http.cookiejar, io, json, re, time, urllib.parse, urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36")
 TAG = re.compile(r"<[^>]+>")
+_CJ = http.cookiejar.CookieJar()
+_OPENER = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(_CJ))
+_WARM = {"weixin": "https://weixin.sogou.com/"}
+_warmed: set[str] = set()
 
 ENGINES = {
     # name -> (url builder, result anchor regex, absolute-prefix)
@@ -30,12 +34,14 @@ ENGINES = {
 BLOCK_MARKERS = ("验证码", "安全验证", "captcha", "滑动验证", "网络异常", "Access Denied", "403 Forbidden")
 
 
-def fetch(url: str, timeout: float) -> tuple[int, str, str]:
-    req = urllib.request.Request(url, headers={
-        "User-Agent": UA, "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
-        "Accept": "text/html,application/xhtml+xml", "Accept-Encoding": "gzip"})
+def fetch(url: str, timeout: float, referer: str = "") -> tuple[int, str, str]:
+    headers = {"User-Agent": UA, "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+               "Accept": "text/html,application/xhtml+xml", "Accept-Encoding": "gzip"}
+    if referer:
+        headers["Referer"] = referer
+    req = urllib.request.Request(url, headers=headers)
     try:
-        with urllib.request.urlopen(req, timeout=timeout) as r:
+        with _OPENER.open(req, timeout=timeout) as r:
             body = r.read()
             if r.headers.get("Content-Encoding") == "gzip" or body[:2] == b"\x1f\x8b":
                 try: body = gzip.decompress(body)
@@ -59,7 +65,12 @@ def run_engine(name: str, q: str, timeout: float) -> dict:
     build, rx, prefix = ENGINES[name]
     url = build(q)
     t0 = time.time()
-    status, body, err = fetch(url, timeout)
+    referer = ""
+    if name in _WARM and name not in _warmed:
+        _warmed.add(name)
+        fetch(_WARM[name], timeout)
+        referer = _WARM[name]
+    status, body, err = fetch(url, timeout, referer)
     out = {"status": "ok", "results": [], "unresponsive": [], "elapsed_s": round(time.time() - t0, 1)}
     if status == 0:
         out.update(status="error", error=err); return out
