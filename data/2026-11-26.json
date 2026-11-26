@@ -3,6 +3,57 @@
  "date": "2026-11-26",
  "items": [
   {
+   "id": "32ae391d80229473",
+   "title": "Moncler x Rick Owens FW26 Arms Quilted Outerwear With Studs and Straps",
+   "url": "https://hypebeast.com/2026/11/moncler-rick-owens-fall-winter-fw-2026-collaboration-collection-release-info",
+   "publisher": "Hypebeast",
+   "kind": "news",
+   "published_at": "2026-11-26T06:49:27+00:00",
+   "summary": "Summary Moncler and Rick Owens return with a Fall/Winter 2026 collection built mainly around quilted outerwearGeo Quilting, metal studs, oversized Tour pockets and a carry-ready Mega Strap appear across the lineupThe collection uses a tight palette of black, metallic Palladium…",
+   "topics": [
+    {
+     "name": "fashion",
+     "score": 0.33
+    }
+   ],
+   "retrieved_at": "2026-11-26T07:07:19+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "hypebeast",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-26T07:07:19+00:00"
+    }
+   ]
+  },
+  {
+   "id": "661d41fcf97e1568",
+   "title": "The Clock Starts Again as ‘The Pitt’ Season 3 Locks Its Premiere Date",
+   "url": "https://hypebeast.com/2026/11/hbo-max-the-pitt-season-3-premiere-release-date-announcement",
+   "publisher": "Hypebeast",
+   "kind": "news",
+   "published_at": "2026-11-26T06:04:42+00:00",
+   "summary": "Summary 'The Pitt' returns to HBO Max for Season 3 on January 7, keeping its usual early-January premiere slotNoah Wyle leads a returning cast that includes Patrick Ball, Katherine LaNasa, Fiona Dourif and Shawn HatosyThe medical drama has won 12 Emmy Awards from 38 nominations…",
+   "topics": [],
+   "retrieved_at": "2026-11-26T07:07:19+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "hypebeast",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-26T07:07:19+00:00"
+    }
+   ]
+  },
+  {
    "id": "133605ccb743d181",
    "title": "Nike Air Max 95 Big Bubble Premium Debuts New \"Black/Dark Smoke Grey\" Colorway",
    "url": "https://hypebeast.com/2026/11/nike-air-max-95-big-bubble-premium-black-dark-smoke-grey-release-info",
@@ -1637,6 +1688,39 @@
    },
    "collector": "us-west-3",
    "via": "arXiv API"
+  },
+  {
+   "id": "fdaf8681a796f535",
+   "title": "weijielyu/AnyCam",
+   "url": "https://github.com/weijielyu/AnyCam",
+   "publisher": "weijielyu",
+   "kind": "repo",
+   "published_at": "2026-11-25T09:36:17+00:00",
+   "summary": "AnyCam: Anything Can Represent Camera for Video Generation",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    }
+   ],
+   "retrieved_at": "2026-11-26T07:07:19+00:00",
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "github_video",
+     "collector": "us-west-3",
+     "via": "GitHub API",
+     "engine": "",
+     "retrieved_at": "2026-11-26T07:07:19+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 3,
+    "language": null,
+    "topics": []
+   }
   },
   {
    "id": "66a577e6da60870b",
@@ -4855,9 +4939,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 3775,
-   "runs": 6,
-   "items_run": 60
+   "elapsed_ms": 2100,
+   "runs": 7,
+   "items_run": 70
   },
   {
    "id": "arxiv_video",
@@ -4865,9 +4949,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 3967,
-   "runs": 6,
-   "items_run": 90
+   "elapsed_ms": 3536,
+   "runs": 7,
+   "items_run": 105
   },
   {
    "id": "footwearnews",
@@ -4875,9 +4959,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2202,
-   "runs": 6,
-   "items_run": 60
+   "elapsed_ms": 2151,
+   "runs": 7,
+   "items_run": 70
   },
   {
    "id": "github_tryon",
@@ -4885,9 +4969,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1538,
-   "runs": 6,
-   "items_run": 60
+   "elapsed_ms": 1453,
+   "runs": 7,
+   "items_run": 70
   },
   {
    "id": "github_video",
@@ -4895,9 +4979,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 6883,
-   "runs": 6,
-   "items_run": 60
+   "elapsed_ms": 7117,
+   "runs": 7,
+   "items_run": 70
   },
   {
    "id": "glossy",
@@ -4905,9 +4989,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1060,
-   "runs": 6,
-   "items_run": 120
+   "elapsed_ms": 1086,
+   "runs": 7,
+   "items_run": 140
   },
   {
    "id": "hypebeast",
@@ -4915,9 +4999,9 @@
    "status": "ok",
    "items": 19,
    "error": "",
-   "elapsed_ms": 1157,
-   "runs": 6,
-   "items_run": 114
+   "elapsed_ms": 1178,
+   "runs": 7,
+   "items_run": 133
   },
   {
    "id": "retaildive",
@@ -4925,9 +5009,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1062,
-   "runs": 6,
-   "items_run": 60
+   "elapsed_ms": 1059,
+   "runs": 7,
+   "items_run": 70
   },
   {
    "id": "wwd",
@@ -4935,30 +5019,30 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1045,
-   "runs": 6,
-   "items_run": 60
+   "elapsed_ms": 1048,
+   "runs": 7,
+   "items_run": 70
   }
  ],
  "stats": {
-  "items": 142,
+  "items": 145,
   "by_topic": {
-   "tooling": 24,
+   "tooling": 25,
    "ai-video": 23,
    "research": 21,
    "retail": 14,
-   "fashion": 12,
+   "fashion": 13,
    "beauty": 9
   },
   "by_kind": {
-   "news": 76,
+   "news": 78,
    "paper": 45,
-   "repo": 21
+   "repo": 22
   },
   "rules_version": "1",
-  "duplicates_in_run": 108,
+  "duplicates_in_run": 109,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-26T06:07:18+00:00",
+ "updated_at": "2026-11-26T07:07:19+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
