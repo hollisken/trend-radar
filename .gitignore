@@ -5,3 +5,4 @@ __pycache__/
 site/*.new
 *.partial
 run-*.json
+/docs/grid-plan.md
