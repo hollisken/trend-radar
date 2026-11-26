@@ -6,3 +6,4 @@ site/*.new
 *.partial
 run-*.json
 /docs/grid-plan.md
+grid/p0/out/

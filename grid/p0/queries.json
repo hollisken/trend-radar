@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "topics": [
+    {"id": "vidgen-control", "en": ["controllable video generation 2026", "video diffusion model inference cost"],
+     "cn": ["可控视频生成", "视频生成模型 推理成本"]},
+    {"id": "tryon-deploy", "en": ["virtual try-on production deployment", "virtual try-on retail conversion"],
+     "cn": ["虚拟试穿 落地", "虚拟试衣 转化率"]},
+    {"id": "fashion-ai", "en": ["AI video generation fashion brand campaign", "virtual try-on open source model github"],
+     "cn": ["AI视频生成 时尚品牌", "虚拟试穿 开源模型"]}
+  ],
+  "searx": {
+    "base": "http://127.0.0.1:8888",
+    "engines": ["google", "bing", "brave", "duckduckgo"],
+    "min_interval_s": 45,
+    "timeout_s": 25
+  },
+  "cn": {
+    "engines": ["baidu", "sogou", "weixin", "bingcn", "so"],
+    "min_interval_s": 60,
+    "timeout_s": 20
+  },
+  "budget": {"searx_max_queries_per_day": 150, "cn_max_queries_per_day": 200}
+}
