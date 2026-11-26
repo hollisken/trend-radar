@@ -15,9 +15,14 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T23:07:18+00:00"
+     "retrieved_at": "2026-11-25T23:07:18+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "8be73ddc18b1f87b",
@@ -32,9 +37,14 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T22:07:18+00:00"
+     "retrieved_at": "2026-11-25T22:07:18+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "3a09083e90ae9660",
@@ -49,9 +59,14 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T22:07:18+00:00"
+     "retrieved_at": "2026-11-25T22:07:18+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "ebcf402996fa4f06",
@@ -66,9 +81,14 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T22:07:18+00:00"
+     "retrieved_at": "2026-11-25T22:07:18+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "ad61eeb82901ba4c",
@@ -83,9 +103,14 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T22:07:18+00:00"
+     "retrieved_at": "2026-11-25T22:07:18+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "8a30463c836dfb15",
@@ -100,9 +125,14 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T22:07:18+00:00"
+     "retrieved_at": "2026-11-25T22:07:18+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "8b0bf9be8ac56fd6",
@@ -117,13 +147,20 @@
    "sightings": [
     {
      "source_id": "footwearnews",
-     "retrieved_at": "2026-11-25T21:07:18+00:00"
+     "retrieved_at": "2026-11-25T21:07:18+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     },
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T21:07:18+00:00"
+     "retrieved_at": "2026-11-25T21:07:18+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "f58831c2b49949dd",
@@ -143,13 +180,20 @@
    "sightings": [
     {
      "source_id": "footwearnews",
-     "retrieved_at": "2026-11-25T21:07:18+00:00"
+     "retrieved_at": "2026-11-25T21:07:18+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     },
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T21:07:18+00:00"
+     "retrieved_at": "2026-11-25T21:07:18+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "fbc4c350b3ddd490",
@@ -169,9 +213,14 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T20:07:15+00:00"
+     "retrieved_at": "2026-11-25T20:07:15+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "f6790ff0c4d1656e",
@@ -186,9 +235,14 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T20:07:15+00:00"
+     "retrieved_at": "2026-11-25T20:07:15+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "87a610c026e1d726",
@@ -203,9 +257,14 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T20:07:15+00:00"
+     "retrieved_at": "2026-11-25T20:07:15+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "3cd337fb43e9d96c",
@@ -220,9 +279,14 @@
    "sightings": [
     {
      "source_id": "hypebeast",
-     "retrieved_at": "2026-11-25T20:07:15+00:00"
+     "retrieved_at": "2026-11-25T20:07:15+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "047a11c16678dd35",
@@ -237,9 +301,14 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T19:07:07+00:00"
+     "retrieved_at": "2026-11-25T19:07:07+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "a7e443a4dc49eac0",
@@ -254,9 +323,14 @@
    "sightings": [
     {
      "source_id": "hypebeast",
-     "retrieved_at": "2026-11-25T19:07:07+00:00"
+     "retrieved_at": "2026-11-25T19:07:07+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "8ebe90189aef8713",
@@ -276,9 +350,14 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T19:07:07+00:00"
+     "retrieved_at": "2026-11-25T19:07:07+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "f70cdf0bad67cadb",
@@ -293,9 +372,14 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T19:07:07+00:00"
+     "retrieved_at": "2026-11-25T19:07:07+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "4e7d2cbcfdac1f28",
@@ -310,13 +394,20 @@
    "sightings": [
     {
      "source_id": "footwearnews",
-     "retrieved_at": "2026-11-25T19:07:07+00:00"
+     "retrieved_at": "2026-11-25T19:07:07+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     },
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T19:07:07+00:00"
+     "retrieved_at": "2026-11-25T19:07:07+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "bb206d635b7084e3",
@@ -336,9 +427,14 @@
    "sightings": [
     {
      "source_id": "hypebeast",
-     "retrieved_at": "2026-11-25T19:07:07+00:00"
+     "retrieved_at": "2026-11-25T19:07:07+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "74a97830a79b191c",
@@ -353,9 +449,14 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T18:07:13+00:00"
+     "retrieved_at": "2026-11-25T18:07:13+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "b22e5d0e977fe755",
@@ -370,9 +471,14 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T18:07:13+00:00"
+     "retrieved_at": "2026-11-25T18:07:13+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "d8950567a4009cf9",
@@ -387,9 +493,14 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T17:07:08+00:00"
+     "retrieved_at": "2026-11-25T17:07:08+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "d60bdca2a8fb9360",
@@ -404,9 +515,14 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T17:07:08+00:00"
+     "retrieved_at": "2026-11-25T17:07:08+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "57ca86e5acc3aff0",
@@ -421,9 +537,14 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T17:07:08+00:00"
+     "retrieved_at": "2026-11-25T17:07:08+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "c7cbce27e2e10df2",
@@ -443,9 +564,14 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T17:07:08+00:00"
+     "retrieved_at": "2026-11-25T17:07:08+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "129fb2c3fdd71611",
@@ -460,9 +586,14 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T17:07:08+00:00"
+     "retrieved_at": "2026-11-25T17:07:08+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "74ebd887591c742c",
@@ -477,9 +608,14 @@
    "sightings": [
     {
      "source_id": "retaildive",
-     "retrieved_at": "2026-11-25T17:07:08+00:00"
+     "retrieved_at": "2026-11-25T17:07:08+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "6298ea249ad8eca1",
@@ -499,13 +635,20 @@
    "sightings": [
     {
      "source_id": "footwearnews",
-     "retrieved_at": "2026-11-25T17:07:08+00:00"
+     "retrieved_at": "2026-11-25T17:07:08+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     },
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T17:07:08+00:00"
+     "retrieved_at": "2026-11-25T17:07:08+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "4566310515d66fde",
@@ -520,9 +663,14 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T17:07:08+00:00"
+     "retrieved_at": "2026-11-25T17:07:08+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "4ff091de6d61da15",
@@ -537,13 +685,20 @@
    "sightings": [
     {
      "source_id": "footwearnews",
-     "retrieved_at": "2026-11-25T17:07:08+00:00"
+     "retrieved_at": "2026-11-25T17:07:08+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     },
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T17:07:08+00:00"
+     "retrieved_at": "2026-11-25T17:07:08+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "3cc22acf5935db88",
@@ -558,9 +713,14 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T17:07:08+00:00"
+     "retrieved_at": "2026-11-25T17:07:08+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "2712b7af70877941",
@@ -580,9 +740,14 @@
    "sightings": [
     {
      "source_id": "hypebeast",
-     "retrieved_at": "2026-11-25T17:07:08+00:00"
+     "retrieved_at": "2026-11-25T17:07:08+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "e5bad4b33625c222",
@@ -597,9 +762,14 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T16:07:09+00:00"
+     "retrieved_at": "2026-11-25T16:07:09+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "461e944d7cabc541",
@@ -619,9 +789,14 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T16:07:09+00:00"
+     "retrieved_at": "2026-11-25T16:07:09+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "95a74aa20898033e",
@@ -636,9 +811,14 @@
    "sightings": [
     {
      "source_id": "retaildive",
-     "retrieved_at": "2026-11-25T16:07:09+00:00"
+     "retrieved_at": "2026-11-25T16:07:09+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "fe77bd038b05d06a",
@@ -653,9 +833,14 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T16:07:09+00:00"
+     "retrieved_at": "2026-11-25T16:07:09+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "b1f9c93e5f6c6d65",
@@ -675,9 +860,14 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T16:07:09+00:00"
+     "retrieved_at": "2026-11-25T16:07:09+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "9fba8167a833d872",
@@ -692,13 +882,20 @@
    "sightings": [
     {
      "source_id": "footwearnews",
-     "retrieved_at": "2026-11-25T16:07:09+00:00"
+     "retrieved_at": "2026-11-25T16:07:09+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     },
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T16:07:09+00:00"
+     "retrieved_at": "2026-11-25T16:07:09+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "f8cc89008c704556",
@@ -713,9 +910,14 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T16:07:09+00:00"
+     "retrieved_at": "2026-11-25T16:07:09+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "f2373ce9e59e3edd",
@@ -730,9 +932,14 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T16:07:09+00:00"
+     "retrieved_at": "2026-11-25T16:07:09+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "268bcfa3f1b29809",
@@ -747,9 +954,14 @@
    "sightings": [
     {
      "source_id": "hypebeast",
-     "retrieved_at": "2026-11-25T16:07:09+00:00"
+     "retrieved_at": "2026-11-25T16:07:09+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "b99a54afc5797516",
@@ -764,13 +976,20 @@
    "sightings": [
     {
      "source_id": "footwearnews",
-     "retrieved_at": "2026-11-25T16:07:09+00:00"
+     "retrieved_at": "2026-11-25T16:07:09+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     },
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T16:07:09+00:00"
+     "retrieved_at": "2026-11-25T16:07:09+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "2d974e3c60b1c670",
@@ -785,9 +1004,14 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T16:07:09+00:00"
+     "retrieved_at": "2026-11-25T16:07:09+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "443a33e4a7a824d1",
@@ -807,14 +1031,19 @@
    "sightings": [
     {
      "source_id": "github_tryon",
-     "retrieved_at": "2026-11-25T15:07:16+00:00"
+     "retrieved_at": "2026-11-25T15:07:16+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
    ],
    "meta": {
     "stars": 0,
     "language": "HTML",
     "topics": []
-   }
+   },
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": ""
   },
   {
    "id": "9c6dc9b65d157ee2",
@@ -829,13 +1058,20 @@
    "sightings": [
     {
      "source_id": "footwearnews",
-     "retrieved_at": "2026-11-25T15:07:16+00:00"
+     "retrieved_at": "2026-11-25T15:07:16+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     },
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T15:07:16+00:00"
+     "retrieved_at": "2026-11-25T15:07:16+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "f44ec7b20a26f75e",
@@ -850,9 +1086,14 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T15:07:16+00:00"
+     "retrieved_at": "2026-11-25T15:07:16+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "3d828512b5ab6b47",
@@ -867,9 +1108,14 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T15:07:16+00:00"
+     "retrieved_at": "2026-11-25T15:07:16+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "c91cf5f253e5605b",
@@ -884,9 +1130,14 @@
    "sightings": [
     {
      "source_id": "retaildive",
-     "retrieved_at": "2026-11-25T15:07:16+00:00"
+     "retrieved_at": "2026-11-25T15:07:16+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "56dd93d7905b4e73",
@@ -901,9 +1152,14 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T14:53:36+00:00"
+     "retrieved_at": "2026-11-25T14:53:36+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "69e8af00b81f7c18",
@@ -918,9 +1174,14 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "3e91b374a487c2e8",
@@ -935,9 +1196,14 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "a2b64b55385ff527",
@@ -952,9 +1218,14 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "6db9d3f61e1fe5bd",
@@ -969,9 +1240,14 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "a3ee7697cf874020",
@@ -986,9 +1262,14 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "3a29539e5e9340f5",
@@ -1003,9 +1284,14 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "66a577e6da60870b",
@@ -1025,14 +1311,19 @@
    "sightings": [
     {
      "source_id": "github_tryon",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
    ],
    "meta": {
     "stars": 0,
     "language": "Kotlin",
     "topics": []
-   }
+   },
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": ""
   },
   {
    "id": "a5fd08a1ebf9eaf2",
@@ -1052,14 +1343,19 @@
    "sightings": [
     {
      "source_id": "github_video",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
    ],
    "meta": {
     "stars": 8,
     "language": null,
     "topics": []
-   }
+   },
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": ""
   },
   {
    "id": "48fa7d4f06c54a0c",
@@ -1079,9 +1375,14 @@
    "sightings": [
     {
      "source_id": "hypebeast",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "dcaf43ee5572c866",
@@ -1096,9 +1397,14 @@
    "sightings": [
     {
      "source_id": "hypebeast",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "ee38607a93035865",
@@ -1113,9 +1419,14 @@
    "sightings": [
     {
      "source_id": "hypebeast",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "f264d62f3aebbdb6",
@@ -1130,9 +1441,14 @@
    "sightings": [
     {
      "source_id": "hypebeast",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "06e23f92b2ee02f0",
@@ -1147,9 +1463,14 @@
    "sightings": [
     {
      "source_id": "hypebeast",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "0fe7a42a6c86be29",
@@ -1169,9 +1490,14 @@
    "sightings": [
     {
      "source_id": "hypebeast",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "0bff124b164d3897",
@@ -1186,9 +1512,14 @@
    "sightings": [
     {
      "source_id": "hypebeast",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "571d580d775482d0",
@@ -1203,9 +1534,14 @@
    "sightings": [
     {
      "source_id": "hypebeast",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "ae8888e6fd7a7e0d",
@@ -1225,9 +1561,14 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "6117947a9efbac6e",
@@ -1247,9 +1588,14 @@
    "sightings": [
     {
      "source_id": "hypebeast",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "31a5dfe72045ac5d",
@@ -1264,9 +1610,14 @@
    "sightings": [
     {
      "source_id": "hypebeast",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "621c087e8bc8da2a",
@@ -1286,9 +1637,14 @@
    "sightings": [
     {
      "source_id": "hypebeast",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "3f96d9f4b869b574",
@@ -1308,9 +1664,14 @@
    "sightings": [
     {
      "source_id": "hypebeast",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "5e5836c1c90f2125",
@@ -1325,9 +1686,14 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "0c67da97d32396be",
@@ -1342,9 +1708,14 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "512edb31305f1ea8",
@@ -1364,9 +1735,14 @@
    "sightings": [
     {
      "source_id": "hypebeast",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "0117a3ab0e206615",
@@ -1381,9 +1757,14 @@
    "sightings": [
     {
      "source_id": "hypebeast",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "92e7814f4a40ab4d",
@@ -1403,9 +1784,14 @@
    "sightings": [
     {
      "source_id": "hypebeast",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "ea67cbb3025bd5c3",
@@ -1429,9 +1815,14 @@
    "sightings": [
     {
      "source_id": "hypebeast",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "eb6ea8695b27f80b",
@@ -1455,9 +1846,14 @@
    "sightings": [
     {
      "source_id": "hypebeast",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "68b28d8deb79fd2c",
@@ -1477,14 +1873,19 @@
    "sightings": [
     {
      "source_id": "github_tryon",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
    ],
    "meta": {
     "stars": 0,
     "language": "Jupyter Notebook",
     "topics": []
-   }
+   },
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": ""
   },
   {
    "id": "2a8336e855375d1b",
@@ -1504,9 +1905,14 @@
    "sightings": [
     {
      "source_id": "wwd",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "f9bf3c95fce59d35",
@@ -1521,9 +1927,14 @@
    "sightings": [
     {
      "source_id": "glossy",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "210f8a7b0166f0c9",
@@ -1538,9 +1949,14 @@
    "sightings": [
     {
      "source_id": "glossy",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "ffcced5be3bcedbf",
@@ -1555,9 +1971,14 @@
    "sightings": [
     {
      "source_id": "hypebeast",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "d4ba79f7a74d7640",
@@ -1572,9 +1993,14 @@
    "sightings": [
     {
      "source_id": "footwearnews",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "aa2d989565cb16af",
@@ -1589,9 +2015,14 @@
    "sightings": [
     {
      "source_id": "hypebeast",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "53ef574eca98b5bc",
@@ -1611,9 +2042,14 @@
    "sightings": [
     {
      "source_id": "footwearnews",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "05be9a89db972332",
@@ -1633,9 +2069,14 @@
    "sightings": [
     {
      "source_id": "footwearnews",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "cf06c65301733ee2",
@@ -1655,14 +2096,19 @@
    "sightings": [
     {
      "source_id": "github_tryon",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
    ],
    "meta": {
     "stars": 0,
     "language": "TypeScript",
     "topics": []
-   }
+   },
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": ""
   },
   {
    "id": "880eb45840bd729e",
@@ -1677,9 +2123,14 @@
    "sightings": [
     {
      "source_id": "hypebeast",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "9db19e87169e08a8",
@@ -1694,9 +2145,14 @@
    "sightings": [
     {
      "source_id": "footwearnews",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "2c1034305e2a4644",
@@ -1711,9 +2167,14 @@
    "sightings": [
     {
      "source_id": "footwearnews",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "07da2a0623f01d7b",
@@ -1737,7 +2198,9 @@
    "sightings": [
     {
      "source_id": "arxiv_video",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
    ],
    "meta": {
@@ -1746,7 +2209,10 @@
      "Naomi Ken Korem",
      "Matan Ben-Yosef"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API",
+   "search_engine": ""
   },
   {
    "id": "d09e3e2cf933000c",
@@ -1766,7 +2232,9 @@
    "sightings": [
     {
      "source_id": "arxiv_video",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
    ],
    "meta": {
@@ -1775,7 +2243,10 @@
      "Max Sobol Mark",
      "Sreyas Venkataraman"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API",
+   "search_engine": ""
   },
   {
    "id": "e3c05c1edaecc5dc",
@@ -1790,9 +2261,14 @@
    "sightings": [
     {
      "source_id": "footwearnews",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "d320f66f18c49542",
@@ -1812,9 +2288,14 @@
    "sightings": [
     {
      "source_id": "retaildive",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "6f7d03d3a678a4ca",
@@ -1829,9 +2310,14 @@
    "sightings": [
     {
      "source_id": "footwearnews",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "aca25015514c40c1",
@@ -1851,9 +2337,14 @@
    "sightings": [
     {
      "source_id": "footwearnews",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "a12018d483407efc",
@@ -1868,9 +2359,14 @@
    "sightings": [
     {
      "source_id": "footwearnews",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "5ea55f476477f612",
@@ -1890,9 +2386,14 @@
    "sightings": [
     {
      "source_id": "retaildive",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "f254949687da81ac",
@@ -1907,9 +2408,14 @@
    "sightings": [
     {
      "source_id": "footwearnews",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "f7731e1004c08375",
@@ -1933,7 +2439,9 @@
    "sightings": [
     {
      "source_id": "arxiv_video",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
    ],
    "meta": {
@@ -1942,7 +2450,10 @@
      "Ziyi Zhao",
      "Bhagyashree Puranik"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API",
+   "search_engine": ""
   },
   {
    "id": "60762c5815d3c653",
@@ -1966,7 +2477,9 @@
    "sightings": [
     {
      "source_id": "arxiv_video",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
    ],
    "meta": {
@@ -1975,7 +2488,10 @@
      "Kyeong-Hwan Moon",
      "Youjin Jeon"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API",
+   "search_engine": ""
   },
   {
    "id": "b51aaaad2e3c5428",
@@ -1995,9 +2511,14 @@
    "sightings": [
     {
      "source_id": "retaildive",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "2ea14ffa113855ab",
@@ -2021,7 +2542,9 @@
    "sightings": [
     {
      "source_id": "arxiv_video",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
    ],
    "meta": {
@@ -2030,7 +2553,10 @@
      "Weilun Feng",
      "Chuanguang Yang"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API",
+   "search_engine": ""
   },
   {
    "id": "d2c5b971278497d9",
@@ -2050,14 +2576,19 @@
    "sightings": [
     {
      "source_id": "github_tryon",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
    ],
    "meta": {
     "stars": 0,
     "language": "JavaScript",
     "topics": []
-   }
+   },
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": ""
   },
   {
    "id": "20064fd4ac0e47fe",
@@ -2081,7 +2612,9 @@
    "sightings": [
     {
      "source_id": "arxiv_video",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
    ],
    "meta": {
@@ -2090,7 +2623,10 @@
      "Xiaoyu Liu",
      "Wenxi Liu"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API",
+   "search_engine": ""
   },
   {
    "id": "970c009c213d1706",
@@ -2105,9 +2641,14 @@
    "sightings": [
     {
      "source_id": "retaildive",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "0bd464b9a9c02af0",
@@ -2127,7 +2668,9 @@
    "sightings": [
     {
      "source_id": "arxiv_video",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
    ],
    "meta": {
@@ -2136,7 +2679,10 @@
      "Ali Mahdavi Amiri",
      "Daniel Cohen-Or"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API",
+   "search_engine": ""
   },
   {
    "id": "3a9707e3a2ecbe74",
@@ -2156,7 +2702,9 @@
    "sightings": [
     {
      "source_id": "arxiv_video",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
    ],
    "meta": {
@@ -2165,7 +2713,10 @@
      "Qiyang Hu",
      "Luca Scharr"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API",
+   "search_engine": ""
   },
   {
    "id": "3372428784c2f180",
@@ -2193,7 +2744,9 @@
    "sightings": [
     {
      "source_id": "arxiv_video",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
    ],
    "meta": {
@@ -2202,7 +2755,10 @@
      "Xiang Tang",
      "Ruotong Li"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API",
+   "search_engine": ""
   },
   {
    "id": "cc6b57ba56935596",
@@ -2222,7 +2778,9 @@
    "sightings": [
     {
      "source_id": "arxiv_video",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
    ],
    "meta": {
@@ -2231,7 +2789,10 @@
      "Jiachen Ni",
      "Yichen Guo"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API",
+   "search_engine": ""
   },
   {
    "id": "8c4afdc82fa1436f",
@@ -2255,7 +2816,9 @@
    "sightings": [
     {
      "source_id": "arxiv_video",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
    ],
    "meta": {
@@ -2264,7 +2827,10 @@
      "Ziyang Xu",
      "Chenhan Jin"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API",
+   "search_engine": ""
   },
   {
    "id": "b190fa474af525b6",
@@ -2288,7 +2854,9 @@
    "sightings": [
     {
      "source_id": "arxiv_video",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
    ],
    "meta": {
@@ -2297,7 +2865,10 @@
      "Harrison Zhang",
      "Fanrong Li"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API",
+   "search_engine": ""
   },
   {
    "id": "7807edc5be88a991",
@@ -2317,14 +2888,19 @@
    "sightings": [
     {
      "source_id": "github_tryon",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
    ],
    "meta": {
     "stars": 0,
     "language": null,
     "topics": []
-   }
+   },
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": ""
   },
   {
    "id": "378f2647e48e5cfc",
@@ -2344,14 +2920,19 @@
    "sightings": [
     {
      "source_id": "github_video",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
    ],
    "meta": {
     "stars": 10,
     "language": "Python",
     "topics": []
-   }
+   },
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": ""
   },
   {
    "id": "4206a13f263b2dd7",
@@ -2379,7 +2960,9 @@
    "sightings": [
     {
      "source_id": "arxiv_video",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
    ],
    "meta": {
@@ -2388,7 +2971,10 @@
      "Qichao Wang",
      "Wenzhe Qian"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API",
+   "search_engine": ""
   },
   {
    "id": "ef717d3d22d4db8b",
@@ -2412,9 +2998,14 @@
    "sightings": [
     {
      "source_id": "glossy",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "eb4d3e1bc7b57b88",
@@ -2438,9 +3029,14 @@
    "sightings": [
     {
      "source_id": "glossy",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "c18e0f68c3e8d03a",
@@ -2464,7 +3060,9 @@
    "sightings": [
     {
      "source_id": "arxiv_video",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
    ],
    "meta": {
@@ -2473,7 +3071,10 @@
      "Ruichuan An",
      "Zhen Fang"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API",
+   "search_engine": ""
   },
   {
    "id": "dee09ebf5cf5f198",
@@ -2493,14 +3094,19 @@
    "sightings": [
     {
      "source_id": "github_tryon",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
    ],
    "meta": {
     "stars": 0,
     "language": null,
     "topics": []
-   }
+   },
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": ""
   },
   {
    "id": "4542f872e55fa3d1",
@@ -2520,7 +3126,9 @@
    "sightings": [
     {
      "source_id": "arxiv_video",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
    ],
    "meta": {
@@ -2529,7 +3137,10 @@
      "Baijun Ye",
      "Shicheng Cao"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API",
+   "search_engine": ""
   },
   {
    "id": "1b746b8d58c36ea8",
@@ -2549,14 +3160,19 @@
    "sightings": [
     {
      "source_id": "github_video",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
    ],
    "meta": {
     "stars": 85,
     "language": "PHP",
     "topics": []
-   }
+   },
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": ""
   },
   {
    "id": "fcabaed39e5331ad",
@@ -2576,9 +3192,14 @@
    "sightings": [
     {
      "source_id": "retaildive",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "c8fc026388ada8da",
@@ -2602,9 +3223,14 @@
    "sightings": [
     {
      "source_id": "glossy",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "898b2410426d4d7e",
@@ -2619,9 +3245,14 @@
    "sightings": [
     {
      "source_id": "retaildive",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "13732ad642aa3e85",
@@ -2636,9 +3267,14 @@
    "sightings": [
     {
      "source_id": "retaildive",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "a0fdf65ec7ac3b1f",
@@ -2658,14 +3294,19 @@
    "sightings": [
     {
      "source_id": "github_video",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
    ],
    "meta": {
     "stars": 10,
     "language": "C++",
     "topics": []
-   }
+   },
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": ""
   },
   {
    "id": "9407cb46ac5f9aac",
@@ -2685,9 +3326,14 @@
    "sightings": [
     {
      "source_id": "retaildive",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "b3866ee9586c46b3",
@@ -2707,9 +3353,14 @@
    "sightings": [
     {
      "source_id": "retaildive",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "bc98fef70a8e20b8",
@@ -2729,9 +3380,14 @@
    "sightings": [
     {
      "source_id": "retaildive",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "522818f33ab48ff3",
@@ -2751,7 +3407,9 @@
    "sightings": [
     {
      "source_id": "arxiv_tryon",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
    ],
    "meta": {
@@ -2760,7 +3418,10 @@
      "Peter Wonka",
      "Stefanos Zafeiriou"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API",
+   "search_engine": ""
   },
   {
    "id": "475b267b20b1a9a4",
@@ -2788,7 +3449,9 @@
    "sightings": [
     {
      "source_id": "arxiv_tryon",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
    ],
    "meta": {
@@ -2796,7 +3459,10 @@
      "Jigyansha Jeevan Rout",
      "Sukanta Kumar Sabut"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API",
+   "search_engine": ""
   },
   {
    "id": "d158ab0f4db7d56e",
@@ -2816,7 +3482,9 @@
    "sightings": [
     {
      "source_id": "arxiv_tryon",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
    ],
    "meta": {
@@ -2825,7 +3493,10 @@
      "Fabian M Suchanek",
      "Nils Holzenberger"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API",
+   "search_engine": ""
   },
   {
    "id": "cc2f643dfde418fb",
@@ -2845,7 +3516,9 @@
    "sightings": [
     {
      "source_id": "arxiv_tryon",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
    ],
    "meta": {
@@ -2854,7 +3527,10 @@
      "Tianxi Chen",
      "Runqi Lin"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API",
+   "search_engine": ""
   },
   {
    "id": "d886ce510017af7f",
@@ -2869,9 +3545,14 @@
    "sightings": [
     {
      "source_id": "glossy",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "3334e477eccf6593",
@@ -2886,9 +3567,14 @@
    "sightings": [
     {
      "source_id": "glossy",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "714accc0d94907a1",
@@ -2908,14 +3594,19 @@
    "sightings": [
     {
      "source_id": "github_tryon",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
    ],
    "meta": {
     "stars": 1,
     "language": "TypeScript",
     "topics": []
-   }
+   },
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": ""
   },
   {
    "id": "d478c70490c77cea",
@@ -2935,14 +3626,19 @@
    "sightings": [
     {
      "source_id": "github_tryon",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
    ],
    "meta": {
     "stars": 0,
     "language": "TypeScript",
     "topics": []
-   }
+   },
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": ""
   },
   {
    "id": "b73a0b7a8dcde05e",
@@ -2962,14 +3658,19 @@
    "sightings": [
     {
      "source_id": "github_tryon",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
    ],
    "meta": {
     "stars": 1,
     "language": "JavaScript",
     "topics": []
-   }
+   },
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": ""
   },
   {
    "id": "f29755b8a63f8cc1",
@@ -2989,14 +3690,19 @@
    "sightings": [
     {
      "source_id": "github_video",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
    ],
    "meta": {
     "stars": 5,
     "language": "Rust",
     "topics": []
-   }
+   },
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": ""
   },
   {
    "id": "bc771156898878ef",
@@ -3016,14 +3722,19 @@
    "sightings": [
     {
      "source_id": "github_video",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
    ],
    "meta": {
     "stars": 229,
     "language": null,
     "topics": []
-   }
+   },
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": ""
   },
   {
    "id": "cd86d54262745742",
@@ -3043,7 +3754,9 @@
    "sightings": [
     {
      "source_id": "github_video",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
    ],
    "meta": {
@@ -3053,7 +3766,10 @@
      "3d-reconstruction",
      "video-generation"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": ""
   },
   {
    "id": "d02aca33ca85a2b3",
@@ -3077,9 +3793,14 @@
    "sightings": [
     {
      "source_id": "glossy",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "9ab6f81845efd0b2",
@@ -3094,9 +3815,14 @@
    "sightings": [
     {
      "source_id": "glossy",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "0d88c3cedd943668",
@@ -3116,9 +3842,14 @@
    "sightings": [
     {
      "source_id": "glossy",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "d1ee193e3e3c8647",
@@ -3138,9 +3869,14 @@
    "sightings": [
     {
      "source_id": "glossy",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "ef4deb1b05b03c54",
@@ -3160,14 +3896,19 @@
    "sightings": [
     {
      "source_id": "github_tryon",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
    ],
    "meta": {
     "stars": 0,
     "language": "HTML",
     "topics": []
-   }
+   },
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": ""
   },
   {
    "id": "bf0ef38dbf8ec4ea",
@@ -3187,7 +3928,9 @@
    "sightings": [
     {
      "source_id": "arxiv_tryon",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
    ],
    "meta": {
@@ -3196,7 +3939,10 @@
      "Armin Mustafa",
      "Adrian Hilton"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API",
+   "search_engine": ""
   },
   {
    "id": "528aee355897811f",
@@ -3216,7 +3962,9 @@
    "sightings": [
     {
      "source_id": "github_video",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
    ],
    "meta": {
@@ -3229,7 +3977,10 @@
      "minimax-h3",
      "model-compression"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": ""
   },
   {
    "id": "895fce968617d0e9",
@@ -3249,14 +4000,19 @@
    "sightings": [
     {
      "source_id": "github_video",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
    ],
    "meta": {
     "stars": 11,
     "language": "Python",
     "topics": []
-   }
+   },
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": ""
   },
   {
    "id": "e38a824d3c69cd45",
@@ -3276,7 +4032,9 @@
    "sightings": [
     {
      "source_id": "github_video",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
    ],
    "meta": {
@@ -3289,7 +4047,10 @@
      "intel",
      "linux"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": ""
   },
   {
    "id": "f69a6d1e404cb103",
@@ -3313,9 +4074,14 @@
    "sightings": [
     {
      "source_id": "glossy",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "84ef6fe36f3b6889",
@@ -3335,9 +4101,14 @@
    "sightings": [
     {
      "source_id": "glossy",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "fd712c97d985c97b",
@@ -3357,9 +4128,14 @@
    "sightings": [
     {
      "source_id": "glossy",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "3b26384e7cdc8e51",
@@ -3374,9 +4150,14 @@
    "sightings": [
     {
      "source_id": "glossy",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "ecfd3760b74ba882",
@@ -3396,7 +4177,9 @@
    "sightings": [
     {
      "source_id": "arxiv_tryon",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
    ],
    "meta": {
@@ -3405,7 +4188,10 @@
      "Anuj Shrestha",
      "Ankit Belbase"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API",
+   "search_engine": ""
   },
   {
    "id": "72ae222eacc8f596",
@@ -3425,9 +4211,14 @@
    "sightings": [
     {
      "source_id": "glossy",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "2fa9c79692b564c8",
@@ -3451,9 +4242,14 @@
    "sightings": [
     {
      "source_id": "glossy",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "c9ae866a835da31f",
@@ -3468,9 +4264,14 @@
    "sightings": [
     {
      "source_id": "glossy",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "25ecb5958d4f00f0",
@@ -3490,9 +4291,14 @@
    "sightings": [
     {
      "source_id": "glossy",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "1c18016f137ad11a",
@@ -3512,9 +4318,14 @@
    "sightings": [
     {
      "source_id": "glossy",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
-   ]
+   ],
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": ""
   },
   {
    "id": "7c8b7971c507aa72",
@@ -3538,7 +4349,9 @@
    "sightings": [
     {
      "source_id": "arxiv_tryon",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
    ],
    "meta": {
@@ -3547,7 +4360,10 @@
      "Suhyeok Jang",
      "Minyoung Kim"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API",
+   "search_engine": ""
   },
   {
    "id": "543f2f9b8dc59031",
@@ -3571,7 +4387,9 @@
    "sightings": [
     {
      "source_id": "arxiv_tryon",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
    ],
    "meta": {
@@ -3580,7 +4398,10 @@
      "Quyen Nguyen Duc",
      "Son Hoang Minh"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API",
+   "search_engine": ""
   },
   {
    "id": "da2389814842e644",
@@ -3600,7 +4421,9 @@
    "sightings": [
     {
      "source_id": "arxiv_tryon",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
    ],
    "meta": {
@@ -3609,7 +4432,10 @@
      "Lifan Jiang",
      "Senlin cheng"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API",
+   "search_engine": ""
   },
   {
    "id": "c094003902c223d3",
@@ -3629,7 +4455,9 @@
    "sightings": [
     {
      "source_id": "arxiv_tryon",
-     "retrieved_at": "2026-11-25T14:30:26+00:00"
+     "retrieved_at": "2026-11-25T14:30:26+00:00",
+     "collector": "us-west-3",
+     "engine": ""
     }
    ],
    "meta": {
@@ -3638,7 +4466,10 @@
      "Bo Peng",
      "Jun Xiang"
     ]
-   }
+   },
+   "collector": "us-west-3",
+   "via": "arXiv API",
+   "search_engine": ""
   }
  ],
  "sources": [
@@ -3753,5 +4584,6 @@
   "title_duplicates": 0
  },
  "updated_at": "2026-11-25T23:07:18+00:00",
- "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
+ "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md.",
+ "collector": "us-west-3"
 }

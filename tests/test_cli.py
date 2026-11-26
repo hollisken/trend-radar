@@ -105,6 +105,13 @@ class CliFlowTest(unittest.TestCase):
         self.assertIn(DATE, html_text)
         self.assertIn("Trend Radar", html_text)
         self.assertIn('rel="noopener nofollow"', html_text)
+        self.assertIn('href="topic/fashion.html"', html_text)
+        self.assertIn("· RSS · local", html_text)
+        topic_page = self.site_path.parent / "topic" / "fashion.html"
+        self.assertTrue(topic_page.exists())
+        topic_text = topic_page.read_text(encoding="utf-8")
+        self.assertIn("Fashion / 时装", topic_text)
+        self.assertIn("Example", topic_text)
 
     def test_collect_reports_failed_source(self):
         broken = {"sources": {**CONFIG["sources"],

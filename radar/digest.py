@@ -35,12 +35,30 @@ def _highlights(items: list[dict], per_topic: int = 2, limit: int = 8) -> list[t
     return picked[:limit]
 
 
+def provenance(item: dict) -> str:
+    """Where an item came from: publisher, delivery path, search engine, collecting node."""
+    parts = [item.get("publisher") or ""]
+    via = item.get("via") or ""
+    engine = item.get("search_engine") or ""
+    if via:
+        parts.append(f"{via}/{engine}" if engine else via)
+    collector = item.get("collector") or ""
+    if collector:
+        parts.append(collector)
+    return " · ".join(part for part in parts if part)
+
+
 def _bullet(entry: tuple[str, dict], language: str) -> str:
     topic, item = entry
     label = (TOPIC_ZH if language == "zh" else TOPIC_EN).get(topic, topic)
-    publisher = item.get("publisher") or item.get("kind", "")
-    suffix = f" ({publisher})" if publisher else ""
-    return f"- **{label}** — [{item['title']}]({item['url']}){suffix}"
+    title_zh = (item.get("title_zh") or "").strip()
+    if language == "zh" and title_zh:
+        title = f"[{title_zh}]({item['url']})（原文：{item['title']}）"
+    else:
+        title = f"[{item['title']}]({item['url']})"
+    source = provenance(item)
+    suffix = f" ({source})" if source else ""
+    return f"- **{label}** — {title}{suffix}"
 
 
 def build_digest(date: str, current: dict, previous: dict | None = None) -> str:

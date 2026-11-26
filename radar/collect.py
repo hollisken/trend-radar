@@ -25,7 +25,11 @@ def _request(source: dict, today: dt.date) -> tuple[str, str]:
     return github.build_url(query, source["max_items"]), "application/vnd.github+json"
 
 
-def build_item(raw: dict, topics: dict | None, retrieved_at: str) -> dict | None:
+VIA = {"rss": "RSS", "arxiv": "arXiv API", "github": "GitHub API", "searx": "SearXNG"}
+
+
+def build_item(raw: dict, topics: dict | None, retrieved_at: str,
+               collector: str = "local") -> dict | None:
     url = normalize.canonical_url(raw.get("url", ""))
     title = normalize.clean_text(raw.get("title", ""), 200)
     if not url or "//" not in url or not title:
@@ -41,7 +45,11 @@ def build_item(raw: dict, topics: dict | None, retrieved_at: str) -> dict | None
         "summary": normalize.clean_text(raw.get("summary", "")),
         "topics": classify.classify(title, raw.get("summary", ""), topics, kind),
         "retrieved_at": retrieved_at,
-        "sightings": [{"source_id": raw["source_id"], "retrieved_at": retrieved_at}],
+        "collector": collector,
+        "via": VIA.get(raw.get("source_kind", "rss"), raw.get("source_kind", "")),
+        "search_engine": raw.get("engine", ""),
+        "sightings": [{"source_id": raw["source_id"], "collector": collector,
+                       "engine": raw.get("engine", ""), "retrieved_at": retrieved_at}],
     }
     if raw.get("meta"):
         item["meta"] = raw["meta"]
@@ -64,9 +72,10 @@ def summarize(items: list[dict]) -> dict:
 
 
 def collect(config: dict, date: str, run_at: str, only: set[str] | None = None,
-            fetcher=None) -> dict:
+            fetcher=None, collector: str | None = None) -> dict:
     """Walk the sources once and return a run artifact ready to merge."""
     fetcher = fetcher or fetch.get
+    collector = collector or config.get("settings", {}).get("collector") or "local"
     today = dt.date.fromisoformat(date)
     topics = config.get("topics") or None
     sources_report: list[dict] = []
@@ -86,7 +95,8 @@ def collect(config: dict, date: str, run_at: str, only: set[str] | None = None,
             else:
                 raw_items = PARSERS[source["kind"]](result.body, source)[:source["max_items"]]
                 for raw in raw_items:
-                    item = build_item(raw, topics, run_at)
+                    raw["source_kind"] = source["kind"]
+                    item = build_item(raw, topics, run_at, collector)
                     if item is None:
                         continue
                     seen_urls[item["url"]] += 1
@@ -104,6 +114,7 @@ def collect(config: dict, date: str, run_at: str, only: set[str] | None = None,
         "schema_version": SCHEMA_VERSION,
         "run_at": run_at,
         "date": date,
+        "collector": collector,
         "sources": sources_report,
         "items": items,
         "stats": stats,

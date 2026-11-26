@@ -6,7 +6,7 @@ import json
 import re
 from pathlib import Path
 
-from .digest import TOPIC_EN, TOPIC_ZH, _highlights
+from .digest import TOPIC_EN, TOPIC_ZH, _highlights, provenance
 
 STYLE = """
 body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;max-width:52rem;margin:2rem auto;
@@ -41,8 +41,10 @@ def build(data_dir: Path, days: int = 7) -> str:
     for payload in rows:
         date = html.escape(payload.get("date", ""))
         stats = payload.get("stats", {})
-        topics = ", ".join(f"{TOPIC_EN.get(name, name)} / {TOPIC_ZH.get(name, name)} {count}"
-                           for name, count in list(stats.get("by_topic", {}).items())[:4])
+        topics = " · ".join(
+            f'<a href="topic/{name}.html">{TOPIC_EN.get(name, name)} / '
+            f'{TOPIC_ZH.get(name, name)} {count}</a>'
+            for name, count in stats.get("by_topic", {}).items())
         parts.append(f"<h2>{date}</h2>")
         parts.append(f'<p class="meta">{stats.get("items", 0)} items · {topics or "no topics"}</p>')
         highlights = _highlights(payload.get("items", []), per_topic=1, limit=5)
@@ -52,9 +54,9 @@ def build(data_dir: Path, days: int = 7) -> str:
                 label = html.escape(TOPIC_EN.get(topic, topic))
                 title = html.escape(item.get("title", ""))
                 url = html.escape(item.get("url", ""))
-                publisher = html.escape(item.get("publisher", ""))
+                source = html.escape(provenance(item))
                 parts.append(f'<li><strong>{label}</strong> — <a href="{url}" rel="noopener nofollow" '
-                             f'target="_blank">{title}</a> <span class="meta">· {publisher}</span></li>')
+                             f'target="_blank">{title}</a> <span class="meta">· {source}</span></li>')
             parts.append("</ul>")
         parts.append(f'<p class="meta"><a href="digest/{date}.html">Digest · 日报</a></p>')
     parts.append("</body></html>")
@@ -121,3 +123,42 @@ def build_digest_pages(digest_dir: Path, site_dir: Path) -> int:
         (target / f"{path.stem}.html").write_text(page, encoding="utf-8")
         count += 1
     return count
+
+
+def build_topic_pages(data_dir: Path, days: int, site_dir: Path) -> int:
+    """One page per topic: every item grouped by the source that delivered it."""
+    grouped: dict[str, dict[str, list[dict]]] = {}
+    for payload in _load(data_dir, days):
+        for item in payload.get("items", []):
+            topics = item.get("topics", [])[:1]
+            if not topics:
+                continue
+            publisher = item.get("publisher") or item.get("kind", "unknown")
+            bucket = grouped.setdefault(topics[0]["name"], {})
+            bucket.setdefault(publisher, []).append(item)
+    target = site_dir / "topic"
+    target.mkdir(parents=True, exist_ok=True)
+    for name, sources in grouped.items():
+        total = sum(len(rows) for rows in sources.values())
+        parts = ["<!doctype html>\n<html lang=\"en\"><head><meta charset=\"utf-8\">"
+                 "<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\">",
+                 f"<title>{TOPIC_EN.get(name, name)} · Trend Radar</title><style>{STYLE}</style></head><body>",
+                 f"<h1>{TOPIC_EN.get(name, name)} / {TOPIC_ZH.get(name, name)}</h1>",
+                 f'<p class="meta">{total} items in the last {days} days from '
+                 f"{len(sources)} sources.</p>"]
+        for publisher, rows in sorted(sources.items(), key=lambda pair: (-len(pair[1]), pair[0])):
+            parts.append(f"<h2>{html.escape(publisher)} ({len(rows)})</h2><ul>")
+            for item in rows:
+                title = html.escape(item.get("title", ""))
+                title_zh = (item.get("title_zh") or "").strip()
+                if title_zh:
+                    title = f"{html.escape(title_zh)} <span class=\"meta\">({title})</span>"
+                url = html.escape(item.get("url", ""))
+                source = html.escape(provenance(item))
+                day = html.escape((item.get("published_at") or "")[:10])
+                parts.append(f'<li><a href="{url}" rel="noopener nofollow" target="_blank">{title}</a> '
+                             f'<span class="meta">· {day} · {source}</span></li>')
+            parts.append("</ul>")
+        parts.append('<p class="meta"><a href="../index.html">← Trend Radar</a></p></body></html>')
+        (target / f"{name}.html").write_text("\n".join(parts) + "\n", encoding="utf-8")
+    return len(grouped)

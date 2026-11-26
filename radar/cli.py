@@ -136,7 +136,9 @@ def cmd_site(args) -> int:
     out = Path(args.out)
     _write(out, html_text)
     pages = site_mod.build_digest_pages(Path(args.digest_dir), out.parent)
-    print(json.dumps({"site": str(out), "digest_pages": pages}, ensure_ascii=False))
+    topics = site_mod.build_topic_pages(Path(args.data_dir), args.days, out.parent)
+    print(json.dumps({"site": str(out), "digest_pages": pages, "topic_pages": topics},
+                     ensure_ascii=False))
     return 0
 
 

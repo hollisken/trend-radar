@@ -36,6 +36,17 @@ class DigestTest(unittest.TestCase):
         self.assertIn("数据更新时间：2026-11-26 09:07 UTC", text)
         self.assertIn("Headline 0", text)
 
+    def test_bilingual_title_and_provenance(self):
+        current = sample()
+        current["items"][0].update({"title_zh": "中文标题", "via": "SearXNG",
+                                    "search_engine": "bing", "collector": "us-west-3"})
+        text = build_digest("2026-11-26", current)
+        english_part, _, chinese_part = text.partition("# 趋势雷达")
+        self.assertNotIn("（原文：", english_part)
+        self.assertIn("（原文：Headline 0）", chinese_part)
+        self.assertIn("· SearXNG/bing · us-west-3", english_part)
+        self.assertIn("[中文标题](https://example.com/0)", chinese_part)
+
     def test_deterministic(self):
         current = sample()
         self.assertEqual(build_digest("2026-11-26", current),
