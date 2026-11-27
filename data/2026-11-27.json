@@ -3,6 +3,85 @@
  "date": "2026-11-27",
  "items": [
   {
+   "id": "f6d215a473c3a524",
+   "title": "What It Takes for International Brands to Succeed in the US Market",
+   "url": "https://wwd.com/sourcing-journal/industry-news/informa-playbook-international-brands-us-market-1239419394",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-27T12:00:00+00:00",
+   "summary": "Fashion by Informa launched a new playbook designed for brands looking to enter the U.S. market.",
+   "topics": [],
+   "retrieved_at": "2026-11-27T12:07:07+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-27T12:07:07+00:00"
+    }
+   ]
+  },
+  {
+   "id": "6cb3afd880edb08f",
+   "title": "Eugenie Niarchos Spotlights Diamonds with Old-Fashioned Cuts, Lots of Character in New Collection",
+   "url": "https://wwd.com/accessories-news/jewelry/eugenie-niarchos-diamonds-character-old-style-cuts-venyx-1239467141",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-27T10:51:26+00:00",
+   "summary": "Niarchos, founder of the fine jewelry label Venyx, is set to unveil First Light, a diamond collection that explores how light is \"captured, transformed and revealed\" through a stone’s geometry.",
+   "topics": [
+    {
+     "name": "fashion",
+     "score": 1.0
+    }
+   ],
+   "retrieved_at": "2026-11-27T12:07:07+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-27T12:07:07+00:00"
+    }
+   ]
+  },
+  {
+   "id": "7b35074bbf1581a5",
+   "title": "Nvidia Freezes AI Server Shipments to Four Southeast Asian Countries Amid a US Crackdown on Remote Chip Access",
+   "url": "https://hypebeast.com/2026/11/nvidia-halts-ai-chip-shipments-to-four-nations",
+   "publisher": "Hypebeast",
+   "kind": "news",
+   "published_at": "2026-11-27T10:30:57+00:00",
+   "summary": "Summary Nvidia has ordered its manufacturing partners to halt shipments of servers equipped with advanced AI chips to four Southeast Asian nationsThe suspension aims to stop Chinese technology companies from circumventing U.S. export controls through remote data center accessThe…",
+   "topics": [
+    {
+     "name": "retail",
+     "score": 0.33
+    }
+   ],
+   "retrieved_at": "2026-11-27T12:07:07+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "hypebeast",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-27T12:07:07+00:00"
+    }
+   ]
+  },
+  {
    "id": "d8a48a3d7bd552cc",
    "title": "Palace Skateboard's Beijing Flagship Takes Its Cues From the Great Wall",
    "url": "https://hypebeast.com/2026/11/palace-skateboards-beijing-flagship-store-opening-info-announcement",
@@ -4099,9 +4178,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2473,
-   "runs": 11,
-   "items_run": 100
+   "elapsed_ms": 2426,
+   "runs": 12,
+   "items_run": 110
   },
   {
    "id": "arxiv_video",
@@ -4109,9 +4188,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 3450,
-   "runs": 11,
-   "items_run": 150
+   "elapsed_ms": 3457,
+   "runs": 12,
+   "items_run": 165
   },
   {
    "id": "footwearnews",
@@ -4119,9 +4198,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2171,
-   "runs": 11,
-   "items_run": 110
+   "elapsed_ms": 2164,
+   "runs": 12,
+   "items_run": 120
   },
   {
    "id": "github_tryon",
@@ -4129,9 +4208,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1468,
-   "runs": 11,
-   "items_run": 110
+   "elapsed_ms": 1619,
+   "runs": 12,
+   "items_run": 120
   },
   {
    "id": "github_video",
@@ -4139,9 +4218,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 6993,
-   "runs": 11,
-   "items_run": 110
+   "elapsed_ms": 6890,
+   "runs": 12,
+   "items_run": 120
   },
   {
    "id": "glossy",
@@ -4149,9 +4228,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1053,
-   "runs": 11,
-   "items_run": 220
+   "elapsed_ms": 1059,
+   "runs": 12,
+   "items_run": 240
   },
   {
    "id": "hypebeast",
@@ -4159,9 +4238,9 @@
    "status": "ok",
    "items": 19,
    "error": "",
-   "elapsed_ms": 1141,
-   "runs": 11,
-   "items_run": 209
+   "elapsed_ms": 1147,
+   "runs": 12,
+   "items_run": 228
   },
   {
    "id": "retaildive",
@@ -4169,9 +4248,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1056,
-   "runs": 11,
-   "items_run": 110
+   "elapsed_ms": 1102,
+   "runs": 12,
+   "items_run": 120
   },
   {
    "id": "wwd",
@@ -4179,30 +4258,30 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1049,
-   "runs": 11,
-   "items_run": 110
+   "elapsed_ms": 1044,
+   "runs": 12,
+   "items_run": 120
   }
  ],
  "stats": {
-  "items": 139,
+  "items": 142,
   "by_topic": {
    "tooling": 29,
-   "retail": 17,
-   "fashion": 14,
+   "retail": 18,
+   "fashion": 15,
    "ai-video": 12,
    "research": 12,
    "beauty": 8
   },
   "by_kind": {
-   "news": 88,
+   "news": 91,
    "paper": 25,
    "repo": 26
   },
   "rules_version": "1",
-  "duplicates_in_run": 106,
+  "duplicates_in_run": 110,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-27T10:07:18+00:00",
+ "updated_at": "2026-11-27T12:07:07+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
