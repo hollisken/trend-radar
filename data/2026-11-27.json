@@ -3,6 +3,89 @@
  "date": "2026-11-27",
  "items": [
   {
+   "id": "a6e38dac6a58bdf0",
+   "title": "Fashion Awards 2026: Yohji Yamamoto, Sandra Choi Among Honorees, Ncuti Gatwa to Host",
+   "url": "https://wwd.com/fashion-news/designer-luxury/fashion-awards-2026-yohji-yamamoto-sandra-choi-ncuti-gatwa-1239467155",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-27T05:01:00+00:00",
+   "summary": "Laura Weir says the fundraising night will celebrate fashion’s cultural influence while turning the industry’s support into investment for the next generation.",
+   "topics": [
+    {
+     "name": "fashion",
+     "score": 0.67
+    }
+   ],
+   "retrieved_at": "2026-11-27T05:07:17+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-27T05:07:17+00:00"
+    }
+   ]
+  },
+  {
+   "id": "1e8d2c8db836313d",
+   "title": "Luxury Briefing: Why luxury retailers keep going back on sale",
+   "url": "https://www.glossy.co/fashion/luxury/luxury-briefing-black-friday-luxury-sales",
+   "publisher": "Glossy",
+   "kind": "news",
+   "published_at": "2026-11-27T05:00:00+00:00",
+   "summary": "Black Friday now stretches across much of November. This week, Glossy looks at which luxury brands are discounting and what a longer sale season means for full-price sales. Plus, how Harvey Nichols’ five-day office mandate is landing with staff.",
+   "topics": [
+    {
+     "name": "retail",
+     "score": 1.0
+    },
+    {
+     "name": "fashion",
+     "score": 0.67
+    }
+   ],
+   "retrieved_at": "2026-11-27T05:07:17+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "glossy",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-27T05:07:17+00:00"
+    }
+   ]
+  },
+  {
+   "id": "12e2a40ea9cee24a",
+   "title": "Unpacking Spate’s 2026 Culture Report: Maximalism is here to stay",
+   "url": "https://www.glossy.co/pop/unpacking-spates-2026-culture-report-maximalism-is-here-to-stay",
+   "publisher": "Glossy",
+   "kind": "news",
+   "published_at": "2026-11-27T05:00:00+00:00",
+   "summary": "The data says fashion maximalism is here to stay.",
+   "topics": [],
+   "retrieved_at": "2026-11-27T05:07:17+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "glossy",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-27T05:07:17+00:00"
+    }
+   ]
+  },
+  {
    "id": "855335db81a5a44e",
    "title": "SdThakur/Try-On",
    "url": "https://github.com/SdThakur/Try-On",
@@ -3454,9 +3537,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2124,
-   "runs": 5,
-   "items_run": 50
+   "elapsed_ms": 2521,
+   "runs": 6,
+   "items_run": 60
   },
   {
    "id": "arxiv_video",
@@ -3464,9 +3547,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 3960,
-   "runs": 5,
-   "items_run": 75
+   "elapsed_ms": 3324,
+   "runs": 6,
+   "items_run": 90
   },
   {
    "id": "footwearnews",
@@ -3474,9 +3557,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2191,
-   "runs": 5,
-   "items_run": 50
+   "elapsed_ms": 2124,
+   "runs": 6,
+   "items_run": 60
   },
   {
    "id": "github_tryon",
@@ -3484,9 +3567,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1504,
-   "runs": 5,
-   "items_run": 50
+   "elapsed_ms": 1470,
+   "runs": 6,
+   "items_run": 60
   },
   {
    "id": "github_video",
@@ -3494,9 +3577,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 6887,
-   "runs": 5,
-   "items_run": 50
+   "elapsed_ms": 7017,
+   "runs": 6,
+   "items_run": 60
   },
   {
    "id": "glossy",
@@ -3504,9 +3587,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1066,
-   "runs": 5,
-   "items_run": 100
+   "elapsed_ms": 1058,
+   "runs": 6,
+   "items_run": 120
   },
   {
    "id": "hypebeast",
@@ -3514,9 +3597,9 @@
    "status": "ok",
    "items": 19,
    "error": "",
-   "elapsed_ms": 1141,
-   "runs": 5,
-   "items_run": 95
+   "elapsed_ms": 1159,
+   "runs": 6,
+   "items_run": 114
   },
   {
    "id": "retaildive",
@@ -3524,9 +3607,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1055,
-   "runs": 5,
-   "items_run": 50
+   "elapsed_ms": 1096,
+   "runs": 6,
+   "items_run": 60
   },
   {
    "id": "wwd",
@@ -3534,30 +3617,30 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1052,
-   "runs": 5,
-   "items_run": 50
+   "elapsed_ms": 2926,
+   "runs": 6,
+   "items_run": 60
   }
  ],
  "stats": {
-  "items": 115,
+  "items": 118,
   "by_topic": {
    "tooling": 25,
    "ai-video": 12,
    "research": 12,
-   "retail": 11,
-   "fashion": 10,
+   "retail": 12,
+   "fashion": 11,
    "beauty": 8
   },
   "by_kind": {
-   "news": 67,
+   "news": 70,
    "paper": 25,
    "repo": 23
   },
   "rules_version": "1",
-  "duplicates_in_run": 112,
+  "duplicates_in_run": 109,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-27T04:07:05+00:00",
+ "updated_at": "2026-11-27T05:07:17+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
