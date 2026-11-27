@@ -3,6 +3,87 @@
  "date": "2026-11-27",
  "items": [
   {
+   "id": "cbe2eed85e024da8",
+   "title": "The Best Nike Sneakers Releasing in December",
+   "url": "https://wwd.com/footwear-news/sneaker-news/nike-sneaker-release-date-calendar-december-2026-1239464370",
+   "publisher": "Footwear News",
+   "kind": "news",
+   "published_at": "2026-11-27T13:00:00+00:00",
+   "summary": "The list includes Jalen Brunson's Knicks-colored Nike Kobes and the Air Foamposite Pro \"Doom.\"",
+   "topics": [],
+   "retrieved_at": "2026-11-27T13:07:14+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "footwearnews",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-27T13:07:14+00:00"
+    },
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-27T13:07:14+00:00"
+    }
+   ]
+  },
+  {
+   "id": "6528d67e9f5e9656",
+   "title": "Talk to My Agent: More Fashion Firms Tap GenAI To Grow",
+   "url": "https://wwd.com/sourcing-journal/industry-news/talk-to-my-agent-inmobi-genai-centric-dxl-1239463408",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-27T13:00:00+00:00",
+   "summary": "From Destination XL Group's latest foray into Muse to InMobi's newest agentic offering, more fashion firms are tapping the power of generative AI.",
+   "topics": [
+    {
+     "name": "fashion",
+     "score": 0.67
+    }
+   ],
+   "retrieved_at": "2026-11-27T13:07:14+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-27T13:07:14+00:00"
+    }
+   ]
+  },
+  {
+   "id": "496803ab05901c38",
+   "title": "Americans Are Making Political Statements With Their Spending",
+   "url": "https://wwd.com/sourcing-journal/industry-news/americans-making-political-statements-with-their-spending-1239466388",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-27T13:00:00+00:00",
+   "summary": "Companies’ politics matter more than ever before, according to a new survey.",
+   "topics": [],
+   "retrieved_at": "2026-11-27T13:07:14+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-27T13:07:14+00:00"
+    }
+   ]
+  },
+  {
    "id": "f6d215a473c3a524",
    "title": "What It Takes for International Brands to Succeed in the US Market",
    "url": "https://wwd.com/sourcing-journal/industry-news/informa-playbook-international-brands-us-market-1239419394",
@@ -4178,9 +4259,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2426,
-   "runs": 12,
-   "items_run": 110
+   "elapsed_ms": 2496,
+   "runs": 13,
+   "items_run": 120
   },
   {
    "id": "arxiv_video",
@@ -4188,9 +4269,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 3457,
-   "runs": 12,
-   "items_run": 165
+   "elapsed_ms": 3404,
+   "runs": 13,
+   "items_run": 180
   },
   {
    "id": "footwearnews",
@@ -4198,9 +4279,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2164,
-   "runs": 12,
-   "items_run": 120
+   "elapsed_ms": 2209,
+   "runs": 13,
+   "items_run": 130
   },
   {
    "id": "github_tryon",
@@ -4208,9 +4289,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1619,
-   "runs": 12,
-   "items_run": 120
+   "elapsed_ms": 1492,
+   "runs": 13,
+   "items_run": 130
   },
   {
    "id": "github_video",
@@ -4218,9 +4299,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 6890,
-   "runs": 12,
-   "items_run": 120
+   "elapsed_ms": 7000,
+   "runs": 13,
+   "items_run": 130
   },
   {
    "id": "glossy",
@@ -4228,9 +4309,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1059,
-   "runs": 12,
-   "items_run": 240
+   "elapsed_ms": 1083,
+   "runs": 13,
+   "items_run": 260
   },
   {
    "id": "hypebeast",
@@ -4238,9 +4319,9 @@
    "status": "ok",
    "items": 19,
    "error": "",
-   "elapsed_ms": 1147,
-   "runs": 12,
-   "items_run": 228
+   "elapsed_ms": 1117,
+   "runs": 13,
+   "items_run": 247
   },
   {
    "id": "retaildive",
@@ -4248,9 +4329,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1102,
-   "runs": 12,
-   "items_run": 120
+   "elapsed_ms": 1075,
+   "runs": 13,
+   "items_run": 130
   },
   {
    "id": "wwd",
@@ -4258,23 +4339,23 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1044,
-   "runs": 12,
-   "items_run": 120
+   "elapsed_ms": 1042,
+   "runs": 13,
+   "items_run": 130
   }
  ],
  "stats": {
-  "items": 142,
+  "items": 145,
   "by_topic": {
    "tooling": 29,
    "retail": 18,
-   "fashion": 15,
+   "fashion": 16,
    "ai-video": 12,
    "research": 12,
    "beauty": 8
   },
   "by_kind": {
-   "news": 91,
+   "news": 94,
    "paper": 25,
    "repo": 26
   },
@@ -4282,6 +4363,6 @@
   "duplicates_in_run": 110,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-27T12:07:07+00:00",
+ "updated_at": "2026-11-27T13:07:14+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
