@@ -1525,6 +1525,39 @@
    ]
   },
   {
+   "id": "443a33e4a7a824d1",
+   "title": "codeby-narendra/visual-try-on",
+   "url": "https://github.com/codeby-narendra/visual-try-on",
+   "publisher": "codeby-narendra",
+   "kind": "repo",
+   "published_at": "2026-11-25T15:04:21+00:00",
+   "summary": "AI Virtual Try-On Studio",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    }
+   ],
+   "retrieved_at": "2026-11-27T01:07:16+00:00",
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "github_tryon",
+     "collector": "us-west-3",
+     "via": "GitHub API",
+     "engine": "",
+     "retrieved_at": "2026-11-27T01:07:16+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 0,
+    "language": "JavaScript",
+    "topics": []
+   }
+  },
+  {
    "id": "9c6dc9b65d157ee2",
    "title": "OrthoLite Lift Insoles Have Supercritical Foaming Technology",
    "url": "https://wwd.com/footwear-news/shoe-industry-news/ortholite-lift-insole-collection-supercritical-foam-1239464318",
@@ -1793,6 +1826,45 @@
      "Xuanyu Zheng",
      "Luoyuan Zhang",
      "Yancheng Long"
+    ]
+   }
+  },
+  {
+   "id": "d2938748397e8499",
+   "title": "Cinderella-Man/drmshare",
+   "url": "https://github.com/Cinderella-Man/drmshare",
+   "publisher": "Cinderella-Man",
+   "kind": "repo",
+   "published_at": "2026-11-25T09:55:47+00:00",
+   "summary": "Share video memory between NVIDIA GPUs of different generations: one opt-in nvidia-drm option, a dma-buf, Vulkan, and an experimental NCCL fork for CUDA programs (not CUDA P2P). Tesla V100, RTX 20/30, GTX 10; drivers 580, 595, 615.",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    }
+   ],
+   "retrieved_at": "2026-11-27T01:07:16+00:00",
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "github_video",
+     "collector": "us-west-3",
+     "via": "GitHub API",
+     "engine": "",
+     "retrieved_at": "2026-11-27T01:07:16+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 4,
+    "language": "Cuda",
+    "topics": [
+     "dma-buf",
+     "gpu",
+     "linux",
+     "llama-cpp",
+     "nvidia"
     ]
    }
   },
@@ -3349,9 +3421,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2878,
-   "runs": 1,
-   "items_run": 10
+   "elapsed_ms": 2401,
+   "runs": 2,
+   "items_run": 20
   },
   {
    "id": "arxiv_video",
@@ -3359,9 +3431,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 3108,
-   "runs": 1,
-   "items_run": 15
+   "elapsed_ms": 3625,
+   "runs": 2,
+   "items_run": 30
   },
   {
    "id": "footwearnews",
@@ -3369,9 +3441,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2172,
-   "runs": 1,
-   "items_run": 10
+   "elapsed_ms": 2176,
+   "runs": 2,
+   "items_run": 20
   },
   {
    "id": "github_tryon",
@@ -3379,9 +3451,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1435,
-   "runs": 1,
-   "items_run": 10
+   "elapsed_ms": 1536,
+   "runs": 2,
+   "items_run": 20
   },
   {
    "id": "github_video",
@@ -3389,9 +3461,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 6998,
-   "runs": 1,
-   "items_run": 10
+   "elapsed_ms": 6977,
+   "runs": 2,
+   "items_run": 20
   },
   {
    "id": "glossy",
@@ -3399,9 +3471,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1069,
-   "runs": 1,
-   "items_run": 20
+   "elapsed_ms": 1061,
+   "runs": 2,
+   "items_run": 40
   },
   {
    "id": "hypebeast",
@@ -3409,9 +3481,9 @@
    "status": "ok",
    "items": 19,
    "error": "",
-   "elapsed_ms": 1142,
-   "runs": 1,
-   "items_run": 19
+   "elapsed_ms": 5086,
+   "runs": 2,
+   "items_run": 38
   },
   {
    "id": "retaildive",
@@ -3419,9 +3491,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1051,
-   "runs": 1,
-   "items_run": 10
+   "elapsed_ms": 1056,
+   "runs": 2,
+   "items_run": 20
   },
   {
    "id": "wwd",
@@ -3429,15 +3501,15 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1054,
-   "runs": 1,
-   "items_run": 10
+   "elapsed_ms": 1045,
+   "runs": 2,
+   "items_run": 20
   }
  ],
  "stats": {
-  "items": 112,
+  "items": 114,
   "by_topic": {
-   "tooling": 22,
+   "tooling": 24,
    "ai-video": 12,
    "research": 12,
    "retail": 11,
@@ -3447,12 +3519,12 @@
   "by_kind": {
    "news": 67,
    "paper": 25,
-   "repo": 20
+   "repo": 22
   },
   "rules_version": "1",
-  "duplicates_in_run": 0,
+  "duplicates_in_run": 110,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-27T00:07:14+00:00",
+ "updated_at": "2026-11-27T01:07:16+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
