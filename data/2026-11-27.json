@@ -3454,9 +3454,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2472,
-   "runs": 4,
-   "items_run": 40
+   "elapsed_ms": 2124,
+   "runs": 5,
+   "items_run": 50
   },
   {
    "id": "arxiv_video",
@@ -3464,9 +3464,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 3420,
-   "runs": 4,
-   "items_run": 60
+   "elapsed_ms": 3960,
+   "runs": 5,
+   "items_run": 75
   },
   {
    "id": "footwearnews",
@@ -3474,9 +3474,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2202,
-   "runs": 4,
-   "items_run": 40
+   "elapsed_ms": 2191,
+   "runs": 5,
+   "items_run": 50
   },
   {
    "id": "github_tryon",
@@ -3484,9 +3484,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1449,
-   "runs": 4,
-   "items_run": 40
+   "elapsed_ms": 1504,
+   "runs": 5,
+   "items_run": 50
   },
   {
    "id": "github_video",
@@ -3494,9 +3494,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 6966,
-   "runs": 4,
-   "items_run": 40
+   "elapsed_ms": 6887,
+   "runs": 5,
+   "items_run": 50
   },
   {
    "id": "glossy",
@@ -3504,9 +3504,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1062,
-   "runs": 4,
-   "items_run": 80
+   "elapsed_ms": 1066,
+   "runs": 5,
+   "items_run": 100
   },
   {
    "id": "hypebeast",
@@ -3514,9 +3514,9 @@
    "status": "ok",
    "items": 19,
    "error": "",
-   "elapsed_ms": 1179,
-   "runs": 4,
-   "items_run": 76
+   "elapsed_ms": 1141,
+   "runs": 5,
+   "items_run": 95
   },
   {
    "id": "retaildive",
@@ -3524,9 +3524,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1061,
-   "runs": 4,
-   "items_run": 40
+   "elapsed_ms": 1055,
+   "runs": 5,
+   "items_run": 50
   },
   {
    "id": "wwd",
@@ -3534,9 +3534,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1051,
-   "runs": 4,
-   "items_run": 40
+   "elapsed_ms": 1052,
+   "runs": 5,
+   "items_run": 50
   }
  ],
  "stats": {
@@ -3558,6 +3558,6 @@
   "duplicates_in_run": 112,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-27T03:07:15+00:00",
+ "updated_at": "2026-11-27T04:07:05+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
