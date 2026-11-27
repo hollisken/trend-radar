@@ -3,6 +3,151 @@
  "date": "2026-11-27",
  "items": [
   {
+   "id": "d8a48a3d7bd552cc",
+   "title": "Palace Skateboard's Beijing Flagship Takes Its Cues From the Great Wall",
+   "url": "https://hypebeast.com/2026/11/palace-skateboards-beijing-flagship-store-opening-info-announcement",
+   "publisher": "Hypebeast",
+   "kind": "news",
+   "published_at": "2026-11-27T09:56:49+00:00",
+   "summary": "Summary Palace Skateboards is opening a two-story flagship in Beijing's Taikoo Li Sanlitun, designed around the brickwork of the Great WallGlass bricks, backlit green onyx and Chinese rosewood fill the space, alongside a hand-painted porcelain vase, a Tri-ferg fountain and a…",
+   "topics": [
+    {
+     "name": "retail",
+     "score": 0.33
+    }
+   ],
+   "retrieved_at": "2026-11-27T10:07:18+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "hypebeast",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-27T10:07:18+00:00"
+    }
+   ]
+  },
+  {
+   "id": "01c4027b84ea7e15",
+   "title": "ugurkarakas/virtual-try-on",
+   "url": "https://github.com/ugurkarakas/virtual-try-on",
+   "publisher": "ugurkarakas",
+   "kind": "repo",
+   "published_at": "2026-11-27T09:44:48+00:00",
+   "summary": "",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    }
+   ],
+   "retrieved_at": "2026-11-27T10:07:18+00:00",
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "github_tryon",
+     "collector": "us-west-3",
+     "via": "GitHub API",
+     "engine": "",
+     "retrieved_at": "2026-11-27T10:07:18+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 0,
+    "language": "JavaScript",
+    "topics": []
+   }
+  },
+  {
+   "id": "d3790c2da4f18aba",
+   "title": "Innioasis Launches the Y2, a $79.99 USD Music Player That Brings Back iPod-Style Scrolling",
+   "url": "https://hypebeast.com/2026/11/innioasis-y2-music-player-debuts-with-touch-scroll-ring",
+   "publisher": "Hypebeast",
+   "kind": "news",
+   "published_at": "2026-11-27T09:30:06+00:00",
+   "summary": "Summary The Innioasis Y2 Music Player revives classic tactile navigation with an iPod-style touch-sensitive scroll ringThe offline-only device skips streaming apps in favor of user-loaded MP3s, lossless FLAC files and audiobooksHardware features include a small color screen…",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.33
+    }
+   ],
+   "retrieved_at": "2026-11-27T10:07:18+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "hypebeast",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-27T10:07:18+00:00"
+    }
+   ]
+  },
+  {
+   "id": "88c53ddac227ca6b",
+   "title": "vaidsakina/Virtual_try_on",
+   "url": "https://github.com/vaidsakina/Virtual_try_on",
+   "publisher": "vaidsakina",
+   "kind": "repo",
+   "published_at": "2026-11-27T09:13:26+00:00",
+   "summary": "",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    }
+   ],
+   "retrieved_at": "2026-11-27T10:07:18+00:00",
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "github_tryon",
+     "collector": "us-west-3",
+     "via": "GitHub API",
+     "engine": "",
+     "retrieved_at": "2026-11-27T10:07:18+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 0,
+    "language": "HTML",
+    "topics": []
+   }
+  },
+  {
+   "id": "f7d9cbc413313d60",
+   "title": "Jyodan and Amiide on Turning Noriko Kose’s “Still I Miss You” Into an Award-Winning Sampling Contest Track",
+   "url": "https://hypebeast.com/2026/11/jyodan-amiide-but-i-still-miss-u-release-interview",
+   "publisher": "Hypebeast",
+   "kind": "news",
+   "published_at": "2026-11-27T09:00:56+00:00",
+   "summary": "Noriko Kose's \"Still I Miss You\" — a masterpiece famously sampled in Nujabes' iconic \"Reflection Eternal\" and cherished globally as part of the DNA of lo-fi and jazzy hip-hop — has been breathed new life. Released in October 2025, \"Still I Miss You\" is a piano instrumental…",
+   "topics": [],
+   "retrieved_at": "2026-11-27T10:07:18+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "hypebeast",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-27T10:07:18+00:00"
+    }
+   ]
+  },
+  {
    "id": "056cd7eade5d98fe",
    "title": "Apple Captures 57% of US Smartphone Shipments in Q3 2026",
    "url": "https://hypebeast.com/2026/11/apple-dominates-us-smartphone-market-with-57-share-in-q3",
@@ -2693,6 +2838,39 @@
    ]
   },
   {
+   "id": "bb403eade4193174",
+   "title": "aliensco/PhysResponse",
+   "url": "https://github.com/aliensco/PhysResponse",
+   "publisher": "aliensco",
+   "kind": "repo",
+   "published_at": "2026-11-25T01:27:07+00:00",
+   "summary": "PhysResponse benchmark code and evaluation tools for physical video generation",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    }
+   ],
+   "retrieved_at": "2026-11-27T10:07:18+00:00",
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "github_video",
+     "collector": "us-west-3",
+     "via": "GitHub API",
+     "engine": "",
+     "retrieved_at": "2026-11-27T10:07:18+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 5,
+    "language": "Python",
+    "topics": []
+   }
+  },
+  {
    "id": "cf06c65301733ee2",
    "title": "ricardochl/virtual-try-on",
    "url": "https://github.com/ricardochl/virtual-try-on",
@@ -3921,9 +4099,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2443,
-   "runs": 10,
-   "items_run": 90
+   "elapsed_ms": 2473,
+   "runs": 11,
+   "items_run": 100
   },
   {
    "id": "arxiv_video",
@@ -3931,9 +4109,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 3405,
-   "runs": 10,
-   "items_run": 135
+   "elapsed_ms": 3450,
+   "runs": 11,
+   "items_run": 150
   },
   {
    "id": "footwearnews",
@@ -3941,9 +4119,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2131,
-   "runs": 10,
-   "items_run": 100
+   "elapsed_ms": 2171,
+   "runs": 11,
+   "items_run": 110
   },
   {
    "id": "github_tryon",
@@ -3951,9 +4129,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1480,
-   "runs": 10,
-   "items_run": 100
+   "elapsed_ms": 1468,
+   "runs": 11,
+   "items_run": 110
   },
   {
    "id": "github_video",
@@ -3961,9 +4139,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 7263,
-   "runs": 10,
-   "items_run": 100
+   "elapsed_ms": 6993,
+   "runs": 11,
+   "items_run": 110
   },
   {
    "id": "glossy",
@@ -3971,9 +4149,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1080,
-   "runs": 10,
-   "items_run": 200
+   "elapsed_ms": 1053,
+   "runs": 11,
+   "items_run": 220
   },
   {
    "id": "hypebeast",
@@ -3981,9 +4159,9 @@
    "status": "ok",
    "items": 19,
    "error": "",
-   "elapsed_ms": 1170,
-   "runs": 10,
-   "items_run": 190
+   "elapsed_ms": 1141,
+   "runs": 11,
+   "items_run": 209
   },
   {
    "id": "retaildive",
@@ -3991,9 +4169,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1065,
-   "runs": 10,
-   "items_run": 100
+   "elapsed_ms": 1056,
+   "runs": 11,
+   "items_run": 110
   },
   {
    "id": "wwd",
@@ -4001,30 +4179,30 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1046,
-   "runs": 10,
-   "items_run": 100
+   "elapsed_ms": 1049,
+   "runs": 11,
+   "items_run": 110
   }
  ],
  "stats": {
-  "items": 133,
+  "items": 139,
   "by_topic": {
-   "tooling": 25,
-   "retail": 16,
+   "tooling": 29,
+   "retail": 17,
    "fashion": 14,
    "ai-video": 12,
    "research": 12,
    "beauty": 8
   },
   "by_kind": {
-   "news": 85,
+   "news": 88,
    "paper": 25,
-   "repo": 23
+   "repo": 26
   },
   "rules_version": "1",
-  "duplicates_in_run": 109,
+  "duplicates_in_run": 106,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-27T09:07:17+00:00",
+ "updated_at": "2026-11-27T10:07:18+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
