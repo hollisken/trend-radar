@@ -3,6 +3,62 @@
  "date": "2026-11-27",
  "items": [
   {
+   "id": "15f83525ca52d9ff",
+   "title": "BAPE STA's 25th Anniversary China Exclusive Goes Black With Crackled Silver",
+   "url": "https://hypebeast.com/2026/11/a-bathing-ape-bape-sta-25th-anniversary-china-exclusives-release-info",
+   "publisher": "Hypebeast",
+   "kind": "news",
+   "published_at": "2026-11-27T05:55:53+00:00",
+   "summary": "Name: A Bathing Ape BAPE STA China ExclusivesColorway: Black, WhiteSKU: TBCMSRP: TBCRelease Date: November 28, December 5, December 18Where to Buy: BAPE GALLERY Shanghai, BAPE STORE Sanlitun Taikoo Li, BAPE STORE Taikoo Hui, BAPE STORE Taikoo LiBAPE is celebrating 25 years of…",
+   "topics": [
+    {
+     "name": "retail",
+     "score": 0.33
+    }
+   ],
+   "retrieved_at": "2026-11-27T06:07:16+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "hypebeast",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-27T06:07:16+00:00"
+    }
+   ]
+  },
+  {
+   "id": "41fd42e4fd7fe5d2",
+   "title": "From Peptides and NAD Supplements to ‘Nature’s Ozempic,’ These Black Friday Deals Save You Up to 50% Off Top Wellness Trends",
+   "url": "https://wwd.com/shop/shop-beauty/black-friday-collagen-peptide-nad-supplement-wellness-deals-1239461798",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-27T05:18:39+00:00",
+   "summary": "While Black Friday is traditionally associated with deals on apparel and appliances, new retail data shows shoppers leaning in this year to everyday essentials and personal care items too.",
+   "topics": [
+    {
+     "name": "retail",
+     "score": 0.33
+    }
+   ],
+   "retrieved_at": "2026-11-27T06:07:16+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-27T06:07:16+00:00"
+    }
+   ]
+  },
+  {
    "id": "a6e38dac6a58bdf0",
    "title": "Fashion Awards 2026: Yohji Yamamoto, Sandra Choi Among Honorees, Ncuti Gatwa to Host",
    "url": "https://wwd.com/fashion-news/designer-luxury/fashion-awards-2026-yohji-yamamoto-sandra-choi-ncuti-gatwa-1239467155",
@@ -3537,9 +3593,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2521,
-   "runs": 6,
-   "items_run": 60
+   "elapsed_ms": 2118,
+   "runs": 7,
+   "items_run": 70
   },
   {
    "id": "arxiv_video",
@@ -3547,9 +3603,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 3324,
-   "runs": 6,
-   "items_run": 90
+   "elapsed_ms": 3524,
+   "runs": 7,
+   "items_run": 105
   },
   {
    "id": "footwearnews",
@@ -3557,9 +3613,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2124,
-   "runs": 6,
-   "items_run": 60
+   "elapsed_ms": 2177,
+   "runs": 7,
+   "items_run": 70
   },
   {
    "id": "github_tryon",
@@ -3567,9 +3623,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1470,
-   "runs": 6,
-   "items_run": 60
+   "elapsed_ms": 1430,
+   "runs": 7,
+   "items_run": 70
   },
   {
    "id": "github_video",
@@ -3577,9 +3633,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 7017,
-   "runs": 6,
-   "items_run": 60
+   "elapsed_ms": 7003,
+   "runs": 7,
+   "items_run": 70
   },
   {
    "id": "glossy",
@@ -3587,9 +3643,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1058,
-   "runs": 6,
-   "items_run": 120
+   "elapsed_ms": 1066,
+   "runs": 7,
+   "items_run": 140
   },
   {
    "id": "hypebeast",
@@ -3597,9 +3653,9 @@
    "status": "ok",
    "items": 19,
    "error": "",
-   "elapsed_ms": 1159,
-   "runs": 6,
-   "items_run": 114
+   "elapsed_ms": 1142,
+   "runs": 7,
+   "items_run": 133
   },
   {
    "id": "retaildive",
@@ -3607,9 +3663,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1096,
-   "runs": 6,
-   "items_run": 60
+   "elapsed_ms": 1104,
+   "runs": 7,
+   "items_run": 70
   },
   {
    "id": "wwd",
@@ -3617,30 +3673,30 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2926,
-   "runs": 6,
-   "items_run": 60
+   "elapsed_ms": 1047,
+   "runs": 7,
+   "items_run": 70
   }
  ],
  "stats": {
-  "items": 118,
+  "items": 120,
   "by_topic": {
    "tooling": 25,
+   "retail": 14,
    "ai-video": 12,
    "research": 12,
-   "retail": 12,
    "fashion": 11,
    "beauty": 8
   },
   "by_kind": {
-   "news": 70,
+   "news": 72,
    "paper": 25,
    "repo": 23
   },
   "rules_version": "1",
-  "duplicates_in_run": 109,
+  "duplicates_in_run": 110,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-27T05:07:17+00:00",
+ "updated_at": "2026-11-27T06:07:16+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
