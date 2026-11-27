@@ -3,6 +3,80 @@
  "date": "2026-11-27",
  "items": [
   {
+   "id": "056cd7eade5d98fe",
+   "title": "Apple Captures 57% of US Smartphone Shipments in Q3 2026",
+   "url": "https://hypebeast.com/2026/11/apple-dominates-us-smartphone-market-with-57-share-in-q3",
+   "publisher": "Hypebeast",
+   "kind": "news",
+   "published_at": "2026-11-27T08:30:56+00:00",
+   "summary": "Summary Apple captured 57% of the US smartphone market in Q3 2026 despite a broader industry downturnRising memory costs squeezed competitors and heavily impacted the low-end Android segmentSamsung emerged as the only major Android brand to grow its market share during the…",
+   "topics": [
+    {
+     "name": "retail",
+     "score": 0.33
+    }
+   ],
+   "retrieved_at": "2026-11-27T09:07:17+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "hypebeast",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-27T09:07:17+00:00"
+    }
+   ]
+  },
+  {
+   "id": "03ab835e4200de21",
+   "title": "Ford Goes Like Hell Again With the Le Mans-Bound GT41 Hypercar",
+   "url": "https://hypebeast.com/2026/11/ford-gt41-wec-hypercar-release-info",
+   "publisher": "Hypebeast",
+   "kind": "news",
+   "published_at": "2026-11-27T08:14:06+00:00",
+   "summary": "Summary Ford unveils the GT41 with a Zack Snyder film narrated by Matt Damon.Standing 41 inches tall, it pairs a 5.4-liter V8 with hybrid power.Racing starts in Qatar in March 2027 before Le Mans in June. Ford Racing has officially unveiled the Ford GT41, the all-new Hypercar…",
+   "topics": [],
+   "retrieved_at": "2026-11-27T09:07:17+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "hypebeast",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-27T09:07:17+00:00"
+    }
+   ]
+  },
+  {
+   "id": "4a88715a4923b22e",
+   "title": "FREE THE YOUTH Unveils Friends & Family Exclusive Air Jordan 16 Evoking the EVA Unit-01",
+   "url": "https://hypebeast.com/2026/11/free-the-youth-air-jordan-16-friesnds-family-model-release-info",
+   "publisher": "Hypebeast",
+   "kind": "news",
+   "published_at": "2026-11-27T08:05:58+00:00",
+   "summary": "Ghana-based creative collective FREE THE YOUTH has unveiled a Friends & Family exclusive model of the Air Jordan 16.The group drew attention earlier this year with the release of a metallic silver Air Jordan 16. The newly revealed model features a purple and green color scheme…",
+   "topics": [],
+   "retrieved_at": "2026-11-27T09:07:17+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "hypebeast",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-27T09:07:17+00:00"
+    }
+   ]
+  },
+  {
    "id": "b869add57c917423",
    "title": "Rockstar Developers Detail the 'GTA VI' Features That Got Cut",
    "url": "https://hypebeast.com/2026/11/rockstar-games-grand-theft-auto-gta-vi-developers-reveal-features-didnt-make-game",
@@ -3847,9 +3921,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2445,
-   "runs": 9,
-   "items_run": 80
+   "elapsed_ms": 2443,
+   "runs": 10,
+   "items_run": 90
   },
   {
    "id": "arxiv_video",
@@ -3857,9 +3931,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 3129,
-   "runs": 9,
-   "items_run": 120
+   "elapsed_ms": 3405,
+   "runs": 10,
+   "items_run": 135
   },
   {
    "id": "footwearnews",
@@ -3867,9 +3941,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2141,
-   "runs": 9,
-   "items_run": 90
+   "elapsed_ms": 2131,
+   "runs": 10,
+   "items_run": 100
   },
   {
    "id": "github_tryon",
@@ -3877,9 +3951,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1600,
-   "runs": 9,
-   "items_run": 90
+   "elapsed_ms": 1480,
+   "runs": 10,
+   "items_run": 100
   },
   {
    "id": "github_video",
@@ -3887,9 +3961,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 6823,
-   "runs": 9,
-   "items_run": 90
+   "elapsed_ms": 7263,
+   "runs": 10,
+   "items_run": 100
   },
   {
    "id": "glossy",
@@ -3897,9 +3971,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1099,
-   "runs": 9,
-   "items_run": 180
+   "elapsed_ms": 1080,
+   "runs": 10,
+   "items_run": 200
   },
   {
    "id": "hypebeast",
@@ -3907,9 +3981,9 @@
    "status": "ok",
    "items": 19,
    "error": "",
-   "elapsed_ms": 1133,
-   "runs": 9,
-   "items_run": 171
+   "elapsed_ms": 1170,
+   "runs": 10,
+   "items_run": 190
   },
   {
    "id": "retaildive",
@@ -3917,9 +3991,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1066,
-   "runs": 9,
-   "items_run": 90
+   "elapsed_ms": 1065,
+   "runs": 10,
+   "items_run": 100
   },
   {
    "id": "wwd",
@@ -3928,29 +4002,29 @@
    "items": 10,
    "error": "",
    "elapsed_ms": 1046,
-   "runs": 9,
-   "items_run": 90
+   "runs": 10,
+   "items_run": 100
   }
  ],
  "stats": {
-  "items": 130,
+  "items": 133,
   "by_topic": {
    "tooling": 25,
-   "retail": 15,
+   "retail": 16,
    "fashion": 14,
    "ai-video": 12,
    "research": 12,
    "beauty": 8
   },
   "by_kind": {
-   "news": 82,
+   "news": 85,
    "paper": 25,
    "repo": 23
   },
   "rules_version": "1",
-  "duplicates_in_run": 111,
+  "duplicates_in_run": 109,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-27T08:07:04+00:00",
+ "updated_at": "2026-11-27T09:07:17+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
