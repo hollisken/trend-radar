@@ -3454,9 +3454,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2134,
-   "runs": 3,
-   "items_run": 30
+   "elapsed_ms": 2472,
+   "runs": 4,
+   "items_run": 40
   },
   {
    "id": "arxiv_video",
@@ -3464,9 +3464,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 3740,
-   "runs": 3,
-   "items_run": 45
+   "elapsed_ms": 3420,
+   "runs": 4,
+   "items_run": 60
   },
   {
    "id": "footwearnews",
@@ -3474,9 +3474,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2197,
-   "runs": 3,
-   "items_run": 30
+   "elapsed_ms": 2202,
+   "runs": 4,
+   "items_run": 40
   },
   {
    "id": "github_tryon",
@@ -3484,9 +3484,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1456,
-   "runs": 3,
-   "items_run": 30
+   "elapsed_ms": 1449,
+   "runs": 4,
+   "items_run": 40
   },
   {
    "id": "github_video",
@@ -3494,9 +3494,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 6968,
-   "runs": 3,
-   "items_run": 30
+   "elapsed_ms": 6966,
+   "runs": 4,
+   "items_run": 40
   },
   {
    "id": "glossy",
@@ -3504,9 +3504,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1096,
-   "runs": 3,
-   "items_run": 60
+   "elapsed_ms": 1062,
+   "runs": 4,
+   "items_run": 80
   },
   {
    "id": "hypebeast",
@@ -3514,9 +3514,9 @@
    "status": "ok",
    "items": 19,
    "error": "",
-   "elapsed_ms": 1144,
-   "runs": 3,
-   "items_run": 57
+   "elapsed_ms": 1179,
+   "runs": 4,
+   "items_run": 76
   },
   {
    "id": "retaildive",
@@ -3524,9 +3524,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1076,
-   "runs": 3,
-   "items_run": 30
+   "elapsed_ms": 1061,
+   "runs": 4,
+   "items_run": 40
   },
   {
    "id": "wwd",
@@ -3534,9 +3534,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1046,
-   "runs": 3,
-   "items_run": 30
+   "elapsed_ms": 1051,
+   "runs": 4,
+   "items_run": 40
   }
  ],
  "stats": {
@@ -3555,9 +3555,9 @@
    "repo": 23
   },
   "rules_version": "1",
-  "duplicates_in_run": 111,
+  "duplicates_in_run": 112,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-27T02:07:15+00:00",
+ "updated_at": "2026-11-27T03:07:15+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
