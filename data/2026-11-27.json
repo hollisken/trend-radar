@@ -3,6 +3,39 @@
  "date": "2026-11-27",
  "items": [
   {
+   "id": "0c29057eab1debca",
+   "title": "G-SHOCK’s GMC-2500 and GAC-2500 Turns a Beetle’s Exoskeleton Into Armor for the Wrist",
+   "url": "https://hypebeast.com/2026/11/casio-g-shock-gmc-2500-yosuke-nagayama-interview",
+   "publisher": "Hypebeast",
+   "kind": "news",
+   "published_at": "2026-11-27T18:00:53+00:00",
+   "summary": "Since the DW-5000C arrived in 1983, G-SHOCK has been built on one promise: a watch that won’t break. More than four decades on, the brand’s newest series translates the functional beauty of that first model into a clean analog display. The GMC-2500 and GAC-2500 pair a three-hand…",
+   "topics": [
+    {
+     "name": "retail",
+     "score": 0.5
+    },
+    {
+     "name": "tooling",
+     "score": 0.33
+    }
+   ],
+   "retrieved_at": "2026-11-27T19:07:04+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "hypebeast",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-27T19:07:04+00:00"
+    }
+   ],
+   "title_zh": "G-SHOCK GMC-2500与GAC-2500：将甲虫外骨骼化为腕间铠甲"
+  },
+  {
    "id": "f06a97c09349c6b0",
    "title": "Lola Blankets’ Black Friday Sale Has Us Shopping for the Chicest Winter Home Essentials at 50% Off",
    "url": "https://wwd.com/shop/shop-home/lola-blankets-black-friday-sale-discount-code-2026-1239467535",
@@ -4658,9 +4691,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2104,
-   "runs": 17,
-   "items_run": 150
+   "elapsed_ms": 2402,
+   "runs": 18,
+   "items_run": 160
   },
   {
    "id": "arxiv_video",
@@ -4668,9 +4701,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 4467,
-   "runs": 17,
-   "items_run": 225
+   "elapsed_ms": 3175,
+   "runs": 18,
+   "items_run": 240
   },
   {
    "id": "footwearnews",
@@ -4678,9 +4711,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2183,
-   "runs": 17,
-   "items_run": 170
+   "elapsed_ms": 2177,
+   "runs": 18,
+   "items_run": 180
   },
   {
    "id": "github_tryon",
@@ -4688,9 +4721,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1506,
-   "runs": 17,
-   "items_run": 170
+   "elapsed_ms": 1658,
+   "runs": 18,
+   "items_run": 180
   },
   {
    "id": "github_video",
@@ -4698,9 +4731,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 6972,
-   "runs": 17,
-   "items_run": 170
+   "elapsed_ms": 6853,
+   "runs": 18,
+   "items_run": 180
   },
   {
    "id": "glossy",
@@ -4708,9 +4741,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1079,
-   "runs": 17,
-   "items_run": 340
+   "elapsed_ms": 1057,
+   "runs": 18,
+   "items_run": 360
   },
   {
    "id": "hypebeast",
@@ -4718,9 +4751,9 @@
    "status": "ok",
    "items": 19,
    "error": "",
-   "elapsed_ms": 1156,
-   "runs": 17,
-   "items_run": 325
+   "elapsed_ms": 1140,
+   "runs": 18,
+   "items_run": 345
   },
   {
    "id": "retaildive",
@@ -4728,9 +4761,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1061,
-   "runs": 17,
-   "items_run": 170
+   "elapsed_ms": 1059,
+   "runs": 18,
+   "items_run": 180
   },
   {
    "id": "wwd",
@@ -4738,30 +4771,30 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1048,
-   "runs": 17,
-   "items_run": 170
+   "elapsed_ms": 1042,
+   "runs": 18,
+   "items_run": 180
   }
  ],
  "stats": {
-  "items": 160,
+  "items": 161,
   "by_topic": {
    "tooling": 30,
    "fashion": 20,
-   "retail": 19,
+   "retail": 20,
    "ai-video": 12,
    "research": 12,
    "beauty": 9
   },
   "by_kind": {
-   "news": 108,
+   "news": 109,
    "paper": 25,
    "repo": 27
   },
   "rules_version": "1",
-  "duplicates_in_run": 108,
+  "duplicates_in_run": 114,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-27T18:07:04+00:00",
+ "updated_at": "2026-11-27T19:07:04+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
