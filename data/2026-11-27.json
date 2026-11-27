@@ -3,6 +3,121 @@
  "date": "2026-11-27",
  "items": [
   {
+   "id": "07c14910e02c509e",
+   "title": "On’s Under-the-Radar Black Friday Sale Includes Some of Its Most Popular Sneakers (With Finds Under $100)",
+   "url": "https://wwd.com/shop/shop-shoes/on-black-friday-sale-best-sneaker-deals-1239467752",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-27T20:27:17+00:00",
+   "summary": "The Swiss footwear brand that has won over runners and fashion insiders alike is quietly discounting some of its signature silhouettes.",
+   "topics": [],
+   "retrieved_at": "2026-11-27T21:07:16+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-27T21:07:16+00:00"
+    }
+   ]
+  },
+  {
+   "id": "1f0e4954307badeb",
+   "title": "Puig to Acquire 75 Percent of Parfums de Marly, Initio for 1.2 Billion Euros",
+   "url": "https://wwd.com/beauty-industry-news/fragrance/puig-acquire-75-percent-parfums-de-marly-initio-1-2-billion-1239467775",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-27T20:26:45+00:00",
+   "summary": "The move strengthens the Spanish company’s presence in niche perfumery.",
+   "topics": [],
+   "retrieved_at": "2026-11-27T21:07:16+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-27T21:07:16+00:00"
+    }
+   ]
+  },
+  {
+   "id": "827690444c57da8a",
+   "title": "Where to Watch ‘Holiday Ever After: A Disney World Wish Come True’ Streaming Online Free",
+   "url": "https://wwd.com/shop/shop-home/watch-holiday-ever-after-disney-world-wish-come-true-online-1239467704",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-27T20:21:08+00:00",
+   "summary": "The new Christmas film chronicles a surprise reunion -- and unlikely romance -- that blossoms at the Most Magical Place on Earth.",
+   "topics": [],
+   "retrieved_at": "2026-11-27T21:07:16+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-27T21:07:16+00:00"
+    }
+   ]
+  },
+  {
+   "id": "6396ab430f6070d2",
+   "title": "Black Friday Turnout Picks Up as Day Wears On",
+   "url": "https://wwd.com/business-news/retail/black-friday-turnout-picks-up-as-the-day-progresses-1239467491",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-27T19:59:00+00:00",
+   "summary": "Early Black Friday deals since October have taken some of the wind out of the day itself, but industry sources remain confident the season overall is on track for mid-single sales gains.",
+   "topics": [],
+   "retrieved_at": "2026-11-27T21:07:16+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-27T21:07:16+00:00"
+    }
+   ]
+  },
+  {
+   "id": "6fd893a2040e2df9",
+   "title": "Salomon’s Secret Black Friday Sale Includes the Sneakers That Defined Street Style This Year (Even Gore-Tex Models)",
+   "url": "https://wwd.com/shop/shop-shoes/salomon-black-friday-sale-gore-tex-sneakers-buy-deals-2026-1239467702",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-27T19:14:35+00:00",
+   "summary": "Fashion’s fascination with technical footwear shows no signs of waning, and Salomon’s Black Friday sale presents an opportunity to shop the trend for less.",
+   "topics": [],
+   "retrieved_at": "2026-11-27T21:07:16+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-27T21:07:16+00:00"
+    }
+   ]
+  },
+  {
    "id": "0c29057eab1debca",
    "title": "G-SHOCK’s GMC-2500 and GAC-2500 Turns a Beetle’s Exoskeleton Into Armor for the Wrist",
    "url": "https://hypebeast.com/2026/11/casio-g-shock-gmc-2500-yosuke-nagayama-interview",
@@ -4691,9 +4806,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2402,
-   "runs": 18,
-   "items_run": 160
+   "elapsed_ms": 2444,
+   "runs": 19,
+   "items_run": 170
   },
   {
    "id": "arxiv_video",
@@ -4701,9 +4816,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 3175,
-   "runs": 18,
-   "items_run": 240
+   "elapsed_ms": 3498,
+   "runs": 19,
+   "items_run": 255
   },
   {
    "id": "footwearnews",
@@ -4711,9 +4826,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2177,
-   "runs": 18,
-   "items_run": 180
+   "elapsed_ms": 2365,
+   "runs": 19,
+   "items_run": 190
   },
   {
    "id": "github_tryon",
@@ -4721,9 +4836,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1658,
-   "runs": 18,
-   "items_run": 180
+   "elapsed_ms": 1488,
+   "runs": 19,
+   "items_run": 190
   },
   {
    "id": "github_video",
@@ -4731,9 +4846,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 6853,
-   "runs": 18,
-   "items_run": 180
+   "elapsed_ms": 7035,
+   "runs": 19,
+   "items_run": 190
   },
   {
    "id": "glossy",
@@ -4741,9 +4856,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1057,
-   "runs": 18,
-   "items_run": 360
+   "elapsed_ms": 1065,
+   "runs": 19,
+   "items_run": 380
   },
   {
    "id": "hypebeast",
@@ -4751,9 +4866,9 @@
    "status": "ok",
    "items": 19,
    "error": "",
-   "elapsed_ms": 1140,
-   "runs": 18,
-   "items_run": 345
+   "elapsed_ms": 1160,
+   "runs": 19,
+   "items_run": 365
   },
   {
    "id": "retaildive",
@@ -4761,9 +4876,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1059,
-   "runs": 18,
-   "items_run": 180
+   "elapsed_ms": 1062,
+   "runs": 19,
+   "items_run": 190
   },
   {
    "id": "wwd",
@@ -4771,13 +4886,13 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1042,
-   "runs": 18,
-   "items_run": 180
+   "elapsed_ms": 2993,
+   "runs": 19,
+   "items_run": 190
   }
  ],
  "stats": {
-  "items": 161,
+  "items": 166,
   "by_topic": {
    "tooling": 30,
    "fashion": 20,
@@ -4787,14 +4902,14 @@
    "beauty": 9
   },
   "by_kind": {
-   "news": 109,
+   "news": 114,
    "paper": 25,
    "repo": 27
   },
   "rules_version": "1",
-  "duplicates_in_run": 114,
+  "duplicates_in_run": 110,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-27T19:07:04+00:00",
+ "updated_at": "2026-11-27T21:07:16+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
