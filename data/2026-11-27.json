@@ -3,6 +3,113 @@
  "date": "2026-11-27",
  "items": [
   {
+   "id": "c7936de466a6a947",
+   "title": "Get Augustinus Bader at Duty-Free Prices, With This 25% Off Deal for Black Friday",
+   "url": "https://wwd.com/shop/shop-beauty/augustinus-bader-black-friday-sale-2026-rich-cream-discount-1239461358",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-27T16:49:59+00:00",
+   "summary": "The luxe European skincare brand is beloved by skincare junkies and A-list stars alike.",
+   "topics": [],
+   "retrieved_at": "2026-11-27T17:07:07+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-27T17:07:07+00:00"
+    }
+   ]
+  },
+  {
+   "id": "6f9e47b0dae9f7aa",
+   "title": "Stone Island’s Milan Flagship Is a Material Research Lab in Its Own Right",
+   "url": "https://hypebeast.com/2026/11/stone-island-milan-flagship-store-renovation",
+   "publisher": "Hypebeast",
+   "kind": "news",
+   "published_at": "2026-11-27T16:33:19+00:00",
+   "summary": "Summary Stone Island reunites with OMA/AMO to renovate and expand its 600-square-meter Milan flagship.Burnt cork, handmade fused glass, and recycled resin translate the brand’s garment research into architectural experimentation.Seven independent designers and creative studios…",
+   "topics": [
+    {
+     "name": "fashion",
+     "score": 0.5
+    },
+    {
+     "name": "retail",
+     "score": 0.33
+    }
+   ],
+   "retrieved_at": "2026-11-27T17:07:07+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "hypebeast",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-27T17:07:07+00:00"
+    }
+   ],
+   "title_zh": "Stone Island米兰旗舰店本身就是一座材料研究实验室"
+  },
+  {
+   "id": "7b465e699c070cf7",
+   "title": "McQueen Pre-Fall 2027: Midnight in the Garden",
+   "url": "https://wwd.com/runway/pre-fall-2027/london/alexander-mcqueen/review",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-27T16:00:00+00:00",
+   "summary": "McQueen's studio designed a collection full of sharp tailoring, shocking blasts of color and floral embellishment.",
+   "topics": [],
+   "retrieved_at": "2026-11-27T17:07:07+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-27T17:07:07+00:00"
+    }
+   ]
+  },
+  {
+   "id": "999ecd4dbdafe565",
+   "title": "I Learned a Few Beauty Tricks at a Charlotte Tilbury Makeup Class — Now I’m Shopping These 50% off Beauty Deals for Black Friday",
+   "url": "https://wwd.com/shop/shop-beauty/black-friday-luxury-makeup-skincare-deals-amazon-2026-1239467492",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-27T15:10:28+00:00",
+   "summary": "Armed with a few newfound makeup techniques, I’m setting my sights on the luxury beauty products worth their price tags (especially when discounted).",
+   "topics": [
+    {
+     "name": "beauty",
+     "score": 1.0
+    }
+   ],
+   "retrieved_at": "2026-11-27T17:07:07+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-27T17:07:07+00:00"
+    }
+   ]
+  },
+  {
    "id": "baf53ffc06397879",
    "title": "Victoria Beckham Pre-Fall 2027: Down to Earth",
    "url": "https://wwd.com/runway/pre-fall-2027/london/victoria-beckham/review",
@@ -158,6 +265,39 @@
      "retrieved_at": "2026-11-27T13:07:14+00:00"
     }
    ]
+  },
+  {
+   "id": "587a0d90431fee8d",
+   "title": "TizenryA/drawing-studio-release",
+   "url": "https://github.com/TizenryA/drawing-studio-release",
+   "publisher": "TizenryA",
+   "kind": "repo",
+   "published_at": "2026-11-27T12:27:58+00:00",
+   "summary": "Mobile-first private Colab & ComfyUI image/video generation studio (v1.0.42 public-ready release).",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    }
+   ],
+   "retrieved_at": "2026-11-27T17:07:07+00:00",
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "github_video",
+     "collector": "us-west-3",
+     "via": "GitHub API",
+     "engine": "",
+     "retrieved_at": "2026-11-27T17:07:07+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 7,
+    "language": "Python",
+    "topics": []
+   }
   },
   {
    "id": "f6d215a473c3a524",
@@ -4341,9 +4481,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2121,
-   "runs": 15,
-   "items_run": 130
+   "elapsed_ms": 2620,
+   "runs": 16,
+   "items_run": 140
   },
   {
    "id": "arxiv_video",
@@ -4351,9 +4491,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 4444,
-   "runs": 15,
-   "items_run": 195
+   "elapsed_ms": 3269,
+   "runs": 16,
+   "items_run": 210
   },
   {
    "id": "footwearnews",
@@ -4361,9 +4501,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2172,
-   "runs": 15,
-   "items_run": 150
+   "elapsed_ms": 2234,
+   "runs": 16,
+   "items_run": 160
   },
   {
    "id": "github_tryon",
@@ -4371,9 +4511,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1518,
-   "runs": 15,
-   "items_run": 150
+   "elapsed_ms": 1519,
+   "runs": 16,
+   "items_run": 160
   },
   {
    "id": "github_video",
@@ -4381,9 +4521,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 7143,
-   "runs": 15,
-   "items_run": 150
+   "elapsed_ms": 6957,
+   "runs": 16,
+   "items_run": 160
   },
   {
    "id": "glossy",
@@ -4392,8 +4532,8 @@
    "items": 20,
    "error": "",
    "elapsed_ms": 1061,
-   "runs": 15,
-   "items_run": 300
+   "runs": 16,
+   "items_run": 320
   },
   {
    "id": "hypebeast",
@@ -4401,9 +4541,9 @@
    "status": "ok",
    "items": 19,
    "error": "",
-   "elapsed_ms": 1122,
-   "runs": 15,
-   "items_run": 285
+   "elapsed_ms": 2384,
+   "runs": 16,
+   "items_run": 305
   },
   {
    "id": "retaildive",
@@ -4411,9 +4551,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1072,
-   "runs": 15,
-   "items_run": 150
+   "elapsed_ms": 1063,
+   "runs": 16,
+   "items_run": 160
   },
   {
    "id": "wwd",
@@ -4421,30 +4561,30 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1046,
-   "runs": 15,
-   "items_run": 150
+   "elapsed_ms": 1048,
+   "runs": 16,
+   "items_run": 160
   }
  ],
  "stats": {
-  "items": 148,
+  "items": 153,
   "by_topic": {
-   "tooling": 29,
+   "tooling": 30,
+   "fashion": 18,
    "retail": 18,
-   "fashion": 17,
    "ai-video": 12,
    "research": 12,
-   "beauty": 8
+   "beauty": 9
   },
   "by_kind": {
-   "news": 97,
+   "news": 101,
    "paper": 25,
-   "repo": 26
+   "repo": 27
   },
   "rules_version": "1",
-  "duplicates_in_run": 111,
+  "duplicates_in_run": 109,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-27T15:07:08+00:00",
+ "updated_at": "2026-11-27T17:07:07+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
