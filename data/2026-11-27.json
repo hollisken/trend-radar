@@ -3,6 +3,34 @@
  "date": "2026-11-27",
  "items": [
   {
+   "id": "90d3b64f62d8f89a",
+   "title": "Simone Rocha Collaborates With (RED) for 20th Anniversary Holiday Collection Supporting AIDS Fight",
+   "url": "https://wwd.com/fashion-news/fashion-scoops/simone-rocha-collaborates-red-20th-anniversary-aids-fight-1239465945",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-27T14:00:00+00:00",
+   "summary": "The London-based designer reimagines signature styles in festive red, with 100 percent of proceeds supporting life-saving programs for women and girls.",
+   "topics": [
+    {
+     "name": "fashion",
+     "score": 0.67
+    }
+   ],
+   "retrieved_at": "2026-11-27T14:07:55+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-27T14:07:55+00:00"
+    }
+   ]
+  },
+  {
    "id": "cbe2eed85e024da8",
    "title": "The Best Nike Sneakers Releasing in December",
    "url": "https://wwd.com/footwear-news/sneaker-news/nike-sneaker-release-date-calendar-december-2026-1239464370",
@@ -4256,21 +4284,21 @@
   {
    "id": "arxiv_tryon",
    "kind": "arxiv",
-   "status": "ok",
+   "status": "error",
    "items": 10,
-   "error": "",
-   "elapsed_ms": 2496,
-   "runs": 13,
+   "error": "transport_TimeoutError",
+   "elapsed_ms": 20036,
+   "runs": 14,
    "items_run": 120
   },
   {
    "id": "arxiv_video",
    "kind": "arxiv",
-   "status": "ok",
+   "status": "error",
    "items": 15,
-   "error": "",
-   "elapsed_ms": 3404,
-   "runs": 13,
+   "error": "http_429",
+   "elapsed_ms": 2189,
+   "runs": 14,
    "items_run": 180
   },
   {
@@ -4279,9 +4307,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2209,
-   "runs": 13,
-   "items_run": 130
+   "elapsed_ms": 2992,
+   "runs": 14,
+   "items_run": 140
   },
   {
    "id": "github_tryon",
@@ -4289,9 +4317,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1492,
-   "runs": 13,
-   "items_run": 130
+   "elapsed_ms": 1567,
+   "runs": 14,
+   "items_run": 140
   },
   {
    "id": "github_video",
@@ -4299,9 +4327,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 7000,
-   "runs": 13,
-   "items_run": 130
+   "elapsed_ms": 6973,
+   "runs": 14,
+   "items_run": 140
   },
   {
    "id": "glossy",
@@ -4309,9 +4337,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1083,
-   "runs": 13,
-   "items_run": 260
+   "elapsed_ms": 1069,
+   "runs": 14,
+   "items_run": 280
   },
   {
    "id": "hypebeast",
@@ -4319,9 +4347,9 @@
    "status": "ok",
    "items": 19,
    "error": "",
-   "elapsed_ms": 1117,
-   "runs": 13,
-   "items_run": 247
+   "elapsed_ms": 1502,
+   "runs": 14,
+   "items_run": 266
   },
   {
    "id": "retaildive",
@@ -4329,9 +4357,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1075,
-   "runs": 13,
-   "items_run": 130
+   "elapsed_ms": 1079,
+   "runs": 14,
+   "items_run": 140
   },
   {
    "id": "wwd",
@@ -4339,30 +4367,30 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1042,
-   "runs": 13,
-   "items_run": 130
+   "elapsed_ms": 1050,
+   "runs": 14,
+   "items_run": 140
   }
  ],
  "stats": {
-  "items": 145,
+  "items": 146,
   "by_topic": {
    "tooling": 29,
    "retail": 18,
-   "fashion": 16,
+   "fashion": 17,
    "ai-video": 12,
    "research": 12,
    "beauty": 8
   },
   "by_kind": {
-   "news": 94,
+   "news": 95,
    "paper": 25,
    "repo": 26
   },
   "rules_version": "1",
-  "duplicates_in_run": 110,
+  "duplicates_in_run": 87,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-27T13:07:14+00:00",
+ "updated_at": "2026-11-27T14:07:55+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
