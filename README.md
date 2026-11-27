@@ -56,6 +56,16 @@ python3 -m radar.cli site
 `collect` is safe to run hourly; `merge` is idempotent per item id; `digest` is
 deterministic for a given day file, so re-running it produces the same page.
 
+To fill Chinese headlines before rendering the digest, run the optional translation
+step with a local chat-completions server. It stores translations in `title_zh` and
+preserves the original `title`. A later run can retry missing headlines.
+
+```bash
+python3 -m radar.translate_titles --endpoint "$LOCAL_CHAT_URL" --model "$LOCAL_CHAT_MODEL" 2026-11-26
+```
+
+中文日报同时显示中文译名和原题。可选翻译步骤只处理日报要点，并复用已保存的译名。
+
 Tests use only the standard library:
 
 ```bash

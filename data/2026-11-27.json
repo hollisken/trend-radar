@@ -28,7 +28,8 @@
      "engine": "",
      "retrieved_at": "2026-11-27T14:07:55+00:00"
     }
-   ]
+   ],
+   "title_zh": "Simone Rocha 与 (RED) 合作推出 20 周年假日系列，支持抗击艾滋病"
   },
   {
    "id": "cbe2eed85e024da8",
@@ -86,7 +87,8 @@
      "engine": "",
      "retrieved_at": "2026-11-27T13:07:14+00:00"
     }
-   ]
+   ],
+   "title_zh": "问问我的经纪人：更多时尚公司借助生成式 AI 实现增长"
   },
   {
    "id": "496803ab05901c38",
@@ -188,7 +190,8 @@
      "engine": "",
      "retrieved_at": "2026-11-27T12:07:07+00:00"
     }
-   ]
+   ],
+   "title_zh": "美国加强远程芯片访问管控，英伟达暂停向四个东南亚国家发货 AI 服务器"
   },
   {
    "id": "d8a48a3d7bd552cc",
@@ -216,7 +219,8 @@
      "engine": "",
      "retrieved_at": "2026-11-27T10:07:18+00:00"
     }
-   ]
+   ],
+   "title_zh": "Palace Skateboards 北京旗舰店的设计灵感源自长城"
   },
   {
    "id": "01c4027b84ea7e15",
@@ -1807,7 +1811,8 @@
      "Zhixin Shu",
      "Yuntian Ke"
     ]
-   }
+   },
+   "title_zh": "AnyCam：为视频生成用任意对象表征摄像机"
   },
   {
    "id": "80cd7c4f36a2508d",
@@ -1846,7 +1851,8 @@
      "Shuai Yang",
      "Wei Huang"
     ]
-   }
+   },
+   "title_zh": "Agentic LongLive：用于长视频生成的异步智能体记忆"
   },
   {
    "id": "a7e443a4dc49eac0",
@@ -1955,7 +1961,8 @@
      "Fengyuan Yu",
      "Haotian Zhang"
     ]
-   }
+   },
+   "title_zh": "用代码解决视觉问题：编程智能体的视觉推理强于视频模型"
   },
   {
    "id": "2e7c2c5fc513ed4e",
@@ -1994,7 +2001,8 @@
      "Caoliwen Wang",
      "Robert Hoang"
     ]
-   }
+   },
+   "title_zh": "WorldInteract：面向多材质交互的可控流式视频生成"
   },
   {
    "id": "32955092b4e1e7e5",
