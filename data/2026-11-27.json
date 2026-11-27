@@ -3,6 +3,52 @@
  "date": "2026-11-27",
  "items": [
   {
+   "id": "baf53ffc06397879",
+   "title": "Victoria Beckham Pre-Fall 2027: Down to Earth",
+   "url": "https://wwd.com/runway/pre-fall-2027/london/victoria-beckham/review",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-27T15:00:00+00:00",
+   "summary": "Victoria Beckham worked a rich palette of earth tones, including mustard, olive and cinnamon, into a collection that was all about everyday elegance.",
+   "topics": [],
+   "retrieved_at": "2026-11-27T15:07:08+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-27T15:07:08+00:00"
+    }
+   ]
+  },
+  {
+   "id": "211459695ac8604b",
+   "title": "New Arrivals From HBX: Hellstar",
+   "url": "https://hypebeast.com/2026/11/new-arrivals-from-hbx-hellstar-4",
+   "publisher": "Hypebeast",
+   "kind": "news",
+   "published_at": "2026-11-27T14:54:11+00:00",
+   "summary": "Brand Information: Hellstar is a Los Angeles streetwear brand that hits hard with a raw, rebellious edge. Born in 2020, it throws dark cosmic vibes, bold graphics, and punk attitude into oversized hoodies, tees, and accessories that refuse to play it safe. The brand delivers…",
+   "topics": [],
+   "retrieved_at": "2026-11-27T15:07:08+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "hypebeast",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-27T15:07:08+00:00"
+    }
+   ]
+  },
+  {
    "id": "90d3b64f62d8f89a",
    "title": "Simone Rocha Collaborates With (RED) for 20th Anniversary Holiday Collection Supporting AIDS Fight",
    "url": "https://wwd.com/fashion-news/fashion-scoops/simone-rocha-collaborates-red-20th-anniversary-aids-fight-1239465945",
@@ -4292,22 +4338,22 @@
   {
    "id": "arxiv_tryon",
    "kind": "arxiv",
-   "status": "error",
+   "status": "ok",
    "items": 10,
-   "error": "transport_TimeoutError",
-   "elapsed_ms": 20036,
-   "runs": 14,
-   "items_run": 120
+   "error": "",
+   "elapsed_ms": 2121,
+   "runs": 15,
+   "items_run": 130
   },
   {
    "id": "arxiv_video",
    "kind": "arxiv",
-   "status": "error",
+   "status": "ok",
    "items": 15,
-   "error": "http_429",
-   "elapsed_ms": 2189,
-   "runs": 14,
-   "items_run": 180
+   "error": "",
+   "elapsed_ms": 4444,
+   "runs": 15,
+   "items_run": 195
   },
   {
    "id": "footwearnews",
@@ -4315,9 +4361,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2992,
-   "runs": 14,
-   "items_run": 140
+   "elapsed_ms": 2172,
+   "runs": 15,
+   "items_run": 150
   },
   {
    "id": "github_tryon",
@@ -4325,9 +4371,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1567,
-   "runs": 14,
-   "items_run": 140
+   "elapsed_ms": 1518,
+   "runs": 15,
+   "items_run": 150
   },
   {
    "id": "github_video",
@@ -4335,9 +4381,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 6973,
-   "runs": 14,
-   "items_run": 140
+   "elapsed_ms": 7143,
+   "runs": 15,
+   "items_run": 150
   },
   {
    "id": "glossy",
@@ -4345,9 +4391,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1069,
-   "runs": 14,
-   "items_run": 280
+   "elapsed_ms": 1061,
+   "runs": 15,
+   "items_run": 300
   },
   {
    "id": "hypebeast",
@@ -4355,9 +4401,9 @@
    "status": "ok",
    "items": 19,
    "error": "",
-   "elapsed_ms": 1502,
-   "runs": 14,
-   "items_run": 266
+   "elapsed_ms": 1122,
+   "runs": 15,
+   "items_run": 285
   },
   {
    "id": "retaildive",
@@ -4365,9 +4411,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1079,
-   "runs": 14,
-   "items_run": 140
+   "elapsed_ms": 1072,
+   "runs": 15,
+   "items_run": 150
   },
   {
    "id": "wwd",
@@ -4375,13 +4421,13 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1050,
-   "runs": 14,
-   "items_run": 140
+   "elapsed_ms": 1046,
+   "runs": 15,
+   "items_run": 150
   }
  ],
  "stats": {
-  "items": 146,
+  "items": 148,
   "by_topic": {
    "tooling": 29,
    "retail": 18,
@@ -4391,14 +4437,14 @@
    "beauty": 8
   },
   "by_kind": {
-   "news": 95,
+   "news": 97,
    "paper": 25,
    "repo": 26
   },
   "rules_version": "1",
-  "duplicates_in_run": 87,
+  "duplicates_in_run": 111,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-27T14:07:55+00:00",
+ "updated_at": "2026-11-27T15:07:08+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
