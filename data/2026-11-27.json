@@ -3,6 +3,29 @@
  "date": "2026-11-27",
  "items": [
   {
+   "id": "b869add57c917423",
+   "title": "Rockstar Developers Detail the 'GTA VI' Features That Got Cut",
+   "url": "https://hypebeast.com/2026/11/rockstar-games-grand-theft-auto-gta-vi-developers-reveal-features-didnt-make-game",
+   "publisher": "Hypebeast",
+   "kind": "news",
+   "published_at": "2026-11-27T07:40:32+00:00",
+   "summary": "Summary Rockstar North developers revealed in an interview with German outlet 'PC Games' that several planned 'GTA VI' features were scrapped during developmentTennis, cinema and theater visits, crawling, home decorating and crafting were all considered before being droppedThe…",
+   "topics": [],
+   "retrieved_at": "2026-11-27T08:07:04+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "hypebeast",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-27T08:07:04+00:00"
+    }
+   ]
+  },
+  {
    "id": "b768033646bca449",
    "title": "Official Images of the Cactus Plant Flea Market x Nike Flea 1 \"Barley\"",
    "url": "https://hypebeast.com/2026/11/cactus-plant-flea-market-cpfm-nike-flea-1-barley-iu5238-700-official-images",
@@ -3821,22 +3844,22 @@
   {
    "id": "arxiv_tryon",
    "kind": "arxiv",
-   "status": "error",
+   "status": "ok",
    "items": 10,
-   "error": "transport_TimeoutError",
-   "elapsed_ms": 17120,
-   "runs": 8,
-   "items_run": 70
+   "error": "",
+   "elapsed_ms": 2445,
+   "runs": 9,
+   "items_run": 80
   },
   {
    "id": "arxiv_video",
    "kind": "arxiv",
-   "status": "error",
+   "status": "ok",
    "items": 15,
-   "error": "transport_TimeoutError",
-   "elapsed_ms": 17062,
-   "runs": 8,
-   "items_run": 105
+   "error": "",
+   "elapsed_ms": 3129,
+   "runs": 9,
+   "items_run": 120
   },
   {
    "id": "footwearnews",
@@ -3844,9 +3867,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2182,
-   "runs": 8,
-   "items_run": 80
+   "elapsed_ms": 2141,
+   "runs": 9,
+   "items_run": 90
   },
   {
    "id": "github_tryon",
@@ -3854,9 +3877,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1556,
-   "runs": 8,
-   "items_run": 80
+   "elapsed_ms": 1600,
+   "runs": 9,
+   "items_run": 90
   },
   {
    "id": "github_video",
@@ -3864,9 +3887,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 6925,
-   "runs": 8,
-   "items_run": 80
+   "elapsed_ms": 6823,
+   "runs": 9,
+   "items_run": 90
   },
   {
    "id": "glossy",
@@ -3874,9 +3897,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1062,
-   "runs": 8,
-   "items_run": 160
+   "elapsed_ms": 1099,
+   "runs": 9,
+   "items_run": 180
   },
   {
    "id": "hypebeast",
@@ -3884,9 +3907,9 @@
    "status": "ok",
    "items": 19,
    "error": "",
-   "elapsed_ms": 1203,
-   "runs": 8,
-   "items_run": 152
+   "elapsed_ms": 1133,
+   "runs": 9,
+   "items_run": 171
   },
   {
    "id": "retaildive",
@@ -3894,9 +3917,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1117,
-   "runs": 8,
-   "items_run": 80
+   "elapsed_ms": 1066,
+   "runs": 9,
+   "items_run": 90
   },
   {
    "id": "wwd",
@@ -3904,13 +3927,13 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1052,
-   "runs": 8,
-   "items_run": 80
+   "elapsed_ms": 1046,
+   "runs": 9,
+   "items_run": 90
   }
  ],
  "stats": {
-  "items": 129,
+  "items": 130,
   "by_topic": {
    "tooling": 25,
    "retail": 15,
@@ -3920,14 +3943,14 @@
    "beauty": 8
   },
   "by_kind": {
-   "news": 81,
+   "news": 82,
    "paper": 25,
    "repo": 23
   },
   "rules_version": "1",
-  "duplicates_in_run": 78,
+  "duplicates_in_run": 111,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-27T07:07:17+00:00",
+ "updated_at": "2026-11-27T08:07:04+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
