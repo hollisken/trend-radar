@@ -1423,6 +1423,39 @@
    ]
   },
   {
+   "id": "9113af48b8001f05",
+   "title": "caoyucheng9510/yc-h3-engine",
+   "url": "https://github.com/caoyucheng9510/yc-h3-engine",
+   "publisher": "caoyucheng9510",
+   "kind": "repo",
+   "published_at": "2026-11-25T15:50:19+00:00",
+   "summary": "Multi-provider execution engine for MiniMax-H3 video generation (RunningHub / Chenyu / Colab)",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    }
+   ],
+   "retrieved_at": "2026-11-27T02:07:15+00:00",
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "github_video",
+     "collector": "us-west-3",
+     "via": "GitHub API",
+     "engine": "",
+     "retrieved_at": "2026-11-27T02:07:15+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 3,
+    "language": "Python",
+    "topics": []
+   }
+  },
+  {
    "id": "9fba8167a833d872",
    "title": "Rick Owens Updates Moncler’s Trailgrip Boot in Newest Collab",
    "url": "https://wwd.com/footwear-news/shoe-industry-news/rick-owens-moncler-trailgrip-pentalace-boot-release-date-1239465848",
@@ -3421,9 +3454,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2401,
-   "runs": 2,
-   "items_run": 20
+   "elapsed_ms": 2134,
+   "runs": 3,
+   "items_run": 30
   },
   {
    "id": "arxiv_video",
@@ -3431,9 +3464,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 3625,
-   "runs": 2,
-   "items_run": 30
+   "elapsed_ms": 3740,
+   "runs": 3,
+   "items_run": 45
   },
   {
    "id": "footwearnews",
@@ -3441,9 +3474,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2176,
-   "runs": 2,
-   "items_run": 20
+   "elapsed_ms": 2197,
+   "runs": 3,
+   "items_run": 30
   },
   {
    "id": "github_tryon",
@@ -3451,9 +3484,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1536,
-   "runs": 2,
-   "items_run": 20
+   "elapsed_ms": 1456,
+   "runs": 3,
+   "items_run": 30
   },
   {
    "id": "github_video",
@@ -3461,9 +3494,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 6977,
-   "runs": 2,
-   "items_run": 20
+   "elapsed_ms": 6968,
+   "runs": 3,
+   "items_run": 30
   },
   {
    "id": "glossy",
@@ -3471,9 +3504,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1061,
-   "runs": 2,
-   "items_run": 40
+   "elapsed_ms": 1096,
+   "runs": 3,
+   "items_run": 60
   },
   {
    "id": "hypebeast",
@@ -3481,9 +3514,9 @@
    "status": "ok",
    "items": 19,
    "error": "",
-   "elapsed_ms": 5086,
-   "runs": 2,
-   "items_run": 38
+   "elapsed_ms": 1144,
+   "runs": 3,
+   "items_run": 57
   },
   {
    "id": "retaildive",
@@ -3491,9 +3524,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1056,
-   "runs": 2,
-   "items_run": 20
+   "elapsed_ms": 1076,
+   "runs": 3,
+   "items_run": 30
   },
   {
    "id": "wwd",
@@ -3501,15 +3534,15 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1045,
-   "runs": 2,
-   "items_run": 20
+   "elapsed_ms": 1046,
+   "runs": 3,
+   "items_run": 30
   }
  ],
  "stats": {
-  "items": 114,
+  "items": 115,
   "by_topic": {
-   "tooling": 24,
+   "tooling": 25,
    "ai-video": 12,
    "research": 12,
    "retail": 11,
@@ -3519,12 +3552,12 @@
   "by_kind": {
    "news": 67,
    "paper": 25,
-   "repo": 22
+   "repo": 23
   },
   "rules_version": "1",
-  "duplicates_in_run": 110,
+  "duplicates_in_run": 111,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-27T01:07:16+00:00",
+ "updated_at": "2026-11-27T02:07:15+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
