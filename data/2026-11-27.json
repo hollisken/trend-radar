@@ -3,6 +3,52 @@
  "date": "2026-11-27",
  "items": [
   {
+   "id": "eb7957b0ffa2f84c",
+   "title": "The Best Black Friday Clothing Deals, According to My Most Stylish Colleagues",
+   "url": "https://wwd.com/shop/shop-fashion/black-friday-cyber-monday-2026-clothing-deals-editor-picks-1239467857",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-27T23:06:53+00:00",
+   "summary": "From life-changing Uggs to perfectly fitting Levi's, my fellow commerce editors and I reveal the fashion finds worthy of our own Black Friday shopping carts.",
+   "topics": [],
+   "retrieved_at": "2026-11-27T23:07:13+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-27T23:07:13+00:00"
+    }
+   ]
+  },
+  {
+   "id": "bf8b63e686d073ae",
+   "title": "What to Know About Macy’s Viral Black Friday Diamonds Sale, With Bracelets, Rings & Earrings Up to 80% Off",
+   "url": "https://wwd.com/shop/shop-fashion/macys-diamond-tennis-bracelet-ring-jewelry-black-friday-sale-1239467774",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-27T22:15:35+00:00",
+   "summary": "The promotion highlights Macy's customer-favorite line of lab-grown diamonds, which promise the same quality and clarity as natural diamonds, at a much more attractive price point.",
+   "topics": [],
+   "retrieved_at": "2026-11-27T23:07:13+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-27T23:07:13+00:00"
+    }
+   ]
+  },
+  {
    "id": "606df885ac6c51f8",
    "title": "There’s More to Adidas Than the Samba, and Its Black Friday Sale Is Proof — With Shoes Up to 60% Off",
    "url": "https://wwd.com/shop/shop-shoes/adidas-black-friday-sale-trending-sneaker-deals-1239467792",
@@ -4829,9 +4875,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2106,
-   "runs": 20,
-   "items_run": 180
+   "elapsed_ms": 2446,
+   "runs": 21,
+   "items_run": 190
   },
   {
    "id": "arxiv_video",
@@ -4839,9 +4885,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 3474,
-   "runs": 20,
-   "items_run": 270
+   "elapsed_ms": 3516,
+   "runs": 21,
+   "items_run": 285
   },
   {
    "id": "footwearnews",
@@ -4849,9 +4895,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2204,
-   "runs": 20,
-   "items_run": 200
+   "elapsed_ms": 2226,
+   "runs": 21,
+   "items_run": 210
   },
   {
    "id": "github_tryon",
@@ -4859,9 +4905,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1494,
-   "runs": 20,
-   "items_run": 200
+   "elapsed_ms": 1451,
+   "runs": 21,
+   "items_run": 210
   },
   {
    "id": "github_video",
@@ -4869,9 +4915,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 6919,
-   "runs": 20,
-   "items_run": 200
+   "elapsed_ms": 6977,
+   "runs": 21,
+   "items_run": 210
   },
   {
    "id": "glossy",
@@ -4879,9 +4925,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1059,
-   "runs": 20,
-   "items_run": 400
+   "elapsed_ms": 1057,
+   "runs": 21,
+   "items_run": 420
   },
   {
    "id": "hypebeast",
@@ -4889,9 +4935,9 @@
    "status": "ok",
    "items": 19,
    "error": "",
-   "elapsed_ms": 1140,
-   "runs": 20,
-   "items_run": 385
+   "elapsed_ms": 1143,
+   "runs": 21,
+   "items_run": 405
   },
   {
    "id": "retaildive",
@@ -4899,9 +4945,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1067,
-   "runs": 20,
-   "items_run": 200
+   "elapsed_ms": 1057,
+   "runs": 21,
+   "items_run": 210
   },
   {
    "id": "wwd",
@@ -4909,13 +4955,13 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1052,
-   "runs": 20,
-   "items_run": 200
+   "elapsed_ms": 1774,
+   "runs": 21,
+   "items_run": 210
   }
  ],
  "stats": {
-  "items": 167,
+  "items": 169,
   "by_topic": {
    "tooling": 30,
    "fashion": 20,
@@ -4925,14 +4971,14 @@
    "beauty": 9
   },
   "by_kind": {
-   "news": 115,
+   "news": 117,
    "paper": 25,
    "repo": 27
   },
   "rules_version": "1",
-  "duplicates_in_run": 114,
+  "duplicates_in_run": 113,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-27T22:07:07+00:00",
+ "updated_at": "2026-11-27T23:07:13+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
