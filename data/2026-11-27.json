@@ -3,6 +3,81 @@
  "date": "2026-11-27",
  "items": [
   {
+   "id": "f06a97c09349c6b0",
+   "title": "Lola Blankets’ Black Friday Sale Has Us Shopping for the Chicest Winter Home Essentials at 50% Off",
+   "url": "https://wwd.com/shop/shop-home/lola-blankets-black-friday-sale-discount-code-2026-1239467535",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-27T17:25:42+00:00",
+   "summary": "Sumptuous textures, sophisticated neutrals, and playful prints are all on the shopping agenda.",
+   "topics": [],
+   "retrieved_at": "2026-11-27T18:07:04+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-27T18:07:04+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ebcf402996fa4f06",
+   "title": "Where to Watch the (Postponed) 2026 Macy’s Thanksgiving Day Parade Online for Free",
+   "url": "https://wwd.com/shop/shop-fashion/how-to-watch-2026-macys-thanksgiving-day-parade-online-free-1239465042",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-27T17:21:02+00:00",
+   "summary": "Plus: see a list of performers and celebrities who are helping to celebrate the parade's 100th anniversary this year.",
+   "topics": [],
+   "retrieved_at": "2026-11-27T18:07:04+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-27T18:07:04+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ad0291988f8db73c",
+   "title": "Martine Rose’s Latest Nike Is All Business, With a Little Track and Field",
+   "url": "https://hypebeast.com/2026/11/martine-rose-nike-mr-trax-sp-release-date",
+   "publisher": "Hypebeast",
+   "kind": "news",
+   "published_at": "2026-11-27T17:20:05+00:00",
+   "summary": "Summary Martine Rose’s latest Nike collaboration, the MR Trax SP, reimagines competitive track footwear as a low-profile women’s lifestyle sneaker.Reminiscent of Nike’s Skylon franchise, the silhouette features a pointed toe, intricately layered upper, and molded spike detailing…",
+   "topics": [
+    {
+     "name": "fashion",
+     "score": 0.33
+    }
+   ],
+   "retrieved_at": "2026-11-27T18:07:04+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "hypebeast",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-27T18:07:04+00:00"
+    }
+   ],
+   "title_zh": "Martine Rose 最新 Nike 系列主打商务风，融入田径元素"
+  },
+  {
    "id": "c7936de466a6a947",
    "title": "Get Augustinus Bader at Duty-Free Prices, With This 25% Off Deal for Black Friday",
    "url": "https://wwd.com/shop/shop-beauty/augustinus-bader-black-friday-sale-2026-rich-cream-discount-1239461358",
@@ -22,6 +97,29 @@
      "via": "RSS",
      "engine": "",
      "retrieved_at": "2026-11-27T17:07:07+00:00"
+    }
+   ]
+  },
+  {
+   "id": "4559e8a5fad20196",
+   "title": "Iris Van Herpen Will Unveil a New Sculpture at Design Miami",
+   "url": "https://wwd.com/fashion-news/designer-luxury/iris-van-herpen-design-miami-perrier-1239467559",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-27T16:35:42+00:00",
+   "summary": "The Dutch couturier is the inaugural recipient of the Perrier-Jouët Design for Nature Award, and was given carte blanche to create the new work, which took 800 hours.",
+   "topics": [],
+   "retrieved_at": "2026-11-27T18:07:04+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-27T18:07:04+00:00"
     }
    ]
   },
@@ -57,6 +155,29 @@
     }
    ],
    "title_zh": "Stone Island米兰旗舰店本身就是一座材料研究实验室"
+  },
+  {
+   "id": "4f36e6dced00908d",
+   "title": "Jennifer Lopez Brings Old Hollywood Showgirl Glamour to Thanksgiving With Her Las Vegas Wardrobe",
+   "url": "https://wwd.com/pop-culture/celebrity-news/jennifer-lopez-thanksgiving-special-outfits-2026-1239467554",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-27T16:27:32+00:00",
+   "summary": "The singer turned to The Blonds, Charbel Zoé and Victoria’s Secret for her concert wardrobe, curated by longtime stylists Rob Zangardi and Mariel Haenn.",
+   "topics": [],
+   "retrieved_at": "2026-11-27T18:07:04+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-27T18:07:04+00:00"
+    }
+   ]
   },
   {
    "id": "7b465e699c070cf7",
@@ -129,6 +250,34 @@
      "via": "RSS",
      "engine": "",
      "retrieved_at": "2026-11-27T15:07:08+00:00"
+    }
+   ]
+  },
+  {
+   "id": "e2eb9c62cb0bf138",
+   "title": "Edison Chen’s Clot and Chow Tai Fook Reunite for Bamboo-Inspired Collection",
+   "url": "https://wwd.com/accessories-news/jewelry/edison-chens-clot-chow-tai-fook-bamboo-inspired-collection-1239466689",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-27T14:55:00+00:00",
+   "summary": "The collection launched with a pop-up at Juice Shanghai on Friday and goes on sale at select Juice stores worldwide the same day.",
+   "topics": [
+    {
+     "name": "fashion",
+     "score": 0.67
+    }
+   ],
+   "retrieved_at": "2026-11-27T18:07:04+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-27T18:07:04+00:00"
     }
    ]
   },
@@ -850,6 +999,34 @@
      "via": "RSS",
      "engine": "",
      "retrieved_at": "2026-11-27T07:07:17+00:00"
+    }
+   ]
+  },
+  {
+   "id": "365b06612debb169",
+   "title": "Nike Opens First-ever Running Store on Shanghai’s Xinle Road",
+   "url": "https://wwd.com/footwear-news/shoe-industry-news/nike-first-ever-running-store-on-shanghais-xinle-road-1239467274",
+   "publisher": "Footwear News",
+   "kind": "news",
+   "published_at": "2026-11-27T05:59:46+00:00",
+   "summary": "The two-story store puts community first and features exclusive products designed for the upcoming Shanghai Marathon.",
+   "topics": [
+    {
+     "name": "retail",
+     "score": 0.67
+    }
+   ],
+   "retrieved_at": "2026-11-27T18:07:04+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "footwearnews",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-27T18:07:04+00:00"
     }
    ]
   },
@@ -4481,9 +4658,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2620,
-   "runs": 16,
-   "items_run": 140
+   "elapsed_ms": 2104,
+   "runs": 17,
+   "items_run": 150
   },
   {
    "id": "arxiv_video",
@@ -4491,9 +4668,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 3269,
-   "runs": 16,
-   "items_run": 210
+   "elapsed_ms": 4467,
+   "runs": 17,
+   "items_run": 225
   },
   {
    "id": "footwearnews",
@@ -4501,9 +4678,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2234,
-   "runs": 16,
-   "items_run": 160
+   "elapsed_ms": 2183,
+   "runs": 17,
+   "items_run": 170
   },
   {
    "id": "github_tryon",
@@ -4511,9 +4688,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1519,
-   "runs": 16,
-   "items_run": 160
+   "elapsed_ms": 1506,
+   "runs": 17,
+   "items_run": 170
   },
   {
    "id": "github_video",
@@ -4521,9 +4698,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 6957,
-   "runs": 16,
-   "items_run": 160
+   "elapsed_ms": 6972,
+   "runs": 17,
+   "items_run": 170
   },
   {
    "id": "glossy",
@@ -4531,9 +4708,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1061,
-   "runs": 16,
-   "items_run": 320
+   "elapsed_ms": 1079,
+   "runs": 17,
+   "items_run": 340
   },
   {
    "id": "hypebeast",
@@ -4541,9 +4718,9 @@
    "status": "ok",
    "items": 19,
    "error": "",
-   "elapsed_ms": 2384,
-   "runs": 16,
-   "items_run": 305
+   "elapsed_ms": 1156,
+   "runs": 17,
+   "items_run": 325
   },
   {
    "id": "retaildive",
@@ -4551,9 +4728,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1063,
-   "runs": 16,
-   "items_run": 160
+   "elapsed_ms": 1061,
+   "runs": 17,
+   "items_run": 170
   },
   {
    "id": "wwd",
@@ -4562,29 +4739,29 @@
    "items": 10,
    "error": "",
    "elapsed_ms": 1048,
-   "runs": 16,
-   "items_run": 160
+   "runs": 17,
+   "items_run": 170
   }
  ],
  "stats": {
-  "items": 153,
+  "items": 160,
   "by_topic": {
    "tooling": 30,
-   "fashion": 18,
-   "retail": 18,
+   "fashion": 20,
+   "retail": 19,
    "ai-video": 12,
    "research": 12,
    "beauty": 9
   },
   "by_kind": {
-   "news": 101,
+   "news": 108,
    "paper": 25,
    "repo": 27
   },
   "rules_version": "1",
-  "duplicates_in_run": 109,
+  "duplicates_in_run": 108,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-27T17:07:07+00:00",
+ "updated_at": "2026-11-27T18:07:04+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
