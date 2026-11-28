@@ -3722,21 +3722,21 @@
   {
    "id": "arxiv_tryon",
    "kind": "arxiv",
-   "status": "ok",
+   "status": "error",
    "items": 10,
-   "error": "",
-   "elapsed_ms": 2590,
-   "runs": 11,
+   "error": "transport_TimeoutError",
+   "elapsed_ms": 17104,
+   "runs": 12,
    "items_run": 110
   },
   {
    "id": "arxiv_video",
    "kind": "arxiv",
-   "status": "ok",
+   "status": "error",
    "items": 15,
-   "error": "",
-   "elapsed_ms": 3665,
-   "runs": 11,
+   "error": "http_429",
+   "elapsed_ms": 12593,
+   "runs": 12,
    "items_run": 165
   },
   {
@@ -3745,9 +3745,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2220,
-   "runs": 11,
-   "items_run": 110
+   "elapsed_ms": 2186,
+   "runs": 12,
+   "items_run": 120
   },
   {
    "id": "github_tryon",
@@ -3755,9 +3755,9 @@
    "status": "ok",
    "items": 0,
    "error": "",
-   "elapsed_ms": 1464,
-   "runs": 11,
-   "items_run": 100
+   "elapsed_ms": 1624,
+   "runs": 12,
+   "items_run": 110
   },
   {
    "id": "github_video",
@@ -3765,9 +3765,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 7038,
-   "runs": 11,
-   "items_run": 110
+   "elapsed_ms": 7089,
+   "runs": 12,
+   "items_run": 120
   },
   {
    "id": "glossy",
@@ -3775,9 +3775,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1075,
-   "runs": 11,
-   "items_run": 220
+   "elapsed_ms": 1071,
+   "runs": 12,
+   "items_run": 240
   },
   {
    "id": "hypebeast",
@@ -3785,9 +3785,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1172,
-   "runs": 11,
-   "items_run": 220
+   "elapsed_ms": 1129,
+   "runs": 12,
+   "items_run": 240
   },
   {
    "id": "retaildive",
@@ -3795,9 +3795,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1072,
-   "runs": 11,
-   "items_run": 110
+   "elapsed_ms": 1050,
+   "runs": 12,
+   "items_run": 120
   },
   {
    "id": "wwd",
@@ -3805,9 +3805,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1042,
-   "runs": 11,
-   "items_run": 110
+   "elapsed_ms": 1048,
+   "runs": 12,
+   "items_run": 120
   }
  ],
  "stats": {
@@ -3826,9 +3826,9 @@
    "repo": 22
   },
   "rules_version": "1",
-  "duplicates_in_run": 114,
+  "duplicates_in_run": 90,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-28T12:07:22+00:00",
+ "updated_at": "2026-11-28T14:07:12+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
