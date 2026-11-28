@@ -469,6 +469,39 @@
    ]
   },
   {
+   "id": "01c4027b84ea7e15",
+   "title": "ugurkarakas/virtual-try-on",
+   "url": "https://github.com/ugurkarakas/virtual-try-on",
+   "publisher": "ugurkarakas",
+   "kind": "repo",
+   "published_at": "2026-11-27T09:44:48+00:00",
+   "summary": "",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    }
+   ],
+   "retrieved_at": "2026-11-28T01:07:13+00:00",
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "github_tryon",
+     "collector": "us-west-3",
+     "via": "GitHub API",
+     "engine": "",
+     "retrieved_at": "2026-11-28T01:07:13+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 0,
+    "language": "JavaScript",
+    "topics": []
+   }
+  },
+  {
    "id": "d3790c2da4f18aba",
    "title": "Innioasis Launches the Y2, a $79.99 USD Music Player That Brings Back iPod-Style Scrolling",
    "url": "https://hypebeast.com/2026/11/innioasis-y2-music-player-debuts-with-touch-scroll-ring",
@@ -495,6 +528,39 @@
      "retrieved_at": "2026-11-28T00:07:08+00:00"
     }
    ]
+  },
+  {
+   "id": "88c53ddac227ca6b",
+   "title": "vaidsakina/Virtual_try_on",
+   "url": "https://github.com/vaidsakina/Virtual_try_on",
+   "publisher": "vaidsakina",
+   "kind": "repo",
+   "published_at": "2026-11-27T09:13:26+00:00",
+   "summary": "",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    }
+   ],
+   "retrieved_at": "2026-11-28T01:07:13+00:00",
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "github_tryon",
+     "collector": "us-west-3",
+     "via": "GitHub API",
+     "engine": "",
+     "retrieved_at": "2026-11-28T01:07:13+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 0,
+    "language": "Python",
+    "topics": []
+   }
   },
   {
    "id": "f7d9cbc413313d60",
@@ -954,6 +1020,39 @@
    ]
   },
   {
+   "id": "d38ce787434a99ae",
+   "title": "Balajikumaresan10/virtual_try_on",
+   "url": "https://github.com/Balajikumaresan10/virtual_try_on",
+   "publisher": "Balajikumaresan10",
+   "kind": "repo",
+   "published_at": "2026-11-26T13:32:10+00:00",
+   "summary": "",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    }
+   ],
+   "retrieved_at": "2026-11-28T01:07:13+00:00",
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "github_tryon",
+     "collector": "us-west-3",
+     "via": "GitHub API",
+     "engine": "",
+     "retrieved_at": "2026-11-28T01:07:13+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 0,
+    "language": null,
+    "topics": []
+   }
+  },
+  {
    "id": "e5d6afdb597f9ac1",
    "title": "Kling-Keye/VibeVideoAgent",
    "url": "https://github.com/Kling-Keye/VibeVideoAgent",
@@ -990,6 +1089,72 @@
      "coding-agents",
      "gemini"
     ]
+   }
+  },
+  {
+   "id": "6b24a7a3419a56ed",
+   "title": "qunqun-guo/Virtual-Try-On",
+   "url": "https://github.com/qunqun-guo/Virtual-Try-On",
+   "publisher": "qunqun-guo",
+   "kind": "repo",
+   "published_at": "2026-11-26T08:11:56+00:00",
+   "summary": "",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    }
+   ],
+   "retrieved_at": "2026-11-28T01:07:13+00:00",
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "github_tryon",
+     "collector": "us-west-3",
+     "via": "GitHub API",
+     "engine": "",
+     "retrieved_at": "2026-11-28T01:07:13+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 0,
+    "language": null,
+    "topics": []
+   }
+  },
+  {
+   "id": "5541c94072547b15",
+   "title": "thanhnghi62952-create/Virtual_try_on",
+   "url": "https://github.com/thanhnghi62952-create/Virtual_try_on",
+   "publisher": "thanhnghi62952-create",
+   "kind": "repo",
+   "published_at": "2026-11-26T07:33:29+00:00",
+   "summary": "",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    }
+   ],
+   "retrieved_at": "2026-11-28T01:07:13+00:00",
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "github_tryon",
+     "collector": "us-west-3",
+     "via": "GitHub API",
+     "engine": "",
+     "retrieved_at": "2026-11-28T01:07:13+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 0,
+    "language": null,
+    "topics": []
    }
   },
   {
@@ -1561,6 +1726,39 @@
    }
   },
   {
+   "id": "443a33e4a7a824d1",
+   "title": "codeby-narendra/visual-try-on",
+   "url": "https://github.com/codeby-narendra/visual-try-on",
+   "publisher": "codeby-narendra",
+   "kind": "repo",
+   "published_at": "2026-11-25T15:04:21+00:00",
+   "summary": "AI Virtual Try-On Studio",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    }
+   ],
+   "retrieved_at": "2026-11-28T01:07:13+00:00",
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "github_tryon",
+     "collector": "us-west-3",
+     "via": "GitHub API",
+     "engine": "",
+     "retrieved_at": "2026-11-28T01:07:13+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 0,
+    "language": "JavaScript",
+    "topics": []
+   }
+  },
+  {
    "id": "86a4f413ac46725a",
    "title": "ProxyGenBench: Benchmarking Proxy-Guided Video Generation",
    "url": "http://arxiv.org/abs/2611.34457v1",
@@ -1921,6 +2119,39 @@
    }
   },
   {
+   "id": "66a577e6da60870b",
+   "title": "manibharathi1964/Al-Virtual-Dress-TryOn",
+   "url": "https://github.com/manibharathi1964/Al-Virtual-Dress-TryOn",
+   "publisher": "manibharathi1964",
+   "kind": "repo",
+   "published_at": "2026-11-25T09:30:15+00:00",
+   "summary": "",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    }
+   ],
+   "retrieved_at": "2026-11-28T01:07:13+00:00",
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "github_tryon",
+     "collector": "us-west-3",
+     "via": "GitHub API",
+     "engine": "",
+     "retrieved_at": "2026-11-28T01:07:13+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 0,
+    "language": "Kotlin",
+    "topics": []
+   }
+  },
+  {
    "id": "70e07686fd0ae321",
    "title": "ghost233lism/StateWeaver",
    "url": "https://github.com/ghost233lism/StateWeaver",
@@ -2061,6 +2292,39 @@
    }
   },
   {
+   "id": "68b28d8deb79fd2c",
+   "title": "Immad-Baber/Virtual-TryOn",
+   "url": "https://github.com/Immad-Baber/Virtual-TryOn",
+   "publisher": "Immad-Baber",
+   "kind": "repo",
+   "published_at": "2026-11-25T05:14:06+00:00",
+   "summary": "",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    }
+   ],
+   "retrieved_at": "2026-11-28T01:07:13+00:00",
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "github_tryon",
+     "collector": "us-west-3",
+     "via": "GitHub API",
+     "engine": "",
+     "retrieved_at": "2026-11-28T01:07:13+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 0,
+    "language": "Jupyter Notebook",
+    "topics": []
+   }
+  },
+  {
    "id": "f9bf3c95fce59d35",
    "title": "Wellness Briefing: How should the wellness section be organized in 2027?",
    "url": "https://www.glossy.co/beauty/wellness/wellness-briefing-how-should-the-wellness-section-be-organized-in-2027",
@@ -2105,6 +2369,39 @@
      "retrieved_at": "2026-11-28T00:07:08+00:00"
     }
    ]
+  },
+  {
+   "id": "cf06c65301733ee2",
+   "title": "ricardochl/virtual-try-on",
+   "url": "https://github.com/ricardochl/virtual-try-on",
+   "publisher": "ricardochl",
+   "kind": "repo",
+   "published_at": "2026-11-24T20:35:08+00:00",
+   "summary": "Virtual try-on for an online store with Angular 21 and Firebase AI Logic: Nano Banana generates you wearing the garment, no backend needed.",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    }
+   ],
+   "retrieved_at": "2026-11-28T01:07:13+00:00",
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "github_tryon",
+     "collector": "us-west-3",
+     "via": "GitHub API",
+     "engine": "",
+     "retrieved_at": "2026-11-28T01:07:13+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 0,
+    "language": "TypeScript",
+    "topics": []
+   }
   },
   {
    "id": "d320f66f18c49542",
@@ -2630,6 +2927,39 @@
    ]
   },
   {
+   "id": "714accc0d94907a1",
+   "title": "PeiXiaoMeng/ai-cloth",
+   "url": "https://github.com/PeiXiaoMeng/ai-cloth",
+   "publisher": "PeiXiaoMeng",
+   "kind": "repo",
+   "published_at": "2026-11-23T03:35:23+00:00",
+   "summary": "AI-powered virtual try-on platform: full-stack implementation with NestJS + Prisma + AI image generation, featuring quota management, image pipelines and role-based admin",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    }
+   ],
+   "retrieved_at": "2026-11-28T01:07:13+00:00",
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "github_tryon",
+     "collector": "us-west-3",
+     "via": "GitHub API",
+     "engine": "",
+     "retrieved_at": "2026-11-28T01:07:13+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 1,
+    "language": "TypeScript",
+    "topics": []
+   }
+  },
+  {
    "id": "d02aca33ca85a2b3",
    "title": "Get it while it’s hot: The bakeries snagging major beauty and fashion collaborations",
    "url": "https://www.glossy.co/pop/get-it-while-its-hot-the-bakeries-snagging-major-beauty-and-fashion-collaborations",
@@ -3109,9 +3439,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2105,
-   "runs": 1,
-   "items_run": 10
+   "elapsed_ms": 2503,
+   "runs": 2,
+   "items_run": 20
   },
   {
    "id": "arxiv_video",
@@ -3119,9 +3449,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 3470,
-   "runs": 1,
-   "items_run": 15
+   "elapsed_ms": 3545,
+   "runs": 2,
+   "items_run": 30
   },
   {
    "id": "footwearnews",
@@ -3129,19 +3459,19 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2133,
-   "runs": 1,
-   "items_run": 10
+   "elapsed_ms": 2198,
+   "runs": 2,
+   "items_run": 20
   },
   {
    "id": "github_tryon",
    "kind": "github",
-   "status": "error",
+   "status": "ok",
    "items": 0,
-   "error": "http_403",
-   "elapsed_ms": 1058,
-   "runs": 1,
-   "items_run": 0
+   "error": "",
+   "elapsed_ms": 1433,
+   "runs": 2,
+   "items_run": 10
   },
   {
    "id": "github_video",
@@ -3149,9 +3479,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 7399,
-   "runs": 1,
-   "items_run": 10
+   "elapsed_ms": 7001,
+   "runs": 2,
+   "items_run": 20
   },
   {
    "id": "glossy",
@@ -3159,9 +3489,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1054,
-   "runs": 1,
-   "items_run": 20
+   "elapsed_ms": 1072,
+   "runs": 2,
+   "items_run": 40
   },
   {
    "id": "hypebeast",
@@ -3169,9 +3499,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1154,
-   "runs": 1,
-   "items_run": 20
+   "elapsed_ms": 1131,
+   "runs": 2,
+   "items_run": 40
   },
   {
    "id": "retaildive",
@@ -3179,9 +3509,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1057,
-   "runs": 1,
-   "items_run": 10
+   "elapsed_ms": 1135,
+   "runs": 2,
+   "items_run": 20
   },
   {
    "id": "wwd",
@@ -3190,29 +3520,29 @@
    "items": 10,
    "error": "",
    "elapsed_ms": 1041,
-   "runs": 1,
-   "items_run": 10
+   "runs": 2,
+   "items_run": 20
   }
  ],
  "stats": {
-  "items": 105,
+  "items": 115,
   "by_topic": {
+   "tooling": 22,
    "retail": 16,
    "ai-video": 12,
    "research": 12,
-   "tooling": 12,
    "fashion": 10,
    "beauty": 6
   },
   "by_kind": {
    "news": 70,
    "paper": 25,
-   "repo": 10
+   "repo": 20
   },
   "rules_version": "1",
-  "duplicates_in_run": 0,
+  "duplicates_in_run": 105,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-28T00:07:08+00:00",
+ "updated_at": "2026-11-28T01:07:13+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
