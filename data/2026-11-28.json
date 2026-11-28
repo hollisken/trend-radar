@@ -3722,22 +3722,22 @@
   {
    "id": "arxiv_tryon",
    "kind": "arxiv",
-   "status": "error",
+   "status": "ok",
    "items": 10,
-   "error": "transport_TimeoutError",
-   "elapsed_ms": 17104,
-   "runs": 12,
-   "items_run": 110
+   "error": "",
+   "elapsed_ms": 2487,
+   "runs": 13,
+   "items_run": 120
   },
   {
    "id": "arxiv_video",
    "kind": "arxiv",
-   "status": "error",
+   "status": "ok",
    "items": 15,
-   "error": "http_429",
-   "elapsed_ms": 12593,
-   "runs": 12,
-   "items_run": 165
+   "error": "",
+   "elapsed_ms": 3403,
+   "runs": 13,
+   "items_run": 180
   },
   {
    "id": "footwearnews",
@@ -3745,9 +3745,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2186,
-   "runs": 12,
-   "items_run": 120
+   "elapsed_ms": 2179,
+   "runs": 13,
+   "items_run": 130
   },
   {
    "id": "github_tryon",
@@ -3755,9 +3755,9 @@
    "status": "ok",
    "items": 0,
    "error": "",
-   "elapsed_ms": 1624,
-   "runs": 12,
-   "items_run": 110
+   "elapsed_ms": 1460,
+   "runs": 13,
+   "items_run": 120
   },
   {
    "id": "github_video",
@@ -3765,9 +3765,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 7089,
-   "runs": 12,
-   "items_run": 120
+   "elapsed_ms": 6950,
+   "runs": 13,
+   "items_run": 130
   },
   {
    "id": "glossy",
@@ -3775,9 +3775,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1071,
-   "runs": 12,
-   "items_run": 240
+   "elapsed_ms": 1059,
+   "runs": 13,
+   "items_run": 260
   },
   {
    "id": "hypebeast",
@@ -3785,9 +3785,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1129,
-   "runs": 12,
-   "items_run": 240
+   "elapsed_ms": 1261,
+   "runs": 13,
+   "items_run": 260
   },
   {
    "id": "retaildive",
@@ -3795,9 +3795,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1050,
-   "runs": 12,
-   "items_run": 120
+   "elapsed_ms": 1067,
+   "runs": 13,
+   "items_run": 130
   },
   {
    "id": "wwd",
@@ -3805,9 +3805,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1048,
-   "runs": 12,
-   "items_run": 120
+   "elapsed_ms": 1050,
+   "runs": 13,
+   "items_run": 130
   }
  ],
  "stats": {
@@ -3826,9 +3826,9 @@
    "repo": 22
   },
   "rules_version": "1",
-  "duplicates_in_run": 90,
+  "duplicates_in_run": 115,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-28T14:07:12+00:00",
+ "updated_at": "2026-11-28T15:07:11+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
