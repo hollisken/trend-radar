@@ -3,6 +3,35 @@
  "date": "2026-11-28",
  "items": [
   {
+   "id": "a3737ab0397a7db4",
+   "title": "EXCLUSIVE: Blumarine and David Koma Part Ways",
+   "url": "https://wwd.com/fashion-news/designer-luxury/blumarine-david-koma-creative-director-designer-exit-brand-1239395298",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-28T09:15:35+00:00",
+   "summary": "The Georgian-born designer wraps up his two-year creative tenure with the pre-fall 2027 and fall 2027 collections to be presented jointly in January.",
+   "topics": [
+    {
+     "name": "fashion",
+     "score": 0.33
+    }
+   ],
+   "retrieved_at": "2026-11-28T10:07:14+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-28T10:07:14+00:00"
+    }
+   ],
+   "title_zh": "独家：Blumarine与David Koma分道扬镳"
+  },
+  {
    "id": "7a8061a0400610b8",
    "title": "Steven Spielberg and Paul Thomas Anderson Team up for Focus Features Western 'The Heart in Winter'",
    "url": "https://hypebeast.com/2026/11/steven-spielberg-paul-thomas-anderson-focus-features-western-the-heart-in-winter-cillian-murphy-jessie-buckley-mark-rylance-release-announcement",
@@ -3673,9 +3702,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2403,
-   "runs": 9,
-   "items_run": 90
+   "elapsed_ms": 2186,
+   "runs": 10,
+   "items_run": 100
   },
   {
    "id": "arxiv_video",
@@ -3683,9 +3712,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 3543,
-   "runs": 9,
-   "items_run": 135
+   "elapsed_ms": 3398,
+   "runs": 10,
+   "items_run": 150
   },
   {
    "id": "footwearnews",
@@ -3693,9 +3722,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2271,
-   "runs": 9,
-   "items_run": 90
+   "elapsed_ms": 2207,
+   "runs": 10,
+   "items_run": 100
   },
   {
    "id": "github_tryon",
@@ -3703,9 +3732,9 @@
    "status": "ok",
    "items": 0,
    "error": "",
-   "elapsed_ms": 1139,
-   "runs": 9,
-   "items_run": 80
+   "elapsed_ms": 1418,
+   "runs": 10,
+   "items_run": 90
   },
   {
    "id": "github_video",
@@ -3713,9 +3742,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 7203,
-   "runs": 9,
-   "items_run": 90
+   "elapsed_ms": 7068,
+   "runs": 10,
+   "items_run": 100
   },
   {
    "id": "glossy",
@@ -3723,9 +3752,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1095,
-   "runs": 9,
-   "items_run": 180
+   "elapsed_ms": 1074,
+   "runs": 10,
+   "items_run": 200
   },
   {
    "id": "hypebeast",
@@ -3733,9 +3762,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1264,
-   "runs": 9,
-   "items_run": 180
+   "elapsed_ms": 1280,
+   "runs": 10,
+   "items_run": 200
   },
   {
    "id": "retaildive",
@@ -3743,9 +3772,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1067,
-   "runs": 9,
-   "items_run": 90
+   "elapsed_ms": 1075,
+   "runs": 10,
+   "items_run": 100
   },
   {
    "id": "wwd",
@@ -3753,23 +3782,23 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1048,
-   "runs": 9,
-   "items_run": 90
+   "elapsed_ms": 1047,
+   "runs": 10,
+   "items_run": 100
   }
  ],
  "stats": {
-  "items": 123,
+  "items": 124,
   "by_topic": {
    "tooling": 25,
    "retail": 16,
+   "fashion": 13,
    "ai-video": 12,
-   "fashion": 12,
    "research": 12,
    "beauty": 7
   },
   "by_kind": {
-   "news": 76,
+   "news": 77,
    "paper": 25,
    "repo": 22
   },
@@ -3777,6 +3806,6 @@
   "duplicates_in_run": 114,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-28T09:07:24+00:00",
+ "updated_at": "2026-11-28T10:07:14+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
