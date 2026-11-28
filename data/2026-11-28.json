@@ -3,6 +3,52 @@
  "date": "2026-11-28",
  "items": [
   {
+   "id": "24811e271ccf7c2b",
+   "title": "Mckenna Grace Wears Wintery White Ensemble While Performing at Macy’s 100th Thanksgiving Day Parade",
+   "url": "https://wwd.com/pop-culture/celebrity-news/mckenna-grace-white-ensemble-macys-thanksgiving-day-parade-1239468108",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-28T17:53:18+00:00",
+   "summary": "The actress appeared in a fuzzy white mini-dress with a matching capelet as she waved to New Yorker’s from the Sherpa float.",
+   "topics": [],
+   "retrieved_at": "2026-11-28T18:07:17+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-28T18:07:17+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ce5acc0e4888e863",
+   "title": "Queen Latifah Rides NBC Peacock Float in Slouchy 424 Menswear Dragon Rider Boots at Macy’s Thanksgiving Day Parade 2026",
+   "url": "https://wwd.com/footwear-news/shoe-trends/queen-latifah-424-boots-macys-thanksgiving-day-parade-2026-1239468092",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-28T17:14:49+00:00",
+   "summary": "Latifah served as a commentator during the rescheduled parade.",
+   "topics": [],
+   "retrieved_at": "2026-11-28T18:07:17+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-28T18:07:17+00:00"
+    }
+   ]
+  },
+  {
    "id": "3a5cf78d05bae53e",
    "title": "Monica Bellucci Upgrades the LBD in Sparkling Slinky Off-The-Shoulder Fendi Gown at the 23rd Marrakech International Film Festival",
    "url": "https://wwd.com/pop-culture/celebrity-news/monica-bellucci-fendi-gown-marrakech-film-festival-1239468079",
@@ -3771,9 +3817,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2411,
-   "runs": 15,
-   "items_run": 140
+   "elapsed_ms": 2597,
+   "runs": 16,
+   "items_run": 150
   },
   {
    "id": "arxiv_video",
@@ -3781,9 +3827,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 3472,
-   "runs": 15,
-   "items_run": 210
+   "elapsed_ms": 3341,
+   "runs": 16,
+   "items_run": 225
   },
   {
    "id": "footwearnews",
@@ -3791,9 +3837,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2213,
-   "runs": 15,
-   "items_run": 150
+   "elapsed_ms": 2224,
+   "runs": 16,
+   "items_run": 160
   },
   {
    "id": "github_tryon",
@@ -3801,9 +3847,9 @@
    "status": "ok",
    "items": 0,
    "error": "",
-   "elapsed_ms": 1440,
-   "runs": 15,
-   "items_run": 140
+   "elapsed_ms": 1472,
+   "runs": 16,
+   "items_run": 150
   },
   {
    "id": "github_video",
@@ -3811,9 +3857,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 6967,
-   "runs": 15,
-   "items_run": 150
+   "elapsed_ms": 6995,
+   "runs": 16,
+   "items_run": 160
   },
   {
    "id": "glossy",
@@ -3821,9 +3867,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1099,
-   "runs": 15,
-   "items_run": 300
+   "elapsed_ms": 1056,
+   "runs": 16,
+   "items_run": 320
   },
   {
    "id": "hypebeast",
@@ -3831,9 +3877,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 4749,
-   "runs": 15,
-   "items_run": 300
+   "elapsed_ms": 1158,
+   "runs": 16,
+   "items_run": 320
   },
   {
    "id": "retaildive",
@@ -3841,9 +3887,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1072,
-   "runs": 15,
-   "items_run": 150
+   "elapsed_ms": 1061,
+   "runs": 16,
+   "items_run": 160
   },
   {
    "id": "wwd",
@@ -3851,13 +3897,13 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1049,
-   "runs": 15,
-   "items_run": 150
+   "elapsed_ms": 1794,
+   "runs": 16,
+   "items_run": 160
   }
  ],
  "stats": {
-  "items": 127,
+  "items": 129,
   "by_topic": {
    "tooling": 25,
    "retail": 16,
@@ -3867,14 +3913,14 @@
    "beauty": 7
   },
   "by_kind": {
-   "news": 80,
+   "news": 82,
    "paper": 25,
    "repo": 22
   },
   "rules_version": "1",
-  "duplicates_in_run": 114,
+  "duplicates_in_run": 113,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-28T17:07:05+00:00",
+ "updated_at": "2026-11-28T18:07:17+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
