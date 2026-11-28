@@ -3,6 +3,29 @@
  "date": "2026-11-28",
  "items": [
   {
+   "id": "7a8061a0400610b8",
+   "title": "Steven Spielberg and Paul Thomas Anderson Team up for Focus Features Western 'The Heart in Winter'",
+   "url": "https://hypebeast.com/2026/11/steven-spielberg-paul-thomas-anderson-focus-features-western-the-heart-in-winter-cillian-murphy-jessie-buckley-mark-rylance-release-announcement",
+   "publisher": "Hypebeast",
+   "kind": "news",
+   "published_at": "2026-11-28T08:00:52+00:00",
+   "summary": "Summary Steven Spielberg is officially set to direct a Western adaptation of Kevin Barry's novel 'The Heart in Winter' for Focus FeaturesOscar-winning filmmaker Paul Thomas Anderson will pen the screenplay, marking the first time he has written a film without directingThe…",
+   "topics": [],
+   "retrieved_at": "2026-11-28T09:07:24+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "hypebeast",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-28T09:07:24+00:00"
+    }
+   ]
+  },
+  {
    "id": "a6bb8d501e1e2041",
    "title": "Cozy Winter Shoe Styling Inspiration From Jennifer Lawrence, Timothée Chalamet and More Celebrities",
    "url": "https://wwd.com/footwear-news/shoe-trends/cozy-winter-shoe-inspiration-celebrity-style-1239464883",
@@ -3650,9 +3673,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2100,
-   "runs": 8,
-   "items_run": 80
+   "elapsed_ms": 2403,
+   "runs": 9,
+   "items_run": 90
   },
   {
    "id": "arxiv_video",
@@ -3660,9 +3683,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 3475,
-   "runs": 8,
-   "items_run": 120
+   "elapsed_ms": 3543,
+   "runs": 9,
+   "items_run": 135
   },
   {
    "id": "footwearnews",
@@ -3670,9 +3693,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2185,
-   "runs": 8,
-   "items_run": 80
+   "elapsed_ms": 2271,
+   "runs": 9,
+   "items_run": 90
   },
   {
    "id": "github_tryon",
@@ -3680,9 +3703,9 @@
    "status": "ok",
    "items": 0,
    "error": "",
-   "elapsed_ms": 1461,
-   "runs": 8,
-   "items_run": 70
+   "elapsed_ms": 1139,
+   "runs": 9,
+   "items_run": 80
   },
   {
    "id": "github_video",
@@ -3690,9 +3713,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 6982,
-   "runs": 8,
-   "items_run": 80
+   "elapsed_ms": 7203,
+   "runs": 9,
+   "items_run": 90
   },
   {
    "id": "glossy",
@@ -3700,9 +3723,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1062,
-   "runs": 8,
-   "items_run": 160
+   "elapsed_ms": 1095,
+   "runs": 9,
+   "items_run": 180
   },
   {
    "id": "hypebeast",
@@ -3710,9 +3733,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1143,
-   "runs": 8,
-   "items_run": 160
+   "elapsed_ms": 1264,
+   "runs": 9,
+   "items_run": 180
   },
   {
    "id": "retaildive",
@@ -3720,9 +3743,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1070,
-   "runs": 8,
-   "items_run": 80
+   "elapsed_ms": 1067,
+   "runs": 9,
+   "items_run": 90
   },
   {
    "id": "wwd",
@@ -3730,13 +3753,13 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1052,
-   "runs": 8,
-   "items_run": 80
+   "elapsed_ms": 1048,
+   "runs": 9,
+   "items_run": 90
   }
  ],
  "stats": {
-  "items": 122,
+  "items": 123,
   "by_topic": {
    "tooling": 25,
    "retail": 16,
@@ -3746,14 +3769,14 @@
    "beauty": 7
   },
   "by_kind": {
-   "news": 75,
+   "news": 76,
    "paper": 25,
    "repo": 22
   },
   "rules_version": "1",
-  "duplicates_in_run": 112,
+  "duplicates_in_run": 114,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-28T07:07:13+00:00",
+ "updated_at": "2026-11-28T09:07:24+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
