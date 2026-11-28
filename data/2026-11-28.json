@@ -3,6 +3,39 @@
  "date": "2026-11-28",
  "items": [
   {
+   "id": "7a82768ee1b36bf0",
+   "title": "‘Starboy’ Turns 10, and The Weeknd's Decade Collection Is Built for Collectors",
+   "url": "https://hypebeast.com/2026/11/the-weeknd-starboy-decade-collection-announcement-release-info",
+   "publisher": "Hypebeast",
+   "kind": "news",
+   "published_at": "2026-11-28T04:00:15+00:00",
+   "summary": "Summary The Weeknd is marking 10 years of 'Starboy' with the Decade Collection, a lineup of commemorative vinyl and CD releasesTwo numbered 7-inch singles, a picture disc and marbled double LPs head up the rangeA previously unreleased alternate video for \"I Feel It Coming\" lands…",
+   "topics": [
+    {
+     "name": "fashion",
+     "score": 0.67
+    },
+    {
+     "name": "retail",
+     "score": 0.33
+    }
+   ],
+   "retrieved_at": "2026-11-28T05:07:05+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "hypebeast",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-28T05:07:05+00:00"
+    }
+   ],
+   "title_zh": "《Starboy》发行十周年，The Weeknd的十年精选专为收藏者打造"
+  },
+  {
    "id": "a3fdcb5642d8ce52",
    "title": "longduyngn/Virtual-TryOn-ComfyUI",
    "url": "https://github.com/longduyngn/Virtual-TryOn-ComfyUI",
@@ -3472,9 +3505,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 7219,
-   "runs": 5,
-   "items_run": 50
+   "elapsed_ms": 2105,
+   "runs": 6,
+   "items_run": 60
   },
   {
    "id": "arxiv_video",
@@ -3482,9 +3515,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 2432,
-   "runs": 5,
-   "items_run": 75
+   "elapsed_ms": 3537,
+   "runs": 6,
+   "items_run": 90
   },
   {
    "id": "footwearnews",
@@ -3492,9 +3525,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2198,
-   "runs": 5,
-   "items_run": 50
+   "elapsed_ms": 2176,
+   "runs": 6,
+   "items_run": 60
   },
   {
    "id": "github_tryon",
@@ -3502,9 +3535,9 @@
    "status": "ok",
    "items": 0,
    "error": "",
-   "elapsed_ms": 1412,
-   "runs": 5,
-   "items_run": 40
+   "elapsed_ms": 1454,
+   "runs": 6,
+   "items_run": 50
   },
   {
    "id": "github_video",
@@ -3512,9 +3545,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 6977,
-   "runs": 5,
-   "items_run": 50
+   "elapsed_ms": 6995,
+   "runs": 6,
+   "items_run": 60
   },
   {
    "id": "glossy",
@@ -3522,9 +3555,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1067,
-   "runs": 5,
-   "items_run": 100
+   "elapsed_ms": 1071,
+   "runs": 6,
+   "items_run": 120
   },
   {
    "id": "hypebeast",
@@ -3532,9 +3565,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1189,
-   "runs": 5,
-   "items_run": 100
+   "elapsed_ms": 6588,
+   "runs": 6,
+   "items_run": 120
   },
   {
    "id": "retaildive",
@@ -3542,9 +3575,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1071,
-   "runs": 5,
-   "items_run": 50
+   "elapsed_ms": 1066,
+   "runs": 6,
+   "items_run": 60
   },
   {
    "id": "wwd",
@@ -3552,30 +3585,30 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1054,
-   "runs": 5,
-   "items_run": 50
+   "elapsed_ms": 1047,
+   "runs": 6,
+   "items_run": 60
   }
  ],
  "stats": {
-  "items": 116,
+  "items": 117,
   "by_topic": {
    "tooling": 23,
    "retail": 16,
    "ai-video": 12,
    "research": 12,
-   "fashion": 10,
+   "fashion": 11,
    "beauty": 6
   },
   "by_kind": {
-   "news": 70,
+   "news": 71,
    "paper": 25,
    "repo": 21
   },
   "rules_version": "1",
-  "duplicates_in_run": 115,
+  "duplicates_in_run": 114,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-28T04:07:06+00:00",
+ "updated_at": "2026-11-28T05:07:05+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
