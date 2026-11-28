@@ -3,6 +3,29 @@
  "date": "2026-11-28",
  "items": [
   {
+   "id": "3a5cf78d05bae53e",
+   "title": "Monica Bellucci Upgrades the LBD in Sparkling Slinky Off-The-Shoulder Fendi Gown at the 23rd Marrakech International Film Festival",
+   "url": "https://wwd.com/pop-culture/celebrity-news/monica-bellucci-fendi-gown-marrakech-film-festival-1239468079",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-28T16:25:57+00:00",
+   "summary": "The film festival is an annual event set in Morocco.",
+   "topics": [],
+   "retrieved_at": "2026-11-28T17:07:05+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-28T17:07:05+00:00"
+    }
+   ]
+  },
+  {
    "id": "2a87401873854d90",
    "title": "Kate Middleton Masters Layering in Oversized Barbour x Alexa Chung Coat & Cozy Cashmere Sweater While Visiting Scotland",
    "url": "https://wwd.com/pop-culture/celebrity-news/kate-middleton-barbour-alexa-chung-cashmere-scotland-1239468073",
@@ -3748,9 +3771,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2117,
-   "runs": 14,
-   "items_run": 130
+   "elapsed_ms": 2411,
+   "runs": 15,
+   "items_run": 140
   },
   {
    "id": "arxiv_video",
@@ -3758,9 +3781,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 3461,
-   "runs": 14,
-   "items_run": 195
+   "elapsed_ms": 3472,
+   "runs": 15,
+   "items_run": 210
   },
   {
    "id": "footwearnews",
@@ -3768,9 +3791,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2196,
-   "runs": 14,
-   "items_run": 140
+   "elapsed_ms": 2213,
+   "runs": 15,
+   "items_run": 150
   },
   {
    "id": "github_tryon",
@@ -3778,9 +3801,9 @@
    "status": "ok",
    "items": 0,
    "error": "",
-   "elapsed_ms": 1510,
-   "runs": 14,
-   "items_run": 130
+   "elapsed_ms": 1440,
+   "runs": 15,
+   "items_run": 140
   },
   {
    "id": "github_video",
@@ -3788,9 +3811,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 6899,
-   "runs": 14,
-   "items_run": 140
+   "elapsed_ms": 6967,
+   "runs": 15,
+   "items_run": 150
   },
   {
    "id": "glossy",
@@ -3798,9 +3821,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1071,
-   "runs": 14,
-   "items_run": 280
+   "elapsed_ms": 1099,
+   "runs": 15,
+   "items_run": 300
   },
   {
    "id": "hypebeast",
@@ -3808,9 +3831,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 2326,
-   "runs": 14,
-   "items_run": 280
+   "elapsed_ms": 4749,
+   "runs": 15,
+   "items_run": 300
   },
   {
    "id": "retaildive",
@@ -3818,9 +3841,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1058,
-   "runs": 14,
-   "items_run": 140
+   "elapsed_ms": 1072,
+   "runs": 15,
+   "items_run": 150
   },
   {
    "id": "wwd",
@@ -3828,13 +3851,13 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1050,
-   "runs": 14,
-   "items_run": 140
+   "elapsed_ms": 1049,
+   "runs": 15,
+   "items_run": 150
   }
  ],
  "stats": {
-  "items": 126,
+  "items": 127,
   "by_topic": {
    "tooling": 25,
    "retail": 16,
@@ -3844,7 +3867,7 @@
    "beauty": 7
   },
   "by_kind": {
-   "news": 79,
+   "news": 80,
    "paper": 25,
    "repo": 22
   },
@@ -3852,6 +3875,6 @@
   "duplicates_in_run": 114,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-28T16:07:05+00:00",
+ "updated_at": "2026-11-28T17:07:05+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
