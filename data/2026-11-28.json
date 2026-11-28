@@ -3,6 +3,58 @@
  "date": "2026-11-28",
  "items": [
   {
+   "id": "4df1971ff8bf3c22",
+   "title": "Macy’s Is Selling a $60 Hermès Gift Set That Includes Four Luxury ‘Objets’ Inside the Iconic Orange Box",
+   "url": "https://wwd.com/shop/shop-beauty/macys-hermes-perfume-fragrance-gift-set-collection-2026-buy-1239298354",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-28T20:05:37+00:00",
+   "summary": "This Hermès Fragrance Miniatures Gift Set arrives just in time for the holidays.",
+   "topics": [
+    {
+     "name": "fashion",
+     "score": 0.5
+    }
+   ],
+   "retrieved_at": "2026-11-28T20:07:10+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-28T20:07:10+00:00"
+    }
+   ],
+   "title_zh": "梅西百货出售一款60美元的爱马仕礼盒，内含四件奢华“物件”，装于标志性橙色盒中"
+  },
+  {
+   "id": "d69cdcaff07ea6c1",
+   "title": "Dyson Black Friday Deals 2026: Save $150 Off Airwrap, Supersonic Hair Dryer and More All Weekend",
+   "url": "https://wwd.com/shop/shop-beauty/best-dyson-black-friday-deals-1234995949",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-28T19:51:28+00:00",
+   "summary": "Spoiler alert: The Airwrap is finally on sale for Black Friday.",
+   "topics": [],
+   "retrieved_at": "2026-11-28T20:07:10+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-28T20:07:10+00:00"
+    }
+   ]
+  },
+  {
    "id": "37ea8ca769ef129b",
    "title": "Winners and losers of Black Friday 2026",
    "url": "https://www.retaildive.com/news/winners-and-losers-black-friday-2026/875821",
@@ -3863,9 +3915,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2220,
-   "runs": 17,
-   "items_run": 160
+   "elapsed_ms": 2455,
+   "runs": 18,
+   "items_run": 170
   },
   {
    "id": "arxiv_video",
@@ -3873,9 +3925,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 4247,
-   "runs": 17,
-   "items_run": 240
+   "elapsed_ms": 3424,
+   "runs": 18,
+   "items_run": 255
   },
   {
    "id": "footwearnews",
@@ -3883,29 +3935,29 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2127,
-   "runs": 17,
-   "items_run": 170
+   "elapsed_ms": 2243,
+   "runs": 18,
+   "items_run": 180
   },
   {
    "id": "github_tryon",
    "kind": "github",
-   "status": "error",
+   "status": "ok",
    "items": 0,
-   "error": "http_403",
-   "elapsed_ms": 1064,
-   "runs": 17,
-   "items_run": 150
+   "error": "",
+   "elapsed_ms": 1426,
+   "runs": 18,
+   "items_run": 160
   },
   {
    "id": "github_video",
    "kind": "github",
-   "status": "error",
+   "status": "ok",
    "items": 10,
-   "error": "http_403",
-   "elapsed_ms": 7006,
-   "runs": 17,
-   "items_run": 160
+   "error": "",
+   "elapsed_ms": 7109,
+   "runs": 18,
+   "items_run": 170
   },
   {
    "id": "glossy",
@@ -3913,9 +3965,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1065,
-   "runs": 17,
-   "items_run": 340
+   "elapsed_ms": 1080,
+   "runs": 18,
+   "items_run": 360
   },
   {
    "id": "hypebeast",
@@ -3923,9 +3975,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1152,
-   "runs": 17,
-   "items_run": 340
+   "elapsed_ms": 3436,
+   "runs": 18,
+   "items_run": 360
   },
   {
    "id": "retaildive",
@@ -3933,9 +3985,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1068,
-   "runs": 17,
-   "items_run": 170
+   "elapsed_ms": 1069,
+   "runs": 18,
+   "items_run": 180
   },
   {
    "id": "wwd",
@@ -3943,30 +3995,30 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1048,
-   "runs": 17,
-   "items_run": 170
+   "elapsed_ms": 1727,
+   "runs": 18,
+   "items_run": 180
   }
  ],
  "stats": {
-  "items": 131,
+  "items": 133,
   "by_topic": {
    "tooling": 25,
    "retail": 16,
-   "fashion": 13,
+   "fashion": 14,
    "ai-video": 12,
    "research": 12,
    "beauty": 7
   },
   "by_kind": {
-   "news": 84,
+   "news": 86,
    "paper": 25,
    "repo": 22
   },
   "rules_version": "1",
-  "duplicates_in_run": 93,
+  "duplicates_in_run": 113,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-28T19:07:05+00:00",
+ "updated_at": "2026-11-28T20:07:10+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
