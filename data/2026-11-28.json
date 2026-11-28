@@ -3,6 +3,62 @@
  "date": "2026-11-28",
  "items": [
   {
+   "id": "a6bb8d501e1e2041",
+   "title": "Cozy Winter Shoe Styling Inspiration From Jennifer Lawrence, Timothée Chalamet and More Celebrities",
+   "url": "https://wwd.com/footwear-news/shoe-trends/cozy-winter-shoe-inspiration-celebrity-style-1239464883",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-28T07:00:00+00:00",
+   "summary": "From Jennifer Lawrence in The Row velvet slippers to Timothée Chalamet in Uggs, find styling inspiration for cozy winter shoes.",
+   "topics": [],
+   "retrieved_at": "2026-11-28T07:07:13+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-28T07:07:13+00:00"
+    }
+   ]
+  },
+  {
+   "id": "719022fd1e817b22",
+   "title": "Jun Takahashi’s UNDERCOVER and Nike Return With a Minimalist GYAKUSOU Capsule",
+   "url": "https://hypebeast.com/2026/11/nike-undercover-gyakusou-collab-release-info",
+   "publisher": "Hypebeast",
+   "kind": "news",
+   "published_at": "2026-11-28T06:00:51+00:00",
+   "summary": "Summary Nike and UNDERCOVER revive GYAKUSOU after a five-year hiatus.Highlights include the Alphafly 4 SP, Vomero Plus SP, and AeroLoft apparel.Drops start December 3 at UNDERCOVER before a December 11 global release. Jun Takahashi’s UNDERCOVER and Nike have officially unveiled…",
+   "topics": [
+    {
+     "name": "fashion",
+     "score": 0.5
+    },
+    {
+     "name": "retail",
+     "score": 0.5
+    }
+   ],
+   "retrieved_at": "2026-11-28T07:07:13+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "hypebeast",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-28T07:07:13+00:00"
+    }
+   ],
+   "title_zh": "Jun Takahashi 的 UNDERCOVER 与 Nike 推出极简主义 GYAKUSOU 胶囊系列"
+  },
+  {
    "id": "577b05e68cac7369",
    "title": "‘The Secret Lives of Mormon Wives’ Beauty Evolution: From Utah Curls to Bouncy Blowouts",
    "url": "https://wwd.com/pop-culture/celebrity-news/the-secret-lives-of-mormon-wives-beauty-evolution-1239405032",
@@ -27,6 +83,34 @@
      "via": "RSS",
      "engine": "",
      "retrieved_at": "2026-11-28T06:07:06+00:00"
+    }
+   ]
+  },
+  {
+   "id": "c89ee8ede4acf539",
+   "title": "Denim Tears Wraps Timberland's 6-Inch Boot and Field Boot in Cotton Wreaths and Denim",
+   "url": "https://hypebeast.com/2026/11/denim-tears-timberland-6-inch-boot-field-boot-tb0a5rnwa5k-tb0a5pkm06i-release-info",
+   "publisher": "Hypebeast",
+   "kind": "news",
+   "published_at": "2026-11-28T04:00:24+00:00",
+   "summary": "Summary Denim Tears and Timberland rework the 6-Inch and Field Boots for winter.The duo pairs embossed cotton wreath black nubuck with dark blue denim.Both boots release December 3 via BSTN for $340 and $400. Name: Denim Tears x Timberland 6-Inch Boot, Denim Tears x Timberland…",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.33
+    }
+   ],
+   "retrieved_at": "2026-11-28T07:07:13+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "hypebeast",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-28T07:07:13+00:00"
     }
    ]
   },
@@ -3566,9 +3650,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 9179,
-   "runs": 7,
-   "items_run": 70
+   "elapsed_ms": 2100,
+   "runs": 8,
+   "items_run": 80
   },
   {
    "id": "arxiv_video",
@@ -3576,9 +3660,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 7606,
-   "runs": 7,
-   "items_run": 105
+   "elapsed_ms": 3475,
+   "runs": 8,
+   "items_run": 120
   },
   {
    "id": "footwearnews",
@@ -3586,9 +3670,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2199,
-   "runs": 7,
-   "items_run": 70
+   "elapsed_ms": 2185,
+   "runs": 8,
+   "items_run": 80
   },
   {
    "id": "github_tryon",
@@ -3596,9 +3680,9 @@
    "status": "ok",
    "items": 0,
    "error": "",
-   "elapsed_ms": 1403,
-   "runs": 7,
-   "items_run": 60
+   "elapsed_ms": 1461,
+   "runs": 8,
+   "items_run": 70
   },
   {
    "id": "github_video",
@@ -3606,9 +3690,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 6988,
-   "runs": 7,
-   "items_run": 70
+   "elapsed_ms": 6982,
+   "runs": 8,
+   "items_run": 80
   },
   {
    "id": "glossy",
@@ -3616,9 +3700,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1091,
-   "runs": 7,
-   "items_run": 140
+   "elapsed_ms": 1062,
+   "runs": 8,
+   "items_run": 160
   },
   {
    "id": "hypebeast",
@@ -3626,9 +3710,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1156,
-   "runs": 7,
-   "items_run": 140
+   "elapsed_ms": 1143,
+   "runs": 8,
+   "items_run": 160
   },
   {
    "id": "retaildive",
@@ -3636,9 +3720,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1076,
-   "runs": 7,
-   "items_run": 70
+   "elapsed_ms": 1070,
+   "runs": 8,
+   "items_run": 80
   },
   {
    "id": "wwd",
@@ -3646,30 +3730,30 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1050,
-   "runs": 7,
-   "items_run": 70
+   "elapsed_ms": 1052,
+   "runs": 8,
+   "items_run": 80
   }
  ],
  "stats": {
-  "items": 119,
+  "items": 122,
   "by_topic": {
-   "tooling": 24,
+   "tooling": 25,
    "retail": 16,
    "ai-video": 12,
+   "fashion": 12,
    "research": 12,
-   "fashion": 11,
    "beauty": 7
   },
   "by_kind": {
-   "news": 72,
+   "news": 75,
    "paper": 25,
    "repo": 22
   },
   "rules_version": "1",
-  "duplicates_in_run": 113,
+  "duplicates_in_run": 112,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-28T06:07:06+00:00",
+ "updated_at": "2026-11-28T07:07:13+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
