@@ -3,6 +3,52 @@
  "date": "2026-11-28",
  "items": [
   {
+   "id": "37ea8ca769ef129b",
+   "title": "Winners and losers of Black Friday 2026",
+   "url": "https://www.retaildive.com/news/winners-and-losers-black-friday-2026/875821",
+   "publisher": "Retail Dive",
+   "kind": "news",
+   "published_at": "2026-11-28T18:26:00+00:00",
+   "summary": "It took some steep discounts and special doorbusters to get people through the door this year, but shoppers made purchases — and had fun.",
+   "topics": [],
+   "retrieved_at": "2026-11-28T19:07:05+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "retaildive",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-28T19:07:05+00:00"
+    }
+   ]
+  },
+  {
+   "id": "6a0c94197cdb2950",
+   "title": "Amy Poehler Hangs with Pal Tina Fey in Adidas Stan Smith Sneakers on ‘Late Night With Seth Meyers’",
+   "url": "https://wwd.com/footwear-news/shoe-trends/amy-poehler-adidas-stan-smith-late-night-with-seth-meyers-1239468106",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-28T18:09:53+00:00",
+   "summary": "The comedy duo sat down for an interview with Seth Meyers, which aired on Nov. 26.",
+   "topics": [],
+   "retrieved_at": "2026-11-28T19:07:05+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-28T19:07:05+00:00"
+    }
+   ]
+  },
+  {
    "id": "24811e271ccf7c2b",
    "title": "Mckenna Grace Wears Wintery White Ensemble While Performing at Macy’s 100th Thanksgiving Day Parade",
    "url": "https://wwd.com/pop-culture/celebrity-news/mckenna-grace-white-ensemble-macys-thanksgiving-day-parade-1239468108",
@@ -3817,9 +3863,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2597,
-   "runs": 16,
-   "items_run": 150
+   "elapsed_ms": 2220,
+   "runs": 17,
+   "items_run": 160
   },
   {
    "id": "arxiv_video",
@@ -3827,9 +3873,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 3341,
-   "runs": 16,
-   "items_run": 225
+   "elapsed_ms": 4247,
+   "runs": 17,
+   "items_run": 240
   },
   {
    "id": "footwearnews",
@@ -3837,28 +3883,28 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2224,
-   "runs": 16,
-   "items_run": 160
+   "elapsed_ms": 2127,
+   "runs": 17,
+   "items_run": 170
   },
   {
    "id": "github_tryon",
    "kind": "github",
-   "status": "ok",
+   "status": "error",
    "items": 0,
-   "error": "",
-   "elapsed_ms": 1472,
-   "runs": 16,
+   "error": "http_403",
+   "elapsed_ms": 1064,
+   "runs": 17,
    "items_run": 150
   },
   {
    "id": "github_video",
    "kind": "github",
-   "status": "ok",
+   "status": "error",
    "items": 10,
-   "error": "",
-   "elapsed_ms": 6995,
-   "runs": 16,
+   "error": "http_403",
+   "elapsed_ms": 7006,
+   "runs": 17,
    "items_run": 160
   },
   {
@@ -3867,9 +3913,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1056,
-   "runs": 16,
-   "items_run": 320
+   "elapsed_ms": 1065,
+   "runs": 17,
+   "items_run": 340
   },
   {
    "id": "hypebeast",
@@ -3877,9 +3923,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1158,
-   "runs": 16,
-   "items_run": 320
+   "elapsed_ms": 1152,
+   "runs": 17,
+   "items_run": 340
   },
   {
    "id": "retaildive",
@@ -3887,9 +3933,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1061,
-   "runs": 16,
-   "items_run": 160
+   "elapsed_ms": 1068,
+   "runs": 17,
+   "items_run": 170
   },
   {
    "id": "wwd",
@@ -3897,13 +3943,13 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1794,
-   "runs": 16,
-   "items_run": 160
+   "elapsed_ms": 1048,
+   "runs": 17,
+   "items_run": 170
   }
  ],
  "stats": {
-  "items": 129,
+  "items": 131,
   "by_topic": {
    "tooling": 25,
    "retail": 16,
@@ -3913,14 +3959,14 @@
    "beauty": 7
   },
   "by_kind": {
-   "news": 82,
+   "news": 84,
    "paper": 25,
    "repo": 22
   },
   "rules_version": "1",
-  "duplicates_in_run": 113,
+  "duplicates_in_run": 93,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-28T18:07:17+00:00",
+ "updated_at": "2026-11-28T19:07:05+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
