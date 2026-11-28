@@ -3,6 +3,34 @@
  "date": "2026-11-28",
  "items": [
   {
+   "id": "577b05e68cac7369",
+   "title": "‘The Secret Lives of Mormon Wives’ Beauty Evolution: From Utah Curls to Bouncy Blowouts",
+   "url": "https://wwd.com/pop-culture/celebrity-news/the-secret-lives-of-mormon-wives-beauty-evolution-1239405032",
+   "publisher": "WWD",
+   "kind": "news",
+   "published_at": "2026-11-28T06:00:00+00:00",
+   "summary": "WWD takes a deeper look at the hair and glam of Hulu's hit reality show.",
+   "topics": [
+    {
+     "name": "beauty",
+     "score": 0.5
+    }
+   ],
+   "retrieved_at": "2026-11-28T06:07:06+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "wwd",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-28T06:07:06+00:00"
+    }
+   ]
+  },
+  {
    "id": "7a82768ee1b36bf0",
    "title": "‘Starboy’ Turns 10, and The Weeknd's Decade Collection Is Built for Collectors",
    "url": "https://hypebeast.com/2026/11/the-weeknd-starboy-decade-collection-announcement-release-info",
@@ -2437,6 +2465,39 @@
    ]
   },
   {
+   "id": "bb403eade4193174",
+   "title": "aliensco/PhysResponse",
+   "url": "https://github.com/aliensco/PhysResponse",
+   "publisher": "aliensco",
+   "kind": "repo",
+   "published_at": "2026-11-25T01:27:07+00:00",
+   "summary": "PhysResponse benchmark code and evaluation tools for physical video generation",
+   "topics": [
+    {
+     "name": "tooling",
+     "score": 0.4
+    }
+   ],
+   "retrieved_at": "2026-11-28T06:07:06+00:00",
+   "collector": "us-west-3",
+   "via": "GitHub API",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "github_video",
+     "collector": "us-west-3",
+     "via": "GitHub API",
+     "engine": "",
+     "retrieved_at": "2026-11-28T06:07:06+00:00"
+    }
+   ],
+   "meta": {
+    "stars": 7,
+    "language": "Python",
+    "topics": []
+   }
+  },
+  {
    "id": "cf06c65301733ee2",
    "title": "ricardochl/virtual-try-on",
    "url": "https://github.com/ricardochl/virtual-try-on",
@@ -3505,9 +3566,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2105,
-   "runs": 6,
-   "items_run": 60
+   "elapsed_ms": 9179,
+   "runs": 7,
+   "items_run": 70
   },
   {
    "id": "arxiv_video",
@@ -3515,9 +3576,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 3537,
-   "runs": 6,
-   "items_run": 90
+   "elapsed_ms": 7606,
+   "runs": 7,
+   "items_run": 105
   },
   {
    "id": "footwearnews",
@@ -3525,9 +3586,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2176,
-   "runs": 6,
-   "items_run": 60
+   "elapsed_ms": 2199,
+   "runs": 7,
+   "items_run": 70
   },
   {
    "id": "github_tryon",
@@ -3535,9 +3596,9 @@
    "status": "ok",
    "items": 0,
    "error": "",
-   "elapsed_ms": 1454,
-   "runs": 6,
-   "items_run": 50
+   "elapsed_ms": 1403,
+   "runs": 7,
+   "items_run": 60
   },
   {
    "id": "github_video",
@@ -3545,9 +3606,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 6995,
-   "runs": 6,
-   "items_run": 60
+   "elapsed_ms": 6988,
+   "runs": 7,
+   "items_run": 70
   },
   {
    "id": "glossy",
@@ -3555,9 +3616,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1071,
-   "runs": 6,
-   "items_run": 120
+   "elapsed_ms": 1091,
+   "runs": 7,
+   "items_run": 140
   },
   {
    "id": "hypebeast",
@@ -3565,9 +3626,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 6588,
-   "runs": 6,
-   "items_run": 120
+   "elapsed_ms": 1156,
+   "runs": 7,
+   "items_run": 140
   },
   {
    "id": "retaildive",
@@ -3575,9 +3636,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1066,
-   "runs": 6,
-   "items_run": 60
+   "elapsed_ms": 1076,
+   "runs": 7,
+   "items_run": 70
   },
   {
    "id": "wwd",
@@ -3585,30 +3646,30 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1047,
-   "runs": 6,
-   "items_run": 60
+   "elapsed_ms": 1050,
+   "runs": 7,
+   "items_run": 70
   }
  ],
  "stats": {
-  "items": 117,
+  "items": 119,
   "by_topic": {
-   "tooling": 23,
+   "tooling": 24,
    "retail": 16,
    "ai-video": 12,
    "research": 12,
    "fashion": 11,
-   "beauty": 6
+   "beauty": 7
   },
   "by_kind": {
-   "news": 71,
+   "news": 72,
    "paper": 25,
-   "repo": 21
+   "repo": 22
   },
   "rules_version": "1",
-  "duplicates_in_run": 114,
+  "duplicates_in_run": 113,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-28T05:07:05+00:00",
+ "updated_at": "2026-11-28T06:07:06+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
