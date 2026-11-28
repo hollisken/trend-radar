@@ -3,6 +3,29 @@
  "date": "2026-11-28",
  "items": [
   {
+   "id": "babbc1bb016322dd",
+   "title": "Apple TV Officially Picks up 'Ted Lasso' for a Fifth Season Following Record-Breaking Revival",
+   "url": "https://hypebeast.com/2026/11/apple-tv-ted-lasso-fifth-season-jason-sudeikis-return-announcement",
+   "publisher": "Hypebeast",
+   "kind": "news",
+   "published_at": "2026-11-28T10:00:24+00:00",
+   "summary": "Summary Apple TV has officially renewed the hit Warner Bros. TV comedy series 'Ted Lasso' for a fifth season with Jason Sudeikis returningThe pickup follows the massive success of Season 4, which pulled in 296.6 million minutes watched to become the biggest launch in Apple TV…",
+   "topics": [],
+   "retrieved_at": "2026-11-28T12:07:22+00:00",
+   "collector": "us-west-3",
+   "via": "RSS",
+   "search_engine": "",
+   "sightings": [
+    {
+     "source_id": "hypebeast",
+     "collector": "us-west-3",
+     "via": "RSS",
+     "engine": "",
+     "retrieved_at": "2026-11-28T12:07:22+00:00"
+    }
+   ]
+  },
+  {
    "id": "a3737ab0397a7db4",
    "title": "EXCLUSIVE: Blumarine and David Koma Part Ways",
    "url": "https://wwd.com/fashion-news/designer-luxury/blumarine-david-koma-creative-director-designer-exit-brand-1239395298",
@@ -3702,9 +3725,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2186,
-   "runs": 10,
-   "items_run": 100
+   "elapsed_ms": 2590,
+   "runs": 11,
+   "items_run": 110
   },
   {
    "id": "arxiv_video",
@@ -3712,9 +3735,9 @@
    "status": "ok",
    "items": 15,
    "error": "",
-   "elapsed_ms": 3398,
-   "runs": 10,
-   "items_run": 150
+   "elapsed_ms": 3665,
+   "runs": 11,
+   "items_run": 165
   },
   {
    "id": "footwearnews",
@@ -3722,9 +3745,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 2207,
-   "runs": 10,
-   "items_run": 100
+   "elapsed_ms": 2220,
+   "runs": 11,
+   "items_run": 110
   },
   {
    "id": "github_tryon",
@@ -3732,9 +3755,9 @@
    "status": "ok",
    "items": 0,
    "error": "",
-   "elapsed_ms": 1418,
-   "runs": 10,
-   "items_run": 90
+   "elapsed_ms": 1464,
+   "runs": 11,
+   "items_run": 100
   },
   {
    "id": "github_video",
@@ -3742,9 +3765,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 7068,
-   "runs": 10,
-   "items_run": 100
+   "elapsed_ms": 7038,
+   "runs": 11,
+   "items_run": 110
   },
   {
    "id": "glossy",
@@ -3752,9 +3775,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1074,
-   "runs": 10,
-   "items_run": 200
+   "elapsed_ms": 1075,
+   "runs": 11,
+   "items_run": 220
   },
   {
    "id": "hypebeast",
@@ -3762,9 +3785,9 @@
    "status": "ok",
    "items": 20,
    "error": "",
-   "elapsed_ms": 1280,
-   "runs": 10,
-   "items_run": 200
+   "elapsed_ms": 1172,
+   "runs": 11,
+   "items_run": 220
   },
   {
    "id": "retaildive",
@@ -3772,9 +3795,9 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1075,
-   "runs": 10,
-   "items_run": 100
+   "elapsed_ms": 1072,
+   "runs": 11,
+   "items_run": 110
   },
   {
    "id": "wwd",
@@ -3782,13 +3805,13 @@
    "status": "ok",
    "items": 10,
    "error": "",
-   "elapsed_ms": 1047,
-   "runs": 10,
-   "items_run": 100
+   "elapsed_ms": 1042,
+   "runs": 11,
+   "items_run": 110
   }
  ],
  "stats": {
-  "items": 124,
+  "items": 125,
   "by_topic": {
    "tooling": 25,
    "retail": 16,
@@ -3798,7 +3821,7 @@
    "beauty": 7
   },
   "by_kind": {
-   "news": 77,
+   "news": 78,
    "paper": 25,
    "repo": 22
   },
@@ -3806,6 +3829,6 @@
   "duplicates_in_run": 114,
   "title_duplicates": 0
  },
- "updated_at": "2026-11-28T10:07:14+00:00",
+ "updated_at": "2026-11-28T12:07:22+00:00",
  "terms_note": "Metadata only: titles, links, dates, publisher summaries, abstracts and repository descriptions. No article bodies, images or paywalled text. See POLICY.md."
 }
